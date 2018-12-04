@@ -1,0 +1,60 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+- title: Learn Online
+  url: /left-nav-four/sub-page-C/
+  sub-links:
+  - title: Introduction to Desktop
+    url: /left-nav-four/intro-to-desktop/
+  - title: Government Digital Services
+    url: /left-nav-four/government-digital-services/
+  - title: Introduction to Mobile
+    url: /left-nav-four/intro-to-mobile/
+  - title: E-Communications
+    url: /left-nav-four/ecommunications/
+  - title: Cyber Security
+    url: /left-nav-four/cyber-security/
+  - title: Chinese Content
+    url: /left-nav-four/Chinese-content/
+  - title: Related Links
+    url: /left-nav-four/Related-Links/
+  - title: Digital Maker
+    url: /left-nav-four/digital-maker/
+
+- title: BDS Quiz
+  url: /bds-quiz/
+- title: Classes & Programmes
+  url: /left-nav-one/classes-and-Programmes/
+  sub-links:
+  - title: Silver Digital Creators
+    url: /left-nav-one/silver-digital-creators/
+  - title: Silver Infocomm Junctions
+    url: /left-nav-one/silver-infocomm-junctions/
+  - title: PA Senior Academy
+    url: /left-nav-one/pa-senior-academy/
+
+- title: Silver IT Fest
+  url: /left-nav-two/it-silver-fest/
+  sub-links:
+  - title: Roadshows
+    url: /left-nav-two/roadshows/
+  - title: IT classes
+    url: /left-nav-two/it-classes/
+
+- title: Volunteer
+  url: /left-nav-three/volunteer/
+  sub-links:
+  - title: SG:D Friends
+    url: /left-nav-three/sgd-friends/
+  - title: SIWAs
+    url: /left-nav-three/siwas/
+
+- title: Whats New
+  url: /resource-room/
+  sub-links:
+  - title: Events
+    url: /resource-room/events/
+  - title: News
+    url: /resource-room/news/

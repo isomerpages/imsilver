@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon.ico
+
+# Agency logo
+agency-logo: /images/im-silver.png
+
+# Hero Banner
+hero-title: Welcome to your digital learning journey!
+hero-subtitle: Explore online tools to you pursue your interests, pick up new skills so you can stay connected in a Smart Nation
+hero-banner: /images/jumbo-banner.jpg
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+
+key-highlights:
+  - title: Classes & Programmes
+    description: Find senior-friendly learning hubs where you can start your digital learning journey
+    url: https://google.com
+    external: true
+  - title: BDS Quiz
+    description: Find out what skills to pick up
+    url: https://yahoo.com
+    external: true
+  - title: Volunteer
+    description: Do you have a passion to help seniors learn IT? Join us!
+    url: /page-A/
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resource-room/
