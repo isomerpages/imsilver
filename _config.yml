@@ -48,4 +48,6 @@ collections:
     output: true
   left-nav-four:
     output: true
+  digital-clinics:
+    output: true
 resources_name: resource-room
