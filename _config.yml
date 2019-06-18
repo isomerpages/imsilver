@@ -50,4 +50,5 @@ collections:
     output: true
   digital-clinics:
     output: true
+    
 resources_name: resource-room
