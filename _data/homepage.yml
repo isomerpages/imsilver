@@ -11,9 +11,9 @@ favicon: /images/SGD-logo.png
 agency-logo: /images/sii-logo.png
 
 # Hero Banner
-hero-title: Welcome to your digital learning journey!
-hero-subtitle: Explore online tools to you pursue your interests, pick up new skills so you can stay connected in a Smart Nation
-hero-banner: /images/jumbo-banner.jpg
+hero-title: Welcome to IMSilver
+hero-subtitle: We help seniors and mature adults start and continue their digital learning
+hero-banner: /images/home-page/sii-hero-banner.jpg
 
 #Call to Action Button
 button:
