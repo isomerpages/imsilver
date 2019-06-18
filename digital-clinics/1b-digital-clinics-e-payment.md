@@ -17,6 +17,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 .tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
 .tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
 .tg .tg-0qe0{background-color:#ecf4ff;text-align:left;vertical-align:top}
+
+.content table td, .content table th{
+  border:1px solid;
+}
+
+.content table tbody tr:last-child td, .content table tbody tr:last-child th{
+  border-bottom-width:thin;
+}
 </style>
 <table class="tg">
   <tr>
