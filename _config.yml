@@ -40,15 +40,13 @@ custom_print_css_path: "/assets/css/print.css"
 
 
 collections:
-  left-nav-one:
+  get-involved:
     output: true
-  left-nav-two:
+  get-one-on-one-assistance:
     output: true
-  left-nav-three:
+  learn-digital-skills:
     output: true
-  left-nav-four:
-    output: true
-  digital-clinics:
+  test-my-digital-skills:
     output: true
     
-resources_name: resource-room
+resources_name: be-informed
