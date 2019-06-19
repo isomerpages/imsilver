@@ -7,18 +7,12 @@ collection_name: learn-digital-skills
 second_nav_title: Attend Classes
 ---
 
-1. Mobile Devices
-    * Introduction to Smartphones [(Click Here)](http://www.gcflearnfree.org/typing)
-    * Introduction to Tablet [(Click Here)](http://www.gcflearnfree.org/typing)
-2. Operating System
-    * Android Basics
-        * Introduction to Android [(Click Here)](http://www.gcflearnfree.org/typing)
-        * Android Mobile Security - What You Need to Know about Malicious Apps [(Click Here)](http://www.gcflearnfree.org/typing)
-    * iOS Basics
-        * Getting Started with iPad [(Click Here)](http://www.gcflearnfree.org/typing)
-        * iPad Basics [(Click Here)](http://www.gcflearnfree.org/typing)
-    * Windows Basics
-        * Introduction to Windows 10 Mobile
-        * Personalise Start Screen (Click Here)
-        * Pin Apps to Start Screen (Click Here)
-        * Using Microsoft Surface (Click Here)
+![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
+
+IMDA has partnered with the People’s Association (PA) to offer a series of IT courses in their Senior Academies as an extension of your learning options. These learning hubs are located island-wide, and offer affordable and customised classes suitable for novice learners (available in both English and Mandarin)
+
+If you are a senior who wants to pursue lifelong learning and lead and active lifestyle, this option is for you!
+
+List of Senior Academies
+
+> table here
