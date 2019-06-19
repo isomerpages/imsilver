@@ -5,17 +5,22 @@ permalink: /get-one-on-one-assistance/digital-clinics/
 breadcrumb: Digital Clinics
 collection_name: get-one-on-one-assistance
 ---
+> graphic
 
-The Silver Digital Creators (SDC) suite of courses target seniors who have embraced technology and are ready to bring their digital creative skills to the next level. Five courses to bolster the seniors’ creativity skills will be offered. Participants have an option to choose any combination of courses. Those who complete all five courses will receive an Apple Regional Training Centre certificate of recognition. The 5 courses to be offered in the areas of:
+<br>Do you face problems with your smartphone but have no one to turn to? Visit the Digital Clinic and the volunteers will be on hand to help you with your smartphone problems!<br>
 
-1. **Digital Photography** – Seniors will be taught techniques that can transform their photographs into powerful images through their mobile devices.
+#### Digital Clinics (e-Payment)<br>
 
-2. **Movie Making** – Participants will learn how to create a simple movie based on their latest holiday adventures or excursions.
+Have you always wondered how payments are made via mobile phones and what convenience e-payments can bring? Join us as we take you on a hands-on journey to learn how to use e-payments in your daily activities! *Click here* to find out more!<br>
 
-3. **Digital Music and Art** – Seniors can experience how music can be easily created with technology, such as designing their own ringtone from their favourite songs.
+#### Digital Clinics @ Merdeka Generation Roadshows<br>
 
-4. **Coding** – Participants can learn how to code a simple app which can be shared with their friends and family.
+Join us at our Digital Clinics at the Merdeka Generation Roadshows held island-wide. Our friendly volunteers will provided one-on-one assistance to help make your smartphone work better for you! *Click here* to find out more.<br>
 
-5. **Book Authoring** – Seniors will pick up useful tips on authoring their own book and how to publish their story to the world.
+#### Merdeka Clinics
 
-The courses will be offered at an introductory rate of $38 per course and seniors can utilise their SkillsFuture Credits for the course fee. Each course is 6 hours long and will be conducted across 2 half days. Click here to check the schedule and sign up for the courses.
+> waiting for more info
+
+
+
+
