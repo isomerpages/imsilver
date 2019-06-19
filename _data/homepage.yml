@@ -15,23 +15,18 @@ hero-title: Welcome to IMSilver
 hero-subtitle: We help seniors and mature adults start and continue their digital learning
 hero-banner: /images/home-page/sii-hero-banner.jpg
 
-#Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
-
-key-highlights:
-  - title: Classes & Programmes
-    description: Find senior-friendly learning hubs where you can start your digital learning journey
-    url: https://google.com
-    external: true
-  - title: BDS Quiz
-    description: Find out what skills to pick up
-    url: https://yahoo.com
-    external: true
-  - title: Volunteer
-    description: Do you have a passion to help seniors learn IT? Join us!
-    url: /page-A/
+# I want to dropdown
+i-want-to:
+  - title: apply hotel licence
+    url: /application-guidelines/application-for-licence/
+  - title: apply for exemption
+    url: /application-guidelines/application_for_exemption/
+  - title: cancel hotel licence
+    url: /application-guidelines/cancellation-of-licence/
+  - title: change hotel-keeper
+    url: /application-guidelines/change-of-hotel-keeper/
+  - title: change hotel name
+    url: /application-guidelines/change-of-hotel-name/
 
 resources-title: Resources
 resources-subtitle: Be in the know
