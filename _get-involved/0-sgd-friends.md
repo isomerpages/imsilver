@@ -6,22 +6,15 @@ breadcrumb: "SG:D Friends"
 collection_name: get-involved
 ---
 
-#### Explore interesting technologies in lifestyle, communications and entertainment
+> photo of volunteers
 
-The Silver IT Fest Plus Roadshow is a carnival of tech learning with exhibition, interactive hands-on tutorials and fun activities to encourage seniors to be digitally ready to enjoy the benefits of using technology in their daily lives.
+The SG:D Friends programme offers opportunities for public and private organisations to reach out to all segments of the community, including mature adults and seniors, students, low-income families and people with disabilities. In addition to supporting digital readiness (“DR”) activities through volunteering, partners will also be able to take on a larger role in multiplying the DR outreach efforts.<br>
 
-Date:	17 to 19 Aug, Friday- Sunday
-Time:	11am - 7pm
-Venue:	Toa Payoh HDB Hub Atrium
+#### How to Join<br>
 
-**Tutorials @ Learning Island**
-
-Learn about useful mobile apps on lifestyle, communications, entertainment and transport in 45-minute tutorials.
-
-At the upcoming Roadshow at Toa Payoh HDB Hub Atrium, seniors can walk-in to attend a free hourly Tutorials@Learning Island (Limited seats. first-come, first-served) to learn useful mobile apps on lifestyle, communications, entertainment and transport, with the help of our SG:D Friends. Seniors are recommended to download the relevant mobile apps before arriving or to arrive about 30 minutes before the start of your preferred slot to get assistance with the downloading of the mobile apps.
-
-![Learning Island agenda](/images/learningislandfinal.jpg)
-
-Seniors visiting the roadshow can also sign up at $5 per person for the upcoming e-Payment Learning Journey which will be held on 20 Sep (Thursday) at Woodlands Regional Library. Please note that the e-Payment Learning Journey is only open to seniors 50 years and above, Singaporean/PR and are first time users of mobile payments. Click here to find out more about [e-Payment Learning Journey](http://github.com).
-
-For enquiries on the Silver IT Fest Roadshow please call the IMDA hotline at 6377 3800.
+Corporates may join as a Corporate SG:D Friend by supporting any of the following:<br>
+* Provide volunteers at Digital Readiness events;<br>
+* Adopt and run a Digital Readiness programme;<br>
+* Upskill the community through Basic Digital Skills training; and<br>
+* Promote messages on Digital Readiness.<br>
+Corporations that are keen to register can [click here](https://www.ifaq.gov.sg/SGD_Friends/apps/SGD_FriendsRegistration.aspx) to register with us. Alternatively you can email us at <info@imda.gov.sg> or call 6377 3800.
