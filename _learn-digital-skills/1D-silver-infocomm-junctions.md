@@ -71,7 +71,7 @@ List of SIJs
     <td class="tg-0lax">67785163</td>
   </tr>
   <tr>
-    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
+    <td class="tg-kftd"><a href="www.rsvp.org.sg" target="_blank">RSVP Singapore – The Organisation of Senior Volunteers</a></td>
     <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #08-02, Singapore 579837</td>
     <td class="tg-kftd">62590802</td>
   </tr>
@@ -79,61 +79,6 @@ List of SIJs
     <td class="tg-0lax">Woodlands Regional Library</td>
     <td class="tg-0lax">900 South Woodlands DriveWoodlands Civic Centre, #01-03, Singapore 730900</td>
     <td class="tg-0lax">63323255</td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">Gek Poh Ville Community Club</td>
-    <td class="tg-kftd">1 Jurong West Street 74, Singapore 649149</td>
-    <td class="tg-kftd">6792 0095</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Kampong Ubi Community Centre</td>
-    <td class="tg-0lax">10 Jalan Ubi, Singapore 409075</td>
-    <td class="tg-0lax">6745 9919</td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">MacPherson Community Club</td>
-    <td class="tg-kftd">400 Paya Lebar Way, Singapore 379131</td>
-    <td class="tg-kftd">6841 1085</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Nee Soon South Community Club</td>
-    <td class="tg-0lax">30 Yishun Street 81, Singapore 768455</td>
-    <td class="tg-0lax">6753 3121</td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">Pasir Ris East Community Club</td>
-    <td class="tg-kftd">1 Pasir Ris Drive 4 #01-08, Singapore 519457</td>
-    <td class="tg-kftd">6584 2798</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Potong Pasir Community Club</td>
-    <td class="tg-0lax">6 Potong Pasir Avenue 2, Singapore 358361</td>
-    <td class="tg-0lax">6280 1182</td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">Sembawang Community Club</td>
-    <td class="tg-kftd">2125 Sembawang Road, Singapore 758528</td>
-    <td class="tg-kftd">6758 4183</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Sengkang Community Club</td>
-    <td class="tg-0lax">2 Sengkang Square #01-01, Singapore 545025</td>
-    <td class="tg-0lax">6312 5400</td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">Tampines Changkat Community Club</td>
-    <td class="tg-kftd">13 Tampines Street 11, Singapore 529453</td>
-    <td class="tg-kftd">6781 1806</td>
-  </tr>
-  <tr>
-    <td class="tg-c6of">Tanjong Pagar Community Club</td>
-    <td class="tg-c6of">101 Cantonment Road, Singapore 089774</td>
-    <td class="tg-c6of">6221 9898</td>
-  </tr>
-  <tr>
-    <td class="tg-y698">Teck Ghee Community Club</td>
-    <td class="tg-y698">861 Ang Mo Kio Avenue 10, Singapore 569734</td>
-    <td class="tg-y698">6456 7123</td>
   </tr>
 </table>
 
