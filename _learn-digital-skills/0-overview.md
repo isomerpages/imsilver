@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Silver Infocomm Junctions
+title: Learn Digital Skills
 permalink: /learn-digital-skills/overview/
-breadcrumb: Silver Infocomm Junctions
+breadcrumb: Learn Digital Skills
 collection_name: learn-digital-skills
 ---
 ![overview](/images/learn-digital-skills/learn-digital-skills-overview.jpeg)
