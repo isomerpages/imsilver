@@ -26,4 +26,19 @@ Enjoy the great convenience provided by Government Digital Services such as Sing
 
 **Cybersecurity**<br>
 
-Get tips on cybersecurity and learn how to stay safe while you are online. Learn how to discern fake news to protect yourself and your loved ones. [Click here](/learn-digital-skills/learn-online/cyber-security-bds/)
+Get tips on cybersecurity and learn how to stay safe while you are online. Learn how to discern fake news to protect yourself and your loved ones. [Click here](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
+
+**Sign Up for Basic Digital Skills Training**<br>
+
+If you would like to learn more, join us at a one-day Basic Digital Skills course. Conducted at selected Silver Infocomm Junctions, you will learn how to use mobile devices in your daily activities! For more information, [click here](https://rsvp.org.sg/cyberguide/)<br>
+
+#### Basic Digital Skills Quiz
+
+To be digitally ready, you will need the basic digital skills to tap into the benefits digital technology offers.<br>
+
+So, how digitally ready are you? Try our Basic Digital Skills Quiz to find out!<br>
+
+   #### Play the quiz now!
+   
+![bds-couple](/images/bds/bds-couple.jpg)
+
