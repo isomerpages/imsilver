@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Related Links
-permalink: /learn-digital-skills/learn-online/related-links/
-breadcrumb: Related Links
+title: Overview
+permalink: /learn-digital-skills/learn-online/overview/
+breadcrumb: Overview
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
