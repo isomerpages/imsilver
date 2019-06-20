@@ -82,4 +82,4 @@ List of SIJs
   </tr>
 </table>
 
-To view the courses available at each SIJ, please *download the list of IT courses* offered by each SIJ
+To view the courses available at each SIJ, please download the [list of IT courses offered by each SIJ](/files/SIJ-Course-Schedule.pdf)
