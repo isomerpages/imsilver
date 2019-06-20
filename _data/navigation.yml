@@ -36,8 +36,6 @@
 - title: Be Informed
   url: /be-informed/
   sub-links:
-      - title: All
-        url: /be-informed/
       - title: Articles
         url: /be-informed/articles/
       - title: Event Coverage
