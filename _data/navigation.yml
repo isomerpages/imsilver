@@ -6,14 +6,14 @@
 - title: About
   url: /about/
 - title: Learn Digital Skills
-  url: /learn-digital-skills/attend-classes/silver-infocomm-junctions/
+  url: /learn-digital-skills/overview/
   sub-links:
       - title: Attend Events
         url: /be-informed/events/
       - title: Attend Classes
         url: /learn-digital-skills/attend-classes/silver-infocomm-junctions/
       - title: Learn Online
-        url: /learn-digital-skills/learn-online/introduction-to-desktop/
+        url: /learn-digital-skills/learn-online/overview/
 
 - title: Get One-on-One Assistance
   url: /get-one-on-one-assistance/digital-clinics/
