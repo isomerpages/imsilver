@@ -2,7 +2,7 @@
 layout: simple-page
 title: Basic Digital Skills
 permalink: /test-my-digital-skills/basic-digital-skills
-breadcrumb: Basic Digital Skills Quiz
+breadcrumb: Basic Digital Skills
 ---
 > infographic
 
@@ -38,7 +38,7 @@ Get tips on cybersecurity and learn how to stay safe while you are online. Learn
 
 **Sign Up for Basic Digital Skills Training**<br>
 
-If you would like to learn more, join us at a one-day Basic Digital Skills course. Conducted at selected Silver Infocomm Junctions, you will learn how to use mobile devices in your daily activities! For more information, [click here](https://rsvp.org.sg/cyberguide/)<br>
+If you would like to learn more, join us at a one-day Basic Digital Skills course. Conducted at selected Silver Infocomm Junctions, you will learn how to use mobile devices in your daily activities! For more information, [click here](https://rsvp.org.sg/cyberguide/){:target="_blank"}<br>
 
 # Basic Digital Skills Quiz<br>
 
