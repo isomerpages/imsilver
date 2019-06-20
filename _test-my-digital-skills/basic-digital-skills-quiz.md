@@ -6,9 +6,9 @@ breadcrumb: Basic Digital Skills Quiz
 ---
 > infographic
 
-Technologies can empower us to do more, enjoy greater convenience and connect better with our family and friends! It is important that we are digitally ready to tap on the opportunities provided by technology in our daily lives.<br>
+Technologies can empower us to do more, enjoy greater convenience and connect better with our family and friends! <br>It is important that we are digitally ready to tap on the opportunities provided by technology in our daily lives.<br>
 
-#### Are You Digitally Ready?<br>
+#### **Are You Digitally Ready?**<br>
 
 Our Basic Digital Skills Curriculum has been designed to prepare citizens - especially seniors - for the new digital world. It includes the following 4 areas:<br>
 
