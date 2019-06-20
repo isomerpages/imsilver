@@ -21,14 +21,12 @@ Click below to view online guides that will familiarise you with the basic compo
  <summary><h3>2. Operating System</h3></summary>
  
  <h5>Windows 10</h5><br>
- 
    1. Start Menu - <a href="https://support.microsoft.com/en-sg/help/17195/windows-10-see-whats-on-the-menu" target="_blank">Link</a><br>
    2. Find All Your Apps and Programs - <a href="https://support.microsoft.com/en-sg/help/17161/windows-10-find-all-your-apps-and-programs" target="_blank">Link</a><br>
    3. Personalise Lock Screen - <a href="https://support.microsoft.com/en-sg/help/17185/windows-10-lock-screen" target="_blank">Link</a><br>
   
 <h5>Windows 7</h5><br>
-
-  1. Using Windows 7 - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Link</a><br>
+   1. Using Windows 7 - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Link</a><br>
  
  </details>
   
