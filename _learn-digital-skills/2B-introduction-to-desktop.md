@@ -9,7 +9,8 @@ second_nav_title: Learn Online
 Click below to view online guides that will familiarise you with the basic components and capabilities of a desktop computer.
 
 <details>
- <summary><h1>Basic Parts of a Computer</h1></summary>
+ <summary><h3>Basic Parts of a Computer</h3></summary>
+ 
  * Introduction to Computer - [Link](https://www.digitallearn.org/courses/getting-started-on-a-computer){:target="_blank"}<br>
  * Using Mouse - [Link](http://www.gcflearnfree.org/mousetutorial){:target="_blank"}<br>
  * Using Keyboard - [Link](https://edu.gcfglobal.org/en/typing/){:target="_blank"}<br>
