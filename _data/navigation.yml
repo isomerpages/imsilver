@@ -28,10 +28,10 @@
         url: /get-one-on-one-assistance/merdeka-clinics/
 
 - title: Test My Digital Skills
-  url: /test-my-digital-skills/what-are-basic-digital-skills/basic-digital-skills-quiz/
+  url: /test-my-digital-skills/basic-digital-skills
   sub-links:
       - title: What Are Basic Digital Skills?
-        url: /test-my-digital-skills/what-are-basic-digital-skills/basic-digital-skills-quiz/
+        url: /test-my-digital-skills/basic-digital-skills
 
 - title: Be Informed
   url: /be-informed/
