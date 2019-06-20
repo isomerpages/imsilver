@@ -57,7 +57,7 @@ List of Senior Academies
   <tr>
     <td class="tg-kftd">Boon Lay Community Club</td>
     <td class="tg-kftd">10 Boon Lay Place, Singapore 649882</td>
-    <td class="tg-kftd">6261 9947</td>
+    <td class="tg-kftd">62619947</td>
   </tr>
   <tr>
     <td class="tg-0lax">Bukit Batok Community Club</td>
@@ -67,7 +67,7 @@ List of Senior Academies
   <tr>
     <td class="tg-kftd">Bukit Panjang Community Club</td>
     <td class="tg-kftd">6 Pending Road, Singapore 678295</td>
-    <td class="tg-kftd">6506 0900</td>
+    <td class="tg-kftd">65060900</td>
   </tr>
   <tr>
     <td class="tg-0lax">Buona Vista Community Club</td>
@@ -92,7 +92,7 @@ List of Senior Academies
   <tr>
     <td class="tg-0lax">Kampong Ubi Community Centre</td>
     <td class="tg-0lax">10 Jalan Ubi, Singapore 409075</td>
-    <td class="tg-0lax">6745 9919</td>
+    <td class="tg-0lax">67459919</td>
   </tr>
   <tr>
     <td class="tg-kftd">MacPherson Community Club</td>
@@ -117,7 +117,7 @@ List of Senior Academies
   <tr>
     <td class="tg-kftd">Sembawang Community Club</td>
     <td class="tg-kftd">2125 Sembawang Road, Singapore 758528</td>
-    <td class="tg-kftd">6758 4183</td>
+    <td class="tg-kftd">67584183</td>
   </tr>
   <tr>
     <td class="tg-0lax">Sengkang Community Club</td>
@@ -127,7 +127,7 @@ List of Senior Academies
   <tr>
     <td class="tg-kftd">Tampines Changkat Community Club</td>
     <td class="tg-kftd">13 Tampines Street 11, Singapore 529453</td>
-    <td class="tg-kftd">6781 1806</td>
+    <td class="tg-kftd">67811806</td>
   </tr>
   <tr>
     <td class="tg-c6of">Tanjong Pagar Community Club</td>
