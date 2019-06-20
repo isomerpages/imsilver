@@ -15,7 +15,6 @@ If you are a senior who wants to pursue lifelong learning and lead and active li
 
 List of Senior Academies
 
-> table here
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
