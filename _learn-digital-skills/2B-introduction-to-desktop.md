@@ -12,7 +12,7 @@ Click below to view online guides that will familiarise you with the basic compo
  <summary><h3>1. Basic Parts of a Computer</h3></summary>
  
  * Introduction to Computer - <a href="https://www.digitallearn.org/courses/getting-started-on-a-computer" target="_blank">Link</a><br>
- * Using Mouse - < a href="http://www.gcflearnfree.org/mousetutorial" target="_blank">Link</a><br>
+ * Using Mouse - <a href="http://www.gcflearnfree.org/mousetutorial" target="_blank">Link</a><br>
  * Using Keyboard - <a href="https://edu.gcfglobal.org/en/typing/" target="_blank">Link</a><br>
  
  </details>
