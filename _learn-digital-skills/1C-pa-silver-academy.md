@@ -43,17 +43,17 @@ List of Senior Academies
   <tr>
     <td class="tg-0lax">Alijunied Community Centre</td>
     <td class="tg-0lax">Blk 110 Hougang Avenue 1, #01-1048, Singapore 530110</td>
-    <td class="tg-0lax">6288 5578</td>
+    <td class="tg-0lax">62885578</td>
   </tr>
   <tr>
     <td class="tg-kftd">Bedok Community Centre</td>
     <td class="tg-kftd">850 New Upper Changi Road, Singapore 467352</td>
-    <td class="tg-kftd">6449 6323</td>
+    <td class="tg-kftd">64496323</td>
   </tr>
   <tr>
     <td class="tg-0lax">Bishan Community Club</td>
     <td class="tg-0lax">51 Bishan Street 13, Singapore 579799</td>
-    <td class="tg-0lax">6259 4720</td>
+    <td class="tg-0lax">62594720</td>
   </tr>
   <tr>
     <td class="tg-kftd">Boon Lay Community Club</td>
@@ -63,7 +63,7 @@ List of Senior Academies
   <tr>
     <td class="tg-0lax">Bukit Batok Community Club</td>
     <td class="tg-0lax">21 Bukit Batok Central, Singapore 659959</td>
-    <td class="tg-0lax">6564 7061</td>
+    <td class="tg-0lax">65647061</td>
   </tr>
   <tr>
     <td class="tg-kftd">Bukit Panjang Community Club</td>
@@ -73,22 +73,22 @@ List of Senior Academies
   <tr>
     <td class="tg-0lax">Buona Vista Community Club</td>
     <td class="tg-0lax">Blk 36 Holland Drive #01-01, Singapore 270036</td>
-    <td class="tg-0lax">6778 5163</td>
+    <td class="tg-0lax">67785163</td>
   </tr>
   <tr>
     <td class="tg-kftd">Clementi Community Centre</td>
     <td class="tg-kftd">220 Clementi Avenue 4, Singapore 129880</td>
-    <td class="tg-kftd">6776 2517</td>
+    <td class="tg-kftd">67762517</td>
   </tr>
   <tr>
     <td class="tg-0lax">Fuchun Community Club</td>
     <td class="tg-0lax">1 Woodlands Street 31 #01-02, Singapore 730824</td>
-    <td class="tg-0lax">6365 6911</td>
+    <td class="tg-0lax">63656911</td>
   </tr>
   <tr>
     <td class="tg-kftd">Gek Poh Ville Community Club</td>
     <td class="tg-kftd">1 Jurong West Street 74, Singapore 649149</td>
-    <td class="tg-kftd">6792 0095</td>
+    <td class="tg-kftd">67920095</td>
   </tr>
   <tr>
     <td class="tg-0lax">Kampong Ubi Community Centre</td>
@@ -98,22 +98,22 @@ List of Senior Academies
   <tr>
     <td class="tg-kftd">MacPherson Community Club</td>
     <td class="tg-kftd">400 Paya Lebar Way, Singapore 379131</td>
-    <td class="tg-kftd">6841 1085</td>
+    <td class="tg-kftd">68411085</td>
   </tr>
   <tr>
     <td class="tg-0lax">Nee Soon South Community Club</td>
     <td class="tg-0lax">30 Yishun Street 81, Singapore 768455</td>
-    <td class="tg-0lax">6753 3121</td>
+    <td class="tg-0lax">67533121</td>
   </tr>
   <tr>
     <td class="tg-kftd">Pasir Ris East Community Club</td>
     <td class="tg-kftd">1 Pasir Ris Drive 4 #01-08, Singapore 519457</td>
-    <td class="tg-kftd">6584 2798</td>
+    <td class="tg-kftd">65842798</td>
   </tr>
   <tr>
     <td class="tg-0lax">Potong Pasir Community Club</td>
     <td class="tg-0lax">6 Potong Pasir Avenue 2, Singapore 358361</td>
-    <td class="tg-0lax">6280 1182</td>
+    <td class="tg-0lax">62801182</td>
   </tr>
   <tr>
     <td class="tg-kftd">Sembawang Community Club</td>
@@ -123,7 +123,7 @@ List of Senior Academies
   <tr>
     <td class="tg-0lax">Sengkang Community Club</td>
     <td class="tg-0lax">2 Sengkang Square #01-01, Singapore 545025</td>
-    <td class="tg-0lax">6312 5400</td>
+    <td class="tg-0lax">63125400</td>
   </tr>
   <tr>
     <td class="tg-kftd">Tampines Changkat Community Club</td>
@@ -133,11 +133,11 @@ List of Senior Academies
   <tr>
     <td class="tg-c6of">Tanjong Pagar Community Club</td>
     <td class="tg-c6of">101 Cantonment Road, Singapore 089774</td>
-    <td class="tg-c6of">6221 9898</td>
+    <td class="tg-c6of">62219898</td>
   </tr>
   <tr>
     <td class="tg-y698">Teck Ghee Community Club</td>
     <td class="tg-y698">861 Ang Mo Kio Avenue 10, Singapore 569734</td>
-    <td class="tg-y698">6456 7123</td>
+    <td class="tg-y698">64567123</td>
   </tr>
 </table>
