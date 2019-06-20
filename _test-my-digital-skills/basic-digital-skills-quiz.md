@@ -40,7 +40,7 @@ Get tips on cybersecurity and learn how to stay safe while you are online. Learn
 
 If you would like to learn more, join us at a one-day Basic Digital Skills course. Conducted at selected Silver Infocomm Junctions, you will learn how to use mobile devices in your daily activities! For more information, [click here](https://rsvp.org.sg/cyberguide/)<br>
 
-<p style="text-align: center;">### **Basic Digital Skills Quiz**</p>
+<p style="text-align: center;"><h1>Basic Digital Skills Quiz</h1></p>
 
 To be digitally ready, you will need the basic digital skills to tap into the benefits digital technology offers.<br>
 
