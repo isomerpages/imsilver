@@ -13,7 +13,7 @@ IMDA has partnered with the People’s Association (PA) to offer a series of IT 
 
 If you are a senior who wants to pursue lifelong learning and lead and active lifestyle, this option is for you!
 
-List of Senior Academies
+**List of Senior Academies**
 
 
 <style type="text/css">
