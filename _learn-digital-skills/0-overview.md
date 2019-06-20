@@ -23,7 +23,7 @@ Be inspired and explore how digital technologies can make your lives more conven
 
 #### Attend Classes<br>
 
-Take your first step, or take your learning journey to the next level by attending these classes. [Click here](/attend-classes/overview/)<br>
+Take your first step, or take your learning journey to the next level by attending these classes. [Click here](/learn-digital-skills/attend-classes/overview/)<br>
 
 #### Learn Online<br>
 
