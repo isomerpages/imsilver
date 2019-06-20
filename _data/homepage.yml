@@ -17,16 +17,18 @@ hero-banner: /images/home-page/sii-hero-banner.jpg
 
 # I want to dropdown
 i-want-to:
-  - title: apply hotel licence
-    url: /application-guidelines/application-for-licence/
-  - title: apply for exemption
-    url: /application-guidelines/application_for_exemption/
-  - title: cancel hotel licence
-    url: /application-guidelines/cancellation-of-licence/
-  - title: change hotel-keeper
-    url: /application-guidelines/change-of-hotel-keeper/
-  - title: change hotel name
-    url: /application-guidelines/change-of-hotel-name/
+  - title: get one-on-one assistance
+    url: /get-one-on-one-assistance/digital-clinics/
+  - title: test my digital readiness
+    url: /test-my-digital-skills/basic-digital-skills
+  - title: attend classes
+    url: /learn-digital-skills/attend-classes/overview/
+  - title: learn online on my own
+    url: /learn-digital-skills/learn-online/overview/
+  - title: be informed
+    url: /be-informed/articles
+  - title: get involved
+    url: /get-involved/sgd-friends/
 
 resources-title: Resources
 resources-subtitle: Be in the know
