@@ -16,3 +16,128 @@ If you are a senior who wants to pursue lifelong learning and lead and active li
 List of Senior Academies
 
 > table here
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
+.tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+  .content table td, .content table th{
+  border:1px solid;
+}
+
+.content table tbody tr:last-child td, .content table tbody tr:last-child th{
+  border-bottom-width:thin;
+}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-dvid">Venue</th>
+    <th class="tg-dvid">Address</th>
+    <th class="tg-dvid">Contact</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Alijunied Community Centre</td>
+    <td class="tg-0lax">Blk 110 Hougang Avenue 1, #01-1048, Singapore 530110</td>
+    <td class="tg-0lax">6288 5578</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Bedok Community Centre</td>
+    <td class="tg-kftd">850 New Upper Changi Road, Singapore 467352</td>
+    <td class="tg-kftd">6449 6323</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Bishan Community Club</td>
+    <td class="tg-0lax">51 Bishan Street 13, Singapore 579799</td>
+    <td class="tg-0lax">6259 4720</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Boon Lay Community Club</td>
+    <td class="tg-kftd">10 Boon Lay Place, Singapore 649882</td>
+    <td class="tg-kftd">6261 9947</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Bukit Batok Community Club</td>
+    <td class="tg-0lax">21 Bukit Batok Central, Singapore 659959</td>
+    <td class="tg-0lax">6564 7061</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Bukit Panjang Community Club</td>
+    <td class="tg-kftd">6 Pending Road, Singapore 678295</td>
+    <td class="tg-kftd">6506 0900</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Buona Vista Community Club</td>
+    <td class="tg-0lax">Blk 36 Holland Drive #01-01, Singapore 270036</td>
+    <td class="tg-0lax">6778 5163</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Clementi Community Centre</td>
+    <td class="tg-kftd">220 Clementi Avenue 4, Singapore 129880</td>
+    <td class="tg-kftd">6776 2517</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Fuchun Community Club</td>
+    <td class="tg-0lax">1 Woodlands Street 31 #01-02, Singapore 730824</td>
+    <td class="tg-0lax">6365 6911</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Gek Poh Ville Community Club</td>
+    <td class="tg-kftd">1 Jurong West Street 74, Singapore 649149</td>
+    <td class="tg-kftd">6792 0095</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Kampong Ubi Community Centre</td>
+    <td class="tg-0lax">10 Jalan Ubi, Singapore 409075</td>
+    <td class="tg-0lax">6745 9919</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">MacPherson Community Club</td>
+    <td class="tg-kftd">400 Paya Lebar Way, Singapore 379131</td>
+    <td class="tg-kftd">6841 1085</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Nee Soon South Community Club</td>
+    <td class="tg-0lax">30 Yishun Street 81, Singapore 768455</td>
+    <td class="tg-0lax">6753 3121</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Pasir Ris East Community Club</td>
+    <td class="tg-kftd">1 Pasir Ris Drive 4 #01-08, Singapore 519457</td>
+    <td class="tg-kftd">6584 2798</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Potong Pasir Community Club</td>
+    <td class="tg-0lax">6 Potong Pasir Avenue 2, Singapore 358361</td>
+    <td class="tg-0lax">6280 1182</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Sembawang Community Club</td>
+    <td class="tg-kftd">2125 Sembawang Road, Singapore 758528</td>
+    <td class="tg-kftd">6758 4183</td>
+  </tr>
+  <tr>
+    <td class="tg-0lax">Sengkang Community Club</td>
+    <td class="tg-0lax">2 Sengkang Square #01-01, Singapore 545025</td>
+    <td class="tg-0lax">6312 5400</td>
+  </tr>
+  <tr>
+    <td class="tg-kftd">Tampines Changkat Community Club</td>
+    <td class="tg-kftd">13 Tampines Street 11, Singapore 529453</td>
+    <td class="tg-kftd">6781 1806</td>
+  </tr>
+  <tr>
+    <td class="tg-c6of">Tanjong Pagar Community Club</td>
+    <td class="tg-c6of">101 Cantonment Road, Singapore 089774</td>
+    <td class="tg-c6of">6221 9898</td>
+  </tr>
+  <tr>
+    <td class="tg-y698">Teck Ghee Community Club</td>
+    <td class="tg-y698">861 Ang Mo Kio Avenue 10, Singapore 569734</td>
+    <td class="tg-y698">6456 7123</td>
+  </tr>
+</table>
