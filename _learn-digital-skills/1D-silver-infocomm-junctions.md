@@ -38,7 +38,7 @@ List of SIJs
   <tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
     <td class="tg-0lax">Blk 531 Upper Cross Street, #01-40A, Singapore 050531</td>
-    <td class="tg-0lax">65331010</td>
+    <td class="tg-0lax">65331010, www.cdac.org.sg</td>
   </tr>
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
@@ -71,9 +71,9 @@ List of SIJs
     <td class="tg-0lax">67785163</td>
   </tr>
   <tr>
-    <td class="tg-kftd"><a href="www.rsvp.org.sg" target="_blank">RSVP Singapore – The Organisation of Senior Volunteers</a></td>
+    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers/td>
     <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #08-02, Singapore 579837</td>
-    <td class="tg-kftd">62590802</td>
+    <td class="tg-kftd">62590802, www.rsvp.org.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Woodlands Regional Library</td>
