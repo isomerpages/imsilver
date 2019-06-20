@@ -27,7 +27,7 @@ Take your first step, or take your learning journey to the next level by attendi
 
 #### Learn Online<br>
 
-Learn more about going digital without leaving your home with these free online resources. [Click here](/learn-online/overivew/)
+Learn more about going digital without leaving your home with these free online resources. [Click here](/learn-digital-skills/learn-online/overview/)
 
 
 
