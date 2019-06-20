@@ -38,7 +38,7 @@ To be digitally ready, you will need the basic digital skills to tap into the be
 
 So, how digitally ready are you? Try our Basic Digital Skills Quiz to find out!<br>
 
-[<img src="/images/bds/bds-quiz-button.jpeg">](https://confirmation.gevme.com/BDS_Quiz/landing/)
+[<img src="/images/bds/bds-quiz-button.jpeg">](https://confirmation.gevme.com/BDS_Quiz/landing/){:target="_blank"}
    
 ![bds-couple](/images/bds/bds-couple.jpg)
 
