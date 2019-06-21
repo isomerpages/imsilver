@@ -11,7 +11,7 @@ breadcrumb: Do Not Fall Prey to Scams
 ![image1](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-1.jpg)
 
 
-Whenever we hear or read about people being victims of scams, our first reaction is usually ‘that won’t happen to me!’.  However, scams are becoming more widespread and sophisticated nowadays. In Singapore, a shocking S$99 million was lost to scams in 2017 alone according to the Police [(Source)](https://www.channelnewsasia.com/news/singapore/s-99-million-lost-to-scams-in-2017-police-9945700){:target="_blank"}.
+Whenever we hear or read about people being victims of scams, our first reaction is usually ‘that won’t happen to me!’.  However, scams are becoming more widespread and sophisticated nowadays. In Singapore, a shocking S$99 million was lost to scams in 2017 alone according to the Police ([Source](https://www.channelnewsasia.com/news/singapore/s-99-million-lost-to-scams-in-2017-police-9945700){:target="_blank"}).
 
 What happened to the victims you read or hear about in the media could also happen to your colleagues, friends, family members and even you!
 
@@ -36,4 +36,4 @@ Phishing can be done by phone calls, emails, SMS, social media and fake websites
 5. Email with your name, position, company, work phone number and other information, making you believe that the email is legitimate.
 
 ![image2](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-2.jpg)<br>
-***Caption** – Left: On 18 March 2018, a scammer posing as Singapore Airlines (SIA) sent WhatsApp messages to victims asking to share a link with friends and enter their personal and bank account details to receive free air tickets; Right:  On 17 March 2018, there was another scam asking victims to complete a survey on a website resembling SIA’s real website. [(Source)](https://www.straitstimes.com/singapore/singapore-airlines-warns-customers-against-scam-that-claims-recipients-have-won-air){:target="_blank"}*
+***Caption** – Left: On 18 March 2018, a scammer posing as Singapore Airlines (SIA) sent WhatsApp messages to victims asking to share a link with friends and enter their personal and bank account details to receive free air tickets; Right:  On 17 March 2018, there was another scam asking victims to complete a survey on a website resembling SIA’s real website. ([Source](https://www.straitstimes.com/singapore/singapore-airlines-warns-customers-against-scam-that-claims-recipients-have-won-air){:target="_blank"})*
