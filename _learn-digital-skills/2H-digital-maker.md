@@ -6,6 +6,10 @@ breadcrumb: Digital Maker
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture<br>
+
+Click below to view online guides that will familiarise you with the basic digital making.<br>
+
 <h3>1. Getting Started</h3>
 * About Us - [Link](https://www.imda.gov.sg/digitalmaker/about-us){:target="_blank"}<br>
 * How To Code - [Link](https://www.imda.gov.sg/DigitalMaker/Start){:target="_blank"}<br> 
