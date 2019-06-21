@@ -11,11 +11,7 @@ collection_name: get-one-on-one-assistance
 
 **Upcoming Sessions**
 <br>
-<style>
-    table, th, td {
-  border: 1px solid black;
-}
-</style>
+
 <table>
   <th><b>Venue</b></th>
   <th><b>Date</b></th>
