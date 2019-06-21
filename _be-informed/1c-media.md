@@ -6,4 +6,8 @@ breadcrumb: Media
 collection_name: be-informed
 ---
 
-loren ipsum
+| Date | Title | Media |
+|--|--|
+| loren ipsum | loren ipsum | loren ipsum |
+| loren ipsum | loren ipsum | loren ipsum |
+
