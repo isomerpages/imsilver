@@ -17,10 +17,8 @@ What happened to the victims you read or hear about in the media could also happ
 
 So how can we protect ourselves from scams? We can start by being aware of the types of scams out there.
 
-</sup>Phishing Scam
 
-
-**Phishing Scam*<br>
+**Phishing Scam**<br>
 
 Phishing Scam
 What is a phishing scam?  It happens when a scammer tries to lure you into providing sensitive information such as your personal and financial information and passwords by pretending to be from a legitimate source.
