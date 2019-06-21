@@ -10,18 +10,17 @@ breadcrumb: Do Not Fall Prey to Scams
 
 ![image1](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-1.jpg)
 
-Home  What's New  
-Do Not Fall Prey to Scams
 
-Scam Alert 1
 Whenever we hear or read about people being victims of scams, our first reaction is usually ‘that won’t happen to me!’.  However, scams are becoming more widespread and sophisticated nowadays. In Singapore, a shocking S$99 million was lost to scams in 2017 alone according to the Police [(Source)](HTTPSXXXX){:target="_blank"}.
 
 What happened to the victims you read or hear about in the media could also happen to your colleagues, friends, family members and even you!
 
 So how can we protect ourselves from scams? We can start by being aware of the types of scams out there.
 
-</sup>Phishing Scam<sup>
-**Phishing Scam**<br>
+</sup>Phishing Scam
+
+
+**Phishing Scam*<br>
 
 Phishing Scam
 What is a phishing scam?  It happens when a scammer tries to lure you into providing sensitive information such as your personal and financial information and passwords by pretending to be from a legitimate source.
