@@ -6,6 +6,10 @@ breadcrumb: Government Digital Services (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture<br>
+
+Click below to view online guides that will show you how to utilise government digital services.<br>
+
 <h3>1. SingPass</h3>
 *  Instructional Guides to set up 2-step Verification (2FA) - [Link](https://www.singpass.gov.sg/singpass/common/supportmain){:target="_blank"}<br>
 *  How to set up and use the SingPass Mobile app - [Link](https://singpassmobile.sg/?utm_source=IMDA&utm_medium=web_link&utm_campaign=SPMLaunch2018){:target="_blank"}<br>
