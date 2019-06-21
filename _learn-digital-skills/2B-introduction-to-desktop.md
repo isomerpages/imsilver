@@ -30,3 +30,10 @@ Click below to view online guides that will familiarise you with the basic compo
  
  </details>
   
+<details>
+ <summary><h3>3. Internet</h3></summary>
+ 
+ 1. Using Internet Explorer - <a href="https://edu.gcfglobal.org/en/internetexplorer/" target="_blank">Link</a><br>
+ 2. Using Chrome - <a href="https://edu.gcfglobal.org/en/chrome/" target="_blank">Link</a><br>
+ 
+ </details>
