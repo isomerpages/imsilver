@@ -6,19 +6,29 @@ breadcrumb: Introduction to Mobile Devices
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+<details>
+ <summary><h3>1. Mobile Devices</h3></summary>
+ 
+ 1. Introduction to Smartphones - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/smartphones" target="_blank">Link</a><br>
+ 2. Introduction to Tablet - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Link</a><br>
+ 
+ </details>
 
-1. Go Safe Online
-  * Android Mobile Security - What you need to know about malicious apps [(Click Here)](http://www.gcflearnfree.org/typing)
-  * Facebook - Securing your accounts [(Click Here)](http://www.gcflearnfree.org/typing)
-  * Facebook - Staying Safe [(Click Here)](http://www.gcflearnfree.org/typing)
-  * Google Tools - Safety tips to stay protected online [(Click Here)](http://www.gcflearnfree.org/typing)
-2. Personal Data Protection
-  * Protecting Your Personal Data [(Click Here)](http://www.gcflearnfree.org/typing)
-  * Do Not Call Registry for Consumer [(Click Here)](http://www.gcflearnfree.org/typing)
-  * Key Terms in the Personal Data Protection Act [(Click Here)](http://www.gcflearnfree.org/typing)
-3. Cybercrime Prevention
-  * Cyber Terror, Cyber Attacks, Love Scam [(Click Here)](http://www.gcflearnfree.org/typing)
-  * Protect Your Computer From Cyber Threats [(Click Here)](http://www.gcflearnfree.org/typing)
-  * 10 Simple Cyber Security Tips [(Click Here)](http://www.gcflearnfree.org/typing)
-4. Others
-  * Quiz: How savvy are you when it comes to cyber security? [(Click Here)](http://www.gcflearnfree.org/typing)
+<details>
+ <summary><h3>2. Operating System</h3></summary>
+ 
+ <h5>Android Basics</h5><br>
+   1. Introduction to Android - <a href="https://edu.gcfglobal.org/en/androidbasics/" target="_blank">Link</a><br>
+   2. Android Mobile Security - <a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps" target="_blank">Link</a><br>
+   3. Protect Your Android Device - <a href="https://support.google.com/android/answer/6215472?hl=en" target="_blank">Link</a><br>
+  
+<h5>iOS Basics</h5><br>
+   1. FAQ on Apple ID  - <a href="https://appleid.apple.com/faq/#!&page=faq" target="_blank">Link</a><br>
+   2. Getting Started with iPad - <a href="https://books.apple.com/us/book/ipad-starter-guide-ios-10/id1181563338" target="_blank">Link</a><br>(*Please note that you will need an Apple account to download the iBooks into your Apple device, for the link above. The Apple ID is the personal account that you use when you first set up your iPhone/iPad. Size: 272 MB*)
+   3.  iPad Basics - <a href="https://edu.gcfglobal.org/en/ipadbasics/" target="_blank">Link</a><br>
+   4. Make Your iPad and iPhone Accessible - <a href="https://www.apple.com/accessibility/" target="_blank">Link</a><br>
+
+<h5>Windows Basics</h5><br>
+   1. Using Microsoft Surface - <a href="/files/surface-pro-4-user-guide-EN.pdf">Download guide</a><br>
+ 
+ </details>
