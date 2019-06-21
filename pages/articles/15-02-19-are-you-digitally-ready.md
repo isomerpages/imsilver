@@ -30,4 +30,4 @@ Do you think you are digitally-ready? Test yourself!
 
 Perhaps you are already quite confident of your digital skills. Why not try some of these questions from our Basic Digital Skills Quiz to find out how digitally ready you are?
 
-**[Take the Basic Digital Skills Quiz](https://confirmation.gevme.com/BDS_Quiz/landing/){:target="_blank"}
+**[Take the Basic Digital Skills Quiz](https://confirmation.gevme.com/BDS_Quiz/landing/){:target="_blank"}**
