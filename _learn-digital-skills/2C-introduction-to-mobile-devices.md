@@ -13,7 +13,8 @@ second_nav_title: Learn Online
  2. Introduction to Tablet - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Link</a><br>
  
  </details>
-
+<br>
+<br>
 <details>
  <summary><h3>2. Operating System</h3></summary>
  
