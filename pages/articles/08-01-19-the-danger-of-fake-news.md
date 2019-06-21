@@ -25,7 +25,7 @@ How do you feel about these stories? Shocked? Concerned? Feel like sharing them 
 The truth is, none of them are real. The stories above are 3 examples of **FAKE NEWS** that circulated in Singapore in recent times. So what exactly is fake news?<br>
 
 
-   ***False stories that appear to be news and are spread around, usually using a shocking headline*<br>
+   ***False stories that appear to be news and are spread around, usually using a shocking headline**<br>
 
 
 Can you think of some possible effects of the 3 fake news above?
