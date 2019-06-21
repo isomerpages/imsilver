@@ -6,7 +6,7 @@ breadcrumb: Digital Participation Pledge
 collection_name: get-involved
 ---
 
-> picture
+![dpp](/images/get-involved/dpp/digital-participation-pledge.jpg)
 
 #### About<br>
 
