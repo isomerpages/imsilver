@@ -6,9 +6,10 @@ breadcrumb: Related Links
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+<h3>1. Health</h3>
+* Make medical appointments at Polyclinic or Hospitals - [Link](https://www.nhgp.com.sg/apptmod/apptmod_login.aspx?r=view_appointments){:target="_blank"}<br>
+* Health Promotion Board (HPB) Healthy 365 Mobile Application - [Link](https://www.healthhub.sg/apps/25/healthy365){:target="_blank"}<br>
+* Health Promotion Board (HPB) Health Hub - [Link](https://www.healthhub.sg/){:target="_blank"}<br>
 
-1. 操作系统 单元一：操作系统
-  * Windows 10 特征 [(点击这里)](http://www.gcflearnfree.org/typing)
-  * 整理应用程序 [(点击这里)](http://www.gcflearnfree.org/typing)
-  * 全屏显示“开始”菜单 [(点击这里)](http://www.gcflearnfree.org/typing)
-  * 寻找你的所有应用和程序  [(点击这里)](http://www.gcflearnfree.org/typing)
+<h3>2. Transport</h3>
+* Land Transport Authority (LTA) - MyTransport Mobile Application - [Link](https://www.mytransport.sg/mobile/mytransport_mobile.html){:target="_blank"}<br>
