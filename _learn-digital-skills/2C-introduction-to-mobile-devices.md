@@ -6,6 +6,10 @@ breadcrumb: Introduction to Mobile Devices
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture<br>
+
+Click below to view online guides that will familiarise you with the basic features and capabilities of mobile devices.<br>
+
 <h3>1. Mobile Devices</h3>
  
 * Introduction to Smartphones - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/smartphones" target="_blank">Link</a><br>
