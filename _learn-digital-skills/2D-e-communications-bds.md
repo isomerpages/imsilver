@@ -6,6 +6,8 @@ breadcrumb: E-Communications (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture
+
 <h3>1. Email</h3>
 * Introduction to Email - <a href="https://www.digitallearn.org/courses/intro-to-email" target="_blank">Link</a><br>
 * Getting Started with Microsoft Outlook  - <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Link</a><br>
