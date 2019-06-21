@@ -16,7 +16,8 @@ Click below to view online guides that will familiarise you with the basic compo
  3. Using Keyboard - <a href="https://edu.gcfglobal.org/en/typing/" target="_blank">Link</a><br>
  
  </details>
-
+<br>
+<br>
 <details>
  <summary><h3>2. Operating System</h3></summary>
  
@@ -29,7 +30,8 @@ Click below to view online guides that will familiarise you with the basic compo
    1. Using Windows 7 - <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Link</a><br>
  
  </details>
-  
+<br>
+<br>
 <details>
  <summary><h3>3. Internet</h3></summary>
  
