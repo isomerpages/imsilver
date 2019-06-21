@@ -12,7 +12,7 @@ second_nav_title: Learn Online
  2. Introduction to Tablet - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Link</a><br>
 
 <h3>2. Operating System</h3>
- <h5>Android Basics</h5>
+<h5>Android Basics</h5>
    1. Introduction to Android - <a href="https://edu.gcfglobal.org/en/androidbasics/" target="_blank">Link</a><br>
    2. Android Mobile Security - <a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps" target="_blank">Link</a><br>
    3. Protect Your Android Device - <a href="https://support.google.com/android/answer/6215472?hl=en" target="_blank">Link</a><br>
