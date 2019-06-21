@@ -20,4 +20,4 @@ At the MG Digital Clinics, MG seniors will undergo a simple Digital Readiness su
 *	Online Shopping (FairPrice Online)<br> 
 *	Government Apps and Digital Services (Moments of Life app, My Transport, Smart AhMa apps, etc.)<br> 
 
-For more information on the schedule, please visit <a href="www.imda.gov.sg/dc" target="_blank">www.imda.gov.sg/dc</a>
+For more information on the schedule, please <a href="www.imda.gov.sg/dc" target="_blank">click here</a>
