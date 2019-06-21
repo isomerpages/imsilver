@@ -6,6 +6,10 @@ breadcrumb: Chinese, Malay and Tamil Learning Content
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture<br>
+
+Click below to view our content translated into Chinese, Malay and Tamil.<br>
+
 # **Chinese Content**<br>
 
 <h3>1. 初识电脑</h3>
