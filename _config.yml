@@ -50,5 +50,7 @@ collections:
     output: true
   test-my-digital-skills:
     output: true
+  be-informed:
+    output: true
     
-resources_name: be-informed
+resources_name: events
