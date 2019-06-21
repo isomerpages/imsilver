@@ -6,7 +6,10 @@ breadcrumb: Basic Digital Skills
 ---
 > infographic
 
-Technologies can empower us to do more, enjoy greater convenience and connect better with our family and friends! <br>It is important that we are digitally ready to tap on the opportunities provided by technology in our daily lives.<br>
+It is important for everyone to be digitally ready and to have the basic digital skills to enjoy greater convenience and participate meaningfully in a digital society.<br>
+
+These skills correspond with the common everyday activities such as searching for information, communicating through email or chats, transacting online, making e-payments, and accessing digital government services. Relevant messages on cyber security and discernment, including how to discern fake news, will also be included in the curriculum to increase citizens’ awareness on staying safe in a digital world.
+
 
 #### **Are You Digitally Ready?**<br>
 
@@ -35,6 +38,16 @@ Enjoy the great convenience provided by Government Digital Services such as Sing
 Get tips on cybersecurity and learn how to stay safe while you are online. Learn how to discern fake news to protect yourself and your loved ones. [Click here](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
 
 ---
+
+**Learn Basic Digital Skills (BDS) Online**<br>
+
+Check out the library of curated learning resources and get started today:<br>
+
+* [E-communications](/learn-digital-skills/learn-online/e-communications-bds/)<br> 
+* [Digital Transactions](/learn-digital-skills/learn-online/digital-transactions-bds/)<br>
+* [Government Digital Services](/learn-digital-skills/learn-online/government-digital-services-bds/)<br>
+* [Cyber Security](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
+
 
 **Sign Up for Basic Digital Skills Training**<br>
 
