@@ -6,6 +6,9 @@ breadcrumb: Cyber Security (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture<br>
+
+Click below to view online guides that will familiarise you with the basic skills needed to stay safe in cyberspace<br>
 
 <h3>1. Go Safe Online</h3>
 * Introduction on Web Threats- [Link](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/internet-safety-for-all-the-basics-of-web-threats){:target="_blank"}<br>
