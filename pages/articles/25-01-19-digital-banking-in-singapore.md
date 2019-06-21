@@ -38,7 +38,7 @@ Another commonly used fund transfer service is PayNow. Users who have set up Pay
 
 And don’t worry – PayNow is safe and secure as long as you take the necessary precautions such as double checking the display name of the payee and not making a transaction over public Wi-Fi networks.
 
-To find out how to transfer money using PayNow, watch this [Video](https://www.youtube.com/watch?v=en_IqoDr6lo){:target="_blank"}. 
+To find out how to transfer money using PayNow, watch this [**video**](https://www.youtube.com/watch?v=en_IqoDr6lo){:target="_blank"}. 
 
 To set up PayNow, follow this step-by-step guide:
 ![image3](/images/articles/digital-banking-in-singapore/digital-banking-in-singapore-3.jpg)
