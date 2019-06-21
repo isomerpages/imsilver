@@ -17,7 +17,7 @@ Click below to view our content translated into Chinese, Malay and Tamil.<br>
 * [电脑基础](https://edu.gcfglobal.org/en/chinese-computer-basics/){:target="_blank"}<br>
 * [电脑基本技能](https://edu.gcfglobal.org/en/basic-computer-skills-chinese/){:target="_blank"}<br>
 <h3>2. 操作系统</h3>
-**单元二：操作系统**<br>
+**单元二：操作系统**
 <h5>Windows 10 特征</h5>
 * [开始”菜单上的内容](https://support.microsoft.com/zh-cn/help/17195){:target="_blank"}<br>
 * [全屏显示“开始”菜单](https://support.microsoft.com/zh-cn/help/17179/windows-10-make-start-full-screen){:target="_blank"}<br>
