@@ -16,7 +16,6 @@ collection_name: get-one-on-one-assistance
   <th><b>Venue</b></th>
   <th><b>Date</b></th>
   <th><b>Time</b></th>
-</tr>
 <tr>
   <td> loren ipsum</td>
   <td> </td> 
