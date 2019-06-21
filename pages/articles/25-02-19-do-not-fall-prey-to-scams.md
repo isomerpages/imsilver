@@ -43,7 +43,7 @@ The **SG Bonus SMS scam** is a perfect example of a phishing scam that specifica
 As most Singaporeans are aware of the SG Bonus and expect to receive an SMS notification sent by the Government, scammers used this opportunity to send out bogus SMSes to try to extract personal information from unsuspecting individuals. If we are not vigilant, we might follow the instructions given in the fake SMS and unknowingly reveal our personal information to scammers. Here is a comparison between the fake and genuine SG Bonus SMSes:
 
 ![image3](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-3.jpg)<br>
-***Caption –** Left: The official SMS from the Government informing you about your SG Bonus sign-up. Right: A fake SMS meant to trick recipients into thinking that it was sent by GOV.SG ([Source](https://www.channelnewsasia.com/news/singapore/scam-sham-sg-bonus-notifications-phishing-10807536){:target="_blank"})*
+<sub>**Caption –** Left: The official SMS from the Government informing you about your SG Bonus sign-up. Right: A fake SMS meant to trick recipients into thinking that it was sent by GOV.SG ([Source](https://www.channelnewsasia.com/news/singapore/scam-sham-sg-bonus-notifications-phishing-10807536){:target="_blank"})<sub/>
 
 The Ministry of Finance (MOF) urges all Singaporeans to be wary of fake SMSes, calls or emails regarding government cash payouts, including the GST Voucher.
 
