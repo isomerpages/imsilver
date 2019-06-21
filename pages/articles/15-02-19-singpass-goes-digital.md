@@ -24,7 +24,7 @@ With the SingPass Mobile app, you can now log in to check your CPF balance, appl
 
 Let’s say you want to access your CPF account. With SingPass Mobile, simply scan or tap the QR code displayed on the SingPass login page, then verify your identity using your fingerprint, face recognition or 6-digit passcode, and you’re in!
 
-Here’s a video showing how easy it is to use. [Click here](https://www.youtube.com/watch?v=f4di4HPgaRY)<br>
+Here’s a video showing how easy it is to use. [Click here](https://www.youtube.com/watch?v=f4di4HPgaRY){:target="_blank"}<br>
 
 **Experience the convenience for yourself. Download the app now!**<br>
 
