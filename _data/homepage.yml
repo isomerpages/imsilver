@@ -30,7 +30,23 @@ i-want-to:
   - title: get involved
     url: /get-involved/sgd-friends/
 
+# Info Sections
+info-sections:
+  - section-title: 
+    section-subtitle: What are Basic Digital Skills?
+    section-description: Basic digital skills include common everyday online activities such as searching for information, communicating through email or chats, transacting online, making e-payments, and accessing digital government services. Find out how good your basic digital skills are by taking our quiz! 
+    section-more-button: Take our quiz
+    section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
+    section-image-path: /images/home-page/In Schools.jpg
+    
+  - section-title: 
+    section-subtitle: Digital Clinic
+    section-description: Have questions about your smartphone and wish that you can get one-on-one assistance? Drop by the Digital Clinic and our volunteers will help you answer all questions you have on how to use your smartphone! 
+    section-more-button: Learn more
+    section-more-button-url: /get-one-on-one-assistance/digital-clinics/
+    section-image-path: /images/home-page/In Community.jpg
+
 resources-title: Events
-resources-subtitle: Be in the know
+resources-subtitle: Keep up to date with our latest events
 resources-more-button: More Events
 resources-more-button-url: events/
