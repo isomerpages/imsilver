@@ -36,7 +36,7 @@ Phishing can be done by phone calls, emails, SMS, social media and fake websites
 5. Email with your name, position, company, work phone number and other information, making you believe that the email is legitimate.
 
 ![image2](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-2.jpg)<br>
-***Caption –** Left: On 18 March 2018, a scammer posing as Singapore Airlines (SIA) sent WhatsApp messages to victims asking to share a link with friends and enter their personal and bank account details to receive free air tickets; Right:  On 17 March 2018, there was another scam asking victims to complete a survey on a website resembling SIA’s real website. ([Source](https://www.straitstimes.com/singapore/singapore-airlines-warns-customers-against-scam-that-claims-recipients-have-won-air){:target="_blank"})*
+<sub/>**Caption –** Left: On 18 March 2018, a scammer posing as Singapore Airlines (SIA) sent WhatsApp messages to victims asking to share a link with friends and enter their personal and bank account details to receive free air tickets; Right:  On 17 March 2018, there was another scam asking victims to complete a survey on a website resembling SIA’s real website. ([Source](https://www.straitstimes.com/singapore/singapore-airlines-warns-customers-against-scam-that-claims-recipients-have-won-air){:target="_blank"})<sub/>
 
 The **SG Bonus SMS scam** is a perfect example of a phishing scam that specifically targets Singaporeans.<br>
 
