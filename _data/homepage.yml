@@ -18,7 +18,7 @@ hero-banner: /images/home-page/sii-hero-banner2.jpg
 # I want to dropdown
 i-want-to:
   - title: get one-on-one assistance
-    url: /get-one-on-one-assistance/digital-clinics/
+    url: /get-one-on-one-assistance/overview/
   - title: test my digital readiness
     url: /test-my-digital-skills/basic-digital-skills
   - title: attend classes
