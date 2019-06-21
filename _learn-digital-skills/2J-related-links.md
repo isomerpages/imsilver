@@ -6,6 +6,10 @@ breadcrumb: Related Links
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+> picture<br>
+
+Click below to view guides on how to use other useful digital services and apps
+
 <h3>1. Health</h3>
 * Make medical appointments at Polyclinic or Hospitals - [Link](https://www.nhgp.com.sg/apptmod/apptmod_login.aspx?r=view_appointments){:target="_blank"}<br>
 * Health Promotion Board (HPB) Healthy 365 Mobile Application - [Link](https://www.healthhub.sg/apps/25/healthy365){:target="_blank"}<br>
