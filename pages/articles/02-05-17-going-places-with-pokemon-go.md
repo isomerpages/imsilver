@@ -14,7 +14,7 @@ When Pokemon Go first arrived, it swept nations off their feet. The early days o
 
 According to Niantic Labs, since its launch in July, Pokemon Go has been downloaded more than 500 million times globally, and players have walked over 4.6 billion kilometres while playing the game.
 
-This success has added US$7.5 billion to Nintendo’s market value, and just as quickly removed it when it was revealed that it was Niantic, and not Nintendo that was responsible for the game. [NextShark profiled](http://nextshark.com/john-hanke-niantic-pokemon-go-roger-hamilton/){:target="_blank"}) the “overnight success” of Niantic’s CEO Mr John Hanke and the product 20 years in the making. The launch velocity of this game had everyone trying to decipher how to take advantage of the augmented reality phenomenon.
+This success has added US$7.5 billion to Nintendo’s market value, and just as quickly removed it when it was revealed that it was Niantic, and not Nintendo that was responsible for the game. [NextShark profiled](http://nextshark.com/john-hanke-niantic-pokemon-go-roger-hamilton/){:target="_blank"} the “overnight success” of Niantic’s CEO Mr John Hanke and the product 20 years in the making. The launch velocity of this game had everyone trying to decipher how to take advantage of the augmented reality phenomenon.
 
 **A new marketing model?**
 
@@ -32,7 +32,7 @@ However, nothing beats LunchClick’s innovative marketing strategy. In August, 
 
 If there is anything to be learned from the success of these businesses, it is that Pokemon Go offers a way to increase customer traffic and ultimately profits. And it does not cost much to buy “lures” – one “lure” costs no more than $1.50, and are even cheaper if purchased in bulk.
 
-Still not convinced? A [New York Post](http://nypost.com/2016/07/12/pokemania-runs-wild-through-city-causing-crime-accidents/?utm_campaign=SocialFlow&utm_source=NYPFacebook&utm_medium=SocialFlow&sr_share=facebook){:target="_blank"}) article reported that the manager of a New York pizzeria was able to drive up business by more than 70% using only US$10 worth of “lures” – a low-cost strategy worth exploring, especially for start-ups in Singapore. But it is important to note that higher footfall does not always guarantee more sales. It is still up to businesses to find innovative ways to get trainers to buy in-store products and services.
+Still not convinced? A [New York Post](http://nypost.com/2016/07/12/pokemania-runs-wild-through-city-causing-crime-accidents/?utm_campaign=SocialFlow&utm_source=NYPFacebook&utm_medium=SocialFlow&sr_share=facebook){:target="_blank"} article reported that the manager of a New York pizzeria was able to drive up business by more than 70% using only US$10 worth of “lures” – a low-cost strategy worth exploring, especially for start-ups in Singapore. But it is important to note that higher footfall does not always guarantee more sales. It is still up to businesses to find innovative ways to get trainers to buy in-store products and services.
 
 Here's a tip: Once players are lured in, go one step further by offering targeted promotions and special discounts. It is also worth keeping in mind that the game needs constant network connectivity, so make sure your business premises offers a faster, smoother and more reliable WiFi connection.
 
@@ -40,7 +40,7 @@ Here's a tip: Once players are lured in, go one step further by offering targete
 
 Pokemon Go is not just the most successful game ever, it has cemented location-based services and augmented reality firmly on the radar screens of any company engaged in advertising or services of any kind.
 
-It is all of what you have played or read about and more – US$200 million in the first month post-launch in revenues and growing. Adding to that success is Apple’s recent announcement that Pokemon Go will land on the Apple Watch by year-end. When asked at a [technology event in September](https://www.cnet.com/news/pokemon-go-for-android-wear-watches-is-pretty-likely/){:target="_blank"}) if the game will also be made available on Android Wear, Hanke said: “Pretty likely.”
+It is all of what you have played or read about and more – US$200 million in the first month post-launch in revenues and growing. Adding to that success is Apple’s recent announcement that Pokemon Go will land on the Apple Watch by year-end. When asked at a [technology event in September](https://www.cnet.com/news/pokemon-go-for-android-wear-watches-is-pretty-likely/){:target="_blank"} if the game will also be made available on Android Wear, Hanke said: “Pretty likely.”
 
 Some argue that this level of interest in and popularity of Pokemon Go will one day fade away, leaving businesses with unsustainable marketing campaigns.
 
