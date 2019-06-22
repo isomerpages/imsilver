@@ -8,5 +8,5 @@ second_nav_title: Be Informed
 ---
 | Date | Title |
 |--|--|
-| **loren ipsum** | **loren ipsum** |
-| **loren ipsum** | **loren ipsum** |
+| **25 February 2019** | **[Do Not Fall Prey to Scams](/do-not-fall-prey-to-scams/)** |
+| **25 February 2019** | **[Do Not Fall Prey to Scams](/do-not-fall-prey-to-scams/)** |
