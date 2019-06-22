@@ -22,4 +22,4 @@ second_nav_title: Be Informed
 | 10 June 2017 | <a href="https://www.channelnewsasia.com/news/singapore/new-online-portal-to-help-senior-citizens-pick-up-it-skills-8934970" target="_blank">New online portal to help senior citizens pick up IT skills</a> | CNA |
 | 10 June 2017 | <a href="https://www.channelnewsasia.com/news/singapore/it-can-be-demoralising-why-some-elderly-in-singapore-are-8935264" target="_blank">'It can be demoralising': Why some elderly in Singapore are teaching IT to their peers</a> | CNA |
 | 10 November 2016 | <a href="https://www.gov.sg/news/content/making-technology-cool-for-seniors" target="_blank">Making technology cool for seniors</a> | gov.sg |
-| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
+| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">LOREN IPSUM</a> | The Straits Times |
