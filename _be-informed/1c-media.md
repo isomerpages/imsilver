@@ -13,16 +13,24 @@ second_nav_title: Be Informed
 
 | 24 July 2018 | <a href="https://www.todayonline.com/singapore/seniors-pick-fun-skills-courses-create-ringtones-code-apps-make-movies" target="_blank">Seniors to pick up fun skills with courses to create ringtones, code apps, make movies</a> | TODAY |
 
+| 31 May 2018 | <a href="https://www.straitstimes.com/singapore/seniors-get-help-with-e-transactions" target="_blank">Seniors get help with e-transactions</a> | The Straits Times |
+
+| 30 May 2018 | <a href="https://www.straitstimes.com/singapore/new-learning-programme-helps-seniors-to-go-cashless" target="_blank">New learning programme helps seniors to go cashless</a> | The Straits Times |
+
 | 24 April 2018 | <a href="https://www.straitstimes.com/singapore/tie-up-between-imda-and-ite-makes-it-easier-for-seniors-to-pick-up-digital-skills" target="_blank">Tie-up between IMDA and ITE makes it easier for seniors to pick up digital skills</a> | The Straits Times |
-
+| 7 March 2018 | <a href="https://www.straitstimes.com/singapore/expanded-courses-to-help-seniors-be-digitally-ready" target="_blank">Expanded courses to help seniors be digitally ready</a> | The Straits Times |
 | 6 March 2018 | <a href="https://www.straitstimes.com/politics/parliament-expanded-courses-to-help-seniors-to-be-digitally-ready" target="_blank">Parliament: Expanded courses to help seniors be digitally ready</a> | The Straits Times |
+| 6 March 2018 | <a href="https://www.todayonline.com/singapore/s145m-push-equip-sproeans-more-digital-skills" target="_blank">S$145m push to equip S'poreans with more digital skills</a> | TODAY |
+
+
+| 6 March 2018 | <a href="https://www.channelnewsasia.com/news/singapore/singapore-libraries-have-a-new-remit-equip-seniors-with-digital-10016716" target="_blank">Singapore libraries have a new remit: Equip seniors with digital skills</a> | CNA |
 
 
 
+| 19 November 2017  | <a href="https://www.straitstimes.com/singapore/inclusive-push-to-go-digital" target="_blank">Inclusive push to go digital</a> | The Straits Times |
 
-| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
-| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
-| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
-| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
-| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
+| 21 August 2017 | <a href="https://www.tnp.sg/news/singapore/he-helps-seniors-understand-language-technology" target="_blank">He helps seniors understand the language of technology</a> | The New Paper |
 | 10 June 2017 | <a href="https://www.channelnewsasia.com/news/singapore/new-online-portal-to-help-senior-citizens-pick-up-it-skills-8934970" target="_blank">New online portal to help senior citizens pick up IT skills</a> | CNA |
+| 10 June 2017 | <a href="https://www.channelnewsasia.com/news/singapore/it-can-be-demoralising-why-some-elderly-in-singapore-are-8935264" target="_blank">'It can be demoralising': Why some elderly in Singapore are teaching IT to their peers</a> | CNA |
+| 10 November 2016 | <a href="https://www.gov.sg/news/content/making-technology-cool-for-seniors" target="_blank">Making technology cool for seniors</a> | gov.sg |
+| XX January 2018 | <a href="HTTPSXXXXXXX" target="_blank">TITLEXXX</a> | The Straits Times |
