@@ -105,6 +105,6 @@ If you believe you have fallen victim to an online scam or fraud, you should:
 
 When we are unaware and uncertain, we become vulnerable to scams. Let’s keep ourselves updated, stay vigilant and share the knowledge with our friends and loved ones. Let’s fight scams together!
 
-- For further information on the SG Bonus scam, please check out the following: [Click here](https://www.gov.sg/factually/content/fake-sms-and-website-on-sg-bonus){:target="_blank"}<br>website-on-sg-bonus
+- For further information on the SG Bonus scam, please check out the following: [Click here](https://www.gov.sg/factually/content/fake-sms-and-website-on-sg-bonus){:target="_blank"}<br>
 - For further information on cybersecurity and protection against threats, please check out the following: [Click here](https://www.csa.gov.sg/gosafeonline){:target="_blank"}<br>
 
