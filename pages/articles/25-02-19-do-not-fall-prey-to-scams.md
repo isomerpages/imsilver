@@ -11,7 +11,7 @@ breadcrumb: Do Not Fall Prey to Scams
 ![image1](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-1.jpg)
 
 
-Whenever we hear or read about people being victims of scams, our first reaction is usually ‘that won’t happen to me!’.  However, scams are becoming more widespread and sophisticated nowadays. In Singapore, a shocking S$99 million was lost to scams in 2017 alone according to the Police ([Source](https://www.channelnewsasia.com/news/singapore/s-99-million-lost-to-scams-in-2017-police-9945700){:target="_blank"}).
+Whenever we hear or read about people being victims of scams, our first reaction is usually ‘that won’t happen to me!’.  However, scams are becoming more widespread and sophisticated nowadays. In Singapore, a shocking S$99 million was lost to scams in 2017 alone according to the Police ([Source](https://www.channelnewsasia.com/news/singapore/s-99-million-lost-to-scams-in-2017-police-9945700){:target="_blank"}.
 
 What happened to the victims you read or hear about in the media could also happen to your colleagues, friends, family members and even you!
 
@@ -36,14 +36,14 @@ Phishing can be done by phone calls, emails, SMS, social media and fake websites
 5. Email with your name, position, company, work phone number and other information, making you believe that the email is legitimate.
 
 ![image2](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-2.jpg)<br>
-<sub>**Caption –** Left: On 18 March 2018, a scammer posing as Singapore Airlines (SIA) sent WhatsApp messages to victims asking to share a link with friends and enter their personal and bank account details to receive free air tickets; Right:  On 17 March 2018, there was another scam asking victims to complete a survey on a website resembling SIA’s real website. ([Source](https://www.straitstimes.com/singapore/singapore-airlines-warns-customers-against-scam-that-claims-recipients-have-won-air){:target="_blank"})<sub/>
+<sub>**Caption –** Left: On 18 March 2018, a scammer posing as Singapore Airlines (SIA) sent WhatsApp messages to victims asking to share a link with friends and enter their personal and bank account details to receive free air tickets; Right:  On 17 March 2018, there was another scam asking victims to complete a survey on a website resembling SIA’s real website. ([Source](https://www.straitstimes.com/singapore/singapore-airlines-warns-customers-against-scam-that-claims-recipients-have-won-air){:target="_blank"}<sub/>
 
 The **SG Bonus SMS scam** is a perfect example of a phishing scam that specifically targets Singaporeans.<br>
 
 As most Singaporeans are aware of the SG Bonus and expect to receive an SMS notification sent by the Government, scammers used this opportunity to send out bogus SMSes to try to extract personal information from unsuspecting individuals. If we are not vigilant, we might follow the instructions given in the fake SMS and unknowingly reveal our personal information to scammers. Here is a comparison between the fake and genuine SG Bonus SMSes:
 
 ![image3](/images/articles/do-not-fall-prey-to-scams/do-not-fall-prey-to-scams-3.jpg)<br>
-<sub>**Caption –** Left: The official SMS from the Government informing you about your SG Bonus sign-up. Right: A fake SMS meant to trick recipients into thinking that it was sent by GOV.SG ([Source](https://www.channelnewsasia.com/news/singapore/scam-sham-sg-bonus-notifications-phishing-10807536){:target="_blank"})<sub/>
+<sub>**Caption –** Left: The official SMS from the Government informing you about your SG Bonus sign-up. Right: A fake SMS meant to trick recipients into thinking that it was sent by GOV.SG ([Source](https://www.channelnewsasia.com/news/singapore/scam-sham-sg-bonus-notifications-phishing-10807536){:target="_blank"}<sub/>
 
 The Ministry of Finance (MOF) urges all Singaporeans to be wary of fake SMSes, calls or emails regarding government cash payouts, including the GST Voucher.
 
@@ -79,9 +79,9 @@ If you are a victim of a phishing scam, here’s what you can do:
 
 **Online Shopping Scam**
 
-Do you get excited when you find a good deal for a product you’ve always wanted?  During festive seasons when sales are happening everywhere, do you have an urge to shop? Well, scammers know that too. That is why e-commerce scam is one of the most common scams in Singapore, with 1,277 cases reported and S$930,000 lost so far in 2018 ([Source](https://www.todayonline.com/singapore/e-commerce-loan-and-impersonation-scams-push-crime-rate-first-half-2018){:target="_blank"}).
+Do you get excited when you find a good deal for a product you’ve always wanted?  During festive seasons when sales are happening everywhere, do you have an urge to shop? Well, scammers know that too. That is why e-commerce scam is one of the most common scams in Singapore, with 1,277 cases reported and S$930,000 lost so far in 2018 ([Source](https://www.todayonline.com/singapore/e-commerce-loan-and-impersonation-scams-push-crime-rate-first-half-2018){:target="_blank"}.
 
-In a recent case, a 19-year-old man was arrested for his suspected involvement in a series of online scams involving the sale of Bruno Mars concert tickets and Universal Studios Singapore e-tickets on Carousell.  After the victims made payments via bank transfers, he became uncontactable ([Source](https://www.channelnewsasia.com/news/singapore/bruno-mars-concert-ticket-scam-carousell-universal-studio-10929318){:target="_blank"}). When a deal seems too good to be true, we should be extra cautious and take steps to protect ourselves:
+In a recent case, a 19-year-old man was arrested for his suspected involvement in a series of online scams involving the sale of Bruno Mars concert tickets and Universal Studios Singapore e-tickets on Carousell.  After the victims made payments via bank transfers, he became uncontactable ([Source](https://www.channelnewsasia.com/news/singapore/bruno-mars-concert-ticket-scam-carousell-universal-studio-10929318){:target="_blank"}. When a deal seems too good to be true, we should be extra cautious and take steps to protect ourselves:
  
 1. Check the reputation of the seller or website. Ensure that the seller has a proven track record and good reviews. 
 
