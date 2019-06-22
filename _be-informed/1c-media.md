@@ -9,7 +9,6 @@ second_nav_title: Be Informed
 
 | Date | Title | Media |
 |--|--|--|
-
 | 24 July 2018 | <a href="https://www.todayonline.com/singapore/seniors-pick-fun-skills-courses-create-ringtones-code-apps-make-movies" target="_blank">Seniors to pick up fun skills with courses to create ringtones, code apps, make movies</a> | TODAY |
 | 31 May 2018 | <a href="https://www.straitstimes.com/singapore/seniors-get-help-with-e-transactions" target="_blank">Seniors get help with e-transactions</a> | The Straits Times |
 | 30 May 2018 | <a href="https://www.straitstimes.com/singapore/new-learning-programme-helps-seniors-to-go-cashless" target="_blank">New learning programme helps seniors to go cashless</a> | The Straits Times |
