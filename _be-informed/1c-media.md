@@ -11,8 +11,7 @@ second_nav_title: Be Informed
 |--|--|--|
 | 24 July 2018 | <a href="https://www.todayonline.com/singapore/seniors-pick-fun-skills-courses-create-ringtones-code-apps-make-movies" target="_blank">Seniors to pick up fun skills with courses to create ringtones, code apps, make movies</a> | TODAY |
 | 3 June 2018 | <a href="https://www.straitstimes.com/tech/crossing-digital-divide-the-future-is-near-at-hand" target="_blank">Crossing digital divide: The future is near at hand</a> | The Straits Times |
-| 2 June 2018| <a href="https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390" target="_blank">Singapore launches first digital readiness blueprint, with inclusivity a key thrust
-Read more at https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390</a> | CNA |
+| 2 June 2018| <a href="https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390" target="_blank">Singapore launches first digital readiness blueprint, with inclusivity a key thrust</a> | CNA |
 | 31 May 2018 | <a href="https://www.straitstimes.com/singapore/seniors-get-help-with-e-transactions" target="_blank">Seniors get help with e-transactions</a> | The Straits Times |
 | 30 May 2018 | <a href="https://www.straitstimes.com/singapore/new-learning-programme-helps-seniors-to-go-cashless" target="_blank">New learning programme helps seniors to go cashless</a> | The Straits Times |
 | 24 April 2018 | <a href="https://www.straitstimes.com/singapore/tie-up-between-imda-and-ite-makes-it-easier-for-seniors-to-pick-up-digital-skills" target="_blank">Tie-up between IMDA and ITE makes it easier for seniors to pick up digital skills</a> | The Straits Times |
