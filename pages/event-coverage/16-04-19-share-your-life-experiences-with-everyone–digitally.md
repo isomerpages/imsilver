@@ -30,7 +30,7 @@ Recording down our life stories by writing a book is probably something that som
 At the Silver Digital Talents event, each senior got to learn different digital skills at three stations -from learning how to take digital photos, record video demonstrations of themselves, and even voiceovers to include these interesting elements to their e-book. They also learnt how to use digital pens to add finishing touches with illustrations, and were finally rewarded with the completion of both a physical and digital copy of their very own personalised e-book.
 
 ![image4](/images/event-coverage/share-your-life-experiences-with-everyone–digitally/share-your-life-experiences-with-everyone–digitally-4.JPG)<br>
-<sub>Seniors recorded their sporting skill on video as part of their e-book making journey<sub/>
+<sub>Seniors recorded their sporting skill on video as part of their e-book making journey<sub/><br>
 ![image5](/images/event-coverage/share-your-life-experiences-with-everyone–digitally/share-your-life-experiences-with-everyone–digitally-5.jpg)<br>
 <sub>Tavana, 60, with her newly completed e-book<sub/>
 
@@ -43,7 +43,7 @@ As dynamic as e-books are, it is not the only way that seniors with stories can 
 
 
 
-"https://www.youtube.com/embed/jVRlyUA_jvs"
+"https://www.youtube.com/embed/jVRlyUA_jvs"<br>
 <sub>Katherine wants to use her video making skills to shoot documentaries.<sub/>
 
 Beyond just creating e-books, others saw the benefits of learning these new skills that will come in handy in their daily lives. Mike Lockett, 63 and Risdiana, 46, are used to taking only photos with their smartphones, but now look forward to making use of the video function to record important life moments. “We were not used to making videos, but the workshop has familiarized us with it,” said Risdiana. Lockett, a businessman, felt the skills he learnt could be helpful in his business. “I can see multiple uses for [video and photo taking], like for marketing. Instead of having to pay someone else to do it, I will try to do it myself.”
