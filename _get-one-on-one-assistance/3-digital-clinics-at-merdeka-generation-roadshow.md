@@ -16,6 +16,6 @@ The Digital Clinic at the Merdeka Generation Roadshows provides a variety of dig
 *	Sharing of cybersecurity tips<br>
 *	Sharing information on Home Access programme to eligible seniors that require broadband<br>
 
-For more information on the schedule, please <a href="www.imda.gov.sg/dc" target="_blank>click here</a>
+For more information on the schedule, please <a href="www.imda.gov.sg/dc" target="_blank">click here</a>
 
 
