@@ -43,7 +43,7 @@ As dynamic as e-books are, it is not the only way that seniors with stories can 
 
 
 
-<div class="bp-youtube"><iframe width="848" height="480" src="https://www.youtube.com/embed/jVRlyUA_jvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+"https://www.youtube.com/embed/jVRlyUA_jvs"
 <sub>Katherine wants to use her video making skills to shoot documentaries.<sub/>
 
 Beyond just creating e-books, others saw the benefits of learning these new skills that will come in handy in their daily lives. Mike Lockett, 63 and Risdiana, 46, are used to taking only photos with their smartphones, but now look forward to making use of the video function to record important life moments. “We were not used to making videos, but the workshop has familiarized us with it,” said Risdiana. Lockett, a businessman, felt the skills he learnt could be helpful in his business. “I can see multiple uses for [video and photo taking], like for marketing. Instead of having to pay someone else to do it, I will try to do it myself.”
