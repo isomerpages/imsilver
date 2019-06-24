@@ -37,14 +37,14 @@ info-sections:
     section-description: Basic digital skills include common everyday online activities such as searching for information, communicating through email or chats, transacting online, making e-payments, and accessing digital government services. Find out how good your basic digital skills are by taking our quiz! 
     section-more-button: Take our quiz
     section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
-    section-image-path: /images/home-page/In Schools.jpg
+    section-image-path: /images/home-page/bds-graphic.png
     
   - section-title: 
     section-subtitle: Digital Clinic
     section-description: Have questions about your smartphone and wish that you can get one-on-one assistance? Drop by the Digital Clinic and our volunteers will help you answer all questions you have on how to use your smartphone! 
     section-more-button: Learn more
     section-more-button-url: /get-one-on-one-assistance/digital-clinics/
-    section-image-path: /images/home-page/In Community.jpg
+    section-image-path: /images/home-page/digital-clinics-graphic.png
 
 resources-title: Events
 resources-subtitle: Keep up to date with our latest events
