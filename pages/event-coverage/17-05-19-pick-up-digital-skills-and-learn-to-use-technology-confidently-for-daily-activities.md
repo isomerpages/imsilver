@@ -55,4 +55,4 @@ With so many fun and accessible courses to pick up useful digital, visit the nea
 
 Check out the upcoming mass IT classes [here](/files/SIJ-Course-Schedule-Apr-2019-upload-16May.pdf).
 
-*Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidies under the [National Silver Academy](National Silver Academy){:target="_blank"}.
+*Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidies under the [National Silver Academy](https://www.nsa.org.sg/){:target="_blank"}.
