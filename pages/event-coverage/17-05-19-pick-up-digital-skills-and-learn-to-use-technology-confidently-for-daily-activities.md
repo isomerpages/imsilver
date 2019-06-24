@@ -6,7 +6,7 @@ permalink: /pick-up-digital-skills-and-learn-to-use-technology-confidently-for-d
 breadcrumb: Pick up Digital Skills and Learn to use Technology Confidently for Daily Activities
 ---
 
-## Pick up Digital Skills and Learn to use Technology Confidently for Daily Activities <br>
+## Silver Infocomm – IT Classes 2019 <br>
 
 ![image1](/images/event-coverage/pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities/pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities-1.jpg)
 
