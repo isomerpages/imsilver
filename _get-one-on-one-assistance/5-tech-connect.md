@@ -6,7 +6,7 @@ breadcrumb: Tech Connect
 collection_name: get-one-on-one-assistance
 ---
 
-> picture
+![graphic](/images/get-one-on-one-assistance/tech-connect-graphic.png)
 
 Tech Connect is an initiative that provides dedicated one-on-one tech assistance to any person who may need help with their digital devices and services.<br>
 
