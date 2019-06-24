@@ -42,11 +42,7 @@ At the Silver Digital Talents event, each senior got to learn different digital 
 As dynamic as e-books are, it is not the only way that seniors with stories can share their thoughts and talents.  Katherine Chua, 67 wants to create documentaries about wet markets in Southeast Asia.  She aspires to share this unique aspect of the region with the world, and the event taught her some newfound videography skills which she can put to good use.
 
 
-<div><iframe width="560" height="315" src="https://www.youtube.com/embed/jVRlyUA_jvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/BBcR4KGDdL0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</div>
-"https://www.youtube.com/embed/jVRlyUA_jvs"<br>
+<div><iframe width="560" height="315" src="https://www.youtube.com/embed/jVRlyUA_jvs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><<br>
 <sub>Katherine wants to use her video making skills to shoot documentaries.<sub/>
 
 Beyond just creating e-books, others saw the benefits of learning these new skills that will come in handy in their daily lives. Mike Lockett, 63 and Risdiana, 46, are used to taking only photos with their smartphones, but now look forward to making use of the video function to record important life moments. “We were not used to making videos, but the workshop has familiarized us with it,” said Risdiana. Lockett, a businessman, felt the skills he learnt could be helpful in his business. “I can see multiple uses for [video and photo taking], like for marketing. Instead of having to pay someone else to do it, I will try to do it myself.”
