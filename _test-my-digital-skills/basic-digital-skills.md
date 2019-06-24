@@ -4,7 +4,7 @@ title: Basic Digital Skills
 permalink: /test-my-digital-skills/basic-digital-skills
 breadcrumb: Basic Digital Skills
 ---
-> infographic
+![graphic](/images/bds/bds-graphic-2.png)
 
 It is important for everyone to be digitally ready and to have the basic digital skills to enjoy greater convenience and participate meaningfully in a digital society.<br>
 
