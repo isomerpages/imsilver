@@ -5,8 +5,7 @@ permalink: /get-one-on-one-assistance/digital-clinics-e-payment/
 breadcrumb: Digital Clinics (e-Payment)
 collection_name: get-one-on-one-assistance
 ---
-
-> picture
+![graphic](/images/get-one-on-one-assistance/digital-clinics-epayment.jpg)
 
 <br>Digital Clinic (e-payment)<br>
 
