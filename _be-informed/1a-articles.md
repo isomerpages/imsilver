@@ -6,7 +6,7 @@ breadcrumb: Articles
 collection_name: be-informed
 second_nav_title: Be Informed
 ---
-> picture
+![picture](/images/be-informed/be-informed-2.jpg)
 
 Check out our educational reads and tips on digital skills and find out how they can impact your life today.
 
