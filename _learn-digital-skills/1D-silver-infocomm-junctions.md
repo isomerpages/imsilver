@@ -8,7 +8,7 @@ second_nav_title: Attend Classes
 ---
 ![SIJ](/images/learn-digital-skills/sij/sij-01.jpeg)
 
-Silver Infocomm Junctions (SIJs) are senior-friendly IT learning hubs that offer affordable Infocomm training and customised curriculum. Found at 12 convenient locations islandwide, they allow participants to easily access in-depth digital learning.
+Silver Infocomm Junctions (SIJs) are senior-friendly IT learning hubs that offer affordable Infocomm training and customised curriculum. They can be found at 12 convenient locations islandwide, for participants to easily access in-depth digital learning.
 
 List of SIJs
 
