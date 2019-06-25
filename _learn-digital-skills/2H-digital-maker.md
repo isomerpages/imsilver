@@ -8,7 +8,7 @@ second_nav_title: Learn Online
 ---
 > picture<br>
 
-Click below to view online guides that will familiarise you with the basic digital making.<br>
+The Digital Maker Programme aims to nurture a new generation of digital creators and makers by introducing simple-to-use and open ended technology that students and adults will find comfortable to use. <br>
 
 <h3>1. Getting Started</h3>
 * About Us - [Link](https://www.imda.gov.sg/digitalmaker/about-us){:target="_blank"}<br>
