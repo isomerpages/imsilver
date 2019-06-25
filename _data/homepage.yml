@@ -12,7 +12,7 @@ agency-logo: /images/sii-logo.png
 
 # Hero Banner
 hero-title: Welcome to IMSilver
-hero-subtitle: We help seniors and mature adults start and continue their digital learning
+hero-subtitle: Make your everday life more convenient by learning basic digital skills
 hero-banner: /images/home-page/sii-hero-banner2.jpg
 
 # I want to dropdown
@@ -34,14 +34,16 @@ i-want-to:
 info-sections:
   - section-title: 
     section-subtitle: What are Basic Digital Skills?
-    section-description: Basic digital skills include common everyday online activities such as searching for information, communicating through email or chats, transacting online, making e-payments, and accessing digital government services. Find out how good your basic digital skills are by taking our quiz! 
+    section-description: Basic digital skills are used in common online activities such as searching for information, emailing or virtual chatting, transacting online, making e-payments, and accessing digital government services. 
+Find out how good your basic digital skills are by taking our quiz![here](/test-my-digital-skills/basic-digital-skills)
     section-more-button: Take our quiz
     section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
     section-image-path: /images/home-page/bds-graphic.png
     
   - section-title: 
     section-subtitle: Digital Clinic
-    section-description: Have questions about your smartphone and wish that you can get one-on-one assistance? Drop by the Digital Clinic and our volunteers will help you answer all questions you have on how to use your smartphone! 
+    section-description: Have questions about your smartphone? Need one-on-one assistance on how to navigate through essential apps? 
+Drop by the Digital Clinic and our friendly cyber volunteers will help you download Wireless@SG for free WiFi at hotspots islandwide and answer your specific usage queries.
     section-more-button: Learn more
     section-more-button-url: /get-one-on-one-assistance/digital-clinics/
     section-image-path: /images/home-page/digital-clinics-graphic.png
