@@ -8,7 +8,7 @@ second_nav_title: Learn Online
 ---
 > picture<br>
 
-Click below to view guides on how to use other useful digital services and apps
+Here you will find guides on how to use other useful digital services and apps
 
 <h3>1. Health</h3>
 * Make medical appointments at Polyclinic or Hospitals - [Link](https://www.nhgp.com.sg/apptmod/apptmod_login.aspx?r=view_appointments){:target="_blank"}<br>
