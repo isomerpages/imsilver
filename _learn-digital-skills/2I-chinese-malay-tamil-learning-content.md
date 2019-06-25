@@ -10,7 +10,7 @@ second_nav_title: Learn Online
 
 Here are some learning resources in Chinese, Malay and Tamil.<br>
 
-# **Chinese Content**<br>
+# **中文**<br>
 
 <h3>1. 初识电脑</h3>
 **单元一 : 初识电脑**<br>
@@ -47,7 +47,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 
 
-# **Malay Content**<br>
+# **Bahasa Melayu**<br>
 
-# **Tamil Content**<br>
+# **தமிழ்**<br>
 
