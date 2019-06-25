@@ -14,4 +14,4 @@ The Digital Maker Programme aims to nurture a new generation of digital creators
 * About Us - [Link](https://www.imda.gov.sg/digitalmaker/about-us){:target="_blank"}<br>
 * How To Code - [Link](https://www.imda.gov.sg/DigitalMaker/Start){:target="_blank"}<br> 
 <h3>2. Projects To Make<h3>
-*waiting for digital maker project page to be ready*
+Click *here* to view tutorials on how to create fun digital making projects!
