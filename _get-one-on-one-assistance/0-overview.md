@@ -5,10 +5,9 @@ permalink: /get-one-on-one-assistance/overview/
 breadcrumb: Overview
 collection_name: get-one-on-one-assistance
 ---
+![image](/images/get-one-on-one-assistance/one-on-one-assistance2.JPG)
 
-> picture
-
-#### Get One-on-One Assistance<br>
+#### **Get One-on-One Assistance**<br>
 
 Do you face problems with how to use your smartphone and wished there is someone who can give you one-on-one assistance?   Here are a few programmes where you can attend to get the personal attention you always wanted!  <br>
 
