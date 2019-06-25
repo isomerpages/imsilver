@@ -7,7 +7,7 @@ collection_name: learn-digital-skills
 second_nav_title: Attend Classes
 ---
 
->picture
+![picture](/images/learn-digital-skills/attend-classes.jpg)
 
 Learn useful digital skills from our exciting and informative classes conducted throughout the island! <br>
 #### [Silver Infocomm Junctions](/learn-digital-skills/attend-classes/silver-infocomm-junctions/)<br>
