@@ -6,7 +6,7 @@ breadcrumb: "SG:D Friends"
 collection_name: get-involved
 ---
 
-> photo of volunteers
+![image](/images/get-involved/sgd-friends/sgd-friends-v1.jpg)
 
 The SG:D Friends programme offers opportunities for public and private organisations to reach out to all segments of the community, including mature adults and seniors, students, low-income families and people with disabilities. In addition to supporting digital readiness (“DR”) activities through volunteering, partners will also be able to take on a larger role in multiplying the DR outreach efforts.<br>
 
