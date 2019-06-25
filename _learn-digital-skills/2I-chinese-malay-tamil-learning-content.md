@@ -8,7 +8,7 @@ second_nav_title: Learn Online
 ---
 > picture<br>
 
-Click below to view our content translated into Chinese, Malay and Tamil.<br>
+Here are some learning resources in Chinese, Malay and Tamil.<br>
 
 # **Chinese Content**<br>
 
