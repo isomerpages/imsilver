@@ -13,8 +13,8 @@ Be the first to be notified of exclusive digital happenings for seniors in your 
 
 To read our helpful and informative articles, visit our **[articles](/be-informed/articles)** page. <br>
 
-To find out what happened at our recent events, visit our **[event coverage](/be-informed/event-coverage)** page.<br>
+IMDA organises fun outreach activities to help seniors embrace easy-to-learn digital skills. Visit our **[event coverage](/be-informed/event-coverage)** page to check out what goes on in these events.<br>
 
 SII has been featured in external media many times! Visit our **[media](/be-informed/media)** page to learn more.<br>
 
-If you wish to join us at our next exciting event, visit our **[events](/events/)** page!
+IMDA seeks to inspire seniors to adopt basic digital skills. Visit our **[events](/events/)** page to check out our some of exciting digital happenings!
