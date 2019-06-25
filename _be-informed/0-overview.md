@@ -7,6 +7,8 @@ collection_name: be-informed
 second_nav_title: Be Informed
 ---
 
+![image](/images/be-informed/be-informed-1.jpg)
+
 Did you know that at the end of every month, we share the most hip upcoming digital events for seniors and interesting nuggets on digital skills?<br>
 
 Be the first to be notified of exclusive digital happenings for seniors in your neighbourhood, and stay informed about new digital inclusivity initiatives here. 
