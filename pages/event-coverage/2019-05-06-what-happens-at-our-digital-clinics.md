@@ -46,7 +46,7 @@ Mr Aw Yong Kim, a corporate volunteer from the Singapore Prison Service, also dr
 **Over 4, 000 Seniors Cannot Be Wrong – Digital Clinic Volunteers are Great**<br>
 Over 4,000 seniors had benefitted from the Digital Clinic initiative. In fact, many have attended more than one Digital Clinic session. One example is Mr. Tiu Ing, who enjoyed learning from the volunteers at the Digital Clinic so much that he made a return visit. Another is Madam Goh Wee Hang, 70, who attended Digital Clinics seven times over the past months as she was eager to learn and felt that the volunteers were bilingual and good so it made it easy for her to understand. 
  
-![image5](images/event-coverage/what-happens-at-our-digital-clinics/Image 6.JPG)
+![image6](images/event-coverage/what-happens-at-our-digital-clinics/Image 6.JPG)
 <sub>Seniors receive patient, dedicated help on a first-come-first-served basis. </sub><br>
 
 **Amaze Your Friends, Family and Yourself!**<br>
