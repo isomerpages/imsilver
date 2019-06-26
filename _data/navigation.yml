@@ -29,13 +29,13 @@
       - title: Tech Connect
         url: /get-one-on-one-assistance/tech-connect/
 
-- title: Basic Digital Skills
-  url: /test-my-digital-skills/basic-digital-skills
+- title: Test My Digital Skills
+  url: https://confirmation.gevme.com/BDS_Quiz/landing/
+  external: true
   sub-links:
-      - title: Test My Digital Skills
-        url: https://confirmation.gevme.com/BDS_Quiz/landing/
-        external: true
-
+      - title: What Are Basic Digital Skills
+        url: /test-my-digital-skills/basic-digital-skills
+       
 - title: Be Informed
   url: /be-informed/overview
   sub-links:
