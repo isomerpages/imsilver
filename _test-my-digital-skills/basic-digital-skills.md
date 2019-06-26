@@ -15,25 +15,25 @@ These skills correspond with the common everyday activities such as searching fo
 Our Basic Digital Skills Curriculum is designed to prepare citizens - especially seniors – to use technology confidently, for the digital society of today. The programme will cover four areas:<br>
 
 
-**Managing Information and Communication**<br>
+**1. Managing Information and Communication**<br>
 
 Learn how to surf the internet and communicate using email and social media. You will be introduced to popular e-communication platforms such as Gmail, Facebook, WhatsApp and many more! [Click here](/learn-digital-skills/learn-online/e-communications-bds/)<br>
 
 ---
 
-**Transacting Digitally**<br>
+**2. Transacting Digitally**<br>
 
 Pick up useful digital tools in online shopping, banking apps and e-payments. Learn about the online services, mobile banking and e-payment apps provided by major banks. [Click here](/learn-digital-skills/learn-online/digital-transactions-bds/)<br>
 
 ---
 
-**E-government**<br>
+**3. E-government**<br>
 
 Familiarise yourself with the various Government digital services such as Singpass Mobile. [Click here](/learn-digital-skills/learn-online/government-digital-services-bds/)<br>
 
 ---
 
-**Cybersecurity**<br>
+**4. Cybersecurity**<br>
 
 Get tips on cybersecurity and learn how to stay safe while you are online. Learn how to discern fake news to protect yourself and your loved ones. [Click here](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
 
