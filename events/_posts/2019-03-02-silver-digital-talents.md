@@ -13,7 +13,7 @@ Each participant will get the following for FREE at the end of the session:<br>
 * A digital copy of an eBook you created during the session<br>
 * A physical print out of the eBook you created during the session<br>
  
-What will you learn<br>
+**What will you learn**<br>
  
 Participants will sign up for one 2-hour session and be guided to move in small groups into different areas of the event venue to get hands-on experience in digital skills such as:<br>
  
