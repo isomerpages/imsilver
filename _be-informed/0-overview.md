@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Be Informed
 permalink: /be-informed/overview
-breadcrumb: Overview
+breadcrumb: Be Informed
 collection_name: be-informed
 ---
 
