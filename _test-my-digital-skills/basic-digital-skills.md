@@ -6,6 +6,8 @@ breadcrumb: Basic Digital Skills
 ---
 ![graphic](/images/bds/bds-graphic-2.png)
 
+#### **What are Basic Digital Skills?**<br>
+
 It is important for everyone to be digitally ready and to have the basic digital skills to enjoy greater convenience and participate meaningfully in a digital society.<br>
 
 These skills correspond with the common everyday activities such as searching for information, communicating through email or chats, transacting online, making e-payments, and accessing digital government services. Relevant messages on cyber security and discernment, including how to discern fake news, will also be included in the curriculum to increase citizens’ awareness on staying safe in a digital world.<br>
