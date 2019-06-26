@@ -16,13 +16,14 @@ You have a smartphone. You know that it has many features and can bring you grea
 
 Thankfully, IMDA’s Digital Clinic initiative is here to help! Launched since November 2017, the friendly SG:D Friends, who the corporate volunteers at the Clinics had been providing one-on-one assistance to help seniors learn how to use their smartphones. Take it from Madam Ginny, 68, who struggled with tasks like connecting to Wi-Fi and transferring music onto her phone. After walking into one of the Digital Clinics, she learned to do all those things and more.
 
-![image2](/images/event-coverage/what-happens-at-our-digital-clinics/Image 2.JPG)<br>
+![image2](/images/event-coverage/what-happens-at-our-digital-clinics/Image 2.JPG)
 <sub>Digital Clinics are open to all age groups and are especially suited to seniors.</sub>
 
 **Right Here in the Neighbourhood**<br>
 Anyone can attend a Digital Clinic. You do not need to make an appointment either, simply walk in and ask for help, and you will be attended to. Volunteers spend up to 20 minutes to assist with whatever seniors need help with, from e-payments, to accessing government services and much more! 
 
 Even if you have moved past basic smartphone functions, our Digital Clinics still have much to offer. For example, Madam Lee Gek Chen, 50, who travels often within and outside Singapore, discovered that her smartphone could help her travel safe and smart. Volunteers at the Digital Clinic showed her how to utilise ride-hailing and map navigation apps to get around fast, and how to use e-payment to cut down on transaction times. She even learned to turn on Airplane Mode to avoid causing interference on aircraft’s radios while travelling overseas!<br> 
+
 ![image3](/images/event-coverage/what-happens-at-our-digital-clinics/Image 3.jpg)
 <sub>Sessions are conducted by volunteers who take the time out to help seniors patiently.</sub>
 
@@ -40,7 +41,8 @@ Mr Aw Yong Kim, a corporate volunteer from the Singapore Prison Service, also dr
  “It’s nice to know I can impart my knowledge to [them].”<br>
 
 ![image5](images/event-coverage/what-happens-at-our-digital-clinics/Image 5.JPG)
-<sub>Our Digital Clinics are very popular – just look at how many people are attending!</sub><br>
+<sub>Our Digital Clinics are very popular – just look at how many people are attending!</sub>
+
 **Over 4, 000 Seniors Cannot Be Wrong – Digital Clinic Volunteers are Great**<br>
 Over 4,000 seniors had benefitted from the Digital Clinic initiative. In fact, many have attended more than one Digital Clinic session. One example is Mr. Tiu Ing, who enjoyed learning from the volunteers at the Digital Clinic so much that he made a return visit. Another is Madam Goh Wee Hang, 70, who attended Digital Clinics seven times over the past months as she was eager to learn and felt that the volunteers were bilingual and good so it made it easy for her to understand. 
  
