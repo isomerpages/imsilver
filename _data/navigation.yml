@@ -34,6 +34,7 @@
   sub-links:
       - title: Test My Digital Skills
         url: https://confirmation.gevme.com/BDS_Quiz/landing/
+        external: true
 
 - title: Be Informed
   url: /be-informed/overview
