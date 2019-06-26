@@ -30,5 +30,5 @@ The Digital Participation Pledge encourages organisations to play their part to 
 
 #### How to pledge<br>
 
-Organisation can play their part now to help Singapore be digitally ready by taking the Digital Participation Pledge today. Visit the Digital Participation Pledge <a href="www.digitalreadiness.sg/pledge" target="_blank">website</a>
-[test](www.digitalreadiness.sg/pledge)
+Organisation can play their part now to help Singapore be digitally ready by taking the Digital Participation Pledge today. Visit the Digital Participation Pledge [website](www.digitalreadiness.sg/pledge"website")
+
