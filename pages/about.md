@@ -4,9 +4,10 @@ title: About
 permalink: /about/
 breadcrumb: About
 ---
-#### What is IM Silver?
 
 ![about](/images/about/about.jpg)
+
+#### IM Silver
 
 IM Silver Portal, at [www.IMSilver.sg](www.imsilver.sg) is a website launched by IMDA aimed at helping seniors and matured adults to learn how to go digital.  It provides online guides, content and resources where seniors can learn how to use mobile and digital technologies. 
 
