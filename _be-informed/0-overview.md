@@ -4,7 +4,6 @@ title: Overview
 permalink: /be-informed/overview
 breadcrumb: Overview
 collection_name: be-informed
-second_nav_title: Be Informed
 ---
 
 ![image](/images/be-informed/be-informed-1.jpg)
