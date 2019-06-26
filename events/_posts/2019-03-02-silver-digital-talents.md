@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Silver Digital Talents
-date:   201-03-02
+date:   2019-03-02
 permalink: /events/silver-digital-talents-20190302
 ---
 
