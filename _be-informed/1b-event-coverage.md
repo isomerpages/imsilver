@@ -12,5 +12,5 @@ Check out what goes on at the numerous outreach activities we hold throughout th
 
 | Date | Title |
 |--|--|
-| **loren ipsum** | **loren ipsum** |
+| **16 April 2019** | **Share Your Life Experiences with Everyone – Digitally** |
 | **loren ipsum** | **loren ipsum** |
