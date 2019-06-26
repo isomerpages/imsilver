@@ -9,6 +9,10 @@ collection_name: get-one-on-one-assistance
 
 <br>Digital Clinic provides participants with one-on-one assistance in using their mobile devices, making it easy for everyone to adopt technology. Digital Clinic participants can get connected to Wireless@SG, learn cybersecurity tips, personalise accessibility tools on their advices and adjust their phone settings to best suit their needs. Friendly volunteers will also share information on relevant mobile lifestyle applications, e-payments as well as tips on online discernment. The sessions will cater to both iOS and Android device users and will be held weekly at selected public libraries and community spaces throughout the year. <br>
 
+<div class="bp-youtube">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/2p2-mMrdo6s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+
 **Upcoming Sessions**
 <br>
 
