@@ -8,7 +8,7 @@ collection_name: get-one-on-one-assistance
 
 #### Digital Clinics @ Merdeka Generation Roadshows
 
-> picture
+![image](/images/get-one-on-one-assistance/merdeka-clinics1.jpeg)
 
 The Digital Clinic at the Merdeka Generation Roadshows provides a variety of digital assistance and services to the MG seniors. The volunteers with help the seniors with queries on their mobile devices but will focus on the following:<br>
 *	Download and set up of Wireless@SG apps<br>
