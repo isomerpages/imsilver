@@ -6,7 +6,7 @@ breadcrumb: Cyber Security (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-![[1](/images/learn-online/cybersecurity.jpg)
+![1](/images/learn-online/cybersecurity.jpg)
 
 Click below to view online guides that will familiarise you with the basic skills needed to stay safe in cyberspace<br>
 
