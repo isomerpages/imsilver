@@ -6,7 +6,7 @@ breadcrumb: E-Communications (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture
+![1](/images/learn-online/e-communication.jpg)
 
 <h3>1. Email</h3>
 * Introduction to Email - <a href="https://www.digitallearn.org/courses/intro-to-email" target="_blank">Link</a><br>
