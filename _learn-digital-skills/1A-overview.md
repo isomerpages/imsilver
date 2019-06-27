@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Attend Classes
 permalink: /learn-digital-skills/attend-classes/overview/
-breadcrumb: Overview
+breadcrumb: Attend Classes
 collection_name: learn-digital-skills
 second_nav_title: Attend Classes
 ---
