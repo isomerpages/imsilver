@@ -6,7 +6,8 @@ breadcrumb: Digital Transactions (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture<br>
+![1](/images/learn-online/e-payment.jpg)
+
 Click below to view online guides that will teach you how to perform digital transactions.<br>
 
 <h3>1. e-payment</h3>
