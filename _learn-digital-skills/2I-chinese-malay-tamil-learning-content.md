@@ -6,7 +6,7 @@ breadcrumb: Chinese, Malay and Tamil Learning Content
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture<br>
+![1](/images/learn-online/chinese-malay-tamil.jpeg)
 
 Here are some learning resources in Chinese, Malay and Tamil.<br>
 
