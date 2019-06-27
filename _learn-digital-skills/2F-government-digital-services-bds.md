@@ -6,7 +6,7 @@ breadcrumb: Government Digital Services (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture<br>
+![1](/images/learn-online/government-digital-services.jpg)
 
 Click below to view online guides that will show you how to utilise government digital services.<br>
 
