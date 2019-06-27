@@ -6,7 +6,7 @@ breadcrumb: Introduction to Mobile Devices
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture<br>
+![1](/images/learn-online/mobile-devices.jpg)
 
 Click below to view online guides that will familiarise you with the basic features and capabilities of mobile devices.<br>
 
