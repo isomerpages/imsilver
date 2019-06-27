@@ -6,7 +6,7 @@ breadcrumb: Related Links
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture<br>
+![1](/images/learn-online/related-links.jpg)
 
 Here you will find guides on how to use other useful digital services and apps
 
