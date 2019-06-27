@@ -6,7 +6,7 @@ breadcrumb: Digital Maker
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-> picture<br>
+![1](/images/learn-online/digital-maker.jpg)
 
 The Digital Maker Programme aims to nurture a new generation of digital creators and makers by introducing simple-to-use and open ended technology that students and adults will find comfortable to use. <br>
 
