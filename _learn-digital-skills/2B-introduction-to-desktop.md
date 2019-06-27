@@ -6,6 +6,8 @@ breadcrumb: Introduction to Desktop
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
+![1](/images/learn-online/intro-desktop.jpg)
+
 Click below to view online guides that will familiarise you with the basic components and capabilities of a desktop computer.
 
 <h3>1. Basic Parts of a Computer</h3>
