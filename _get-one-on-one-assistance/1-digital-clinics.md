@@ -77,6 +77,10 @@ collection_name: get-one-on-one-assistance
 <td>Toa Payoh Public Library, 6 Toa Payoh Central, Singapore 319191</td>
   <td>27 August 2019</td> 
   <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>e-Payment @UOB Tampines Centre,  1 Tampines Central 1 #01-01, Singapore 529539</td>
+  <td>14 Sep 2019</td> 
+  <td>2pm – 4pm <a href="uob.com.sg/digitalclinic-epayment" target="blank">Register</a></td> </tr>
 </table>
 
 
