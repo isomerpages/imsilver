@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Overview
+title: Learn Online
 permalink: /learn-digital-skills/learn-online/overview/
-breadcrumb: Overview
+breadcrumb: Learn Online
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
