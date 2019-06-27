@@ -56,8 +56,8 @@ Besides responsible behaviour online, participants also gained an understanding 
 
 **Avid Learners**
 
-![1](/images/event-coverage/tech4community/tech4community-article-6.jpg)
-![1](/images/event-coverage/tech4community/tech4community-article-7.jpg)
+![1](/images/event-coverage/tech4community/tech4community-article-6.jpg)<br>
+![1](/images/event-coverage/tech4community/tech4community-article-7.jpg)<br>
 ![1](/images/event-coverage/tech4community/tech4community-article-8.jpg)
 <sub>A variety of engaging talks and exhibits stimulated the minds and senses of participants at the Tech4community and Silver Infocomm Roadshow</sub>
 
