@@ -4,7 +4,7 @@ title: Basic Digital Skills
 permalink: /test-my-digital-skills/basic-digital-skills
 breadcrumb: Basic Digital Skills
 ---
-![graphic](/images/bds/bds-graphic-2.png)
+![graphic](/images/bds/bds-right-v2.jpg)
 
 #### **What are Basic Digital Skills?**<br>
 
