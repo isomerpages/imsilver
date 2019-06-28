@@ -8,6 +8,10 @@ collection_name: be-informed
 
 | Date | Title | Media |
 |--|--|--|
+| 8 April 2019 | <a href="https://www.opengovasia.com/sg-senior-minister-of-state-speaks-of-building-a-digital-ready-nation-at-tech4community-event/" target="_blank">SG Senior Minister of State speaks of building a digital ready nation at Tech4Community event</a> | OpenGov Asia |
+| 7 April 2019 | <a href="https://www.8world.com/news/singapore/article/digital-readiness-789741" target="_blank">超过100家企业做出“数码行动承诺” 助国人提升数码能力</a> | 8world |
+| 7 April 2019 | <a href="https://www.zaobao.com.sg/realtime/singapore/story20190407-946634" target="_blank">超过400家企业做出“数码行动承诺”</a> | zaobao |
+| 7 April 2019 | <a href="https://www.sgtech.org.sg/SGTECH/Web/SGTech_News_2019/Apr19/Tech4Community_2019_Embracing_Digital_Readiness.aspx" target="_blank">Resounding Success at Tech4Community 2019!</a> | SGTech |
 | 24 July 2018 | <a href="https://www.todayonline.com/singapore/seniors-pick-fun-skills-courses-create-ringtones-code-apps-make-movies" target="_blank">Seniors to pick up fun skills with courses to create ringtones, code apps, make movies</a> | TODAY |
 | 3 June 2018 | <a href="https://www.straitstimes.com/tech/crossing-digital-divide-the-future-is-near-at-hand" target="_blank">Crossing digital divide: The future is near at hand</a> | The Straits Times |
 | 2 June 2018| <a href="https://www.channelnewsasia.com/news/singapore/singapore-launches-first-digital-readiness-blueprint-with-10312390" target="_blank">Singapore launches first digital readiness blueprint, with inclusivity a key thrust</a> | CNA |
