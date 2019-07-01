@@ -33,9 +33,17 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
+    section-subtitle: Digital Inclusion Fest
+    section-description: At the Digital Inclusion Festival, people from all corners of society can try out and learn how digital technology can benefit them. Filled with fun activities featuring guest appearances from popular personalities, it is a three day extravaganza not to be missed!
+    section-more-button: Learn more
+    section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
+    section-image-path: 
+    
+  - section-title: 
     section-subtitle: What are Basic Digital Skills?
     section-description: Basic digital skills are used in common online activities such as searching for information, emailing or virtual chatting, transacting online, making e-payments, and accessing digital government services. Find out how good your basic digital skills are by taking our quiz!
     section-more-button: Take our quiz
+    external: true
     section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
     section-image-path: /images/bds/bds-left-v2.jpg
     
