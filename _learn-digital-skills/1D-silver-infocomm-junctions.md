@@ -8,7 +8,7 @@ second_nav_title: Attend Classes
 ---
 ![SIJ](/images/learn-digital-skills/sij/sij-01.jpeg)
 
-Silver Infocomm Junctions (SIJs) are senior-friendly IT learning hubs that offer affordable Infocomm training and customised curriculum. They can be found at 12 convenient locations islandwide, for participants to easily access in-depth digital learning.
+Silver Infocomm Junctions (SIJs) are senior-friendly IT learning hubs that offer affordable Infocomm training and customised curriculum. They can be found at convenient locations islandwide, for participants to easily access in-depth digital learning.
 
 List of SIJs
 
@@ -71,7 +71,7 @@ List of SIJs
     <td class="tg-0lax">67785163</td>
   </tr>
   <tr>
-    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers/td>
+    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
     <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #08-02, Singapore 579837</td>
     <td class="tg-kftd">62590802, www.rsvp.org.sg</td>
   </tr>
