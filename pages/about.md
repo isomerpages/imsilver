@@ -5,28 +5,29 @@ permalink: /about/
 breadcrumb: About
 ---
 
-![about](/images/about/about.jpg)
+![1](/images/about/IMDA BDS_Web_Graphic_v3_About.png)
+
 
 #### IM Silver
 
-IM Silver Portal, at www<span></span>.IMSilver.sg is a website launched by IMDA aimed at helping seniors and matured adults to learn how to go digital.  It provides online guides, content and resources where seniors can learn how to use mobile and digital technologies. 
+The IM Silver Portal is a website managed by the Infocomm Media Development Authority (IMDA) that provides online guides, content and resources aimed at helping seniors and mature adults to learn how to use mobile and digital technologies effectively.
+
+
+![about](/images/about/about.jpg)
 
 #### Digital Readiness
 
-Digital technologies can make our daily lives more convenient and they can also impacting the way we work, live, learn and play. It is therefore important that all Singaporeans leverage the opportunities provided by digital technology, so we can all fully reap the benefits together in a truly Smart Nation.  
-
-We reach out to the community to lend a helping hand to those who need it and help ensure all can participate meaningfully in a digital society. 
-
-Our programmes aim to provide access to technology, digital literacy skills and know-how, as well as inspiring adoption of new technologies through experiential learnings.  
+Building Digital Readiness in Singaporeans is part of Singapore’s digitalisation efforts to ensure that every Singaporean is digitally ready to seize the benefits and opportunities afforded by technology. Various programmes have been rolled out to build a digital society where no one is left behind in the push towards a digital future; where our people have the necessary tools and skills to thrive; and can use technology to participate meaningfully in the Digital Economy. 
+Our programmes aim to provide people with affordable digital access, digital literacy skills and know-how to use digital technology safely and confidently, as well as inspire adoption of new emerging technologies through experiential learnings.
 
 #### Silver Infocomm Initiative
 
-The Silver Infocomm Initiative (SII) is a Digital Inclusion effort, led by the government in strong partnership with industry, academia and the community, to engage the seniors so that they, too will be able to benefit from a digital economy. This is made more evident as Singapore develops to be a Smart Nation, with many critical government services moving online. 
+The Silver Infocomm Initiative (SII) is a Digital Inclusion effort, led by the government in strong partnership with industry, academia and the community, to engage seniors and mature adults so that they, too will be able to benefit from a digital economy. This is made more evident as Singapore progresses into the digital economy, with many critical government services moving online. 
 
 The success of SII hinges on the following:<br> 
 * a multi-pronged approach
 * strong partnership
 * active volunteerism and 
-* sustained government support. 
+* continuous government support. 
 
 These elements are demonstrated through the various strategies implemented under the SII branding.
