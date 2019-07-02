@@ -5,7 +5,7 @@ permalink: /get-one-on-one-assistance/overview/
 breadcrumb: Get One-On-One Assistance
 collection_name: get-one-on-one-assistance
 ---
-![image](/images/get-one-on-one-assistance/one-on-one-assistance2.JPG)
+![image](/images/get-one-on-one-assistance/IMDA BDS_Web_Graphic_v3_Get One-On-One Assistance.png)
 
 #### **Get One-On-One Assistance**<br>
 
