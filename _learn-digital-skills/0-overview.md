@@ -5,7 +5,7 @@ permalink: /learn-digital-skills/overview/
 breadcrumb: Learn Digital Skills
 collection_name: learn-digital-skills
 ---
-![overview](/images/learn-digital-skills/learn-digital-skills-overview.jpeg)
+![overview](/images/learn-digital-skills/IMDA BDS_Web_Graphic_v3_learn Digital Skills.png)
 
 It is important for everyone to have the basic digital skills to enjoy greater convenience in their daily lives, and participate meaningfully in a digital society. 
 
