@@ -7,9 +7,6 @@ collection_name: get-one-on-one-assistance
 ---
 ![graphic](/images/get-one-on-one-assistance/digital-clinics-epayment.jpg)
 
-#### Digital Clinic (e-payment)<br>
-
-Want to learn more on the convenience of e-payment? Visit the Digital Clinic (e-Payment) to receive one-on-one assistance, where friendly volunteers share tips on how to use e-payment in your daily lives. <br>
-For more information on the schedule, please return to the Digital Clinic [main page](/get-one-on-one-assistance/digital-clinics/)
+Want to learn about cashless payments, understand how to use it and enjoy the conveniences? Visit Digital Clinics (e-Payment) to receive a session of one-on-one assistance, where our friendly volunteers will share tips on how to use e-payment in your daily lives. For more information on the schedule, please return to the Digital Clinic [main page](/get-one-on-one-assistance/digital-clinics/)
 
 
