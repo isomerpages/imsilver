@@ -6,7 +6,7 @@ breadcrumb: Be Informed
 collection_name: be-informed
 ---
 
-![image](/images/be-informed/be-informed-1.jpg)
+![image](/images/be-informed/IMDA BDS_Web_Graphic_v3_Be-Informed.png)
 
 Did you know every month, we share the most hip upcoming digital events for seniors and interesting nuggets on digital skills?<br>
 
