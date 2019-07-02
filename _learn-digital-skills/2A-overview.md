@@ -9,7 +9,7 @@ second_nav_title: Learn Online
 
 ![overview](/images/learn-online/overview/learn-online-overview.jpg)
 
-If you prefer to learn on their own, here are some online learning guides for you to explore.<br>
+If you prefer to learn on your own, here are some online learning guides for you to explore.<br>
 
 #### [Introduction to Desktop](/learn-digital-skills/learn-online/introduction-to-desktop/)<br>
 #### [Introduction to Mobile Devices](/learn-digital-skills/learn-online/introduction-to-mobile-devices/)<br>
