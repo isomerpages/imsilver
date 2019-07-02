@@ -7,9 +7,9 @@ collection_name: get-one-on-one-assistance
 ---
 ![image](/images/get-one-on-one-assistance/one-on-one-assistance2.JPG)
 
-#### **Get One-on-One Assistance**<br>
+#### **Get One-On-One Assistance**<br>
 
-Do you face problems with how to use your smartphone and wished there is someone who can give you one-on-one assistance?   Here are a few programmes where you can attend to get the personal attention you always wanted!  <br>
+Do you face problems with using your smartphone and wish there were someone who could give you one-on-one assistance? Here are some programmes that you can attend to get the personal attention that you have always wanted!  <br>
 
 #### Digital Clinics<br>
 
@@ -21,7 +21,7 @@ Have you always wondered how payments are made via mobile phones and what conven
 
 #### Digital Clinics @ Merdeka Generation Roadshows<br>
 
-Join us at our Digital Clinics at the Merdeka Generation Roadshows held island-wide. Our friendly volunteers will provided one-on-one assistance to help make your smartphone work better for you! [Click here](/get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/) to find out more.<br>
+Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/) to find out more.<br>
 
 
 
