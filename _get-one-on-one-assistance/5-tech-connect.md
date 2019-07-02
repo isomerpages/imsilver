@@ -19,5 +19,33 @@ List of Tech Connect Community Clubs<br>
   <td>Bedok CC</td>
   <td>9am-10pm</td>
 </tr>
+<tr>
+  <td>Chua Chu Kang CC</td>
+  <td>9am-10pm</td>
+</tr>
+<tr>
+  <td>Kampong Chai Chee CC</td>
+  <td>9am-10pm</td>
+</tr>
+<tr>
+  <td>Our Tampines Hub</td>
+  <td>9am-10pm</td>
+</tr>
+<tr>
+  <td>Punggol Vista CC</td>
+  <td>2pm-10pm</td>
+</tr>
+<tr>
+  <td>Radin Mas CC</td>
+  <td>9am-10pm</td>
+</tr>
+<tr>
+  <td>Ulu Pandan CC</td>
+  <td>9am-10pm</td>
+</tr>
+<tr>
+  <td>West Coast CC</td>
+  <td>9am-10pm</td>
+</tr>
 
 </table>
