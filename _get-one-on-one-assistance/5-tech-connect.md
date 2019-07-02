@@ -8,6 +8,6 @@ collection_name: get-one-on-one-assistance
 
 ![graphic](/images/get-one-on-one-assistance/tech-connect-graphic.png)
 
-Tech Connect is an initiative that provides dedicated one-on-one tech assistance to any person who may need help with their digital devices and services.<br>
+Tech Connect is a collaboration among the Ministry of Communications (MCI), Infocomm Media Development Authority (IMDA), and the People’s Association (PA), to provide one-on-one assistance to residents who need help in using their digital devices and services. This service is free and is currently available at eight Community Clubs (CCs). CCs offering the Tech Connect service will have a decal showing the words “Tech Connect #ShowMeHow” at their main entrance. [Click here](https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures){:target="_blank"} to find out more
 
-Tech Connect is available in any of the eight Community Centres.  Look out for PA staff, known as your “Tech Connect Kakis”. These “Tech Connect Kakis” will provide you with one-on-one assistance. [Click here](https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures){:target="_blank"} to find out more
+
