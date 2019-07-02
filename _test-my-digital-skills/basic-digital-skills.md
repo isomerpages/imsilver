@@ -14,7 +14,7 @@ These skills correspond with the common everyday activities such as searching fo
 
 #### **Are You Digitally Ready?**<br>
 
-Our Basic Digital Skills Curriculum is designed to prepare citizens - especially seniors – to use technology confidently, for the digital society of today. The programme will cover four areas:<br>
+Our Basic Digital Skills Curriculum is designed to prepare Singaporeans - especially seniors - to embrace technology and use it confidently to participate meaningfully in the digital society. The programme will cover four areas:<br>
 
 
 **1. Managing Information and Communication**<br>
@@ -57,9 +57,7 @@ Join us for a one-day Basic Digital Skills course if you are keen to learn more.
 
 # Basic Digital Skills Quiz<br>
 
-To be digitally ready, you will need the basic digital skills to tap into the benefits digital technology offers.<br>
-
-How digitally ready are you? Try our Basic Digital Skills Quiz to find out!<br>
+Take a simple quiz to find out how digitally savvy you are.<br>
 
 [<img src="/images/bds/bds-quiz-button.jpeg">](https://confirmation.gevme.com/BDS_Quiz/landing/){:target="_blank"}
    
