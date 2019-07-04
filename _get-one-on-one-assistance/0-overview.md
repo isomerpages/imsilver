@@ -23,6 +23,14 @@ Have you always wondered how payments are made via mobile phones and what conven
 
 Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/) to find out more.<br>
 
+#### Merdeka Clinics<br>
+
+The Merdeka Generation Digital Clinics offer customised digital assistance packages for Merdeka Generation seniors.  [Click here](/get-one-on-one-assistance/merdeka-clinics/) to find out more.<br>
+
+#### Tech Connect<br>
+
+Visit any of our eight Community Clubs and let our Tech Connect Kakis show you how mobile apps and websites can help to connect your life! [Click here](/get-one-on-one-assistance/tech-connect/) to find out more.<br>
+
 
 
 
