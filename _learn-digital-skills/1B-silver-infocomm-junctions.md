@@ -66,11 +66,6 @@ List of SIJs
     <td class="tg-kftd">62735294</td>
   </tr>
   <tr>
-    <td class="tg-0lax">Buona Vista Community Club</td>
-    <td class="tg-0lax">Blk 36 Holland Drive #01-01, Singapore 270036</td>
-    <td class="tg-0lax">67785163</td>
-  </tr>
-  <tr>
     <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
     <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #08-02, Singapore 579837</td>
     <td class="tg-kftd">62590802, www.rsvp.org.sg</td>
