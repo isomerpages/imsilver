@@ -36,7 +36,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 **单元五 : 网络安全**<br>
 * [十个简单的网络安全提示](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
 * [个人资料保护法令 – 详情须知：什么是《个人资料保护法令》？](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Individuals/what-you-should-know-about-pdpa-v1-0---chinese.pdf){:target="_blank"}<br>
-* Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)- [Link](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
+* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
 * Media Literacy Council Do What’s Right: Be Safe (Mandarin) - [Link](https://www.youtube.com/watch?v=9RTvOWxy7uc){:target="_blank"}<br>
 * Media Literacy Council Zhun Bo – Episode 1 (Mandarin) - [Link](https://www.youtube.com/watch?v=ElI1H57dvl8){:target="_blank"}<br>
 * Media Literacy Council Zhun Bo – Episode 2 (Mandarin) - [Link](https://www.youtube.com/watch?v=YtYOvu-rnzU){:target="_blank"}<br>
