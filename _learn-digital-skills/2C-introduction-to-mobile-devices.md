@@ -12,21 +12,21 @@ Click below to view online guides that will familiarise you with the basic featu
 
 <h3>1. Mobile Devices</h3>
  
-* Introduction to Smartphones - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/smartphones" target="_blank">Link</a><br>
-* Introduction to Tablet - <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Link</a><br>
+* <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/smartphones" target="_blank">Introduction to Smartphones</a><br>
+* <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Introduction to Tablet</a><br>
 
 <h3>2. Operating System</h3>
 <h5>Android Basics</h5>
-* Introduction to Android - <a href="https://edu.gcfglobal.org/en/androidbasics/" target="_blank">Link</a><br>
-* Android Mobile Security - <a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps" target="_blank">Link</a><br>
-* Protect Your Android Device - <a href="https://support.google.com/android/answer/6215472?hl=en" target="_blank">Link</a><br>
+* <a href="https://edu.gcfglobal.org/en/androidbasics/" target="_blank">Introduction to Android</a><br>
+* <a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps" target="_blank">Android Mobile Security</a><br>
+* <a href="https://support.google.com/android/answer/6215472?hl=en" target="_blank">Protect Your Android Device</a><br>
   
 <h5>iOS Basics</h5>
-* FAQ on Apple ID  - <a href="https://appleid.apple.com/faq/#!&page=faq" target="_blank">Link</a><br>
-* Getting Started with iPad - <a href="https://books.apple.com/us/book/ipad-starter-guide-ios-10/id1181563338" target="_blank">Link</a><br>(*Please note that you will need an Apple account to download the iBooks into your Apple device, for the link above. The Apple ID is the personal account that you use when you first set up your iPhone/iPad. Size: 272 MB*)
-* iPad Basics - <a href="https://edu.gcfglobal.org/en/ipadbasics/" target="_blank">Link</a><br>
-* Make Your iPad and iPhone Accessible - <a href="https://www.apple.com/accessibility/" target="_blank">Link</a><br>
+* <a href="https://appleid.apple.com/faq/#!&page=faq" target="_blank">FAQ on Apple ID</a><br>
+* <a href="https://books.apple.com/us/book/ipad-starter-guide-ios-10/id1181563338" target="_blank">Getting Started with iPad</a><br>(*Please note that you will need an Apple account to download the iBooks into your Apple device, for the link above. The Apple ID is the personal account that you use when you first set up your iPhone/iPad. Size: 272 MB*)
+* <a href="https://edu.gcfglobal.org/en/ipadbasics/" target="_blank">iPad Basics</a><br>
+* <a href="https://www.apple.com/accessibility/" target="_blank">Make Your iPad and iPhone Accessible</a><br>
 
 <h5>Windows Basics</h5>
-* Using Microsoft Surface - <a href="/files/surface-pro-4-user-guide-EN.pdf">Download guide</a><br>
+* <a href="/files/surface-pro-4-user-guide-EN.pdf">Using Microsoft Surface</a><br>
  
