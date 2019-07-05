@@ -37,12 +37,12 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [十个简单的网络安全提示](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
 * [个人资料保护法令 – 详情须知：什么是《个人资料保护法令》？](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Individuals/what-you-should-know-about-pdpa-v1-0---chinese.pdf){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
-* Media Literacy Council Do What’s Right: Be Safe (Mandarin) - [Link](https://www.youtube.com/watch?v=9RTvOWxy7uc){:target="_blank"}<br>
-* Media Literacy Council Zhun Bo – Episode 1 (Mandarin) - [Link](https://www.youtube.com/watch?v=ElI1H57dvl8){:target="_blank"}<br>
-* Media Literacy Council Zhun Bo – Episode 2 (Mandarin) - [Link](https://www.youtube.com/watch?v=YtYOvu-rnzU){:target="_blank"}<br>
-* Media Literacy Council Zhun Bo – Episode 3 (Mandarin) - [Link](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
-* Media Literacy Council Zhun Bo – Episode 4 (Mandarin) - [Link](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
-* Media Literacy Council Zhun Bo – Episode 5 (Mandarin) - [Link](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
+* [Media Literacy Council Do What’s Right: Be Safe (Mandarin)](https://www.youtube.com/watch?v=9RTvOWxy7uc){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 1 (Mandarin)](https://www.youtube.com/watch?v=ElI1H57dvl8){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 2 (Mandarin)](https://www.youtube.com/watch?v=YtYOvu-rnzU){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
 <h3>6. 电子付款</h3>
 **单元六 : 电子付款**<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>
@@ -51,9 +51,9 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 
 # **Bahasa Melayu**<br>
-* Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay) - [Link](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
-* Media Literacy Council Do What’s Right: Be Safe (Malay) - [Link](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
+* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
+* [Media Literacy Council Do What’s Right: Be Safe (Malay)](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
 
 # **தமிழ்**<br>
-* Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil) - [Link](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
-* Media Literacy Council Do What’s Right: Be Safe (Tamil) - [Link](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
+* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
+* [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
