@@ -18,8 +18,8 @@ The Digital Participation Pledge (DPP) encourages organisations to play their pa
 
 #### Who can pledge?<br>
 
-* All organisations of any size with an office in Singapore<br> 
-* Organisations from the people and public sectors<br>
+* All organisations of any size with an office in Singapore<br>
+* Organisations from the people, private and public sectors<br>
 * Each organisation may determine the appropriate representative to submit the pledge, according to its own corporate policies<br>
 
 #### Benefits<br>
