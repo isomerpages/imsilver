@@ -8,7 +8,7 @@ collection_name: get-one-on-one-assistance
 
 ![image](/images/get-one-on-one-assistance/merdeka-clinics1.jpeg)
 
-At the Merdeka Genetation (MG) Digital Clinics, MG seniors will undergo a simple Digital Readiness survey to assess their digital needs. The clinic will then prescribe a customised package of assistance. Examples of help available will include:<br>
+At the Merdeka Generation (MG) Digital Clinics, MG seniors will undergo a simple Digital Readiness survey to assess their digital needs. The clinic will then prescribe a customised package of assistance. Examples of help available will include:<br>
 
 * Downloading the Wireless@SG mobile app and one-time account set up to enjoy unlimited free data at available hotspots<br>
 * Tips on personal data protection<br>
