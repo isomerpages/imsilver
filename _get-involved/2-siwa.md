@@ -8,9 +8,10 @@ collection_name: get-involved
 
 ![siwa](/images/get-involved/siwa/siwa.jpg)
 
-The Silver Infocomm Wellness Ambassadors (SIWAs) are jointly appointed by the Infocomm Media Development Authority (IMDA) and the Peoples’ Association Active Ageing Council (PAAAC) annually.
-SIWAs are seniors, aged 50 years old and above, who are recognised for their active IT lifestyle and have a passion to inspire and encourage their peers to embrace technology in their lives. 
-These SIWAs comes from different backgrounds and nominations can be done online by themselves or by their peers. To date, about 200 SIWAs have been appointed.
+The Silver Infocomm Wellness Ambassadors (SIWAs) are jointly appointed by the Infocomm Media Development Authority (IMDA) and the Peoples’ Association Active Ageing Council (PAAAC) annually. SIWAs are seniors, aged 50 years old and above, who are recognised for their active IT lifestyle and have a passion to inspire and encourage their peers to embrace technology in their lives.<br>
+
+These SIWAs comes from different backgrounds and nominations can be done online by themselves or by their peers. To date, about 200 SIWAs have been appointed.<br>
+
 For more information, please contact us at info@imda.gov.sg or call 6377 3800.<br>
 
 
