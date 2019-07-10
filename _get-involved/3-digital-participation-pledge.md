@@ -30,6 +30,6 @@ The Digital Participation Pledge (DPP) encourages organisations to play their pa
 
 #### How to pledge<br>
 
-Organisations can join the digital readiness movement by taking the Digital Participation Pledge online at www.digitalreadiness/pledge{:target="_blank"}
+Organisations can join the digital readiness movement by taking the Digital Participation Pledge online at this [link](https://www.mci.gov.sg/digitalparticipationpledge){:target="_blank"}
 
 
