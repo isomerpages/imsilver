@@ -1,18 +1,23 @@
 ---
 layout: leftnav-page-content
-title: Digital Clinics @ Merdeka Generation Roadshow
+title: Merdeka Generation Digital Clinic
 permalink: /get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/
-breadcrumb: Digital Clinics @ Merdeka Generation Roadshow
+breadcrumb: Merdeka Generation Digital Clinic
 collection_name: get-one-on-one-assistance
 ---
 
 ![image](/images/get-one-on-one-assistance/merdeka-clinics1.jpeg)
 
-The Digital Clinics @ Merdeka Generation Roadshows will provide a variety of digital assistance and services to seniors born between 1950 and 1959. On top of providing this group of seniors with one-on-one assistance in using their mobile devices, the volunteers will provide the following services:<br>
-*	Set up the Wireless@SG app on their mobile devices to let them enjoy unlimited free data at available hotspots<br>
-*	Share the benefits of using the Smart Ah Ma app<br>
-*	Share cybersecurity tips to help them stay safe online<br>
-*	Introduce Home Access Programme to qualified seniors who require fibre broadband<br>
+At the Merdeka Genetation (MG) Digital Clinics, MG seniors will undergo a simple Digital Readiness survey to assess their digital needs. The clinic will then prescribe a customised package of assistance. Examples of help available will include:<br>
+
+* Downloading the Wireless@SG mobile app and one-time account set up to enjoy unlimited free data at available hotspots<br>
+* Tips on personal data protection<br>
+* Tips on creating strong passwords<br>
+* Tips on discerning online falsehood<br>
+* Search for information online (Google)<br>
+* Communication tools (email (Gmail) / chatting apps (WhatsApp)<br>
+* Online shopping apps (FairPrice Online)<br>
+* Government apps and digital services (Moments of Life app, My Transport, Smart AhMa apps, etc.)<br>
 
 For more information on the schedule, please return to the Digital Clinics [main page](/get-one-on-one-assistance/digital-clinics/)
 
