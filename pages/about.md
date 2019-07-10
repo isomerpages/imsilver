@@ -5,7 +5,7 @@ permalink: /about/
 breadcrumb: About
 ---
 
-![1](/images/about/IMDA BDS_Web_Graphic_v3_About.png)
+![1](/images/about/IMDA BDS_Web_Graphic_v4_About.png)
 
 
 #### IM Silver
