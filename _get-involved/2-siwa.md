@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: SIWA
+title: Silver Infocomm Wellness Ambassadors
 permalink: /get-involved/siwa/
-breadcrumb: SIWA
+breadcrumb: Silver Infocomm Wellness Ambassadors
 collection_name: get-involved
 ---
 
