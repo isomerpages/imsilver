@@ -17,7 +17,7 @@ Learn basic digital skills through attending events, classes or simply learning 
 
 #### Attend Events<br>
 
-Pick Up Digital Skills And Learn To Use Technology Confidently For Daily Activities. [Click here](/events/)<br>
+Pick up digital skills and learn to use technology confidently for daily activities. [Click here](/events/)<br>
 
 #### Attend Classes<br>
 
