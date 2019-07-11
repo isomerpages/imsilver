@@ -7,6 +7,7 @@ collection_name: get-involved
 ---
 ![1](/images/get-involved/IMDA BDS_Web_Graphic_v3_Be-Involved.png)
 
+#### **Get Involved**
 Would you like to help others in their digital learning journey? Choose from one of the options below to find out how you can ensure Singapore is Digitally Ready!<br>
 
 #### SG:D Friends
