@@ -19,13 +19,9 @@ Get one-on-one assistance on how to use your smartphone. [Click here](/get-one-o
 
 Have you always wondered how payments are made via mobile phones and what convenience e-payments can bring? Join us as we take you on a hands-on journey to learn how to use e-payments in your daily activities! [Click here](/get-one-on-one-assistance/digital-clinics-e-payment/) to find out more.<br>
 
-#### Digital Clinics @ Merdeka Generation Roadshows<br>
+#### Merdeka Generation Digital Clinic<br>
 
 Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/) to find out more.<br>
-
-#### Merdeka Clinics<br>
-
-The Merdeka Generation Digital Clinics offer customised digital assistance packages for Merdeka Generation seniors.  [Click here](/get-one-on-one-assistance/merdeka-clinics/) to find out more.<br>
 
 #### Tech Connect<br>
 
