@@ -17,4 +17,4 @@ For public and private organisations that would like to help out at our numerous
 Digitally-savvy seniors can choose to become Silver Infocomm Welfare Ambassadors (SIWA) and help their peers learn more digital skills. [Click here](/get-involved/siwa/)<br>
 
 #### Digital Participation Pledge
-Organisations that are prepared to make a long-term committment to helping Singaporeans acquire and improve their digital skills can adopt the Digital Participation Pledge (DPP). [Click here](/get-involved/digital-participation-pledge/)
+Organisations that are prepared to make a long-term commitment to helping Singaporeans acquire and improve their digital skills can adopt the Digital Participation Pledge (DPP). [Click here](/get-involved/digital-participation-pledge/)
