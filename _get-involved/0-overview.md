@@ -13,8 +13,8 @@ Would you like to help others in their digital learning journey? Choose from one
 #### SG:D Friends
 For public and private organisations that would like to help out at our numerous outreach activities. [Click here](/get-involved/sgd-friends/)<br>
 
-#### Silver Infocomm Welfare Ambassadors
-Digitally-savvy seniors can choose to become Silver Infocomm Welfare Ambassadors (SIWA) and help their peers learn more digital skills. [Click here](/get-involved/siwa/)<br>
+#### Silver Infocomm Wellness Ambassadors
+Digitally-savvy seniors can choose to become Silver Infocomm Wellness Ambassadors (SIWA) and help their peers learn more digital skills. [Click here](/get-involved/siwa/)<br>
 
 #### Digital Participation Pledge
 Organisations that are prepared to make a long-term commitment to helping Singaporeans acquire and improve their digital skills can adopt the Digital Participation Pledge (DPP). [Click here](/get-involved/digital-participation-pledge/)
