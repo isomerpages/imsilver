@@ -8,6 +8,7 @@ collection_name: be-informed
 
 ![image](/images/be-informed/IMDA BDS_Web_Graphic_v3_Be-Informed.png)
 
+#### **Be Informed**
 Did you know every month, we share the most hip upcoming digital events for seniors and interesting nuggets on digital skills?<br>
 
 Be the first to be notified of exclusive digital happenings for seniors in your neighbourhood, and stay informed about new digital inclusivity initiatives here. 
