@@ -8,6 +8,7 @@ collection_name: be-informed
 
 | Date | Title | Media |
 |--|--|--|
+| 11 July 2019 | <a href="https://www.straitstimes.com/tech/100-free-workshops-to-equip-seniors-with-basic-digital-skills?xtor=CS3-18&utm_source=STiPhone&utm_medium=share&utm_term=2019-07-12%208%3A07%3A11" target="_blank">100 free workshops to equip seniors with basic digital skills</a> | The Straits Times |
 | 8 April 2019 | <a href="http://article.isentia.asia/stream/nelmisreportview.aspx?file=20190407-t-VSTT-GN-203300-Digital+participatio.wmv&cc=SG&headline=Digital+participation+pledge+%2c+over+100+companies+take+part+in+mass+pledge" target="_blank">Digital participation pledge, over 100 companies take part in mass pledge</a> | Vasantham News |
 | 8 April 2019 | <a href="http://article.isentia.asia/stream/nelmisreportview.aspx?file=20190407-t-CHL5-NEWS-210600-Digital+participatio.wmv&cc=SG&headline=Digital+participation+pledge+%2c+over+100+companies+take+part+in+mass+pledge" target="_blank">Digital participation pledge, over 100 companies take part in mass pledge</a> | Channel 5 News |
 | 8 April 2019 | <a href="http://article.isentia.asia/stream/nelmisreportview.aspx?file=20190407-t-CH8NS-NEWS-221400-Digital+participatio.wmv&cc=SG&headline=Digital+participation+pledge+%2c+over+100+companies+take+part+in+mass+pledge" target="_blank">Digital participation pledge, over 100 companies take part in mass pledge</a> | Channel 8 News |
