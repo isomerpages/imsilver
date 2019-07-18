@@ -25,7 +25,7 @@ The three-day community carnival will be held from 26-28 July at the Lifelong Le
 
 The Festival is organised as part of IMDA’s Digital Readiness efforts.
 
- ![1](/images/event-coverage/di-fest-promo-2019/di-fest-4.jpg)
+![1](/images/event-coverage/di-fest-promo-2019/di-fest-4.jpg)
 
 #### Key highlights
 
