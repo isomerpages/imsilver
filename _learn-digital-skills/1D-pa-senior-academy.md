@@ -140,5 +140,5 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
   </tr>
 </table>
 
-For more enquiries or to sign up for our the courses, please [click here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy)
+For more enquiries or to sign up for our the courses, please [click here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy){:target="_blank"}
 
