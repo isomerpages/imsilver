@@ -9,14 +9,14 @@ second_nav_title: Attend Classes
 
 ![sdc](/images/learn-digital-skills/silver-digital-creators/silver-digital-creators.jpg)
 
-Silver Digital Creators are a suite of courses designed for seniors who have embraced technology and are looking to bring their digital skills to the next level. Seniors will be able to choose any combination of 5 courses that aim to bolster their digital creativity. Those who complete all 5 courses will also receive an Apple Regional Training Centre certification of recognition.
+Silver Digital Creators (SDC) is a suite of courses tailored for seniors with basic digital knowledge and are keen to take their digital creative skills to the next level. Participants who have completed all 5 courses will also receive an Apple Regional Training Centre certification.
 
 The 5 courses offered are:<br>
-* Digital Photography<br>
-* Movie Making<br>
-* Digital Music and Art<br>
-* Coding<br>
-* Book Authoring<br>
+* **Digital Photography** - Participants will learn techniques on how to transform their photographs into powerful images using their mobile devices.<br>
+* **Movie Making** - Participants will learn how to create a simple movie based on their latest holiday adventures or excursions.<br>
+* **Digital Music and Art** - Participants will learn how to create music with technology, such as designing their own ringtone from their favourite songs.<br>
+* **Coding** - Participants will learn how to code a simple app and share it with their friends and family.<br>
+* **Book Authoring** - Participants will learn how to author their own e-book and publish their story online.<br>
 
 #### Cost<br>
 Each course is available at $27 to Singaporeans and Permanent Residents aged 50 and above. Seniors can utilise their SkillsFuture Credit to offset the course fees.<br>
