@@ -8,7 +8,7 @@ second_nav_title: Attend Classes
 ---
 ![SIJ](/images/learn-digital-skills/sij/sij-01.jpeg)
 
-Silver Infocomm Junctions (SIJs) are senior-friendly IT learning hubs that offer affordable Infocomm training and customised curriculum. They can be found at convenient locations islandwide, for participants to easily access in-depth digital learning.
+Silver Infocomm Junction are learning hubs that are located island-wide. It is targeted at seniors who are new to technology, and are keen to learn basic digital skills. Participants will learn how to use their smartphones and computers to send an email; make a video call; read the news or search for information online.
 
 List of SIJs
 
@@ -38,12 +38,12 @@ List of SIJs
   <tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
     <td class="tg-0lax">Blk 531 Upper Cross Street, #01-40A, Singapore 050531</td>
-    <td class="tg-0lax">65331010, www.cdac.org.sg</td>
+    <td class="tg-0lax">65331010</td>
   </tr>
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
     <td class="tg-kftd">Blk 270 Bangkit Road, #01-22, Singapore 670270</td>
-    <td class="tg-kftd">66035566</td>
+    <td class="tg-kftd">66035566, www.cdac.org.sg</td>
   </tr>
   <tr>
     <td class="tg-0lax">Kampong Kembangan Community Club</td>
@@ -63,7 +63,7 @@ List of SIJs
   <tr>
     <td class="tg-kftd">Radin Mas Community Club</td>
     <td class="tg-kftd">1 Telok Blangah Crescent, Singapore 098915</td>
-    <td class="tg-kftd">62735294</td>
+    <td class="tg-kftd">6735294</td>
   </tr>
   <tr>
     <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
