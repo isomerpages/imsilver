@@ -9,9 +9,8 @@ second_nav_title: Attend Classes
 
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
 
-IMDA has partnered with the People’s Association (PA) to offer a series of IT courses in their Senior Academies as an extension of your learning options. These learning hubs are located island-wide, and offer affordable and customised classes. Classes are suitable for novice learners and are available in both English and Mandarin.
-
-If you are a senior who wants to pursue lifelong learning and lead and active lifestyle, this is for you!
+IMDA has partnered with the People’s Association (PA) to offer a series of IT courses in their Senior Academies as an extension of your learning options. These learning hubs are located island-wide, and offer affordable and customised classes..
+If you are a senior who wants to pursue lifelong learning and lead an active lifestyle, this is for you!
 
 **List of Senior Academies**
 
@@ -56,17 +55,17 @@ If you are a senior who wants to pursue lifelong learning and lead and active li
   </tr>
   <tr>
     <td class="tg-kftd">Boon Lay Community Club</td>
-    <td class="tg-kftd">10 Boon Lay Place, Singapore 649882</td>
+    <td class="tg-kftd">10 Boon Lay Place, Singapore 649842</td>
     <td class="tg-kftd">62619947</td>
   </tr>
   <tr>
     <td class="tg-0lax">Bukit Batok Community Club</td>
     <td class="tg-0lax">21 Bukit Batok Central, Singapore 659959</td>
-    <td class="tg-0lax">65647061</td>
+    <td class="tg-0lax">65646317</td>
   </tr>
   <tr>
     <td class="tg-kftd">Bukit Panjang Community Club</td>
-    <td class="tg-kftd">6 Pending Road, Singapore 678295</td>
+    <td class="tg-kftd">8 Pending Road, Singapore 678295</td>
     <td class="tg-kftd">65060900</td>
   </tr>
   <tr>
@@ -81,12 +80,12 @@ If you are a senior who wants to pursue lifelong learning and lead and active li
   </tr>
   <tr>
     <td class="tg-0lax">Fuchun Community Club</td>
-    <td class="tg-0lax">1 Woodlands Street 31 #01-02, Singapore 730824</td>
+    <td class="tg-0lax">1 Woodlands Street 31 #01-02, Singapore 738581</td>
     <td class="tg-0lax">63656911</td>
   </tr>
   <tr>
     <td class="tg-kftd">Gek Poh Ville Community Club</td>
-    <td class="tg-kftd">1 Jurong West Street 74, Singapore 649149</td>
+    <td class="tg-kftd">1 Jurong West Street 74, Singapore 649419</td>
     <td class="tg-kftd">67920095</td>
   </tr>
   <tr>
@@ -121,7 +120,7 @@ If you are a senior who wants to pursue lifelong learning and lead and active li
   </tr>
   <tr>
     <td class="tg-0lax">Sengkang Community Club</td>
-    <td class="tg-0lax">2 Sengkang Square #01-01, Singapore 545025</td>
+    <td class="tg-0lax">2 Sengkang Square, Singapore 545025</td>
     <td class="tg-0lax">63125400</td>
   </tr>
   <tr>
@@ -132,11 +131,11 @@ If you are a senior who wants to pursue lifelong learning and lead and active li
   <tr>
     <td class="tg-c6of">Tanjong Pagar Community Club</td>
     <td class="tg-c6of">101 Cantonment Road, Singapore 089774</td>
-    <td class="tg-c6of">62219898</td>
+    <td class="tg-c6of">62219898/ 62236847</td>
   </tr>
   <tr>
     <td class="tg-y698">Teck Ghee Community Club</td>
-    <td class="tg-y698">861 Ang Mo Kio Avenue 10, Singapore 569734</td>
+    <td class="tg-y698">861 Ang Mo Kio Avenue 1, Singapore 569734</td>
     <td class="tg-y698">64567123</td>
   </tr>
 </table>
