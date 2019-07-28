@@ -139,3 +139,6 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
     <td class="tg-y698">64567123</td>
   </tr>
 </table>
+
+For more enquiries or to sign up for our the courses, please [click here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy)
+
