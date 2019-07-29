@@ -8,7 +8,7 @@ collection_name: be-informed
 
 ![picture](/images/be-informed/event-coverage-1.jpg)
 
-Check out what goes on at the numerous outreach activities we hold throughout the year by reading our coverage of past events.
+Check out stories on how others have benefited by the events.
 
 | Date | Title |
 |--|--|
