@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Cyber Security (BDS)
+title: Cyber Security and Online Falsehood (BDS)
 permalink: /learn-digital-skills/learn-online/cyber-security-bds/
-breadcrumb: Cyber Security (BDS)
+breadcrumb: Cyber Security and Online Falsehood (BDS)
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
