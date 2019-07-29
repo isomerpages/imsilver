@@ -7,4 +7,4 @@ breadcrumb: Digital Readiness Essential Kit
 
 | test | test | test |
 | -- | -- | -- |
-| test | test | test |
+| [test](/files/DREK-T2-Wireless@SG-A4-220519-Chi.pdf) | test | test |
