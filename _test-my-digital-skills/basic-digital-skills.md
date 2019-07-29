@@ -10,7 +10,7 @@ breadcrumb: Basic Digital Skills
 
 It is important for everyone to be digitally ready and to have the basic digital skills to enjoy greater convenience and participate meaningfully in a digital society.<br>
 
-These skills correspond with the common everyday activities such as searching for information, communicating through email or chats, transacting online, making e-payments, and accessing digital government services. Relevant messages on cyber security and discernment, including how to discern fake news, will also be included in the curriculum to increase citizens’ awareness on staying safe in a digital world.<br>
+The Basic Digital Skills (BDS) programme is a set of courses which focuses on equipping digital non-natives with skills to manage their everyday activities. They include managing information and communication, transacting digitally, accessing Government services; and staying safe online. This programme is curated by IMDA.<br>
 
 #### **Are You Digitally Ready?**<br>
 
@@ -29,7 +29,7 @@ Pick up useful digital tools in online shopping, banking apps and e-payments. Le
 
 ---
 
-**3. E-government**<br>
+**3. E-Government**<br>
 
 Familiarise yourself with the various Government digital services such as Singpass Mobile. [Click here](/learn-digital-skills/learn-online/government-digital-services-bds/)<br>
 
@@ -45,7 +45,7 @@ Get tips on cybersecurity and learn how to stay safe while you are online. Learn
 
 Check out the library of curated learning resources and get started today:<br>
 
-* [E-communications](/learn-digital-skills/learn-online/e-communications-bds/)<br> 
+* [E-Communications](/learn-digital-skills/learn-online/e-communications-bds/)<br> 
 * [Digital Transactions](/learn-digital-skills/learn-online/digital-transactions-bds/)<br>
 * [Government Digital Services](/learn-digital-skills/learn-online/government-digital-services-bds/)<br>
 * [Cyber Security](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
@@ -57,7 +57,7 @@ Join us for a one-day Basic Digital Skills course if you are keen to learn more.
 
 # Basic Digital Skills Quiz<br>
 
-Take a simple quiz to find out how digitally savvy you are.<br>
+Take a simple quiz to find out how digitally ready you are.<br>
 
 [<img src="/images/bds/bds-quiz-button.jpeg">](https://confirmation.gevme.com/BDS_Quiz/landing/){:target="_blank"}
    
