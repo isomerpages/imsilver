@@ -18,9 +18,6 @@ Click below to view online guides that will familiarise you with the basic skill
 * [Google Tools - Safety tips to stay protected online](https://www.google.com/safetycenter/tools/){:target="_blank"}<br>
 * [Learn about Malware](https://www.kaspersky.com/resource-center/preemptive-safety/faq){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!)](https://www.youtube.com/watch?v=gq5S77jZeIc){:target="_blank"}<br>
-* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
-* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
-* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 <h3>2. Personal Data Protection</h3>
 * [Protecting Your Personal Data](https://www.pdpc.gov.sg/individuals/protecting-your-personal-data){:target="_blank"}<br>
 * [Do Not Call Registry for Consumer](http://www.youtube.com/watch?v=4FjTZq1WGnA){:target="_blank"}<br>
@@ -33,9 +30,6 @@ Click below to view online guides that will familiarise you with the basic skill
 * [Learn more about Spam and Phishing](https://www.kaspersky.com/resource-center/threats/spam-phishing){:target="_blank"}<br>
 * [Protecting Your Money - Security Tips](https://www.kaspersky.com/resource-center/preemptive-safety/money-online){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe](https://www.youtube.com/watch?v=EoStqEEKvwA){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Safe (Malay)](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Safe (Mandarin)](https://www.youtube.com/watch?v=9RTvOWxy7uc){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
 * [National Crime Prevention Council See Bah Suay – Episode 1](https://www.youtube.com/watch?v=1pt2TfFXp2w){:target="_blank"}<br>
 * [National Crime Prevention Council See Bah Suay – Episode 2](https://www.youtube.com/watch?v=8aRIsd0hoBw){:target="_blank"}<br>
 * [National Crime Prevention Council See Bah Suay – Episode 3](https://www.youtube.com/watch?v=7aE3Cb_gYUI){:target="_blank"}<br>
@@ -48,10 +42,5 @@ Click below to view online guides that will familiarise you with the basic skill
 * [Media Literacy Council Get Smart with Sherlock – Episode 5 – How to spot fake news?](https://www.youtube.com/watch?v=YWcTmL5LVog){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Smart](https://www.youtube.com/watch?v=Bdp4AvlsXuw){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Smart (2)](https://www.youtube.com/watch?v=F8M-v0G23fw){:target="_blank"}<br>
-* [Media Literacy Council Zhun Bo – Episode 1 (Mandarin)](https://www.youtube.com/watch?v=ElI1H57dvl8){:target="_blank"}<br>
-* [Media Literacy Council Zhun Bo – Episode 2 (Mandarin)](https://www.youtube.com/watch?v=YtYOvu-rnzU){:target="_blank"}<br>
-* [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
-* [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
-* [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
 <h3>5. Others</h3>
 * [Quiz: How savvy are you when it comes to cyber security?](https://www.csa.gov.sg/gosafeonline/resources/how-savvy-are-you-quiz){:target="_blank"}<br>
