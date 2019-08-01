@@ -3,58 +3,55 @@
 # Feel free to edit this file :) #
 #                                #
 ##################################
-- title: Learn Online
-  url: /left-nav-four/sub-page-C/
+- title: About
+  url: /about/
+- title: Learn Digital Skills
+  url: /learn-digital-skills/overview/
   sub-links:
-  - title: Introduction to Desktop
-    url: /left-nav-four/intro-to-desktop/
-  - title: Government Digital Services
-    url: /left-nav-four/government-digital-services/
-  - title: Introduction to Mobile
-    url: /left-nav-four/intro-to-mobile/
-  - title: E-Communications
-    url: /left-nav-four/ecommunications/
-  - title: Cyber Security
-    url: /left-nav-four/cyber-security/
-  - title: Chinese Content
-    url: /left-nav-four/Chinese-content/
-  - title: Related Links
-    url: /left-nav-four/Related-Links/
-  - title: Digital Maker
-    url: /left-nav-four/digital-maker/
+      - title: Attend Events
+        url: /events/
+      - title: Attend Classes
+        url: /learn-digital-skills/attend-classes/overview/
+      - title: Learn Online
+        url: /learn-digital-skills/learn-online/overview/
 
-- title: BDS Quiz
-  url: /bds-quiz/
-- title: Classes & Programmes
-  url: /left-nav-one/classes-and-Programmes/
+- title: Get One-on-One Assistance
+  url: /get-one-on-one-assistance/overview/
   sub-links:
-  - title: Silver Digital Creators
-    url: /left-nav-one/silver-digital-creators/
-  - title: Silver Infocomm Junctions
-    url: /left-nav-one/silver-infocomm-junctions/
-  - title: PA Senior Academy
-    url: /left-nav-one/pa-senior-academy/
+      - title: Digital Clinics
+        url: /get-one-on-one-assistance/digital-clinics/
+      - title: Digital Clinics (e-Payment)
+        url: /get-one-on-one-assistance/digital-clinics-e-payment/
+      - title: Tech Connect
+        url: /get-one-on-one-assistance/tech-connect/
 
-- title: Silver IT Fest
-  url: /left-nav-two/it-silver-fest/
+- title: Test My Digital Skills
+  url: https://confirmation.gevme.com/BDS_Quiz/landing/
+  external: true
   sub-links:
-  - title: Roadshows
-    url: /left-nav-two/roadshows/
-  - title: IT classes
-    url: /left-nav-two/it-classes/
+      - title: What Are Basic Digital Skills
+        url: /test-my-digital-skills/basic-digital-skills
+      - title: Digital Readiness Essential Kit
+        url: /digital-readiness-essential-kit
+       
+- title: Be Informed
+  url: /be-informed/overview
+  sub-links:
+      - title: Articles
+        url: /be-informed/articles/
+      - title: Event Coverage
+        url: /be-informed/event-coverage/
+      - title: Media
+        url: /be-informed/media/
+      - title: Attend Events
+        url: /events/
 
-- title: Volunteer
-  url: /left-nav-three/volunteer/
+- title: Get Involved
+  url: /get-involved/overview/
   sub-links:
-  - title: SG:D Friends
-    url: /left-nav-three/sgd-friends/
-  - title: SIWAs
-    url: /left-nav-three/siwas/
-
-- title: Whats New
-  url: /resource-room/
-  sub-links:
-  - title: Events
-    url: /resource-room/events/
-  - title: News
-    url: /resource-room/news/
+      - title: "SG:D Friends"
+        url: /get-involved/sgd-friends/
+      - title: Silver Infocomm Wellness Ambassadors
+        url: /get-involved/siwa/
+      - title: Digital Participation Pledge
+        url: /get-involved/digital-participation-pledge/
