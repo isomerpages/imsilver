@@ -18,6 +18,8 @@ The 5 courses offered are:<br>
 * **Coding** - Participants will learn how to code a simple app and share it with their friends and family.<br>
 * **Book Authoring** - Participants will learn how to author their own e-book and publish their story online.<br>
 
+For more information regarding the courses offered, please click [here](/files/Silver Digital Creators A4 Brochure_July 2019_1.4.pdf).
+
 #### Cost<br>
 Each course is available at $27 to Singaporeans and Permanent Residents aged 50 and above. Seniors can utilise their SkillsFuture Credit to offset the course fees.<br>
 
