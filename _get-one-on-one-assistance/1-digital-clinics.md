@@ -25,10 +25,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Date</b></th>
   <th><b>Time</b></th>
 <tr>  
-  <td><b>Yishun Public Library,</b> 930 Yishun Avenue 2, #04-01, North Wing, Northpoint, Singapore 769098</td>
-  <td>6 August 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
 <td><b>Clementi Public Library,</b> 3155 Commonwealth Avenue West, #05-13/14/15 The Clementi Mall, Singapore 129588</td>
   <td>14 August 2019</td> 
   <td>2pm – 5pm</td> </tr>
@@ -41,7 +37,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>27 August 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
-<td><b>Digital Clinic @ Merdeka Generation Roadshow, Ang Mo Kio Central Stage,</b> 53 Ang Mo Kio Ave 3, Singapore 569933</td>
+<td>Ang Mo Kio Central Stage, 53 Ang Mo Kio Ave 3, Singapore 569933<b>Digital Clinic @ Merdeka Generation Roadshow</b></td>
   <td>31 August 2019</td> 
   <td>9am – 4pm</td> </tr>  
 <tr>  
