@@ -1,5 +1,5 @@
 ---
-layout: simple page
+layout: leftnav-page-content
 title: Merdeka Generation Digital Clinic
 permalink: /get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/
 breadcrumb: Merdeka Generation Digital Clinic
