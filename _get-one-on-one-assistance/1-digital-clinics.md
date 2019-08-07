@@ -37,7 +37,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>27 August 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
-<td>Ang Mo Kio Central Stage, 53 Ang Mo Kio Ave 3, Singapore 569933 <b>(Digital Clinic @ Merdeka Generation Roadshow)</b></td>
+  <td><b>Ang Mo Kio Central Stage</b> (Digital Clinic @ Merdeka Generation Roadshow), 53 Ang Mo Kio Ave 3, Singapore 569933</td>
   <td>31 August 2019</td> 
   <td>9am – 4pm</td> </tr>  
 <tr>  
@@ -69,7 +69,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>01 October 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
-<td><b>Digital Clinic @ Merdeka Generation Roadshow, Sheltered area outside Hougang Mall,</b> 90 Hougang Ave 10, Singapore 538766</td>
+<td><b>Sheltered area outside Hougang Mall</b> (Digital Clinic @ Merdeka Generation Roadshow), 90 Hougang Ave 10, Singapore 538766</td>
   <td>05 October 2019</td> 
   <td>10am – 5pm</td> </tr>
 <tr>  
@@ -77,7 +77,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>08 October 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
-<td><b>Digital Clinic @ Merdeka Generation Roadshow, Kampong Admiralty,</b> Block 676 Woodlands Drive 71 Singapore 730676</td>
+  <td><b>Kampong Admiralty</b> (Digital Clinic @ Merdeka Generation Roadshow), Block 676 Woodlands Drive 71 Singapore 730676</td>
   <td>12 October 2019</td> 
   <td>9am – 5pm</td> </tr>
 <tr>  
