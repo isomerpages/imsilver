@@ -25,7 +25,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Date</b></th>
   <th><b>Time</b></th>
 <tr>  
-<td>Yishun Public Library, 930 Yishun Avenue 2, #04-01, North Wing, Northpoint, Singapore 769098</td>
+  <td><bold>Yishun Public Library,</bold> 930 Yishun Avenue 2, #04-01, North Wing, Northpoint, Singapore 769098</td>
   <td>6 August 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
