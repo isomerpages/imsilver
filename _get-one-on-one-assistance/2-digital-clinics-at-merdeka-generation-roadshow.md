@@ -3,6 +3,7 @@ layout: simple page
 title: Merdeka Generation Digital Clinic
 permalink: /get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/
 breadcrumb: Merdeka Generation Digital Clinic
+collection_name: get-one-on-one-assistance
 ---
 
 ![image](/images/get-one-on-one-assistance/merdeka-clinics1.jpeg)
