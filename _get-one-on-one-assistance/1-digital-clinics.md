@@ -24,43 +24,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Venue</b></th>
   <th><b>Date</b></th>
   <th><b>Time</b></th>
-<tr>
-  <td>Serangoon Public Library, 23 Serangoon Central, #04-82/83, NEX Shopping Mall, 82/83,	Singapore 556083</td>
-  <td>25 June 2019</td> 
-  <td>2pm - 5pm</td> 
-</tr>
-<tr>  
-<td>Digital Clinic @ Merderka Generation Roadshow, Bukit Gombak Hard Court, Outside Bukit Gombak MRT, Singapore 569842</td>
-  <td>29 June 2019</td> 
-  <td>9am - 3pm</td> </tr> 
-<tr>  
-<td>Woodlands Regional Library, 900 South Woodlands Drive, #01-03, Singapore 730900</td>
-  <td>2 July 2019</td> 
-  <td>2pm - 5pm</td> </tr> 
-<tr>  
-<td>Digital Clinic @ Merderka Generation Roadshow, Open Field outside Compass 1, 1 Sengkang Square, Singapore 545078</td>
-  <td>6 July 2019</td> 
-  <td>10am – 5pm</td> </tr> 
-<tr>  
-<td>Jurong Regional Library, 21 Jurong East Central 1, Singapore 609732</td>
-  <td>9 July 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
-<td>Bedok Public Library, 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat @ Bedok, Singapore 469662</td>
-  <td>11 July 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
-<td>Digital Clinic @ Merderka Generation Roadshow, Open area between Hillion Mall and Bukit Panjang MRT Station, 17 Petir Road, Singapore 678278</td>
-  <td>20 July 2019</td> 
-  <td>10am – 4pm</td> </tr>
-<tr>  
-<td>Toa Payoh Public Library, 6 Toa Payoh Central, Singapore 319191</td>
-  <td>23 July 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
-<td>Digital Clinic @ Merderka Generation Roadshow, Marine Terrace Market, 50A Marine Terrace, Singapore 441050</td>
-  <td>28 July 2019</td> 
-  <td>8am – 3pm</td> </tr>
 <tr>  
 <td>Yishun Public Library, 930 Yishun Avenue 2, #04-01, North Wing, Northpoint, Singapore 769098</td>
   <td>6 August 2019</td> 
@@ -78,14 +41,59 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>27 August 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
-<td>Toa Payoh Public Library, 6 Toa Payoh Central, Singapore 319191</td>
-  <td>27 August 2019</td> 
+<td>Digital Clinic @ Merdeka Generation Roadshow Ang Mo Kio Central Stage, 53 Ang Mo Kio Ave 3, Singapore 569933</td>
+  <td>31 August 2019</td> 
+  <td>9am – 4pm</td> </tr>  
+<tr>  
+<td>Ang Mo Kio Public Library, 4300 Ang Mo Kio Ave 6, Singapore 569842</td>
+  <td>03 September 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>  
+<td>Jurong Regional Library, 21 Jurong East Central 1, Singapore 609732</td>
+  <td>10 September 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>Bedok Public Library, 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
+  <td>12 September 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>
 <td>e-Payment @UOB Tampines Centre,  1 Tampines Central 1 #01-01, Singapore 529539</td>
   <td>14 Sep 2019</td> 
   <td>2pm – 4pm <a href="https://forms.uob.com.sg/appforms/registration/digitalclinic-ePayment.page" target="_blank">Register</a></td> </tr>
+<tr>  
+<td>Serangoon Public Library, 23 Serangoon Central #04R-82, 83 NEX, 556083</td>
+  <td>24 September 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>Jurong West Public Library, 60 Jurong West Central 3, #01-03, Singapore 648346</td>
+  <td>25 September 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>Woodlands Regional Library, 900 S Woodlands Way, #01-03, Singapore 730900</td>
+  <td>01 October 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>Digital Clinic @ Merdeka Generation Roadshow, Sheltered area outside Hougang Mall, 90 Hougang Ave 10, Singapore 538766</td>
+  <td>05 October 2019</td> 
+  <td>10am – 5pm</td> </tr>
+<tr>  
+<td>Jurong Regional Library, 21 Jurong East Central 1, Singapore 609732</td>
+  <td>08 October 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>Digital Clinic @ Merdeka Generation Roadshow Kampong Admiralty, Block 676 Woodlands Drive 71 Singapore 730676</td>
+  <td>12 October 2019</td> 
+  <td>9am – 5pm</td> </tr>
+<tr>  
+<td>Toa Payoh Public Library, 6 Toa Payoh Central, Singapore 319191</td>
+  <td>22 October 2019</td> 
+  <td>2pm – 5pm</td> </tr>
+<tr>  
+<td>Bedok Public Library, 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
+  <td>29 October 2019</td> 
+  <td>2pm – 5pm</td> </tr>
 </table>
+
 
 
 
