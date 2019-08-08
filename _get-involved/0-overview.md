@@ -18,4 +18,3 @@ Digitally-savvy seniors can choose to become Silver Infocomm Wellness Ambassador
 
 #### Digital Participation Pledge
 Organisations that are prepared to make a long-term commitment to helping Singaporeans acquire and improve their digital skills can adopt the Digital Participation Pledge (DPP). [Click here](/get-involved/digital-participation-pledge/)
-.
