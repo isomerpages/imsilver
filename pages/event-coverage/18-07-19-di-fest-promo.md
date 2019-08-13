@@ -27,7 +27,7 @@ The Festival is organised as part of IMDA’s Digital Readiness efforts.
 
 ![1](/images/event-coverage/di-fest-promo-2019/di-fest-4.jpg)
 
-#### Key highlights
+<h4>Key highlights</h4>
 
 To ensure that no one is left behind by digitalisation, DI Fest aims to encourage everyone to embrace technology and be digitally ready to enjoy the benefits afforded by technology. 
 
