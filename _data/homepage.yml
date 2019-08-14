@@ -54,7 +54,7 @@ info-sections:
     section-more-button-url: /get-one-on-one-assistance/digital-clinics/
     section-image-path: /images/home-page/digital-clinics-graphic.png
 
-resources-title: Keep up to date with our latest events
-resources-subtitle: Events
-resources-more-button: More Events
-resources-more-button-url: events/
+resources-title: Keep up to date with our latest news
+resources-subtitle: News
+resources-more-button: More News
+resources-more-button-url: News/
