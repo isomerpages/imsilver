@@ -52,4 +52,4 @@ collections:
   be-informed:
     output: true
     
-resources_name: events
+resources_name: resource-room
