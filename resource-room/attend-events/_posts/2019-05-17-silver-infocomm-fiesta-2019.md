@@ -2,7 +2,7 @@
 layout: post
 title: Silver Infocomm Fiesta
 date: 2019-05-17
-permalink: /pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities-2019/
+permalink: /silver-infocomm-fiesta-2019/
 breadcrumb: Silver Infocomm Fiesta
 ---
 
