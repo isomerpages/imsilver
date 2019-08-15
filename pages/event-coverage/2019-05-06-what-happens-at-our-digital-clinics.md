@@ -52,4 +52,4 @@ Over 4,000 seniors had benefitted from the Digital Clinic initiative. In fact, m
 **Amaze Your Friends, Family and Yourself!**<br>
 Our smartphones can be amazingly useful, but they can also be scary or difficult if you do not know how to use them. If you are unsure of how to get started on your own, or find it hard to ask people for help, why not visit the Digital Clinic? You will surprise yourself with how tech savvy you can be, and how you can amaze your friends and family with your newfound digital skills! 
 
-For more information on Digital Clinics, click [here](/get-one-on-one-assistance/digital-clinics/)
+To find a Digital Clinic near you, click [here](/get-one-on-one-assistance/digital-clinics/)
