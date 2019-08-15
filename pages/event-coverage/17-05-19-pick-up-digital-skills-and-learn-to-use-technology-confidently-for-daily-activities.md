@@ -6,11 +6,11 @@ permalink: /pick-up-digital-skills-and-learn-to-use-technology-confidently-for-d
 breadcrumb: Pick up Digital Skills and Learn to use Technology Confidently for Daily Activities
 ---
 
-## Silver Infocomm – IT Classes 2019 <br>
+## Silver Infocomm Fiesta <br>
 
 ![image1](/images/event-coverage/pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities/pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities-1.jpg)
 
-Are you finding it difficult to pick up digital skills from your children? Fret not, you are not alone. The Silver Infocomm – IT Classes are specially designed to equip seniors with digital skills for daily activities such as e-Payment, accessing government services and more. You can also sign up for classes on e-Travel, e-Entertainment and Navigating Around Singapore to meet your daily living needs. These IT Classes are held at various Silver Infocomm Junctions (SIJ) island-wide.
+Are you finding it difficult to pick up digital skills from your children? Fret not, you are not alone. The Silver Infocomm Fiesta is a specially designed collection of classes that equip seniors with digital skills for daily activities such as e-Payment, accessing government services and more. You can also sign up for classes on e-Travel, e-Entertainment and Navigating Around Singapore to meet your daily living needs. These IT Classes are held at various Silver Infocomm Junctions (SIJ) island-wide.
 
 ![image2](/images/event-coverage/pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities/pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities-2.jpg)
 

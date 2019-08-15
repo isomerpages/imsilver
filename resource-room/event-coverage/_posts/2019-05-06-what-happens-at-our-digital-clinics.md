@@ -2,7 +2,7 @@
 layout: post
 title: "What Happens at Our Digital Clinics"
 date: 2019-05-06
-permalink: /what-happens-at-our-digital-clinics/
+permalink: /resource-room/events/what-happens-at-our-digital-clinics/
 breadcrumb: What Happens at Our Digital Clinics
 ---
 
