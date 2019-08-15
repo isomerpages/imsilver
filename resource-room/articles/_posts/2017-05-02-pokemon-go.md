@@ -2,7 +2,7 @@
 layout: post
 title: Going places with Pokemon Go
 date: 2017-05-02
-permalink: /going-places-with-pokemon-go-2017/
+permalink: /2017-pokemon-go/
 breadcrumb: Going places with Pokemon Go
 ---
 
