@@ -77,4 +77,4 @@ List of SIJs
   </tr>
 </table>
 
-To view the courses available at each SIJ, please download the [list of IT courses offered by each SIJ](/files/SIJ Course Schedule_Aug 2019 upload_6Aug.pdf)
+To view the courses available at each SIJ, please download the [list of IT courses offered by each SIJ](/files/SIJ Course Schedule_Aug 2019 upload_21Aug..pdf)
