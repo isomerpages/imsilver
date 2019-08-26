@@ -66,31 +66,14 @@ List of SIJs
     <td class="tg-kftd">62735294, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
-    <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
-    <td class="tg-kftd">62590802, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
+    <td class="tg-0lax">RSVP Singapore – The Organisation of Senior Volunteers</td>
+    <td class="tg-0lax">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
+    <td class="tg-0lax">62590802, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
   </tr>
 </table>
 
 The following Silver Infocomm Junctions will offer IT courses during the Silver Infocomm Fiesta period.<br>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
-.tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
-.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
-  .content table td, .content table th{
-  border:1px solid;
-}
-
-.content table tbody tr:last-child td, .content table tbody tr:last-child th{
-  border-bottom-width:thin;
-}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-dvid">Venue</th>
@@ -98,9 +81,9 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
     <th class="tg-dvid">Contact</th>
   </tr>
   <tr>
-    <td class="tg-kftd">ITE College Central</td>
-    <td class="tg-kftd">2 Ang Mo Kio Drive, Singapore 567720</td>
-    <td class="tg-kftd">1800 2222 111, <a href="https://www.ite.edu.sg" target="_blank">www.ite.edu.sg</a></td>
+    <td class="tg-0lax">ITE College Central</td>
+    <td class="tg-0lax">2 Ang Mo Kio Drive, Singapore 567720</td>
+    <td class="tg-0lax">1800 2222 111, <a href="https://www.ite.edu.sg" target="_blank">www.ite.edu.sg</a></td>
   </tr>
    <tr>
     <td class="tg-kftd">Ngee Ann Polytechnic</td>
@@ -109,9 +92,9 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
 https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Contact Page</a></td>
   </tr>
    <tr>
-    <td class="tg-kftd">Republic Polytechnic</td>
-    <td class="tg-kftd">9 Woodlands Ave 9, Singapore 738964</td>
-    <td class="tg-kftd">62590802, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
+    <td class="tg-0lax">Republic Polytechnic</td>
+    <td class="tg-0lax">9 Woodlands Ave 9, Singapore 738964</td>
+    <td class="tg-0lax">62590802, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
   </tr>
 </table>
 
