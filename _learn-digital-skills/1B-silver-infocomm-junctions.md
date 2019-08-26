@@ -37,44 +37,70 @@ List of SIJs
   </tr>
   <tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
-    <td class="tg-0lax">Blk 531 Upper Cross Street, #01-40A, Singapore 050531</td>
+    <td class="tg-0lax">Blk 531 Upper Cross Street, #04-40A, Singapore 050531</td>
     <td class="tg-0lax">65331010</td>
   </tr>
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
     <td class="tg-kftd">Blk 270 Bangkit Road, #01-22, Singapore 670270</td>
-    <td class="tg-kftd">66035566, www.cdac.org.sg</td>
+    <td class="tg-kftd">64654411, <a href="https://www.cdac.org.sg/en/" target="_blank">www.cdac.org.sg</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Kampong Kembangan Community Club</td>
-    <td class="tg-0lax">5 Lengkon Tiga, Singapore 417408</td>
-    <td class="tg-0lax">64496022</td>
+    <td class="tg-0lax">5 Lengkong Tiga, Singapore 417408</td>
+    <td class="tg-0lax">64496022, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
     <td class="tg-kftd">Kreta Ayer Residents’ Committee</td>
     <td class="tg-kftd">Blk 333 Kreta Ayer Road, #03-16, Singapore 080333</td>
-    <td class="tg-kftd">62223597</td>
+    <td class="tg-kftd">62207493, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Paya Lebar Kovan Community Club</td>
     <td class="tg-0lax">207 Hougang Street 21, Singapore 530207</td>
-    <td class="tg-0lax">62844261</td>
+    <td class="tg-0lax">62844261, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
     <td class="tg-kftd">Radin Mas Community Club</td>
-    <td class="tg-kftd">1 Telok Blangah Crescent, Singapore 098915</td>
-    <td class="tg-kftd">6735294</td>
+    <td class="tg-kftd">51 Telok Blangah Crescent, Singapore 0989157</td>
+    <td class="tg-kftd">62735294, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
-    <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #08-02, Singapore 579837</td>
-    <td class="tg-kftd">62590802, www.rsvp.org.sg</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Woodlands Regional Library</td>
-    <td class="tg-0lax">900 South Woodlands DriveWoodlands Civic Centre, #01-03, Singapore 730900</td>
-    <td class="tg-0lax">63323255</td>
+    <td class="tg-0lax">RSVP Singapore – The Organisation of Senior Volunteers</td>
+    <td class="tg-0lax">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
+    <td class="tg-0lax">62590802, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
   </tr>
 </table>
 
-To view the courses available at each SIJ, please download the [list of IT courses offered by each SIJ](/files/SIJ Course Schedule_Aug 2019 upload_21Aug..pdf)
+The following Silver Infocomm Junctions will offer IT courses during the Silver Infocomm Fiesta period.<br>
+
+<table class="tg">
+  <tr>
+    <th class="tg-dvid">Venue</th>
+    <th class="tg-dvid">Address</th>
+    <th class="tg-dvid">Contact</th>
+  </tr>
+  <tr>
+    <td class="tg-0lax">ITE College Central</td>
+    <td class="tg-0lax">2 Ang Mo Kio Drive, Singapore 567720</td>
+    <td class="tg-0lax">1800 2222 111, <a href="https://www.ite.edu.sg" target="_blank">www.ite.edu.sg</a></td>
+  </tr>
+   <tr>
+    <td class="tg-kftd">Ngee Ann Polytechnic</td>
+    <td class="tg-kftd">535 Clementi Road, Singapore 599489</td>
+    <td class="tg-kftd">64606353, <a href="	
+https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Contact Page</a></td>
+  </tr>
+   <tr>
+    <td class="tg-0lax">Republic Polytechnic</td>
+    <td class="tg-0lax">9 Woodlands Ave 9, Singapore 738964</td>
+    <td class="tg-0lax">62590802, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
+  </tr>
+</table>
+
+Click [here](/files/SIJ Course Schedule_Aug 2019 upload_21Aug..pdf) for the schedule of IT courses offered by the SIJs.
+
+Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidise under the National Silver Academy.
+
+Click [here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy){:target="_blank"} to find out more on IT courses offered by selected community centres.
+

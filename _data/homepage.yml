@@ -35,11 +35,12 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
-    section-subtitle: IMReady - Where is my Taxi?
-    section-description: Ready to embrace new technologies and learn new skills? Follow the adventures of Eric and Michael - one who loves doing things the old-fashioned way, the other happy to explore new ways to make his life easier – in this first episode of our 4-part video series. Guess who manages to get a cab in record time? No spoilers; watch till the end to find out!
+    section-subtitle: IMReady - In tune with Digital Readiness
+    section-description: Ready to embrace new technologies and learn new skills? Follow the adventures of Ricky and Tony – one who prefers the old-fashioned analogue way, the other happy to sing the praises of smart digital technologies that make his life easier – in this second episode of our 4-part video series. When it comes to locating a favourite song to sing in the living room, who does it better? No spoilers; watch till the end to find out!
     section-more-button: Watch now
-    section-more-button-url: https://www.youtube.com/watch?v=bytYeqEiG7g
-    section-image-path: /images/home-page/Thumbnail images_V2.1.png
+    external: true
+    section-more-button-url: https://www.youtube.com/watch?v=o5ImonjzT-A
+    section-image-path: /images/home-page/karaoke-thumbnail.png
     
   - section-title: 
     section-subtitle: What are Basic Digital Skills?
