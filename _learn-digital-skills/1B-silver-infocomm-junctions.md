@@ -43,7 +43,7 @@ List of SIJs
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
     <td class="tg-kftd">Blk 270 Bangkit Road, #01-22, Singapore 670270</td>
-    <td class="tg-kftd">64654411, <a href="www.cdac.org.sg" target="_blank">www.cdac.org.sg</a></td>
+    <td class="tg-kftd">64654411, <a href="https://www.cdac.org.sg/en/" target="_blank">www.cdac.org.sg</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Kampong Kembangan Community Club</td>
