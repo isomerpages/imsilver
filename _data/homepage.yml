@@ -32,7 +32,7 @@ i-want-to:
   - title: get involved
     url: /get-involved/sgd-friends/
 
-html: \"<iframe width="560" height="315" src="https://www.youtube.com/embed/o5ImonjzT-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
+html: "<iframe width="560" height="315" src=\"https://www.youtube.com/embed/o5ImonjzT-A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>"
 
 # Info Sections
 info-sections:
