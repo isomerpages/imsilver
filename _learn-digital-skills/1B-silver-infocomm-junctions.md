@@ -74,6 +74,23 @@ List of SIJs
 
 The following Silver Infocomm Junctions will offer IT courses during the Silver Infocomm Fiesta period.<br>
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Lato;font-size:18px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-kftd{background-color:#efefef;text-align:left;vertical-align:top}
+.tg .tg-dvid{font-weight:bold;background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-0lax{text-align:left;vertical-align:top}
+.tg .tg-c6of{background-color:#ffffff;border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-y698{background-color:#efefef;border-color:inherit;text-align:left;vertical-align:top}
+  .content table td, .content table th{
+  border:1px solid;
+}
+
+.content table tbody tr:last-child td, .content table tbody tr:last-child th{
+  border-bottom-width:thin;
+}
+</style>
 <table class="tg">
   <tr>
     <th class="tg-dvid">Venue</th>
