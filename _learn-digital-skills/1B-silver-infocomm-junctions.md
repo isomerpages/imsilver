@@ -37,17 +37,17 @@ List of SIJs
   </tr>
   <tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
-    <td class="tg-0lax">Blk 531 Upper Cross Street, #01-40A, Singapore 050531</td>
+    <td class="tg-0lax">Blk 531 Upper Cross Street, #04-40A, Singapore 050531</td>
     <td class="tg-0lax">65331010</td>
   </tr>
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
     <td class="tg-kftd">Blk 270 Bangkit Road, #01-22, Singapore 670270</td>
-    <td class="tg-kftd">66035566, www.cdac.org.sg</td>
+    <td class="tg-kftd">64654411, <a href="www.cdac.org.sg" target="_blank">www.cdac.org.sg</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Kampong Kembangan Community Club</td>
-    <td class="tg-0lax">5 Lengkon Tiga, Singapore 417408</td>
+    <td class="tg-0lax">5 Lengkong Tiga, Singapore 417408</td>
     <td class="tg-0lax">64496022</td>
   </tr>
   <tr>
