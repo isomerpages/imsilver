@@ -43,10 +43,10 @@
         url: /be-informed/articles/
       - title: Coverage
         url: /be-informed/coverage/
-      - title: Media
-        url: /be-informed/media/
       - title: Event Listings
         url: /be-informed/event-listings/
+      - title: Media
+        url: /be-informed/media/
 
 - title: Get Involved
   url: /get-involved/overview/
