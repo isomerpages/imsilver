@@ -68,7 +68,7 @@ List of SIJs
   <tr>
     <td class="tg-0lax">RSVP Singapore – The Organisation of Senior Volunteers</td>
     <td class="tg-0lax">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
-    <td class="tg-0lax">62590802, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
+    <td class="tg-0lax">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
   </tr>
 </table>
 
@@ -94,7 +94,7 @@ https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Conta
    <tr>
     <td class="tg-0lax">Republic Polytechnic</td>
     <td class="tg-0lax">9 Woodlands Ave 9, Singapore 738964</td>
-    <td class="tg-0lax">62590802, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
+    <td class="tg-0lax">65103000, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
   </tr>
 </table>
 

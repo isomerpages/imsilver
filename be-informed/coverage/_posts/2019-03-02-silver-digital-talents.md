@@ -2,7 +2,7 @@
 layout: post
 title:  Silver Digital Talents
 date:   2019-03-02
-permalink: /resource-room/event-coverage/silver-digital-talents-20190302
+permalink: /be-informed/coverage/silver-digital-talents-20190302
 ---
 
 Be ready to shine when you join the fun and enriching 2-hour learning extravaganza. Trainers will introduce to you the basics of photo-editing, video-making, digital drawing and eBook publishing. With these digital skills, you will be on your way to create an online presence for yourself to share your interests and knowledge in today’s exciting digital world. Who knows? The next online celebrity could be you.<br>

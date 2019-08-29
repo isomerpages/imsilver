@@ -51,5 +51,7 @@ collections:
     output: true
   be-informed:
     output: true
+  about:
+    output: true
     
-resources_name: resource-room
+resources_name: be-informed

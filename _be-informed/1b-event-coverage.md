@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Event Coverage
-permalink: /be-informed/event-coverage
+permalink: /be-informed/event-coverage-static
 breadcrumb: Event Coverage
 collection_name: be-informed
 ---

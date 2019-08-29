@@ -2,7 +2,7 @@
 layout: post
 title: Silver Digital Talents
 date: 2019-05-17
-permalink: /resource-room/event-coverage/silver-digital-talents/
+permalink: /be-informed/coverage/silver-digital-talents/
 breadcrumb: Silver Digital Talents
 ---
 

@@ -1,8 +1,9 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: About
-permalink: /about/
+permalink: /about
 breadcrumb: About
+collection_name: about
 ---
 
 ![1](/images/about/IMDA BDS_Web_Graphic_v4_About.png)
