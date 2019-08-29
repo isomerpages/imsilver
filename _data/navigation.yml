@@ -41,11 +41,11 @@
   sub-links:
       - title: Articles
         url: /be-informed/articles/
-      - title: Event Coverage
+      - title: Coverage
         url: /be-informed/coverage/
       - title: Media
         url: /be-informed/media/
-      - title: Events
+      - title: Event Listings
         url: /be-informed/event-listings/
 
 - title: Get Involved
