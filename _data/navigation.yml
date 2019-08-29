@@ -9,7 +9,7 @@
   url: /learn-digital-skills/overview/
   sub-links:
       - title: Upcoming Events
-        url: /resource-room/attend-events/
+        url: /be-informed/event-listings/
       - title: Attend Classes
         url: /learn-digital-skills/attend-classes/overview/
       - title: Learn Online
@@ -42,11 +42,11 @@
       - title: Articles
         url: /be-informed/articles/
       - title: Event Coverage
-        url: /be-informed/event-coverage/
+        url: /be-informed/coverage/
       - title: Media
         url: /be-informed/media/
       - title: Events
-        url: /resource-room/attend-events/
+        url: /be-informed/event-listings/
 
 - title: Get Involved
   url: /get-involved/overview/
