@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Articles
-permalink: /be-informed/articles
+permalink: /be-informed/articles-static
 breadcrumb: Articles
 collection_name: be-informed
 ---
