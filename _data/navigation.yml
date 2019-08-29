@@ -5,6 +5,9 @@
 ##################################
 - title: About
   url: /about/
+  sub-links:
+      - title: Media
+        url: /media
 - title: Learn Digital Skills
   url: /learn-digital-skills/overview/
   sub-links:
@@ -45,8 +48,6 @@
         url: /be-informed/coverage/
       - title: Event Listings
         url: /be-informed/event-listings/
-      - title: Media
-        url: /be-informed/media/
 
 - title: Get Involved
   url: /get-involved/overview/
