@@ -44,4 +44,5 @@ Corporations that are keen to register can [click here](https://www.ifaq.gov.sg/
 | **Housing Development Board** | **Salesforce** | **United Parcel Service** |
 | **HP Inc.** | **School of Science and Technology, Singapore** | **YMCA of Singapore** |
 | **IBM** | **Serl.io** | **Youth Corps Singapore**  |
-| - | **SGTec**h | **Yusen Logistics**  |
+| **Lenovo Singapore** | **SGTec** | **Yusen Logistics**  |
+| **TP Link** |
