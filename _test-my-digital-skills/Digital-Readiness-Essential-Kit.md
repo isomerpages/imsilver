@@ -9,10 +9,11 @@ Check out our Digital Readiness Essential Kits to learn useful tips on digital s
 
 | Topic | English | Mandarin | Malay | Tamil |
 | -- | -- | -- | -- | -- |
-| PayNow | [ ](/files/DREK_PAYNow_FINAL (20181214).pdf) | N.A. |  N.A. |  N.A. |
-| Wireless@SG | [ ](/files/DREK-T2-Wireless@SG-A4-220519-Eng.pdf) | [ ](/files/DREK-T2-Wireless@SG-A4-220519-Chi.pdf) | [ ](/files/DREK-T2-Wireless@SG-A4-220519-Malay.pdf) | [ ](/files/DREK-T2-Wireless@SG-A4-220519-Tamil.pdf) |
-| Staying Safe Online | [ ](/files/DREK-T3-Staying Safe Online-A4-230519-Eng.pdf) | [ ](/files/DREK-T3-Staying Safe Online-A4-230519-Chi.pdf) | [ ](/files/DREK-T3-Staying Safe Online-A4-230519-Malay.pdf) | [ ](/files/DREK-T3-Staying Safe Online-A4-230519-Tamil.pdf) |
-| Input Methods | N.A. |  [ ](/files/DREK-T4-Input Method-Chi-240719_V1.pdf) |  N.A. |  N.A. |
+| PayNow | [ ](/files/DREK100919/DREK-T1-PAYNow.pdf) | N.A. |  N.A. |  N.A. |
+| Wireless@SG | [ ](/files/DREK100919/DREK-T2_Wireless@SG (English).pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Chinese).pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Tamil).pdf) |
+| Staying Safe Online | [ ](/files/DREK100919/DREK-T3-Staying_Safe_Online (English).pdf) | [ ](/files/DREK100919/DREK-T3-Staying Safe Online (Chinese).pdf) | [ ](/files/DREK100919/DREK-T3-Staying Safe Online(Malay).pdf) | [ ](/files/DREK100919/DREK-T3-Staying Safe Online(Tamil).pdf) |
+| Input Methods | N.A. |  [ ](/files/DREK100919/DREK-T4-Chinese Language Input.pdf) |  N.A. |  N.A. |
+| Moments of Life | [](/files/DREK100919/DREK-T4-MOL (English).pdf) | [](/files/DREK100919/DREK-T4-MOL (Chinese).pdf) | [](/files/DREK100919/DREK-T4-MOL (Malay).pdf) | [](/files/DREK100919/DREK-T4-MOL (Tamil).pdf) |
 
 <br>N.A.: Not applicable/ Not available
 
