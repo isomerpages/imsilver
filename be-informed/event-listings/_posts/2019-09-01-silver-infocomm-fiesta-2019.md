@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silver Infocomm Fiesta
-date: 2019-05-17
+date: 2019-09-01
 permalink: /silver-infocomm-fiesta-2019/
 breadcrumb: Silver Infocomm Fiesta
 ---
@@ -48,7 +48,7 @@ Mr. Nathan S Pathmanathan S/O Sinniah participated in the Social Networking work
  Mr. Sam Des always had an interest in learning about e-payment and cybersecurity but found it difficult to keep-up when he was learning from his children. After attending the two-day Basic Digital Skills class, he became more confident in starting his learning journey. Besides the helpful volunteers present during the class, Mr. Des felt that the courseware allowed him to learn at a pace comfortable for him.
 
 
- **Sign up for a class today at Silver Infocomm -  IT Classes today!**
+ **Sign up for a class at the Silver Infocomm Fiesta today!**
 
  
 With so many fun and accessible courses to pick up useful digital, visit the nearest Silver Infocomm Junction or Community Centres/Club to sign up now.  Courses are SkillsFuture Credit eligible and subsidised courses fees start from $10*/$20*.
