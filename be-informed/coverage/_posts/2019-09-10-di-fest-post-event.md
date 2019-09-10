@@ -11,7 +11,7 @@ As part of Infocomm Media Development Authority (IMDA)’s Digital Readiness eff
 
 ![1](/images/event-coverage/di-fest-post-event-2019/difpe1.jpg) 
 
-**Singapore’s Biggest Digital Inclusion Carnival Yet!**
+##### Singapore’s Biggest Digital Inclusion Carnival Yet!
 
 The Lifelong Learning Institute was transformed into a three-day mega digital carnival from 26-28 July, with over thirteen thousand visitors keeping the place buzzing with non-stop excitement. From key activities like tech exhibits, hourly tutorials, hands-on workshops, to the more light-hearted music performances and interactive games, visitors were truly spoilt for choices. More than 450 volunteers from IMDA’s SG:D Friends programme also came forward to help out at the event. At the DI Fest, visitors got to experience a digital future, and learn the importance to be digitally ready.
 
@@ -20,9 +20,9 @@ The Lifelong Learning Institute was transformed into a three-day mega digital ca
 ![2](/images/event-coverage/di-fest-post-event-2019/difpe2.jpg) 
 <small>Minister S Iswaran delivering his opening address at the Digital Inclusion Symposium, organised by IMDA and Institute of Policy Studies (IPS).</small>
 
-**Key events**
+##### Key events
 
-Exhibition Zones
+**Exhibition Zones**
 
 Throngs of eager visitors packed the six exhibition zones, curious about the digital tools and tech toys on showcase. From tools that assist the physically challenged to apps that help with e-payments and government services, participants had an abundance of information at their disposal. 
 
@@ -50,7 +50,7 @@ Over at the ‘Touch & Play’ zone, participants were introduced to robotics an
 ![8](/images/event-coverage/di-fest-post-event-2019/difpe8.jpg) 
 <small>The DI Fest exhibition hall also had several booths showcasing technology that benefits persons with disabilities (PWDs)</small> 
 
-Enable IT Forum and Workshops
+**Enable IT Forum and Workshops**
 
 Infocomm and Assistive Technology (IT/AT) can transform the lives of persons with disabilities (PWDs). PWDs and caregivers echoed this sentiment at the forum.
 
@@ -64,7 +64,7 @@ Ms Manju Mohta, who works with special needs children at Cerebral Palsy Alliance
 ![10](/images/event-coverage/di-fest-post-event-2019/difpe10.jpg) 
 <small>Ms Manju Mohta learnt more about accessibility tools at the Microsoft Accessibility Tool workshop, held at DI Fest</small>
 
-Hourly Tech Tutorials for Seniors
+**Hourly Tech Tutorials for Seniors**
 
 ![11](/images/event-coverage/di-fest-post-event-2019/difpe11.JPG) 
 <small>Participants were both entertained and enlightened during the hourly Tech Tutorials</small> 
@@ -73,7 +73,7 @@ Participants were treated to hourly Tech Tutorials on useful apps. The Tutorials
 
 Local DJs and Getai celebrities also delighted the crowd with musical performances and tutorials. At the Cyber Health Hour,  they shared cyber-wellness topics to remind the audience to remain vigilant, and provided them with tips on how to enjoy the Internet without falling prey to online threats.
 
-Digital Clinics
+**Digital Clinics**
 
 ![12](/images/event-coverage/di-fest-post-event-2019/difpe12.jpg) 
 <small>Seniors visiting DI Fest learnt to unlock the capabilities of their smartphones at the Digital Clinics</small>
@@ -81,7 +81,7 @@ Digital Clinics
 Singapore’s first ever DI Fest would not be complete without IMDA’s signature Digital Clinic. Held in more than 60 locations island-wide since Nov 2017, these clinics have helped over six thousand seniors with their smartphone-related queries. With help from friendly volunteers who patiently guided one attendee at a time, our seniors can confidently flaunt their new digital skills to their children and grandchildren!
 
 
-**Hello Digital World!**    
+##### Hello Digital World!    
 
 People from all walks of life turned up at this event and were excited to enjoy the festivities. But there was no greater excitement than that felt by newcomers to the digital experience.
 
@@ -90,7 +90,7 @@ People from all walks of life turned up at this event and were excited to enjoy 
 
 81-year-old Mr Abdul Gafoor was one of the inquisitive first-time visitors at this digital inclusion event. Discovering the festival through newspapers, he came for the MyCPF tutorial armed with questions. Seated near the front of stage, he was assisted by a friendly volunteer. “I learnt so many things today, like how to use my handphone to access government services. Next time, I can use my handphone to get information. I need not spend time travelling and queueing.” 
 
-**Tender Hearts, Helping Hands**    
+##### Tender Hearts, Helping Hands    
 
 This massive event would not be possible without the invaluable support from the SG:D Friends, a collective of volunteers from various government agencies and corporations across Singapore. 
 
@@ -100,7 +100,7 @@ Click [here](/get-involved/overview/) to find out how you and your organisation 
 <br>
 ![15](/images/event-coverage/di-fest-post-event-2019/difpe15.jpg) 
 
-**A Tremendous Success!**
+##### A Tremendous Success!
 
 On the final day, attendees from the Merdeka and Pioneer generations were treated to a sumptuous celebratory breakfast, organised by the Smart Nation and Digital Government Office to thank them for their contributions to nation building.
 
