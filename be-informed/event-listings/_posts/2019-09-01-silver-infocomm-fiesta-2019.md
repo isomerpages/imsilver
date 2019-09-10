@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silver Infocomm Fiesta
-date: 2019-05-17
+date: 2019-09-01
 permalink: /silver-infocomm-fiesta-2019/
 breadcrumb: Silver Infocomm Fiesta
 ---
