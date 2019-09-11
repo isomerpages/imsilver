@@ -23,9 +23,9 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 <br>
 
 <table>
-  <th><b>Date and Time</th>
-  <th><b>Venue</th>
-  <th><b>Registration and Enquiries</th>
+  <tr><th><b>Date and Time</b></th>
+  <th><b>Venue</b></th>
+    <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
   <td>15-Sep-19<br>10am to 6pm</td>
   <td>Blk 306A Pavilion <br>Clementi Ave 4 S(121306)</td>
