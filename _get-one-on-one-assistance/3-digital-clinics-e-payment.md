@@ -16,7 +16,7 @@ Want to enjoy the convenience of e-Payments? Visit Digital Clinics (e-Payment) t
   <tr>  
 <td>e-Payment @UOB Tampines Centre,  1 Tampines Central 1 #01-01, Singapore 529539</td>
   <td>14 Sep 2019</td> 
-  <td>2pm – 4pm</td></tr>
+  <td>2pm – 5pm</td></tr>
   <tr>
     <td>e-Payment @UOB Bukit Batok, Blk 634 Bukit Batok Central #01-104/106, Singapore 650634</td>
     <td>9 Nov 2019</td>
