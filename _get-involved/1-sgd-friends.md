@@ -17,7 +17,7 @@ Corporates may join as a Corporate SG:D Friend by supporting any of the followin
 * Adopt and run a Digital Readiness programme;<br>
 * Upskill the community through Basic Digital Skills training; and<br>
 * Promote messages on Digital Readiness.<br>
-Corporations that are keen to register can [click here](https://www.ifaq.gov.sg/SGD_Friends/apps/SGD_FriendsRegistration.aspx) to register with us. Alternatively you can email us at <info@imda.gov.sg> or call 6377 3800.
+Corporations that are keen to register can [click here](https://form.gov.sg/#!/5cc027ad60a39400109aed41) to register with us. Alternatively you can email us at <info@imda.gov.sg> or call 6377 3800.
 
 **Our current Corporate SG:D Friends are:**
 
