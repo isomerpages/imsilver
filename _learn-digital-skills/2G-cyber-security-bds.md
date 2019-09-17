@@ -34,13 +34,5 @@ Click below to view online guides that will familiarise you with the basic skill
 * [National Crime Prevention Council See Bah Suay – Episode 2](https://www.youtube.com/watch?v=8aRIsd0hoBw){:target="_blank"}<br>
 * [National Crime Prevention Council See Bah Suay – Episode 3](https://www.youtube.com/watch?v=7aE3Cb_gYUI){:target="_blank"}<br>
 * [National Crime Prevention Council See Bah Suay – Episode 4](https://www.youtube.com/watch?v=Uq6Hm_Th5Xk){:target="_blank"}<br>
-<h3>4. Online Falsehood</h3>
-* [Media Literacy Council Get Smart with Sherlock – Episode 1 – What is fake news?](https://www.youtube.com/watch?v=r3W0iInFJ6E){:target="_blank"}<br>
-* [Media Literacy Council Get Smart with Sherlock – Episode 2 – Why do people create fake news?](https://www.youtube.com/watch?v=0ZFPbSk_NXQ){:target="_blank"}<br>
-* [Media Literacy Council Get Smart with Sherlock – Episode 3 – Why do we fall for fake news?](https://www.youtube.com/watch?v=qvN3lz-uFH8){:target="_blank"}<br>
-* [Media Literacy Council Get Smart with Sherlock – Episode 4 – What are the consequences of fake news?](https://www.youtube.com/watch?v=TcDROfgVq24){:target="_blank"}<br>
-* [Media Literacy Council Get Smart with Sherlock – Episode 5 – How to spot fake news?](https://www.youtube.com/watch?v=YWcTmL5LVog){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Smart](https://www.youtube.com/watch?v=Bdp4AvlsXuw){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Smart (2)](https://www.youtube.com/watch?v=F8M-v0G23fw){:target="_blank"}<br>
-<h3>5. Others</h3>
+<h3>4. Others</h3>
 * [Quiz: How savvy are you when it comes to cyber security?](https://www.csa.gov.sg/gosafeonline/resources/how-savvy-are-you-quiz){:target="_blank"}<br>
