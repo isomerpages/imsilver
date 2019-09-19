@@ -5,7 +5,7 @@ permalink: /get-one-on-one-assistance/digital-clinics/
 breadcrumb: Digital Clinics
 collection_name: get-one-on-one-assistance
 ---
-[![video](https://img.youtube.com/vi/2p2-mMrdo6s/maxresdefault.jpg)](https://youtu.be/2p2-mMrdo6s)
+[![DCvideo](https://img.youtube.com/vi/2p2-mMrdo6s/maxresdefault.jpg)](https://youtu.be/2p2-mMrdo6s)
 <br>
 
 <br>The Digital Clinic provides a one-on-one concierge-type assistance. This is a volunteer-led initiative and is available to anyone who is looking for help on how to use their mobile devices, such as smartphones. 
