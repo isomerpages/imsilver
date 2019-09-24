@@ -16,7 +16,7 @@ If you prefer to learn on your own, here are some online learning guides for you
 #### [E-Communications](/learn-digital-skills/learn-online/e-communications-bds/)<br>
 #### [Digital Transactions](/learn-digital-skills/learn-online/digital-transactions-bds/)<br>
 #### [Government Digital Services](/learn-digital-skills/learn-online/government-digital-services-bds/)<br>
-#### [Cyber Security and Online Falsehood](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
+#### [Cyber Security](/learn-digital-skills/learn-online/cyber-security-bds/)<br>
 #### [Digital Maker](/learn-digital-skills/learn-online/digital-maker/)<br>
 #### [Chinese, Malay and Tamil Learning Content](/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/)<br>
 #### [Related Link](/learn-digital-skills/learn-online/related-links/)<br>
