@@ -15,7 +15,7 @@ Some people, especially seniors, may feel that learning basic digital skills is 
 Introducing Tony and Ricky, two seniors who are on the opposite end of the digital skills spectrum – Ricky loves exploring new ways of doing things, while Tony is less confident about picking a new skill at his age, and prefers doing things the conventional way. In this video, Tony is finally convinced by his wife and his friends to attend an infocomm learning class to pick up basic digital skills. He is apprehensive about it at first. But after attending, he is surprised that he enjoyed the class and found the content useful and meaningful. He is even excited to put his skills to use immediately and attempt to book a ride home using his mobile phone.
 
 ![image1](/images/articles/digital-learning-myths/dlm1.png)
-Watch Tony’s learning journey [**here**].(https://www.youtube.com/watch?v=-gsCx_jEhhA&list=PLKpM5UNf5YCffgefd_brtJ4Ak9GjafhQZ&index=10&t=0s){:target="_blank"}
+Watch Tony’s learning journey [**here**](https://www.youtube.com/watch?v=-gsCx_jEhhA&list=PLKpM5UNf5YCffgefd_brtJ4Ak9GjafhQZ&index=10&t=0s){:target="_blank"}.
 
 When someone hears phrases like “digital skills”, big books and time-consuming courses may cross one’s mind. In fact, it is not as complicated as it seems. There are many options available to help people, especially seniors, to adopt digital skills. For instance, IMDA has a one-day Basic Digital Skills course that helps prepares people to be digitally ready! Through the one-day training, seniors can learn common everyday skills such as surfing the internet to search for information, chatting with friends virtually through text messages and accessing digital services such as internet banking, online shopping and transport booking. 
 
