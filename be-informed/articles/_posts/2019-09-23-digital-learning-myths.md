@@ -2,7 +2,7 @@
 layout: post
 title: Digital Learning Myths
 date: 2019-09-23
-permalink: /digital-learning-myths/
+permalink: /digital-learning-myths0/
 breadcrumb: Digital Learning Myths
 ---
 
