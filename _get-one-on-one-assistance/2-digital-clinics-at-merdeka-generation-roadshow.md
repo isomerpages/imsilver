@@ -79,7 +79,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 <tr>  
   <td>3-Nov-19<br>9.30am to 5.30pm</td>
   <td>Kreta Ayer Community Club <br>28 Kreta Ayer Road, S(088995)</td>
-  <td>Kreta Ayer Community Club 28 Kreta Ayer Road, S(088995) <br>Tel: 6222 3597 (Kreta Ayer CC) <br>/ Kim Seng Community Club 570 Havelock Road, S(169640)<br> Tel: 6272 3878 (Kim Seng CC)</td>
+  <td>Kreta Ayer Community Club 28 Kreta Ayer Road, S(088995) <br>/ Kim Seng Community Club 570 Havelock Road, S(169640)<br> Tel: 6222 3597 (Kreta Ayer CC) / 6272 3878 (Kim Seng CC)</td>
   </tr>  
 <tr>  
   <td>10-Nov-19<br>9am to 5pm</td>
