@@ -27,28 +27,13 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
-  <td>15-Sep-19<br>10am to 6pm</td>
-  <td>Blk 306A Pavilion <br>Clementi Ave 4 S(121306)</td>
-  <td>Bukit Timah Zone 4 RC, <br>Blk 306 Clementi Avenue 4, <br>#01-465, S(120306)<br>Tel: 6466 2912</td>
-  </tr>
-<tr>  
-  <td>21-Sep-19<br>9.30am to 5.30pm</td>
-  <td>Central Plaza at Our Tampines Hub <br>1 Tampines Walk, S(528523)</td>
-  <td>Our Tampines Hub <br>Public Service Centre <br>Tel: 6785 0004</td>
-  </tr>
-<tr>  
-  <td>28-Sep-19<br>10am to 6pm</td>
-  <td>West Coast Wellness Centre <br>Blk 728 Clementi West St 2 <br>#01-412, S(120728)</td>
-  <td>West Coast Wellness Club<br>Tel: 6774 4890</td>
-  </tr>
-<tr>  
   <td>5-Oct-19<br>9am to 5pm</td>
-  <td>Tampines North Community Club <br>2 Tampines Street 41, S(529204) <br>Wellness Room</td>
+  <td>Tampines North Community Club <br>2 Tampines Street 41, S(529204)</td>
   <td>Tampines North Community Club<br>Tel: 6783 2900</td>
   </tr>
 <tr>  
   <td>12-Oct-19<br>10am to 6pm</td>
-  <td>Fuchun Community Club <br>1 Woodlands Street 31, S(738581) <br>Classroom #02-04</td>
+  <td>Fuchun Community Club <br>1 Woodlands Street 31, S(738581)</td>
   <td>Fuchun Community Club<br>Tel: 6365 6911</td>
   </tr>
 <tr>  
@@ -58,12 +43,12 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr> 
 <tr>  
   <td>13-Oct-19<br>9am to 5pm</td>
-  <td>Nee Soon South Community Club <br>30 Yishun Street 81, S(768455) <br>Multi-Purpose Hall</td>
+  <td>Nee Soon South Community Club <br>30 Yishun Street 81, S(768455)</td>
   <td>Nee Soon South Community Club<br>Tel: 6753 3121</td>
   </tr>   
 <tr>  
   <td>16-Oct-19<br>10am to 6pm</td>
-  <td>Potong Pasir Community Club <br>6 Potong Pasir Ave 2, S(358361) <br>Multi-Purpose Room 3 (Level 2)</td>
+  <td>Potong Pasir Community Club <br>6 Potong Pasir Ave 2, S(358361)</td>
   <td>Potong Pasir Community Club<br>Tel: 6280 1182</td>
   </tr>  
 <tr>  
@@ -73,7 +58,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>20-Oct-19<br>10am to 6pm</td>
-  <td>Bukit Panjang Community Club <br>8 Pending Road, S(678265) <br>Conference Room</td>
+  <td>Bukit Panjang Community Club <br>8 Pending Road, S(678265)</td>
   <td>Bukit Panjang Community Club<br>Tel: 6506 0900</td>
   </tr>
 <tr>  
@@ -86,5 +71,45 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Marine Parade Community Club <br>278 Marine Parade Road, S(449282)</td>
   <td>Marine Parade Community Club<br>Tel: 6346 4900</td>
   </tr>
-  
+<tr>  
+  <td>3-Nov-19<br>9am to 5pm</td>
+  <td>Teck Ghee Community Club <br>861 Ang Mo Kio Ave 10, S(569734)</td>
+  <td>Teck Ghee Community Club<br>Tel: 6456 7123</td>
+  </tr>  
+<tr>  
+  <td>3-Nov-19<br>9.30am to 5.30pm</td>
+  <td>Kreta Ayer Community Club <br>28 Kreta Ayer Road, S(088995)</td>
+  <td>Kreta Ayer Community Club 28 Kreta Ayer Road, S(088995) /<br>Kim Seng Community Club 570 Havelock Road, S(169640)<br> Tel: 6222 3597 (Kreta Ayer CC) / 6272 3878 (Kim Seng CC)</td>
+  </tr>  
+<tr>  
+  <td>10-Nov-19<br>9am to 5pm</td>
+  <td>Gambas Zone 2 RC <br>Blk 351A Canberra Road #01-317, S(751351)</td>
+  <td>Gambas Zone 2 RC<br>Tel: 6853 0037</td>
+  </tr>   
+<tr>  
+  <td>17-Nov-19<br>9am to 5pm</td>
+  <td>Kampong Ubi Community Club <br>10 Jln Ubi, S(409075)</td>
+  <td>Kampong Ubi Community Club<br>Tel: 6745 9919</td>
+  </tr> 
+<tr>  
+  <td>22-Nov-19<br>12pm to 8pm</td>
+  <td>Paya Lebar Kovan Community Club <br>Blk 207 Hougang Street 21, S(530207)</td>
+  <td>Paya Lebar Kovan Community Club<br>Tel: 6284 4261</td>
+  </tr> 
+<tr>  
+  <td>24-Nov-19<br>10am to 6pm</td>
+  <td>Open Space at Tampines N2 Shopping Street <br>(between Blk 201D & 201E Tampines Street 23)</td>
+  <td>Tampines East Community Club<br>Tel: 6786 3227</td>
+  </tr> 
+<tr>  
+  <td>24-Nov-19<br>10am to 6pm</td>
+  <td>Kebun Bahru Community Club <br>216 Ang Mo Kio Avenue 4, S(569897)</td>
+  <td>Kebun Bahru Community Club<br>Tel: 6457 7379</td>
+  </tr>   
+<tr>  
+  <td>30-Nov-19<br>9am to 5pm</td>
+  <td>Senja-Cashew Community Club <br>101 Bukit Panjang Road, S(679910)</td>
+  <td>Senja-Cashew Community Club<br>Tel: 6219 4561</td>
+  </tr>    
+
 </table>

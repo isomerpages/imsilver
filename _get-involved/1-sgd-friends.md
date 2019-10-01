@@ -21,28 +21,30 @@ Corporations that are keen to register can [click here](https://form.gov.sg/#!/5
 
 **Our current Corporate SG:D Friends are:**
 
-| Accenture | Institute of Technical Education | Singapore Business Federation |
+| Accenture | Lenovo Singapore | Serl.io |
 | -- | -- | -- |
-| **Alibaba Cloud** |  **Land Transport Authority** | **Singapore Computer Society** |
-| **Akamai Technologies Singapore** | **Microsoft** | **Singapore Pools** |
-| **Amazon Web Service** | **Ministry of Communications and Informatiom** | **SkillsFuture Singapore** |
-| **Apple** | **Ministry of Culture, Community and Youth** | **Lifelong Learning Institute** |
-| **Beatty Secondary School** | **Ministry of Finance** | **Smart Nation and Digital Government Group Office** |
-| **Central CDC** | **National Council of Social Service** | **South East CDC** |
-| **Changi-Simei Community Club** | **National Library Board** | **Singapore Customs** |
-| **Citibank** | **NetLink NBN**  | **Standard Chartered Singapore** |
-| **Civil Service College** | **NETS** | **Singapore Institute of Technology** |
-| **Coding Lab** | **Ngee Ann Polytechnic** | **Taman Jurong Community Club** |
-| **Cognizant** | **North East CDC** | **Tanjong Pagar Community Club** |
-| **Council for Third Age** | **OCBC Bank**  | **Tata Consultancy Services** |
-| **Credit Suisse** | **People’s Association – Active Ageing Council**  | **Temasek Junior College** |
-| **DBS Bank** | **Public Service Division** | **Temasek Polytechnic** |
-| **Dell EMC** | **Purple Click Media** | **Toa Payoh West-Balestier Citizen Consultative Committee** |
-| **Ezsofe** | **Radin Mas Community Club**  | **Tote Board**  |
-| **GovTech** | **Rapid7** | **TOUCH Community Services** |
-| **Hewlett Packard Enterprise** | **RSVP Singapore**  | **United Overseas Bank** |
-| **Housing Development Board** | **Salesforce** | **United Parcel Service** |
-| **HP Inc.** | **School of Science and Technology, Singapore** | **YMCA of Singapore** |
-| **IBM** | **Serl.io** | **Youth Corps Singapore**  |
-| **Lenovo Singapore** | **SGTec** | **Yusen Logistics**  |
-| **TP Link** |
+| **Alibaba Cloud** |  **TP Link** | **SGTec** |
+| **Akamai Technologies Singapore** | **Institute of Technical Education** | **Singapore Business Federation** |
+| **Amazon Web Service** | **Land Transport Authority** | **Singapore Computer Society** |
+| **Apple** | **Mediacorp** | **Singapore Pools** |
+| **APSN Delta Senior School** | **Metta School** | **SkillsFuture Singapore** |
+| **APSN Tanglin School** | **Microsoft** | **Lifelong Learning Institute** |
+| **Barclays** | **Ministry of Communications and Information** | **Smart Nation and Digital Government Group Office** | 
+| **Beatty Secondary School** | **Ministry of Culture, Community and Youth** | **South East CDC** |
+| **Central CDC** | **Ministry of Finance** | **Singapore Customs** |
+| **Changi-Simei Community Club** | **National Council of Social Service** | **Standard Chartered Singapore** |
+| **Citibank** | **National Library Board**  | **Singapore Institute of Technology** |
+| **Civil Service College** | **NetLink NBN** | **Taman Jurong Community Club** |
+| **Coding Lab** | **NETS** | **Tanjong Pagar Community Club** |
+| **Cognizant** | **Ngee Ann Polytechnic** | **Tata Consultancy Services** |
+| **Council for Third Age** | **North East CDC**  | **Temasek Junior College** |
+| **Credit Suisse** | **OCBC Bank**  | **Temasek Polytechnic** |
+| **DBS Bank** | **People’s Association – Active Ageing Council** | **Toa Payoh West-Balestier Citizen Consultative Committee** |
+| **Dell EMC** | **Public Service Division** | **Tote Board** |
+| **Ezsofe** | **Purple Click Media**  | **TOUCH Community Services**  |
+| **GovTech** | **Radin Mas Community Club** | **United Overseas Bank** |
+| **Grace Orchard School** | **Rapid7** | **United Parcel Service** |
+| **Hewlett Packard Enterprise** | **RSVP Singapore**  | **YMCA of Singapore**
+| **Housing Development Board** | **Salesforce** | **Youth Corps Singapore** |
+| **HP Inc.** | **School of Science and Technology, Singapore** | **Yusen Logistics** |
+| **IBM** |
