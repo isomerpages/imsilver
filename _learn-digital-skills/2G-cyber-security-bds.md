@@ -8,7 +8,7 @@ second_nav_title: Learn Online
 ---
 ![1](/images/learn-online/cybersecurity.jpg)
 
-Click below to view online guides that will familiarise you with the basic skills needed to stay safe in cyberspace<br>
+Click below to view online guides that will familiarise you with the basic skills needed to stay safe in cyberspace.<br>
 
 <h3>1. Go Safe Online</h3>
 * [Introduction on Web Threats](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/internet-safety-for-all-the-basics-of-web-threats){:target="_blank"}<br>
@@ -29,10 +29,7 @@ Click below to view online guides that will familiarise you with the basic skill
 * [4 Important Tips To Go Safe Online](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/cyber_tips_4_you_flyer.pdf?la=en){:target="_blank"}<br>
 * [Learn more about Spam and Phishing](https://www.kaspersky.com/resource-center/threats/spam-phishing){:target="_blank"}<br>
 * [Protecting Your Money - Security Tips](https://www.kaspersky.com/resource-center/preemptive-safety/money-online){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Safe](https://www.youtube.com/watch?v=EoStqEEKvwA){:target="_blank"}<br>
-* [National Crime Prevention Council See Bah Suay – Episode 1](https://www.youtube.com/watch?v=1pt2TfFXp2w){:target="_blank"}<br>
-* [National Crime Prevention Council See Bah Suay – Episode 2](https://www.youtube.com/watch?v=8aRIsd0hoBw){:target="_blank"}<br>
-* [National Crime Prevention Council See Bah Suay – Episode 3](https://www.youtube.com/watch?v=7aE3Cb_gYUI){:target="_blank"}<br>
-* [National Crime Prevention Council See Bah Suay – Episode 4](https://www.youtube.com/watch?v=Uq6Hm_Th5Xk){:target="_blank"}<br>
+* [Media Literacy Council Do What’s Right: Be Safe](https://www.youtube.com/user/MLCSingapore/featured){:target="_blank"}<br>
+* [National Crime Prevention Council See Beh Suay](https://www.youtube.com/channel/UClEjzryYSyhd521q9je2faw/featured){:target="_blank"}<br>
 <h3>4. Others</h3>
 * [Quiz: How savvy are you when it comes to cyber security?](https://www.csa.gov.sg/gosafeonline/resources/how-savvy-are-you-quiz){:target="_blank"}<br>
