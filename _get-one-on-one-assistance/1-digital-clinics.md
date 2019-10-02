@@ -14,7 +14,7 @@ Digital Clinic sessions cater to both iOS and Android device users. These sessio
 
 Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, personalise accessibility tools (e.g. text size, magnifier, voice-to-text, hearing function) and learn applications on their mobile devices. The Digital Clinic volunteers will also share information on relevant mobile lifestyle applications and tips on online discernment suitable for daily use with the participants.<br>
 
-Want to enjoy the convenience of e-Payments? Visit Digital Clinics (e-Payment) to receive one-on-one assistance, where our friendly volunteers will share tips on how to use e-payment in your daily lives. For more information on the schedule, please return to the Digital Clinic [main page](/get-one-on-one-assistance/digital-clinics/).
+Want to enjoy the convenience of e-Payments? Visit Digital Clinics (e-Payment) to receive one-on-one assistance, where our friendly volunteers will share tips on how to use e-payment in your daily lives. 
 
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
