@@ -21,27 +21,27 @@ Corporations that are keen to register can [click here](https://form.gov.sg/#!/5
 
 **Our current Corporate SG:D Friends are:**
 
-| **Accenture** | **Lenovo Singapore** | **Serl.io** |
+| **Accenture** | **Institute of Technical Education** | **Serl.io** |
 | -- | -- | -- |
-| **Alibaba Cloud** |  **TP Link** | **SGTec** |
-| **Akamai Technologies Singapore** | **Institute of Technical Education** | **Singapore Business Federation** |
-| **Amazon Web Service** | **Land Transport Authority** | **Singapore Computer Society** |
-| **Apple** | **Mediacorp** | **Singapore Pools** |
-| **APSN Delta Senior School** | **Metta School** | **SkillsFuture Singapore** |
-| **APSN Tanglin School** | **Microsoft** | **Lifelong Learning Institute** |
-| **Barclays** | **Ministry of Communications and Information** | **Smart Nation and Digital Government Group Office** | 
-| **Beatty Secondary School** | **Ministry of Culture, Community and Youth** | **South East CDC** |
-| **Central CDC** | **Ministry of Finance** | **Singapore Customs** |
+| **Akamai Technologies Singapore** |  **Land Transport Authority** | **SGTec** |
+| **Alibaba Cloud** | **Lenovo Singapore** | **Singapore Business Federation** |
+| **Amazon Web Service** | **Lifelong Learning Institute** | **Singapore Computer Society** |
+| **Apple** | **Mediacorp** | **Singapore Customs** |
+| **APSN Delta Senior School** | **Metta School** | **Singapore Institute of Technology** |
+| **APSN Tanglin School** | **Microsoft** | **Singapore Pools** |
+| **Barclays** | **Ministry of Communications and Information** | **SkillsFuture Singapore** | 
+| **Beatty Secondary School** | **Ministry of Culture, Community and Youth** | **Smart Nation and Digital Government Group Office** |
+| **Central CDC** | **Ministry of Finance** | **South East CDC** |
 | **Changi-Simei Community Club** | **National Council of Social Service** | **Standard Chartered Singapore** |
-| **Citibank** | **National Library Board**  | **Singapore Institute of Technology** |
-| **Civil Service College** | **NetLink NBN** | **Taman Jurong Community Club** |
-| **Coding Lab** | **NETS** | **Tanjong Pagar Community Club** |
-| **Cognizant** | **Ngee Ann Polytechnic** | **Tata Consultancy Services** |
-| **Council for Third Age** | **North East CDC**  | **Temasek Junior College** |
-| **Credit Suisse** | **OCBC Bank**  | **Temasek Polytechnic** |
-| **DBS Bank** | **People’s Association – Active Ageing Council** | **Toa Payoh West-Balestier Citizen Consultative Committee** |
-| **Dell EMC** | **Public Service Division** | **Tote Board** |
-| **Ezsofe** | **Purple Click Media**  | **TOUCH Community Services**  |
+| **Citibank** | **National Library Board**  | **Taman Jurong Community Club** |
+| **Civil Service College** | **NetLink NBN** | **Tanjong Pagar Community Club** |
+| **Coding Lab** | **NETS** | **Tata Consultancy Services** |
+| **Cognizant** | **Ngee Ann Polytechnic** | **Temasek Junior College** |
+| **Council for Third Age** | **North East CDC**  | **Temasek Polytechnic** |
+| **Credit Suisse** | **OCBC Bank**  | **Toa Payoh West-Balestier Citizen Consultative Committee** |
+| **DBS Bank** | **People’s Association – Active Ageing Council** | **Tote Board** |
+| **Dell EMC** | **Public Service Division** | **TOUCH Community Services** |
+| **Ezsofe** | **Purple Click Media**  | **TP Link**  |
 | **GovTech** | **Radin Mas Community Club** | **United Overseas Bank** |
 | **Grace Orchard School** | **Rapid7** | **United Parcel Service** |
 | **Hewlett Packard Enterprise** | **RSVP Singapore**  | **YMCA of Singapore**
