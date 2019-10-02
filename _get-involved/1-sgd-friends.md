@@ -21,7 +21,7 @@ Corporations that are keen to register can [click here](https://form.gov.sg/#!/5
 
 **Our current Corporate SG:D Friends are:**
 
-| Accenture | Lenovo Singapore | Serl.io |
+| **Accenture** | **Lenovo Singapore** | **Serl.io** |
 | -- | -- | -- |
 | **Alibaba Cloud** |  **TP Link** | **SGTec** |
 | **Akamai Technologies Singapore** | **Institute of Technical Education** | **Singapore Business Federation** |
