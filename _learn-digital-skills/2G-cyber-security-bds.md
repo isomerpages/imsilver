@@ -17,8 +17,8 @@ Click below to view online guides that will familiarise you with the basic skill
 * [4 Important Tips To Go Safe Online](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/cyber_tips_4_you_flyer.pdf?la=en){:target="_blank"}<br>
 * [Learn more about Spam and Phishing](https://www.kaspersky.com/resource-center/threats/spam-phishing){:target="_blank"}<br>
 * [Protecting Your Money - Security Tips](https://www.kaspersky.com/resource-center/preemptive-safety/money-online){:target="_blank"}<br>
-* [Media Literacy Council Do What’s Right: Be Safe](https://www.youtube.com/user/MLCSingapore/featured){:target="_blank"}<br>
-* [National Crime Prevention Council See Beh Suay](https://www.youtube.com/channel/UClEjzryYSyhd521q9je2faw/featured){:target="_blank"}<br>
+* [Media Literacy Council](https://www.youtube.com/user/MLCSingapore/featured){:target="_blank"}<br>
+* [National Crime Prevention Council](https://www.youtube.com/channel/UClEjzryYSyhd521q9je2faw/featured){:target="_blank"}<br>
 <h3>2. Go Safe Online</h3>
 * [Introduction on Web Threats](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/internet-safety-for-all-the-basics-of-web-threats){:target="_blank"}<br>
 * [Android Mobile Security - What you need to know about malicious apps](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps){:target="_blank"}<br>
