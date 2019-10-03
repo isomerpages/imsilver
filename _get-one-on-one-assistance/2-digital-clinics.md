@@ -14,7 +14,7 @@ Digital Clinic sessions cater to both iOS and Android device users. These sessio
 
 Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, personalise accessibility tools (e.g. text size, magnifier, voice-to-text, hearing function) and learn applications on their mobile devices. The Digital Clinic volunteers will also share information on relevant mobile lifestyle applications and tips on online discernment suitable for daily use with the participants.<br>
 
-Want to enjoy the convenience of e-Payments? Visit Digital Clinics (e-Payment) to receive one-on-one assistance, where our friendly volunteers will share tips on how to use e-payment in your daily lives. 
+Alternatively, participants can also enjoy the convenience of e-Payments by visiting an e-Payment Digital Clinic to get tips on how to use e-payment in their everyday lives.
 
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
@@ -51,7 +51,7 @@ Want to enjoy the convenience of e-Payments? Visit Digital Clinics (e-Payment) t
   <td>5 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>
-  <td>e-Payment @UOB Bukit Batok, Blk 634 Bukit Batok Central #01-104/106, Singapore 650634</td>
+  <td><b>e-Payment @UOB Bukit Batok, Blk 634 Bukit Batok Central</b> #01-104/106, Singapore 650634</td>
   <td>9 November 2019</td>
   <td>2pm - 5pm</td></tr>
 <tr>  
