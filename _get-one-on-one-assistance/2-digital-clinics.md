@@ -14,6 +14,8 @@ Digital Clinic sessions cater to both iOS and Android device users. These sessio
 
 Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, personalise accessibility tools (e.g. text size, magnifier, voice-to-text, hearing function) and learn applications on their mobile devices. The Digital Clinic volunteers will also share information on relevant mobile lifestyle applications and tips on online discernment suitable for daily use with the participants.<br>
 
+Alternatively, participants can also enjoy the convenience of e-Payments by visiting an e-Payment Digital Clinic to get tips on how to use e-payment in their everyday lives.
+
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
 **Upcoming Sessions**
@@ -24,18 +26,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Date</b></th>
   <th><b>Time</b></th>
 
-<tr>  
-<td><b>Serangoon Public Library,</b> 23 Serangoon Central #04R-82, 83 NEX, 556083</td>
-  <td>24 September 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
-<td><b>Jurong West Public Library,</b> 60 Jurong West Central 3, #01-03, Singapore 648346</td>
-  <td>25 September 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
-<td><b>Woodlands Regional Library,</b> 900 S Woodlands Way, #01-03, Singapore 730900</td>
-  <td>01 October 2019</td> 
-  <td>2pm – 5pm</td> </tr>
 <tr>  
 <td><b>Sheltered area outside Hougang Mall</b> (Digital Clinic @ Merdeka Generation Roadshow), 90 Hougang Ave 10, Singapore 538766</td>
   <td>05 October 2019</td> 
@@ -60,7 +50,11 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 <td><b>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, 769098</td>
   <td>5 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
-  <tr>  
+<tr>
+  <td><b>e-Payment @UOB Bukit Batok, Blk 634 Bukit Batok Central</b> #01-104/106, Singapore 650634</td>
+  <td>9 November 2019</td>
+  <td>2pm - 5pm</td></tr>
+<tr>  
 <td><b>Clementi Public Library,</b> 3155 Commonwealth Ave W, #05-13/14/15 The Clementi Mall, 129588</td>
   <td>12 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
