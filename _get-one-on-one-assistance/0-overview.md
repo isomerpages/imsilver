@@ -13,7 +13,7 @@ Do you face problems with using your smartphone and wish there was someone who c
 
 #### Digital Clinics<br>
 
-Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics] to find out more(/get-one-on-one-assistance/digital-clinics/).<br>
+Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics] to find out more(/get-one-on-one-assistance/digital-clinics/get-one-on-one-assistance/)<br>
 
 **Upcoming Sessions**
 <br>
