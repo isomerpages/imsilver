@@ -53,7 +53,7 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
   <td>5 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
 <tr>
-  <td>e-Payment @UOB Bukit Batok, Blk 634 Bukit Batok Central #01-104/106, Singapore 650634</td>
+  <td><b>e-Payment @UOB Bukit Batok, Blk 634 Bukit Batok Central #01-104/106,</b> Singapore 650634</td>
   <td>9 November 2019</td>
   <td>2pm - 5pm</td></tr>
 <tr>  
