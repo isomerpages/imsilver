@@ -17,7 +17,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 * Search for information online<br>
 * Communication tools (email / chatting apps)<br>
 * Online shopping apps<br>
-* Government apps and digital services (Moments of Life app, My Transport, Smart AhMa apps, etc.)<br>
+* Government apps and digital services (Moments of Life app, My Transport, Smart AhMa apps, etc)<br>
 
 **Upcoming Sessions**
 <br>

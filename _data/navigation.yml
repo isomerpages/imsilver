@@ -21,12 +21,12 @@
 - title: Get One-on-One Assistance
   url: /get-one-on-one-assistance/overview/
   sub-links:
-      - title: Tech Connect
-        url: /get-one-on-one-assistance/tech-connect/
       - title: Digital Clinics
         url: /get-one-on-one-assistance/digital-clinics/
       - title: Merdeka Generation Digital Clinic
         url: /get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/
+      - title: Tech Connect
+        url: /get-one-on-one-assistance/tech-connect/
 
 - title: Test My Digital Skills
   url: https://confirmation.gevme.com/BDS_Quiz/landing/
