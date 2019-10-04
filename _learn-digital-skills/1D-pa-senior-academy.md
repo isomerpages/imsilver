@@ -9,7 +9,7 @@ second_nav_title: Attend Classes
 
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
 
-IMDA has partnered with the People’s Association (PA) to offer a series of IT courses in their Senior Academies as an extension of your learning options. These learning hubs are located island-wide, and offer affordable and customised classes..
+IMDA has partnered with the People’s Association (PA) to offer a series of IT courses in their Senior Academies as an extension of your learning options. These learning hubs are located island-wide, and offer affordable and customised classes.
 If you are a senior who wants to pursue lifelong learning and lead an active lifestyle, this is for you!
 
 **List of Senior Academies**
