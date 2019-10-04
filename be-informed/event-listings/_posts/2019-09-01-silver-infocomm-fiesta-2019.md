@@ -53,7 +53,7 @@ Mr. Nathan S Pathmanathan S/O Sinniah participated in the Social Networking work
  
 With so many fun and accessible courses to pick up useful digital, visit the nearest Silver Infocomm Junction or Community Centres/Club to sign up now.  Courses are SkillsFuture Credit eligible and subsidised courses fees start from * $10/$20.
 
-Check out the upcoming mass IT classes [here](/files/SIJ Course Schedule_Sep 2019 upload_2Oct.pdf).
+Check out the upcoming IT courses [here](/files/SIJ Course Schedule_Sep 2019 upload_2Oct.pdf).
 
 *Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidies under the [National Silver Academy](https://www.nsa.org.sg/){:target="_blank"}.
 
