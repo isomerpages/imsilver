@@ -10,7 +10,7 @@ second_nav_title: Attend Classes
 
 Silver Infocomm Junction are learning hubs that are located island-wide. It is targeted at seniors who are new to technology, and are keen to learn basic digital skills. Participants will learn how to use their smartphones and computers to send an email; make a video call; read the news or search for information online.
 
-Click [here](/silver-infocomm-fiesta-2019/) to check out our list of classes atthe Silver Infocomm Fiesta
+Click [here](/silver-infocomm-fiesta-2019/) to check out our list of classes at the Silver Infocomm Fiesta.
 
 List of SIJs
 
@@ -100,7 +100,7 @@ https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Conta
   </tr>
 </table>
 
-Click [here](/files/SIJ Course Schedule_Aug 2019 upload_21Aug..pdf) for the schedule of IT courses offered by the SIJs.
+Click [here](/files/SIJ Course Schedule_Sep 2019 upload_2Oct.pdf) for the schedule of IT courses offered by the SIJs.
 
 Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidise under the National Silver Academy.
 
