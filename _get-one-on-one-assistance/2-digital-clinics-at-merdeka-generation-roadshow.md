@@ -82,6 +82,16 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Kreta Ayer Community Club 28 Kreta Ayer Road, S(088995) /<br>Kim Seng Community Club 570 Havelock Road, S(169640)<br> Tel: 6222 3597 (Kreta Ayer CC) / 6272 3878 (Kim Seng CC)</td>
   </tr>  
 <tr>  
+  <td>6-Nov-19<br>9am to 5pm</td>
+  <td>Yuhua Community Club <br>90 Boon Lay Way, S(609958)</td>
+  <td>Yuhua Community Club<br> Tel: 6560 4490</td>
+</tr>
+<tr>  
+  <td>9-Nov-19<br>10am to 2pm</td>
+  <td>Bukit Timah Community Club <br>20 Toh Yi Drive, S(596569)</td>
+  <td>Bukit Timah Community Club<br> Tel: 6466 6115</td>
+</tr> 
+<tr>  
   <td>10-Nov-19<br>9am to 5pm</td>
   <td>Gambas Zone 2 RC <br>Blk 351A Canberra Road #01-317, S(751351)</td>
   <td>Gambas Zone 2 RC<br>Tel: 6853 0037</td>
@@ -90,12 +100,22 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>17-Nov-19<br>9am to 5pm</td>
   <td>Kampong Ubi Community Club <br>10 Jln Ubi, S(409075)</td>
   <td>Kampong Ubi Community Club<br>Tel: 6745 9919</td>
-  </tr> 
+  </tr>
+<tr>  
+  <td>17-Nov-19<br>9am to 5pm</td>
+  <td>Tampines Changkat Community Club <br>13 Tampines Street 11, S(529453)</td>
+  <td>Tampines Changkat Community Club<br>Tel: 6783 2985</td>
+</tr>  
 <tr>  
   <td>22-Nov-19<br>12pm to 8pm</td>
   <td>Paya Lebar Kovan Community Club <br>Blk 207 Hougang Street 21, S(530207)</td>
   <td>Paya Lebar Kovan Community Club<br>Tel: 6284 4261</td>
-  </tr> 
+  </tr>
+<tr>  
+  <td>23-Nov-19<br>12pm to 8pm</td>
+  <td>Boon Lay Community Club <br>10 Boon Lay Place, S(649882)</td>
+  <td>Boon Lay Community Club<br>Tel: 6261 7184</td>
+</tr> 
 <tr>  
   <td>24-Nov-19<br>10am to 6pm</td>
   <td>Open Space at Tampines N2 Shopping Street <br>(between Blk 201D & 201E Tampines Street 23)</td>
@@ -111,5 +131,14 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Senja-Cashew Community Club <br>101 Bukit Panjang Road, S(679910)</td>
   <td>Senja-Cashew Community Club<br>Tel: 6219 4561</td>
   </tr>    
-
+<tr>  
+  <td>30-Nov-19<br>12pm to 8pm</td>
+  <td>Yew Tee Community Club <br>20 Choa Chu Kang St 52, S(689286)</td>
+  <td>Yew Tee Community Club<br>Tel: 6765 8611</td>
+  </tr>
+<tr>  
+  <td>15-Dec-19<br>8am to 4pm</td>
+  <td>Hwi Yoh Community Club <br>535 Serangoon North Ave 4, S(550535)</td>
+  <td>Hwi Yoh Community Club<br>Tel: 6484 0338</td>
+  </tr>
 </table>
