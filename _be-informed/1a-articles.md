@@ -11,7 +11,7 @@ Check out our educational reads and tips on digital skills and find out how they
 
 | Date | Title |
 |--|--|
-| 7 October 2019 | [Helping Seniors Use Their Smartphones](//helping-seniors-use-their-smartphones/) |
+| 7 October 2019 | [Helping Seniors Use Their Smartphones](/helping-seniors-use-their-smartphones/) |
 | 23 September 2019 | [Digital Learning Myths](/digital-learning-myths/) |
 | 15 May 2019 | [SingPass Goes Digital](/singpass-goes-digital/) |
 | 15 March 2019 | [Are You Digitally-Ready?](/are-you-digitally-ready/) |
