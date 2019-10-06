@@ -22,10 +22,10 @@ Most of the participants, including seniors, visit these clinics to learn how to
 
 The Digital Clinics are free and held regularly in public libraries and community spaces for all age groups.<br>
 
-### Preparing Singaporeans To Be Digitally Ready<br>
-
 ![image2](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-2.jpg)
 DIGITAL CLINIC VOLUNTEER, Mr Selvaraj Antonyrai, 30<br>
+
+### Preparing Singaporeans To Be Digitally Ready<br>
 
 Like Ryan, Selvaraj Antonyrai is a Digital Clinic volunteer and was inspired to contribute since he is an experienced IT professional. “I deal with the mobile platform at work every day,” said the 30-year-old Software Development Lead at Standard Chartered Bank. “So I’m familiar with it and can help seniors with their questions.” <br>
 
