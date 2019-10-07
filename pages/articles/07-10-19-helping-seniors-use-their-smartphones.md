@@ -66,27 +66,27 @@ Refer to [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) for the 
 <tr>  
   <td>22-Oct-19</td>
   <td>2pm to 5pm</td>
-  <td>Toa Payoh Public Library,</b> 6 Toa Payoh Central, Singapore 319191</td>
+  <td><b>Toa Payoh Public Library,</b> 6 Toa Payoh Central, Singapore 319191</td>
   </tr>
 <tr>  
   <td>29-Oct-19</td>
   <td>2pm to 5pm</td>
-  <td>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
+  <td><b>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   </tr>
 <tr>  
   <td>5-Nov-19</td>
   <td>2pm to 5pm</td>
-  <td>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, 769098</td>
+  <td><b>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, 769098</td>
   </tr>
 <tr>  
   <td>12-Nov-19</td>
   <td>2pm to 5pm</td>
-  <td>Clementi Public Library,</b> 3155 Commonwealth Ave W, #05-13/14/15 The Clementi Mall, 129588</td>
+  <td><b>Clementi Public Library,</b> 3155 Commonwealth Ave W, #05-13/14/15 The Clementi Mall, 129588</td>
   </tr>
 <tr>  
   <td>19-Nov-19</td>
   <td>2pm to 5pm</td>
-  <td>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
+  <td><b>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   </tr>
 </table>
 
