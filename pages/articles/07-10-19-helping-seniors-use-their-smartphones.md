@@ -9,8 +9,8 @@ breadcrumb: Helping Seniors Use Their Smartphones
 ## Helping Seniors Use Their Smartphones<br>
 
 ![image1](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-1.jpg)
-Digital Clinic Volunteer, Mr Ryan Yeo, 36<br>
-Digital Clinic Participant, Mdm Joyce Shum, 78<br>
+**Mr Ryan Yeo**, 36, Digital Clinic Volunteer<br>
+**Mdm Joyce Shum**, 78, Digital Clinic Participant, <br>
 
 **At IMDA's Digital Clinics, corporate volunteers give back to society by providing dedicated assistance to seniors on their smartphone queries.**<br>
 
@@ -23,7 +23,7 @@ Most of the participants, including seniors, visit these clinics to learn how to
 The Digital Clinics are free and held regularly in public libraries and community spaces for all age groups.<br>
 
 ![image2](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-2.jpg)
-Digital Clinic Volunteer, Mr Selvaraj Antonyrai, 30<br>
+**Mr Selvaraj Antonyrai**, 30, Digital Clinic Volunteer<br>
 
 **Preparing Singaporeans To Be Digitally Ready**<br>
 
@@ -47,11 +47,11 @@ Receive one-on-one assistance on your smartphone queries and enjoy greater conve
 *	Learn about mobile lifestyle apps
 *	For Android and iOS users
 
-**Visit a Digital Clinic near you**<br>
-Refer to imsilver.sg/dc for the latest schedule.<br>
-
 **To sign up as a SG:D Friend**<br>
-Visit www.imda.gov.sg/sgd-friends<br>
+Visit [SG:D Friend](/get-involved/sgd-friends/)<br>
+
+**Visit a Digital Clinic near you**<br>
+Refer to [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) for the latest schedule.<br> 
 
 **Upcoming Digital Clinics**<br>
 <table>
@@ -61,34 +61,34 @@ Visit www.imda.gov.sg/sgd-friends<br>
 <tr>  
   <td>8-Oct-19</td>
   <td>2pm to 5pm</td>
-  <td>Jurong Regional Library</td>
+  <td><b>Jurong Regional Library,</b> 21 Jurong East Central 1, Singapore 609732</td>
   </tr>
 <tr>  
   <td>22-Oct-19</td>
   <td>2pm to 5pm</td>
-  <td>Toa Payoh Public Library</td>
+  <td>Toa Payoh Public Library,</b> 6 Toa Payoh Central, Singapore 319191</td>
   </tr>
 <tr>  
   <td>29-Oct-19</td>
   <td>2pm to 5pm</td>
-  <td>Bedok Public Library</td>
+  <td>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   </tr>
 <tr>  
   <td>5-Nov-19</td>
   <td>2pm to 5pm</td>
-  <td>Yishun Public Library</td>
+  <td>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, 769098</td>
   </tr>
 <tr>  
   <td>12-Nov-19</td>
   <td>2pm to 5pm</td>
-  <td>Clementi Public library</td>
+  <td>Clementi Public Library,</b> 3155 Commonwealth Ave W, #05-13/14/15 The Clementi Mall, 129588</td>
   </tr>
 <tr>  
   <td>19-Nov-19</td>
   <td>2pm to 5pm</td>
-  <td>Bedok Public Library</td>
+  <td>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   </tr>
 </table>
 
-Key Partner: National Library Board<br>
-Organised by: Infocomm Media Development Authority
+Key Partner: **National Library Board**<br>
+Organised by: **Infocomm Media Development Authority**
