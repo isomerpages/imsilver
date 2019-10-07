@@ -10,7 +10,7 @@ breadcrumb: Helping Seniors Use Their Smartphones
 
 ![image1](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-1.jpg)
 **Mr Ryan Yeo**, 36, Digital Clinic Volunteer<br>
-**Mdm Joyce Shum**, 78, Digital Clinic Participant, <br>
+**Mdm Joyce Shum**, 78, Digital Clinic Participant<br>
 
 **At IMDA's Digital Clinics, corporate volunteers give back to society by providing dedicated assistance to seniors on their smartphone queries.**<br>
 
