@@ -48,7 +48,7 @@ Receive one-on-one assistance on your smartphone queries and enjoy greater conve
 *	For Android and iOS users
 
 **To sign up as a SG:D Friend**<br>
-Visit [SG:D Friend](/get-involved/sgd-friends/)<br>
+Visit SG:D Friends [here].(/get-involved/sgd-friends/)<br>
 
 **Visit a Digital Clinic near you**<br>
 Refer to [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) for the latest schedule.<br> 
