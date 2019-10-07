@@ -9,8 +9,8 @@ breadcrumb: Helping Seniors Use Their Smartphones
 ## Helping Seniors Use Their Smartphones<br>
 
 ![image1](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-1.jpg)
-DIGITAL CLINIC VOLUNTEER, Mr Ryan Yeo, 36<br>
-DIGITAL CLINIC PARTICIPANT, Mdm Joyce Shum, 78<br>
+Digital Clinic Volunteer, Mr Ryan Yeo, 36<br>
+Digital Clinic Participant, Mdm Joyce Shum, 78<br>
 
 **At IMDA's Digital Clinics, corporate volunteers give back to society by providing dedicated assistance to seniors on their smartphone queries.**<br>
 
@@ -23,7 +23,7 @@ Most of the participants, including seniors, visit these clinics to learn how to
 The Digital Clinics are free and held regularly in public libraries and community spaces for all age groups.<br>
 
 ![image2](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-2.jpg)
-DIGITAL CLINIC VOLUNTEER, Mr Selvaraj Antonyrai, 30<br>
+Digital Clinic Volunteer, Mr Selvaraj Antonyrai, 30<br>
 
 **Preparing Singaporeans To Be Digitally Ready**<br>
 
@@ -89,3 +89,6 @@ Visit www.imda.gov.sg/sgd-friends<br>
   <td>Bedok Public Library</td>
   </tr>
 </table>
+
+Key Partner: National Library Board<br>
+Organised by: Infocomm Media Development Authority
