@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Digital Inclusion Festival – Learning Digital Skills made fun and easy!
-date:   2019-09-10
+date:   2019-08-15
 permalink: /be-informed/coverage/di-fest-post-event
 ---
 
