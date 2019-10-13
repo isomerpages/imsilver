@@ -2,8 +2,8 @@
 layout: post
 title: Silver Digital Talents
 date: 2019-05-17
-permalink: /be-informed/coverage/silver-digital-talents/
-breadcrumb: Silver Digital Talents
+permalink: /be-informed/coverage/share-your-life-experiences-with-everyone-digitally-2019/
+breadcrumb: Share Your Life Experiences with Everyone – Digitally
 ---
 
 ## Share Your Life Experiences with Everyone – Digitally <br>
