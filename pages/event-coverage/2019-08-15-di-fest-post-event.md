@@ -2,7 +2,7 @@
 layout: post
 title:  Digital Inclusion Festival – Learning Digital Skills made fun and easy!
 date:   2019-08-15
-permalink: /be-informed/coverage/di-fest-post-event
+permalink: /di-fest-post-event/
 ---
 
 For many of us, ordering food, buying groceries or booking a ride online are common things we do everyday and often taken for granted. Yet there are some segments of our community who require some assistance, to be able to fully experience the same benefits brought about by technology.
