@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Pick up Digital Skills and Learn to use Technology Confidently for Daily Activities
-date: 2019-05-17
+date: 2019-09-01
 permalink: /pick-up-digital-skills-and-learn-to-use-technology-confidently-for-daily-activities/
 breadcrumb: Pick up Digital Skills and Learn to use Technology Confidently for Daily Activities
 ---
