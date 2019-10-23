@@ -26,47 +26,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <tr><th><b>Date and Time</b></th>
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
-<tr>  
-  <td>5-Oct-19<br>9am to 5pm</td>
-  <td>Tampines North Community Club <br>2 Tampines Street 41, S(529204)</td>
-  <td>Tampines North Community Club<br>Tel: 6783 2900</td>
-  </tr>
-<tr>  
-  <td>12-Oct-19<br>10am to 6pm</td>
-  <td>Fuchun Community Club <br>1 Woodlands Street 31, S(738581)</td>
-  <td>Fuchun Community Club<br>Tel: 6365 6911</td>
-  </tr>
-<tr>  
-  <td>12-Oct-19<br>9am to 5pm</td>
-  <td>Kampong Glam Community Club <br>385 Beach Road, S(199581)</td>
-  <td>Kampong Glam Community Club<br>Tel: 6345 6163</td>
-  </tr> 
-<tr>  
-  <td>13-Oct-19<br>9am to 5pm</td>
-  <td>Nee Soon South Community Club <br>30 Yishun Street 81, S(768455)</td>
-  <td>Nee Soon South Community Club<br>Tel: 6753 3121</td>
-  </tr>   
-<tr>  
-  <td>16-Oct-19<br>10am to 6pm</td>
-  <td>Potong Pasir Community Club <br>6 Potong Pasir Ave 2, S(358361)</td>
-  <td>Potong Pasir Community Club<br>Tel: 6280 1182</td>
-  </tr>  
-<tr>  
-  <td>19-Oct-19<br>9am to 5pm</td>
-  <td>Punggol Community Club <br>3 Hougang Ave 6, S(538808)</td>
-  <td>Punggol Community Club<br>Tel: 6387 1830 / 6387 1833</td>
-  </tr>
-<tr>  
-  <td>20-Oct-19<br>10am to 6pm</td>
-  <td>Bukit Panjang Community Club <br>8 Pending Road, S(678265)</td>
-  <td>Bukit Panjang Community Club<br>Tel: 6506 0900</td>
-  </tr>
-<tr>  
-  <td>20-Oct-19<br>10am to 6pm</td>
-  <td>Eunos Community Club <br>180 Bedok Reservoir Road, S(479220)</td>
-  <td>Eunos Community Club<br>Tel: 6448 6971</td>
-  </tr>
-<tr>  
+<tr>   
   <td>26-Oct-19<br>10am to 6pm</td>
   <td>Marine Parade Community Club <br>278 Marine Parade Road, S(449282)</td>
   <td>Marine Parade Community Club<br>Tel: 6346 4900</td>
@@ -115,11 +75,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>23-Nov-19<br>12pm to 8pm</td>
   <td>Boon Lay Community Club <br>10 Boon Lay Place, S(649882)</td>
   <td>Boon Lay Community Club<br>Tel: 6261 7184</td>
-</tr> 
-<tr>  
-  <td>24-Nov-19<br>10am to 6pm</td>
-  <td>Open Space at Tampines N2 Shopping Street <br>(between Blk 201D & 201E Tampines Street 23)</td>
-  <td>Tampines East Community Club<br>Tel: 6786 3227</td>
   </tr> 
 <tr>  
   <td>24-Nov-19<br>10am to 6pm</td>
@@ -135,6 +90,21 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>30-Nov-19<br>12pm to 8pm</td>
   <td>Yew Tee Community Club <br>20 Choa Chu Kang St 52, S(689286)</td>
   <td>Yew Tee Community Club<br>Tel: 6765 8611</td>
+  </tr>
+<tr>  
+  <td>1-Dec-19<br>9am to 5pm</td>
+  <td>Whampoa Community Club <br>300 Whampoa Drive, S(327737)</td>
+  <td>Whampoa Community Club<br>Tel: 6254 7060</td>
+  </tr>
+<tr>  
+  <td>7-Dec-19<br>9.30am to 5.30pm</td>
+  <td>Bedok Community Club <br>850 New Upper Changi Road, S(467352)</td>
+  <td>Bedok Community Club<br>Tel: 6442 5317</td>
+  </tr>
+<tr> 
+  <td>7-Dec-19<br>10am to 6pm</td>
+  <td>Geylang West Community Club <br>1205 Upper Boon Keng Road, S(387311)</td>
+  <td>Geylang West Community Club<br>Tel: 6748 3024</td>
   </tr>
 <tr>  
   <td>15-Dec-19<br>8am to 4pm</td>
