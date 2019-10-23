@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Helping Seniors Use Their Smartphones
+title: Helping Seniors Use Their Smartphones.
 date: 2019-10-07
 permalink: /helping-seniors-use-their-smartphones-2019/
 breadcrumb: Helping Seniors Use Their Smartphones
 ---
 
-## Helping Seniors Use Their Smartphones<br>
+## Helping Seniors Use Their Smartphones.<br>
 
 ![image1](/images/articles/helping-seniors-use-their-smartphones/helping-seniors-use-their-smartphones-1.jpg)
 **Mr Ryan Yeo**, 36, Digital Clinic Volunteer<br>
