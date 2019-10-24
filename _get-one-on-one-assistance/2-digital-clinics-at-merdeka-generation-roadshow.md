@@ -78,8 +78,8 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr> 
 <tr>  
   <td>24-Nov-19<br>10am to 6pm</td>
-  <td>Kebun Bahru Community Club <br>216 Ang Mo Kio Avenue 4, S(569897)</td>
-  <td>Kebun Bahru Community Club<br>Tel: 6457 7379</td>
+  <td>Kebun Baru Community Club <br>216 Ang Mo Kio Avenue 4, S(569897)</td>
+  <td>Kebun Baru Community Club<br>Tel: 6457 7379</td>
   </tr>   
 <tr>  
   <td>30-Nov-19<br>9am to 5pm</td>
