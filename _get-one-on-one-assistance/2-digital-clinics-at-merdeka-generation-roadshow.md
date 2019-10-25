@@ -93,6 +93,11 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>1-Dec-19<br>9am to 5pm</td>
+  <td>Nee Soon East Community Club <br>1 Yishun Ave 9, S(768893)</td>
+  <td>Nee Soon East Community Club<br>Tel: 6257 0446</td>
+  </tr>
+<tr>  
+  <td>1-Dec-19<br>9am to 5pm</td>
   <td>Whampoa Community Club <br>300 Whampoa Drive, S(327737)</td>
   <td>Whampoa Community Club<br>Tel: 6254 7060</td>
   </tr>
