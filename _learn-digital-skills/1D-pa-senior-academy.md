@@ -39,7 +39,7 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
     <th class="tg-dvid">Contact</th>
   </tr>
   <tr>
-    <td class="tg-0lax">Alijunied Community Centre</td>
+    <td class="tg-0lax">Aljunied Community Centre</td>
     <td class="tg-0lax">Blk 110 Hougang Avenue 1, #01-1048, Singapore 530110</td>
     <td class="tg-0lax">62885578</td>
   </tr>
