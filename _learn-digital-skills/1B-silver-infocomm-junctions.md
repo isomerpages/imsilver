@@ -93,6 +93,12 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
     <td class="tg-0lax">1800 2222 111, <a href="https://www.ite.edu.sg" target="_blank">www.ite.edu.sg</a></td>
   </tr>
    <tr>
+    <td class="tg-kftd">Nanyang Polytechnic</td>
+    <td class="tg-kftd">180 Ang Mo Kio Ave 8, Singapore 569830</td>
+    <td class="tg-kftd">6451 5115, <a href="	
+https://www.nyp.edu.sg/be-part-of-nyp/contact-us.html" target="_blank">Contact Page</a></td>
+  </tr>
+  <tr>
     <td class="tg-kftd">Ngee Ann Polytechnic</td>
     <td class="tg-kftd">535 Clementi Road, Singapore 599489</td>
     <td class="tg-kftd">64606353, <a href="	
