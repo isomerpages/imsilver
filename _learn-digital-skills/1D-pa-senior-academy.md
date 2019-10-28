@@ -140,27 +140,186 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
   </tr>
 </table>
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-0pky">District</th>
-    <th class="tg-0pky">Community Centre/Club</th>
-    <th class="tg-0pky">Contact</th>
-  </tr>
-  <tr>
-    <td class="tg-0pky" rowspan="2">Central</td>
-    <td class="tg-0pky">Bishan</td>
-    <td class="tg-0pky">62594720</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Buona Vista</td>
-    <td class="tg-0pky">67785163</td>
-  </tr>
+<table>
+    <thead>
+        <tr>
+            <th>District</th>
+            <th>Community Centre/Club</th>
+            <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="10">Central</td>
+            <td>Bishan</td>
+            <td>62594720</td>
+        </tr>
+        <tr>
+            <td>Buona Vista</td>
+            <td>67785163</td>
+        </tr>
+        <tr>
+            <td>Geylang West</td>
+            <td>67483024</td>
+        </tr>
+        <tr>
+            <td>Kallang</td>
+            <td>62984582</td>
+        </tr>
+        <tr>
+            <td>Kolam Ayer</td>
+            <td>62964011</td>
+        </tr>
+        <tr>
+            <td>Kreta Ayer</td>
+            <td>62223597</td>
+        </tr>
+        <tr>
+            <td>Potong Pasir</td>
+            <td>62801182</td>
+        </tr>
+        <tr>
+            <td>Tanjong Pagar</td>
+            <td>62219898 / 62236847</td>
+        </tr>
+        <tr>
+            <td>Teck Ghee</td>
+            <td>64567123</td>
+        </tr>
+        <tr>
+            <td>Whampoa</td>
+            <td>63522023</td>
+        </tr>
+        <tr>
+            <td rowspan="7">North-East</td>
+            <td>Aljunied</td>
+            <td>62885578</td>
+        </tr>
+        <tr>
+            <td>Pasir Ris East</td>
+            <td>65842798</td>
+        </tr>
+        <tr>
+            <td>Pasir Ris Elias</td>
+            <td>65831220 / 65852538</td>
+        </tr>
+        <tr>
+            <td>Punggol 21</td>
+            <td>63120508</td>
+        </tr>
+        <tr>
+            <td>Sengkang</td>
+            <td>63125400</td>
+        </tr>
+        <tr>
+            <td>Tampines Central</td>
+            <td>67850004</td>
+        </tr>
+        <tr>
+            <td>Tampines Changkat</td>
+            <td>67811806</td>
+        </tr>
+        <tr>
+            <td rowspan="10">North-West</td>
+            <td>ACE The Place</td>
+            <td>68913430</td>
+        <tr>
+            <td>Bukit Panjang</td>
+            <td>65060900</td>
+        </tr>
+        <tr>
+            <td>Fuchun</td>
+            <td>63656911</td>
+        </tr>
+        <tr>
+            <td>Marsiling</td>
+            <td>62696768</td>
+        </tr>
+        <tr>
+            <td>Nee Soon East</td>
+            <td>62570446</td>
+        </tr>
+        <tr>
+            <td>Nee Soon South</td>
+            <td>67533121</td>
+        </tr>
+        <tr>
+            <td>Sembawang</td>
+            <td>67584183</td>
+        </tr>
+        <tr>
+            <td>Ulu Pandan</td>
+            <td>64637333</td>
+        </tr>
+        <tr>
+            <td>Yew Tee</td>
+            <td>67693672</td>
+        </tr>
+        <tr>
+            <td>Zhenghua</td>
+            <td>63106702</td>
+        </tr>
+        <tr>
+            <td rowspan="4">South-East</td>
+            <td>Bedok</td>
+            <td>64496323</td>
+        <tr>
+            <td>Clementi</td>
+            <td>67762517</td>
+        </tr>
+        <tr>
+            <td>Kampong Ubi</td>
+            <td>67459919</td>
+        <tr>
+            <td>MacPherson</td>
+            <td>68411085</td>
+            </tr>
+        <tr>
+            <td rowspan="11">South-West</td>
+            <td>Boon Lay</td>
+            <td>62619947</td>
+        </tr>
+        <tr>
+            <td>Bukit Batok</td>
+            <td>65646317</td>
+        </tr>
+        <tr>
+            <td>Bukit Batok East</td>
+            <td>65659330</td>
+        </tr>
+        <tr>
+            <td>Chua Chu Kang</td>
+            <td>67655002</td>
+        </tr>
+        <tr>
+            <td>Gek Poh Ville</td>
+            <td>67920095</td>
+        </tr>
+        <tr>
+            <td>Hillview</td>
+            <td>65150073</td>
+        </tr>
+        <tr>
+            <td>Keat Hong</td>
+            <td>67694194</td>
+        </tr>
+        <tr>
+            <td>Nanyang</td>
+            <td>67910395</td>
+        </tr>
+        <tr>
+            <td>The Frontier CC</td>
+            <td>67958229</td>
+        </tr>
+        <tr>
+            <td>West Coast CC</td>
+            <td>67791098</td>
+        </tr>
+        <tr>
+            <td>Yuhua</td>
+            <td>65604490</td>
+        </tr>
+        </tbody>
 </table>
 
 For more enquiries or to sign up for our the courses, please [click here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy){:target="_blank"}
