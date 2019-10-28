@@ -140,7 +140,7 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
   </tr>
 </table>
 
-<table>
+<table class="tg">
     <thead>
         <tr>
             <th>District</th>
