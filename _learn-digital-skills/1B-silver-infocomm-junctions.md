@@ -72,6 +72,11 @@ List of SIJs
     <td class="tg-0lax">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
     <td class="tg-0lax">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
   </tr>
+  <tr>
+    <td class="tg-kftd">Xiohoo</td>
+    <td class="tg-kftd">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
+    <td class="tg-kftd">88097075, <a href="https://www.xiohoo.com" target="_blank">www.xiohoo.com</a></td>
+  </tr>
 </table>
 
 The following Silver Infocomm Junctions will offer IT courses during the Silver Infocomm Fiesta period.<br>
