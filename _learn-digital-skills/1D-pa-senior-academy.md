@@ -140,5 +140,34 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
   </tr>
 </table>
 
+<table>
+    <thead>
+        <tr>
+            <th>District</th>
+            <th>Community Centre/Club</th>
+            <th>Contact</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=10>Central</td>
+            <td>Bishan</td>
+            <td>62594720</td>
+        </tr>
+        <tr>
+            <td>Buona Vista</td>
+            <td>67785163</td>
+        </tr>
+        <tr>
+            <td>Geylang West</td>
+            <td>67483024</td>
+        </tr>
+        <tr>
+            <td>Kallang</td>
+            <td>62984582</td>
+        </tr>
+    </tbody>
+</table>
+
 For more enquiries or to sign up for our the courses, please [click here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy){:target="_blank"}
 
