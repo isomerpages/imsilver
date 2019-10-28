@@ -150,7 +150,7 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
     </thead>
     <tbody>
         <tr>
-            <td rowspan=10>Central</td>
+            <td rowspan=4>Central</td>
             <td>Bishan</td>
             <td>62594720</td>
         </tr>
