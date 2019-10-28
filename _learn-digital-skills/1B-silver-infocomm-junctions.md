@@ -99,15 +99,15 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
 https://www.nyp.edu.sg/be-part-of-nyp/contact-us.html" target="_blank">Contact Page</a></td>
   </tr>
   <tr>
-    <td class="tg-kftd">Ngee Ann Polytechnic</td>
-    <td class="tg-kftd">535 Clementi Road, Singapore 599489</td>
-    <td class="tg-kftd">64606353, <a href="	
+    <td class="tg-0lax">Ngee Ann Polytechnic</td>
+    <td class="tg-0lax">535 Clementi Road, Singapore 599489</td>
+    <td class="tg-0lax">64606353, <a href="	
 https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Contact Page</a></td>
   </tr>
    <tr>
-    <td class="tg-0lax">Republic Polytechnic</td>
-    <td class="tg-0lax">9 Woodlands Ave 9, Singapore 738964</td>
-    <td class="tg-0lax">65103000, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
+    <td class="tg-kftd">Republic Polytechnic</td>
+    <td class="tg-kftd">9 Woodlands Ave 9, Singapore 738964</td>
+    <td class="tg-kftd">65103000, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
   </tr>
 </table>
 
