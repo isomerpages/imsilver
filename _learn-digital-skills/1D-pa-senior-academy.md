@@ -195,11 +195,11 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
     <td class="tg-0pky">67910395</td>
   </tr>
   <tr>
-    <td class="tg-0pky">The Frontier CC</td>
+    <td class="tg-0pky">The Frontier</td>
     <td class="tg-0pky">67958229</td>
   </tr>
   <tr>
-    <td class="tg-0pky">West Coast CC</td>
+    <td class="tg-0pky">West Coast</td>
     <td class="tg-0pky">67791098</td>
   </tr>
   <tr>
