@@ -95,7 +95,7 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
    <tr>
     <td class="tg-kftd">Nanyang Polytechnic</td>
     <td class="tg-kftd">180 Ang Mo Kio Ave 8, Singapore 569830</td>
-    <td class="tg-kftd">6451 5115, <a href="	
+    <td class="tg-kftd">64515115, <a href="	
 https://www.nyp.edu.sg/be-part-of-nyp/contact-us.html" target="_blank">Contact Page</a></td>
   </tr>
   <tr>
