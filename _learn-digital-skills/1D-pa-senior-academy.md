@@ -202,5 +202,5 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
   </tr>
 </table>
 
-For more enquiries or to sign up for our the courses, please [click here](https://www.pa.gov.sg/our-programmes/lifeskills-and-lifestyle/senior-academy){:target="_blank"}
+For more information on how to get to the nearest Community Centre/Club, please [click here](https://pa.gov.sg/our-network/community-clubs/locate-cc){:target="_blank"}
 
