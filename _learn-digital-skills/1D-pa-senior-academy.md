@@ -20,6 +20,12 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
 .tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.content table td, .content table th{
+  border:1px solid;
+}
+.content table tbody tr:last-child td, .content table tbody tr:last-child th{
+  border-bottom-width:thin;
+}
 </style>
 <table class="tg">
   <tr>
