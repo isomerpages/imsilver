@@ -155,12 +155,11 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
   <tr>
     <td class="tg-0pky" rowspan=10>Central</td>
     <td class="tg-0pky">Bishan</td>
-    <td class="tg-0pky">123</td>
+    <td class="tg-0pky">62594720</td>
   </tr>
   <tr>
-    <td class="tg-0pky"></td>
     <td class="tg-0pky">Buona Vista</td>
-    <td class="tg-0pky">456</td>
+    <td class="tg-0pky">67785163</td>
   </tr>
 </table>
 
