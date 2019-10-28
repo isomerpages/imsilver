@@ -153,7 +153,7 @@ If you are a senior who wants to pursue lifelong learning and lead an active lif
     <th class="tg-0pky">Contact</th>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan=10>Central</td>
+    <td class="tg-0pky" rowspan="2">Central</td>
     <td class="tg-0pky">Bishan</td>
     <td class="tg-0pky">62594720</td>
   </tr>
