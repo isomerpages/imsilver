@@ -27,25 +27,14 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
   <th><b>Time</b></th>
 
 <tr>  
-<td><b>Sheltered area outside Hougang Mall</b> (Digital Clinic @ Merdeka Generation Roadshow), 90 Hougang Ave 10, Singapore 538766</td>
-  <td>05 October 2019</td> 
-  <td>10am – 5pm</td> </tr>
-<tr>  
-<td><b>Jurong Regional Library,</b> 21 Jurong East Central 1, Singapore 609732</td>
-  <td>08 October 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
-  <td><b>Kampong Admiralty</b> (Digital Clinic @ Merdeka Generation Roadshow), 676 Woodlands Drive 71 Singapore 730676</td>
-  <td>12 October 2019</td> 
-  <td>9am – 5pm</td> </tr>
-<tr>  
-<td><b>Toa Payoh Public Library,</b> 6 Toa Payoh Central, Singapore 319191</td>
-  <td>22 October 2019</td> 
-  <td>2pm – 5pm</td> </tr>
-<tr>  
 <td><b>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   <td>29 October 2019</td> 
   <td>2pm – 5pm</td> </tr>
+  <tr>
+<tr>  
+<td><b>Telok Blangah Community Club,</b> Multi-Purpose Room Level 2, 450 Telok Blangah Street 31, Singapore 108943</td>
+  <td>2 November 2019</td> 
+  <td>3pm – 7pm</td> </tr>
   <tr>  
 <td><b>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, 769098</td>
   <td>5 November 2019</td> 
@@ -58,7 +47,12 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
 <td><b>Clementi Public Library,</b> 3155 Commonwealth Ave W, #05-13/14/15 The Clementi Mall, 129588</td>
   <td>12 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
-  <tr>  
+  <tr>
+<tr>  
+<td><b>Lifelong Learning Institute,</b> (Digital Clinic @ Learning Neighbourhood@Geylang Serai), Event Hall Level 2, 11 Eunos Road 8, Singapore 408601</td>
+  <td>16 November 2019</td> 
+  <td>10am – 6pm</td> </tr>
+  <tr>
 <td><b>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   <td>19 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
