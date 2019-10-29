@@ -26,11 +26,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <tr><th><b>Date and Time</b></th>
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
-<tr>   
-  <td>26-Oct-19<br>10am to 6pm</td>
-  <td>Marine Parade Community Club <br>278 Marine Parade Road, S(449282)</td>
-  <td>Marine Parade Community Club<br>Tel: 6346 4900</td>
-  </tr>
 <tr>  
   <td>3-Nov-19<br>9am to 5pm</td>
   <td>Teck Ghee Community Club <br>861 Ang Mo Kio Ave 10, S(569734)</td>
