@@ -30,7 +30,7 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
 <td><b>Bedok Public Library,</b> 11 Bedok North Street 1 #02-03 & #03-04, Heartbeat@Bedok, 469662</td>
   <td>29 October 2019</td> 
   <td>2pm – 5pm</td> </tr>
-  <tr>
+
 <tr>  
 <td><b>Telok Blangah Community Club,</b> Multi-Purpose Room Level 2, 450 Telok Blangah Street 31, Singapore 108943</td>
   <td>2 November 2019</td> 
