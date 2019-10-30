@@ -20,6 +20,7 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
 
 **Upcoming Sessions**
 <br>
+<br>
 
 <table>
   <th><b>Venue</b></th>
