@@ -61,6 +61,7 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
 <td><b>Library@Chinatown,</b> 133 New Bridge Rd, #04-12 Chinatown Point, 059413</td>
   <td>25 November 2019</td> 
   <td>2pm – 5pm</td> </tr>
+  <tr></tr>
 </table>
 
 
