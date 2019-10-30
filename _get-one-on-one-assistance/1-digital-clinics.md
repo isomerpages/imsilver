@@ -21,6 +21,7 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
 **Upcoming Sessions**
 <br>
 
+<table>
   <th><b>Venue</b></th>
   <th><b>Date</b></th>
   <th><b>Time</b></th>
@@ -61,7 +62,7 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
   <td>2pm – 5pm</td> </tr>
   <tr></tr>
 
-
+</table>
 
 
 
