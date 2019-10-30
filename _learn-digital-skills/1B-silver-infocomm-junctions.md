@@ -111,7 +111,7 @@ https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Conta
   </tr>
 </table>
 
-Click [here](/files/SIJ Course Schedule_Sep 2019 upload_2Oct.pdf) for the schedule of IT courses offered by the SIJs.
+Click [here](/files/SIJ Course Schedule/SIJ Course Schedule-Dec2019_301019.pdf) for the schedule of IT courses offered by the SIJs.
 
 Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidise under the National Silver Academy.
 
