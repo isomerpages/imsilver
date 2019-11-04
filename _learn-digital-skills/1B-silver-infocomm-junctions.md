@@ -53,29 +53,24 @@ List of SIJs
     <td class="tg-0lax">64496022, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-kftd">Kreta Ayer Residents’ Committee</td>
-    <td class="tg-kftd">Blk 333 Kreta Ayer Road, #03-16, Singapore 080333</td>
-    <td class="tg-kftd">62207493, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
+    <td class="tg-kftd">Paya Lebar Kovan Community Club</td>
+    <td class="tg-kftd">207 Hougang Street 21, Singapore 530207</td>
+    <td class="tg-kftd">62844261, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">Paya Lebar Kovan Community Club</td>
-    <td class="tg-0lax">207 Hougang Street 21, Singapore 530207</td>
-    <td class="tg-0lax">62844261, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
+    <td class="tg-0lax">Radin Mas Community Club</td>
+    <td class="tg-0lax">51 Telok Blangah Crescent, Singapore 0989157</td>
+    <td class="tg-0lax">62735294, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-kftd">Radin Mas Community Club</td>
-    <td class="tg-kftd">51 Telok Blangah Crescent, Singapore 0989157</td>
-    <td class="tg-kftd">62735294, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
+    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
+    <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
+    <td class="tg-kftd">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
   </tr>
   <tr>
-    <td class="tg-0lax">RSVP Singapore – The Organisation of Senior Volunteers</td>
-    <td class="tg-0lax">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
-    <td class="tg-0lax">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">Xiohoo</td>
-    <td class="tg-kftd">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
-    <td class="tg-kftd">88097075, <a href="https://www.xiohoo.com" target="_blank">www.xiohoo.com</a></td>
+    <td class="tg-0lax">Xiohoo</td>
+    <td class="tg-0lax">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
+    <td class="tg-0lax">88097075, <a href="https://www.xiohoo.com" target="_blank">www.xiohoo.com</a></td>
   </tr>
 </table>
 
