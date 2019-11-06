@@ -23,7 +23,7 @@ Corporations that are keen to register can [click here](https://form.gov.sg/#!/5
 
 | **Accenture** | **Institute of Technical Education** | **Serl.io** |
 | -- | -- | -- |
-| **Akamai Technologies Singapore** |  **Land Transport Authority** | **SGTec** |
+| **Akamai Technologies Singapore** |  **Land Transport Authority** | **SGTech** |
 | **Alibaba Cloud** | **Lenovo Singapore** | **Singapore Business Federation** |
 | **Amazon Web Service** | **Lifelong Learning Institute** | **Singapore Computer Society** |
 | **Apple** | **Mediacorp** | **Singapore Customs** |
