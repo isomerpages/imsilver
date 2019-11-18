@@ -32,6 +32,10 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
 <td>25 November 2019</td> 
 <td>2pm – 5pm</td> </tr>
 
+<tr>  
+<td><b>Woodlands Regional Library,</b> 900 South Woodlands Drive, #01-03, Singapore 730900</td>
+<td>7 January 2020</td> 
+<td>2pm – 5pm</td> </tr>
 
 </table>
 
