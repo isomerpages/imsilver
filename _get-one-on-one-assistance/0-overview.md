@@ -15,13 +15,12 @@ Do you face problems with using your smartphone and wish there was someone who c
 
 Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) to find out more.<br>
 
-**Upcoming Sessions**
-<br>
+**Upcoming Sessions**<br>
 
 <table>
-  <th><b>Venue</b></th>
+  <tr><th><b>Venue</b></th>
   <th><b>Date</b></th>
-  <th><b>Time</b></th>
+  <th><b>Time</b></th></tr>
 
 <tr>
 <td><b>Bedok Public Library,</b> 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, Singapore 469662</td>
@@ -92,9 +91,7 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
 <td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064/td>
 <td>24 March 2020</td> 
 <td>2pm – 5pm</td> </tr>
-
 </table>
-
 
 #### Merdeka Generation Digital Clinic<br>
 
