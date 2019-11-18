@@ -27,41 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
-  <td>3-Nov-19<br>9am to 5pm</td>
-  <td>Teck Ghee Community Club <br>861 Ang Mo Kio Ave 10, S(569734)</td>
-  <td>Teck Ghee Community Club<br>Tel: 6456 7123</td>
-  </tr>  
-<tr>  
-  <td>3-Nov-19<br>9.30am to 5.30pm</td>
-  <td>Kreta Ayer Community Club <br>28 Kreta Ayer Road, S(088995)</td>
-  <td>Kreta Ayer Community Club 28 Kreta Ayer Road, S(088995) /<br>Kim Seng Community Club 570 Havelock Road, S(169640)<br> Tel: 6222 3597 (Kreta Ayer CC) / 6272 3878 (Kim Seng CC)</td>
-  </tr>  
-<tr>  
-  <td>6-Nov-19<br>9am to 5pm</td>
-  <td>Yuhua Community Club <br>90 Boon Lay Way, S(609958)</td>
-  <td>Yuhua Community Club<br> Tel: 6560 4490</td>
-</tr>
-<tr>  
-  <td>9-Nov-19<br>10am to 2pm</td>
-  <td>Bukit Timah Community Club <br>20 Toh Yi Drive, S(596569)</td>
-  <td>Bukit Timah Community Club<br> Tel: 6466 6115</td>
-</tr> 
-<tr>  
-  <td>10-Nov-19<br>9am to 5pm</td>
-  <td>Gambas Zone 2 RC <br>Blk 351A Canberra Road #01-317, S(751351)</td>
-  <td>Gambas Zone 2 RC<br>Tel: 6853 0037</td>
-  </tr>   
-<tr>  
-  <td>17-Nov-19<br>9am to 5pm</td>
-  <td>Kampong Ubi Community Club <br>10 Jln Ubi, S(409075)</td>
-  <td>Kampong Ubi Community Club<br>Tel: 6745 9919</td>
-  </tr>
-<tr>  
-  <td>17-Nov-19<br>9am to 5pm</td>
-  <td>Tampines Changkat Community Club <br>13 Tampines Street 11, S(529453)</td>
-  <td>Tampines Changkat Community Club<br>Tel: 6783 2985</td>
-</tr>  
-<tr>  
   <td>22-Nov-19<br>12pm to 8pm</td>
   <td>Paya Lebar Kovan Community Club <br>Blk 207 Hougang Street 21, S(530207)</td>
   <td>Paya Lebar Kovan Community Club<br>Tel: 6284 4261</td>
