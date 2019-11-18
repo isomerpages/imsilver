@@ -92,7 +92,7 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
 <td>2pm – 5pm</td> </tr>
 
 <tr>  
-<td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064/td>
+<td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064</td>
 <td>24 March 2020</td> 
 <td>2pm – 5pm</td> </tr>
 
