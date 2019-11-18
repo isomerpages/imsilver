@@ -19,9 +19,9 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
 <br>
 
 <table>
-  <tr><th><b>Venue</b></th>
+  <th><b>Venue</b></th>
   <th><b>Date</b></th>
-  <th><b>Time</b></th></tr>
+  <th><b>Time</b></th>
 
 <tr>
 <td><b>Bedok Public Library,</b> 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, Singapore 469662</td>
