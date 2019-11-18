@@ -92,9 +92,7 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
 <td>24 March 2020</td> 
 <td>2pm – 5pm</td> </tr>
 
-
 </table>
-
 
 #### Merdeka Generation Digital Clinic<br>
 
