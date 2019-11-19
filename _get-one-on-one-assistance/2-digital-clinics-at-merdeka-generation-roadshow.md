@@ -76,4 +76,41 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Hwi Yoh Community Club <br>535 Serangoon North Ave 4, S(550535)</td>
   <td>Hwi Yoh Community Club<br>Tel: 6484 0338</td>
   </tr>
+<tr>  
+  <td>12-Jan-20<br>9.30am to 5.30pm</td>
+  <td>Buona Vista Community Club <br>36 Holland Drive, S(270036)</td>
+  <td>Buona Vista<br>Tel: 6777 4169</td>
+  </tr>
+<tr>  
+  <td>22-Feb-20<br>9am to 5pm</td>
+  <td>Blk 350 Canberra Road, S(751350)</td>
+  <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
+  Gambas Zone 1 RC<br>Tel: 6755 5052<br>
+  Gambas Zone 2 RC<br>Tel: 6853 0037</td>
+  </tr>
+<tr>  
+  <td>23-Feb-20<br>9am to 5pm</td>
+  <td>Nanyang Community Club <br>60 Jurong West Street 91, S(649040)</td>
+  <td>Nanyang Community Club<br>Tel: 6791 0395</td>
+  </tr>
+<tr>  
+  <td>29-Feb-20<br>9am to 5pm</td>
+  <td>Hougang Community Club <br>35 Hougang Ave 3, S(538840)</td>
+  <td>Hougang Community Club<br>Tel: 6282 8887</td>
+  </tr>
+<tr>  
+  <td>29-Feb-20<br>9am to 5pm</td>
+  <td>Hong Kah North Community Club <br>30 Bukit Batok Street 31, S(659440)</td>
+  <td>Hong Kah North Community Club<br>Tel: 6567 3130</td>
+  </tr>
+<tr>  
+  <td>7-Mar-20<br>10am to 6pm</td>
+  <td>Chong Pang Community Club <br>21 Yishun Ring Road, S(768677)</td>
+  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
+  </tr>
+<tr>  
+  <td>28-Mar-20<br>9am to 5pm</td>
+  <td>The Frontier Community Club <br>60 Jurong West Central 3, S(648346)</td>
+  <td>The Frontier Community Club<br>Tel: 6795 8229</td>
+  </tr>
 </table>
