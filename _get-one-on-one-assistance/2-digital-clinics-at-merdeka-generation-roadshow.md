@@ -47,7 +47,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Senja-Cashew Community Club<br>Tel: 6219 4561</td>
   </tr>    
 <tr>  
-  <td>30-Nov-19<br>12pm to 8pm</td>
+  <td>30-Nov-19<br>10am to 6pm</td>
   <td>Yew Tee Community Club <br>20 Choa Chu Kang St 52, S(689286)</td>
   <td>Yew Tee Community Club<br>Tel: 6765 8611</td>
   </tr>
