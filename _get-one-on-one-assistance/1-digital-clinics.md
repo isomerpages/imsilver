@@ -14,8 +14,6 @@ Digital Clinic sessions cater to both iOS and Android device users. These sessio
 
 Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, personalise accessibility tools (e.g. text size, magnifier, voice-to-text, hearing function) and learn applications on their mobile devices. The Digital Clinic volunteers will also share information on relevant mobile lifestyle applications and tips on online discernment suitable for daily use with the participants.<br>
 
-Alternatively, participants can also enjoy the convenience of e-Payments by visiting an e-Payment Digital Clinic to get tips on how to use e-payment in their everyday lives.
-
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
 **Upcoming Sessions**
@@ -25,16 +23,6 @@ Alternatively, participants can also enjoy the convenience of e-Payments by visi
   <tr><th><b>Venue</b></th>
   <th><b>Date</b></th>
   <th><b>Time</b></th></tr>
-
-<tr>
-<td><b>Bedok Public Library,</b> 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, Singapore 469662</td>
-<td>19 November 2019</td> 
-<td>2pm – 5pm</td> </tr>
- 
-<tr>  
-<td><b>library@chinatown,</b> 133 New Bridge Rd, #04-12 Chinatown Point, Singapore 059413</td>
-<td>25 November 2019</td> 
-<td>2pm – 5pm</td> </tr>
 
 <tr>  
 <td><b>Woodlands Regional Library,</b> 900 South Woodlands Drive, #01-03, Singapore 730900</td>
