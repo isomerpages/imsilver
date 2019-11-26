@@ -27,21 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
-  <td>22-Nov-19<br>12pm to 8pm</td>
-  <td>Paya Lebar Kovan Community Club <br>Blk 207 Hougang Street 21, S(530207)</td>
-  <td>Paya Lebar Kovan Community Club<br>Tel: 6284 4261</td>
-  </tr>
-<tr>  
-  <td>23-Nov-19<br>12pm to 8pm</td>
-  <td>Boon Lay Community Club <br>10 Boon Lay Place, S(649882)</td>
-  <td>Boon Lay Community Club<br>Tel: 6261 7184</td>
-  </tr> 
-<tr>  
-  <td>24-Nov-19<br>10am to 6pm</td>
-  <td>Kebun Baru Community Club <br>216 Ang Mo Kio Avenue 4, S(569897)</td>
-  <td>Kebun Baru Community Club<br>Tel: 6457 7379</td>
-  </tr>   
-<tr>  
   <td>30-Nov-19<br>9am to 5pm</td>
   <td>Senja-Cashew Community Club <br>101 Bukit Panjang Road, S(679910)</td>
   <td>Senja-Cashew Community Club<br>Tel: 6219 4561</td>
