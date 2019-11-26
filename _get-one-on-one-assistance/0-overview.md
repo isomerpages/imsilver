@@ -22,16 +22,6 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
   <th><b>Date</b></th>
   <th><b>Time</b></th></tr>
 
-<tr>
-<td><b>Bedok Public Library,</b> 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, Singapore 469662</td>
-<td>19 November 2019</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>library@chinatown,</b> 133 New Bridge Rd, #04-12 Chinatown Point, Singapore 059413</td>
-<td>25 November 2019</td> 
-<td>2pm – 5pm</td> </tr>
-
 <tr>  
 <td><b>Woodlands Regional Library,</b> 900 South Woodlands Drive, #01-03, Singapore 730900</td>
 <td>7 January 2020</td> 
