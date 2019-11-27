@@ -65,7 +65,7 @@ Please contact respective SIJs to sign up for IT courses.
     <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
     <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
     <td class="tg-kftd">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a><br>
-    Click [here](https://rsvp.org.sg/cyberguide/){:target="_blank"} for course schedule.</td>
+    Click <a href="https://rsvp.org.sg/cyberguide/" target="_blank">here</a> for course schedule.</td>
   </tr>
   <tr>
     <td class="tg-0lax">Xiohoo</td>
