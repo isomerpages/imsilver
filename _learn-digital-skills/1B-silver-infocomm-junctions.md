@@ -6,6 +6,7 @@ breadcrumb: Silver Infocomm Junctions
 collection_name: learn-digital-skills
 second_nav_title: Attend Classes
 ---
+
 ![SIJ](/images/learn-digital-skills/sij/sij-01.jpeg)
 
 Silver Infocomm Junctions (SIJs) are learning hubs that are located island-wide. It is targeted at seniors who are new to technology, and are keen to learn basic digital skills. Participants will learn how to use their smartphones and computers to send an email; make a video call; read the news or search for information online.<br>
