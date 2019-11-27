@@ -12,7 +12,7 @@ Silver Infocomm Junction are learning hubs that are located island-wide. It is t
 
 Click [here](/silver-infocomm-fiesta-2019/) to check out our list of classes at the Silver Infocomm Fiesta.
 
-List of SIJs
+List of Silver Infocomm Junctions (SIJs)
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,7 +33,7 @@ List of SIJs
 </style>
 <table class="tg">
   <tr>
-    <th class="tg-dvid">Venue</th>
+    <th class="tg-dvid">SIJ</th>
     <th class="tg-dvid">Address</th>
     <th class="tg-dvid">Contact</th>
   </tr>
@@ -78,7 +78,7 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
 
 <table class="tg">
   <tr>
-    <th class="tg-dvid">Venue</th>
+    <th class="tg-dvid">SIJ</th>
     <th class="tg-dvid">Address</th>
     <th class="tg-dvid">Contact</th>
   </tr>
