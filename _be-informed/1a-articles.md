@@ -11,6 +11,7 @@ Check out our educational reads and tips on digital skills and find out how they
 
 | Date | Title |
 |--|--|
+| 27 November 2019 | [Booking Your Dream Holiday Online](/booking-your-dream-holiday-online/) |
 | 7 October 2019 | [Helping Seniors Use Their Smartphones](/helping-seniors-use-their-smartphones/) |
 | 23 September 2019 | [Digital Learning Myths](/digital-learning-myths/) |
 | 15 May 2019 | [SingPass Goes Digital](/singpass-goes-digital/) |
