@@ -8,11 +8,9 @@ second_nav_title: Attend Classes
 ---
 ![SIJ](/images/learn-digital-skills/sij/sij-01.jpeg)
 
-Silver Infocomm Junction are learning hubs that are located island-wide. It is targeted at seniors who are new to technology, and are keen to learn basic digital skills. Participants will learn how to use their smartphones and computers to send an email; make a video call; read the news or search for information online.
+Silver Infocomm Junctions (SIJs) are learning hubs that are located island-wide. It is targeted at seniors who are new to technology, and are keen to learn basic digital skills. Participants will learn how to use their smartphones and computers to send an email; make a video call; read the news or search for information online.<br>
 
-Click [here](/silver-infocomm-fiesta-2019/) to check out our list of classes at the Silver Infocomm Fiesta.
-
-List of Silver Infocomm Junctions (SIJs)
+Please contact respective SIJs to sign up for IT courses.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -40,7 +38,7 @@ List of Silver Infocomm Junctions (SIJs)
   <tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
     <td class="tg-0lax">Blk 531 Upper Cross Street, #04-40A, Singapore 050531</td>
-    <td class="tg-0lax">65331010</td>
+    <td class="tg-0lax">65331010<br> Click here for course schedule.</td>
   </tr>
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
@@ -65,7 +63,8 @@ List of Silver Infocomm Junctions (SIJs)
   <tr>
     <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
     <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
-    <td class="tg-kftd">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a></td>
+    <td class="tg-kftd">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a><br>
+    Click [here](https://rsvp.org.sg/cyberguide/){:target="_blank"} for course schedule.</td>
   </tr>
   <tr>
     <td class="tg-0lax">Xiohoo</td>
@@ -105,8 +104,6 @@ https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Conta
     <td class="tg-kftd">65103000, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
   </tr>
 </table>
-
-Click [here](/files/SIJ Course Schedule/SIJ Course Schedule-Dec2019_301019.pdf) for the schedule of IT courses offered by the SIJs.
 
 Eligible Singaporeans and Permanent Residents aged 50 years and above can enjoy subsidise under the National Silver Academy.
 
