@@ -6,6 +6,4 @@ permalink: /booking-your-dream-holiday-online-2019/
 breadcrumb: Booking Your Dream Holiday Online
 ---
 
-## Booking Your Dream Holiday Online<br>
-
 ![image1](/images/articles/booking-your-dream-holiday-online/booking-your-dream-holiday-online.jpg)
