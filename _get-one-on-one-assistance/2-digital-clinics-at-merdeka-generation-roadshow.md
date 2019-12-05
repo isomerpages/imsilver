@@ -27,26 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
-  <td>30-Nov-19<br>9am to 5pm</td>
-  <td>Senja-Cashew Community Club <br>101 Bukit Panjang Road, S(679910)</td>
-  <td>Senja-Cashew Community Club<br>Tel: 6219 4561</td>
-  </tr>    
-<tr>  
-  <td>30-Nov-19<br>10am to 6pm</td>
-  <td>Yew Tee Community Club <br>20 Choa Chu Kang St 52, S(689286)</td>
-  <td>Yew Tee Community Club<br>Tel: 6765 8611</td>
-  </tr>
-<tr>  
-  <td>1-Dec-19<br>9am to 5pm</td>
-  <td>Nee Soon East Community Club <br>1 Yishun Ave 9, S(768893)</td>
-  <td>Nee Soon East Community Club<br>Tel: 6257 0446</td>
-  </tr>
-<tr>  
-  <td>1-Dec-19<br>9am to 5pm</td>
-  <td>Whampoa Community Club <br>300 Whampoa Drive, S(327737)</td>
-  <td>Whampoa Community Club<br>Tel: 6254 7060</td>
-  </tr>
-<tr>  
   <td>7-Dec-19<br>9.30am to 5.30pm</td>
   <td>Bedok Community Club <br>850 New Upper Changi Road, S(467352)</td>
   <td>Bedok Community Club<br>Tel: 6442 5317</td>
@@ -67,7 +47,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Buona Vista<br>Tel: 6777 4169</td>
   </tr>
 <tr>  
-  <td>22-Feb-20<br>9am to 5pm</td>
+  <td>23-Feb-20<br>9am to 5pm</td>
   <td>Blk 350 Canberra Road, S(751350)</td>
   <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
   Gambas Zone 1 RC<br>Tel: 6755 5052<br>
