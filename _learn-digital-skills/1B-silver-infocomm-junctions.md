@@ -70,7 +70,7 @@ Please contact respective SIJs to sign up for IT courses.
   <tr>
     <td class="tg-0lax">Xiohoo</td>
     <td class="tg-0lax">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
-    <td class="tg-0lax">88097075, <br>Click <a href="https://xiohoo.com/" target="_blank">here</a> for course schedule.</td>
+    <td class="tg-0lax">88097075, Click <a href="https://xiohoo.com/" target="_blank">here</a> for course schedule.</td>
   </tr>
 </table>
 
