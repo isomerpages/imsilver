@@ -27,24 +27,34 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
-  <td>7-Dec-19<br>9.30am to 5.30pm</td>
-  <td>Bedok Community Club <br>850 New Upper Changi Road, S(467352)</td>
-  <td>Bedok Community Club<br>Tel: 6442 5317</td>
-  </tr>
-<tr> 
-  <td>7-Dec-19<br>10am to 6pm</td>
-  <td>Geylang West Community Club <br>1205 Upper Boon Keng Road, S(387311)</td>
-  <td>Geylang West Community Club<br>Tel: 6748 3024</td>
-  </tr>
-<tr>  
-  <td>15-Dec-19<br>8am to 4pm</td>
-  <td>Hwi Yoh Community Club <br>535 Serangoon North Ave 4, S(550535)</td>
-  <td>Hwi Yoh Community Club<br>Tel: 6484 0338</td>
+  <td>11-Jan-20<br>9am to 5pm</td>
+  <td>Changi Simei Community Club <br>10 Simei Street 2, S(529915)</td>
+  <td>Changi Simei Community Club<br>Tel: 6781 6058</td>
   </tr>
 <tr>  
   <td>12-Jan-20<br>9.30am to 5.30pm</td>
   <td>Buona Vista Community Club <br>36 Holland Drive, S(270036)</td>
   <td>Buona Vista<br>Tel: 6777 4169</td>
+  </tr>
+<tr>  
+  <td>9-Feb-20<br>9am to 5pm</td>
+  <td>Ayer Rajah Community Club <br>150 Pandan Gardens, S(609335)</td>
+  <td>Ayer Rajah Community Club<br>Tel: 6560 9983</td>
+  </tr>
+<tr>  
+  <td>15-Feb-20<br>10am to 6pm</td>
+  <td>Taman Jurong Community Club <br>1 Yung Seng Road, S(618495)</td>
+  <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
+  </tr>
+<tr>  
+  <td>16-Feb-20<br>9am to 5pm</td>
+  <td>Bishan Community Club <br>51 Bishan Street 13, S(579799)</td>
+  <td>Bishan Community Club <br>Tel: 6259 4720</td>
+  </tr>
+<tr>  
+  <td>22-Feb-20<br>9.30am to 5.30pm</td>
+  <td>Siglap South Community Centre <br>6 Palm Road, S(456441)</td>
+  <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
   </tr>
 <tr>  
   <td>23-Feb-20<br>9am to 5pm</td>
@@ -69,13 +79,33 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Hong Kah North Community Club<br>Tel: 6567 3130</td>
   </tr>
 <tr>  
+  <td>1-Mar-20<br>10am to 6pm</td>
+  <td>Kampong Chai Chee Community Club <br>11 Bedok North Street 1, S(469662)</td>
+  <td>Kampong Chai Chee Community Club<br>Tel: 6241 9878</td>
+  </tr>
+<tr>  
   <td>7-Mar-20<br>10am to 6pm</td>
   <td>Chong Pang Community Club <br>21 Yishun Ring Road, S(768677)</td>
   <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
+  </tr>
+<tr>  
+  <td>7-Mar-20<br>10am to 6pm</td>
+  <td>Tampines West Community Club <br>5 Tampines Ave 3, S(529705)</td>
+  <td>Tampines West Community Club<br>Tel: 6783 7910</td>
+  </tr>
+<tr>  
+  <td>21-Mar-20<br>10am to 6pm</td>
+  <td>ACE The Place Community Club <br>120 Woodlands Ave 1, S(739069)</td>
+  <td>ACE The Place Community Club<br>Tel: 6891 3430</td>
   </tr>
 <tr>  
   <td>28-Mar-20<br>9am to 5pm</td>
   <td>The Frontier Community Club <br>60 Jurong West Central 3, S(648346)</td>
   <td>The Frontier Community Club<br>Tel: 6795 8229</td>
   </tr>
+<tr>  
+  <td>28-Mar-20<br>9am to 5pm</td>
+  <td>The Serangoon Community Club <br>10 Serangoon North Ave 2, S(555877)</td>
+  <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  </tr> 
 </table>

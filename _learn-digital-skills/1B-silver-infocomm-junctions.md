@@ -70,7 +70,7 @@ Please contact respective SIJs to sign up for IT courses.
   <tr>
     <td class="tg-0lax">Xiohoo</td>
     <td class="tg-0lax">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
-    <td class="tg-0lax">88097075, <a href="https://www.xiohoo.com" target="_blank">www.xiohoo.com</a></td>
+    <td class="tg-0lax">88097075, Click <a href="https://xiohoo.com/" target="_blank">here</a> for course schedule.</td>
   </tr>
 </table>
 
@@ -90,19 +90,17 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
    <tr>
     <td class="tg-kftd">Nanyang Polytechnic</td>
     <td class="tg-kftd">180 Ang Mo Kio Ave 8, Singapore 569830</td>
-    <td class="tg-kftd">64515115, <a href="	
-https://www.nyp.edu.sg/be-part-of-nyp/contact-us.html" target="_blank">Contact Page</a></td>
+    <td class="tg-kftd">64515115, <a href="https://www.nyp.edu.sg" target="_blank">www.nyp.edu.sg</a></td>
   </tr>
   <tr>
     <td class="tg-0lax">Ngee Ann Polytechnic</td>
     <td class="tg-0lax">535 Clementi Road, Singapore 599489</td>
-    <td class="tg-0lax">64606353, <a href="	
-https://www.np.edu.sg/lifelonglearning/Pages/contact.aspx" target="_blank">Contact Page</a></td>
+    <td class="tg-0lax">64606353, <a href="https://www.np.edu.sg/Pages/default.aspx" target="_blank">www.np.edu.sg</a></td>
   </tr>
    <tr>
     <td class="tg-kftd">Republic Polytechnic</td>
     <td class="tg-kftd">9 Woodlands Ave 9, Singapore 738964</td>
-    <td class="tg-kftd">65103000, <a href="https://www.rp.edu.sg/service-excellence/contact-us" target="_blank">Contact Page</a></td>
+    <td class="tg-kftd">65103000, <a href="https://www.rp.edu.sg/discover/" target="_blank">www.rp.edu.sg</a></td>
   </tr>
 </table>
 
