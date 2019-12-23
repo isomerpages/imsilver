@@ -18,8 +18,8 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
 <table>
   <tr><th><b>Date & Time</b></th>
   <th><b>Type of Tour</b></th>
-  <th><b>Venue</b></th></tr>
-  <th>Register here</th>
+  <th><b>Venue</b></th>
+  <th>Register here</th></tr>
 
 <tr>  
 <td>7 January 2020, 2pm - 5pm</td>
