@@ -8,7 +8,7 @@ breadcrumb: E-Payment Learning Journey
 
 ## E-Payment Learning Journey <br>
 
-![image](imsilver/images/be-informed/event-listings/ELJ Precinct 1.jpeg) <br>
+![graphic](imsilver/images/be-informed/event-listings/ELJ Precinct 1.png) <br>
 
 Have you always wondered how payments are made via mobile phones and what convenience e-payments can bring?<br>
 
@@ -34,7 +34,7 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
 <td><b>8 Jan 2020,</b> <br>2pm - 5pm</td>
 <td>Fave</td> 
 <td><b>TOUCH Home Care</b> <br>Blk 444 Ang Mo Kio Ave 10 <br> Tel No: 6804 6565</td>
-<td><a href="https://go.gov.sg/eljjan8m" target="_blank">Click here to register</a></td>
+<td><a href="https://go.gov.sg/eljjan8" target="_blank">Click here to register</a></td>
 </tr>
 
 <tr>  
