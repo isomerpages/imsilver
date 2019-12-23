@@ -21,7 +21,7 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
   <th><b>Venue</b></th></tr>
 
 <tr>  
-<td><b><7 January 2020,</b> 2pm - 5pm</td>
+<td><7 January 2020,</b> 2pm - 5pm</td>
 <td>Fave Tour</td> 
 <td>Bedok Community Club</td> </tr>
 
