@@ -47,4 +47,4 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
 </table>
 
 
-For more enquiries, please contact Ms Loh Wang Chin at 6211 1328.
+For more information, please contact us at 6377 3800.
