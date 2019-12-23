@@ -36,7 +36,7 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
 </tr>
 
 <tr>  
-<td>15 Jany 2020, <br>9am - 12pm</td>
+<td>15 Jan 2020, <br>9am - 12pm</td>
 <td>DBS PayLah!</td> 
 <td>Kampong Chai Chee Community Club, <br>11 Bedok North Street 1 <br> Tel No: 6241 9878</td>
 <td><a href="https://www.google.com" target="_blank">Click here to register</a></td>
