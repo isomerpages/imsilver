@@ -22,23 +22,23 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
   <th><b>Registration</b></th></tr>
 
 <tr>  
-<td>7 Jan 2020, <br>2pm - 5pm</td>
+<td><b>7 Jan 2020,</b> <br>2pm - 5pm</td>
 <td>Fave</td> 
-<td>Bedok Community Club <br>850 New Upper Changi Rd <br>Tel No: 6442 5317</td> 
+<td><b>Bedok Community Club</b> <br>850 New Upper Changi Rd <br>Tel No: 6442 5317</td> 
 <td><a href="https://www.google.com" target="_blank">Click here to register</a></td> 
 </tr>
 
 <tr>  
-<td>8 Jan 2020, <br>2pm - 5pm</td>
+<td><b>8 Jan 2020,</b> <br>2pm - 5pm</td>
 <td>Fave</td> 
-<td>TOUCH Home Care, <br>Blk 444 Ang Mo Kio Ave 10 <br> Tel No: 6804 6565</td>
+<td><b>TOUCH Home Care,</b> <br>Blk 444 Ang Mo Kio Ave 10 <br> Tel No: 6804 6565</td>
 <td><a href="https://www.google.com" target="_blank">Click here to register</a></td>
 </tr>
 
 <tr>  
-<td>15 Jan 2020, <br>9am - 12pm</td>
+<td><b>15 Jan 2020,</b> <br>9am - 12pm</td>
 <td>DBS PayLah!</td> 
-<td>Kampong Chai Chee Community Club, <br>11 Bedok North Street 1 <br> Tel No: 6241 9878</td>
+<td><b>Kampong Chai Chee Community Club</b>, <br>11 Bedok North Street 1 <br> Tel No: 6241 9878</td>
 <td><a href="https://www.google.com" target="_blank">Click here to register</a></td>
 </tr>
 
