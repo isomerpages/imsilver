@@ -19,19 +19,22 @@ Join us as we take you on a hands-on journey to learn how to use e-payments in y
   <tr><th><b>Date & Time</b></th>
   <th><b>Type of Tour</b></th>
   <th><b>Venue</b></th></tr>
+  <th>Register here</th>
 
 <tr>  
-<td><7 January 2020, 2pm - 5pm</td>
+<td>7 January 2020, 2pm - 5pm</td>
 <td>Fave Tour</td> 
-<td>Bedok Community Club</td> </tr>
+<td>Bedok Community Club</td> 
+<td> *Link* </td></tr>
+
 
 <tr>  
-<td><8 January 2020, 2pm - 5pm</td>
+<td>8 January 2020, 2pm - 5pm</td>
 <td>Fave Tour</td> 
 <td>Blk 444 TOUCH Home Care Ang Mo Kio</td> </tr>
 
 <tr>  
-<td><15 January 2020, 9am - 12pm</td>
+<td>15 January 2020, 9am - 12pm</td>
 <td>DBS PayLah! Tour</td> 
 <td>Kampong Chai Chee Community Club</td> </tr>
 
