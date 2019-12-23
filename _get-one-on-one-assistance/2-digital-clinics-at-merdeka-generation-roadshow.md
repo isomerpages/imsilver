@@ -34,7 +34,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 <tr>  
   <td>12-Jan-20<br>9.30am to 5.30pm</td>
   <td>Buona Vista Community Club <br>36 Holland Drive, S(270036)</td>
-  <td>Buona Vista<br>Tel: 6777 4169</td>
+  <td>Buona Vista Community Club<br>Tel: 6777 4169</td>
   </tr>
 <tr>  
   <td>9-Feb-20<br>9am to 5pm</td>
