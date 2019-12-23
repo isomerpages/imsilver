@@ -8,7 +8,7 @@ breadcrumb: E-Payment Learning Journey
 
 ## E-Payment Learning Journey <br>
 
-![graphic](imsilver/images/be-informed/event-listings/ELJ Precinct 1.png) <br>
+![ELJ](/images/be-informed/event-listings/ELJ Precinct 1.png) <br>
 
 Have you always wondered how payments are made via mobile phones and what convenience e-payments can bring?<br>
 
