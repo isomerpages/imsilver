@@ -94,9 +94,19 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Tampines West Community Club<br>Tel: 6783 7910</td>
   </tr>
 <tr>  
+  <td>15-Mar-20<br>9am to 5pm</td>
+  <td>Braddell Heights Community Club <br>50 Serangoon Ave 3, S(556129)</td>
+  <td>Braddell Heights Community Club<br>Tel: 6288 1258</td>
+  </tr>
+<tr>  
   <td>21-Mar-20<br>10am to 6pm</td>
   <td>ACE The Place Community Club <br>120 Woodlands Ave 1, S(739069)</td>
   <td>ACE The Place Community Club<br>Tel: 6891 3430</td>
+  </tr>
+<tr>  
+  <td>21-Mar-20<br>9am to 5pm</td>
+  <td>MacPherson Community Club <br>MacPherson Community Club</td>
+  <td>MacPherson Community Club<br>Tel: 6745 2940</td>
   </tr>
 <tr>  
   <td>28-Mar-20<br>9am to 5pm</td>
