@@ -105,7 +105,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>21-Mar-20<br>9am to 5pm</td>
-  <td>MacPherson Community Club <br>MacPherson Community Club</td>
+  <td>MacPherson Community Club <br>400 Paya Lebar Way, (S)379131</td>
   <td>MacPherson Community Club<br>Tel: 6745 2940</td>
   </tr>
 <tr>  
