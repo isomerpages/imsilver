@@ -11,7 +11,7 @@ collection_name: get-involved
 Would you like to help others in their digital learning journey? Choose from one of the options below to find out how you can ensure Singapore is Digitally Ready!<br>
 
 #### SG:D Friends
-For public and private organisations that would like to help out at our numerous outreach activities. [Click here](/get-involved/sgd-friends/)<br>
+For public and private organisations that would like to help out at our numerous outreach activities, please visit <a href="https://www.imda.gov.sg/sgd-friends" target="_blank">www.imda.gov.sg/sgd-friends</a> to find out how you can join us as an SG:D Friend.<br>
 
 #### Silver Infocomm Wellness Ambassadors
 Digitally-savvy seniors can choose to become Silver Infocomm Wellness Ambassadors (SIWA) and help their peers learn more digital skills. [Click here](/get-involved/siwa/)<br>
