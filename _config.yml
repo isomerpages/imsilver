@@ -2,7 +2,7 @@ title: Infocomm Media Development Authority
 title-abbreviated: IMSilver
 description: >- # this means to ignore newlines until "baseurl:"
   IMSilver
-url: "https://imsilver.imda.gov.sg/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://imsilver.imda.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
