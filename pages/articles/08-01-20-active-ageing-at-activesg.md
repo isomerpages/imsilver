@@ -6,4 +6,4 @@ permalink: /active-ageging-at-activesg/
 breadcrumb: Active Ageing at ActiveSG
 ---
 
-![image1](/images/articles/active-ageging-at-activesg/active-ageging-at-activesg.jpg)
+![image1](/images/articles/active-ageing-at-activesg/active-ageing-at-activesg.jpg)
