@@ -2,7 +2,7 @@
 layout: post
 title: Active Ageing at ActiveSG
 date: 2020-01-08
-permalink: /active-ageging-at-activesg/
+permalink: /active-ageing-at-activesg/
 breadcrumb: Active Ageing at ActiveSG
 ---
 
