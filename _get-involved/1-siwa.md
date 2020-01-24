@@ -29,7 +29,7 @@ IMDA and PA AAC are looking for individuals who:
 *	Are willing to be interviewed, photographed, make public appearances or undertake other activities for publicity or outreach purposes as Silver Infocomm Wellness Ambassadors.
 *	Past SIWA nominees may re-apply.<br>
 
-**Perks of being a SIWA**<br>
+**<u>Perks of being a SIWA</u>**<br>
 As a SIWA, you will have the opportunity to:
 *	Meet and network with like-minded peers who have the passion to help seniors go digital 
 *	Volunteer and participate at events organised by IMDA or PA AAC 
