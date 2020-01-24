@@ -62,7 +62,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 <tr>  
 <td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064</td>
 <td>24 March 2020</td> 
-<td><b>3pm – 5pm</b></td> </tr>
+<td><b>*3pm – 5pm</b></td> </tr>
 
 </table>
 
