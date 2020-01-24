@@ -22,7 +22,7 @@ The Silver Infocomm Wellness Ambassador programme is an initiative by the Infoco
 
 Nominate yourself or someone you know <a href="https://form.gov.sg/5e20262ba457ea00129ecfc4" target="_blank">here</a>. Nominations close on 15 Mar 2020. For enquiries, please contact us at info@imda.gov.sg or call 6377 3800.
 
-__**Eligibility and Criteria**__<br>
+**<u>Eligibility and Criteria</u>**<br>
 IMDA and PA AAC are looking for individuals who:
 *	Are Singapore Citizens or Permanent Residents aged 50 and above as at 1 Apr 2020.
 *	Are actively using technology in their daily lives; and are passionate about helping others embrace technology for greater convenience and better quality of life.
