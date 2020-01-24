@@ -18,9 +18,9 @@ Over the years, there has been a growing community of seniors going digital and 
 
 The Silver Infocomm Wellness Ambassador programme is an initiative by the Infocomm Media Development Authority (IMDA) and the People’s Association Active Ageing Council (PA AAC).<br>
 
-**Appointed Silver Infocomm Wellness Ambassadors will each receive a $100 voucher.**<br>
+Appointed Silver Infocomm Wellness Ambassadors will each receive a $100 voucher.
 
-Nominate yourself or someone you know <a href="https://form.gov.sg/5e20262ba457ea00129ecfc4" target="_blank">here</a>. Nominations close on 15 Mar 2020. For enquiries, please contact us at info@imda.gov.sg or call 6377 3800.
+Nominate yourself or someone you know <a href="https://form.gov.sg/5e20262ba457ea00129ecfc4" target="_blank">as a SIWA here</a>. Nominations close on 15 Mar 2020. For enquiries, please contact us at info@imda.gov.sg or call 6377 3800.
 
 **<u>Eligibility and Criteria</u>**<br>
 IMDA and PA AAC are looking for individuals who:
