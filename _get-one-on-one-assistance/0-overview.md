@@ -60,7 +60,7 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
 <tr>  
 <td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064</td>
 <td>24 March 2020</td> 
-<td>**3pm – 5pm**</td> </tr>
+<td><b>3pm – 5pm</b></td> </tr>
 
 </table>
 
