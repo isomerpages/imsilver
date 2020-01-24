@@ -40,7 +40,7 @@ As a SIWA, you will have the opportunity to:
 
 #### 2019<br>  
 <div class="bp-youtube">
-  <iframe width="560" height="315" src="https://youtu.be/YBzyi3KTfZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/YBzyi3KTfZM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 
 #### 2018<br> 
