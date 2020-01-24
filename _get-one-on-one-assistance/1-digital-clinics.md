@@ -25,26 +25,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Time</b></th></tr>
 
 <tr>  
-<td><b>Woodlands Regional Library,</b> 900 South Woodlands Drive, #01-03, Singapore 730900</td>
-<td>7 January 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>library@harbourfront,</b> 1 Harbourfront Walk, #03-05 (Lobby F) VivoCity, Singapore 098585</td>
-<td>9 January 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Bedok Public Library,</b> 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, Singapore 469662</td>
-<td>14 January 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Bishan Public Library,</b> 5 Bishan Place, #01-01, Singapore 579841</td>
-<td>16 January 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
 <td><b>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, Singapore 769098</td>
 <td>18 February 2020</td> 
 <td>2pm – 5pm</td> </tr>
@@ -82,7 +62,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 <tr>  
 <td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064</td>
 <td>24 March 2020</td> 
-<td>2pm – 5pm</td> </tr>
+<td><b>*3pm – 5pm</b></td> </tr>
 
 </table>
 

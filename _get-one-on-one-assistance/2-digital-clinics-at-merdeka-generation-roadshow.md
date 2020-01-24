@@ -27,16 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
     <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
-  <td>11-Jan-20<br>9am to 5pm</td>
-  <td>Changi Simei Community Club <br>10 Simei Street 2, S(529915)</td>
-  <td>Changi Simei Community Club<br>Tel: 6781 6058</td>
-  </tr>
-<tr>  
-  <td>12-Jan-20<br>9.30am to 5.30pm</td>
-  <td>Buona Vista Community Club <br>36 Holland Drive, S(270036)</td>
-  <td>Buona Vista Community Club<br>Tel: 6777 4169</td>
-  </tr>
-<tr>  
   <td>9-Feb-20<br>9am to 5pm</td>
   <td>Ayer Rajah Community Club <br>150 Pandan Gardens, S(609335)</td>
   <td>Ayer Rajah Community Club<br>Tel: 6560 9983</td>
