@@ -25,7 +25,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 <table>
   <tr><th><b>Date and Time</b></th>
   <th><b>Venue</b></th>
-    <th><b>Registration and Enquiries</b></th></tr>
+  <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
   <td>9-Feb-20<br>9am to 5pm</td>
   <td><b>Ayer Rajah Community Club</b> <br>150 Pandan Gardens, S(609335)</td>
