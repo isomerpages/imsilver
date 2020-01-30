@@ -44,69 +44,65 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>library@chinatown<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>29-Feb-20<br>9am to 5pm</td>
-  <td>Hougang Community Club <br>35 Hougang Ave 3, S(538840)</td>
-  <td>Hougang Community Club<br>Tel: 6282 8887</td>
+  <td>3-Mar-20<br>2pm to 5pm</td>
+  <td>Woodlands Regional Library<br>900 South Woodlands Drive, #01-03, S(730900)</td>
+  <td>Woodlands Regional Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>29-Feb-20<br>9am to 5pm</td>
-  <td>Hong Kah North Community Club <br>30 Bukit Batok Street 31, S(659440)</td>
-  <td>Hong Kah North Community Club<br>Tel: 6567 3130</td>
+  <td>10-Mar-20<br>2pm to 5pm</td>
+  <td>library@harbourfront<br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
+  <td>library@harbourfront<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>1-Mar-20<br>10am to 6pm</td>
-  <td>Kampong Chai Chee Community Club <br>11 Bedok North Street 1, S(469662)</td>
-  <td>Kampong Chai Chee Community Club<br>Tel: 6241 9878</td>
+  <td>17-Mar-20<br>2pm to 5pm</td>
+  <td>Bedok Public Library<br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
+  <td>Bedok Public Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>7-Mar-20<br>10am to 6pm</td>
-  <td>Tampines West Community Club <br>5 Tampines Ave 3, S(529705)</td>
-  <td>Tampines West Community Club<br>Tel: 6783 7910</td>
+  <td>24-Mar-20<br><b>*3pm to 5pm</b></td>
+  <td>Central Public Library<br>100 Victoria Street, S(188064)</td>
+  <td>Central Public Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>7-Mar-20<br><b>*2pm to 6pm</b></td>
-  <td>Chong Pang Community Club <br>21 Yishun Ring Road, S(768677)</td>
-  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
+  <td>1-Apr-20<br>2pm to 5pm</td>
+  <td>Woodlands Regional Library<br>900 South Woodlands Drive, #01-03, S(730900)</td>
+  <td>Woodlands Regional Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td><b>*14-Mar-20</b><br>9.30am to 5.30pm</td>
-  <td>Siglap South Community Centre <br>6 Palm Road, S(456441)</td>
-  <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
+  <td>7-Apr-20<br>2pm to 5pm</td>
+  <td>Tampines Regional Library<br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
+  <td>Tampines Regional Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>15-Mar-20<br>9am to 5pm</td>
-  <td>Braddell Heights Community Club <br>50 Serangoon Ave 3, S(556129)</td>
-  <td>Braddell Heights Community Club<br>Tel: 6288 1258</td>
+  <td>8-Apr-20<br>2pm to 5pm</td>
+  <td>Clementi Public Library<br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
+  <td>Clementi Public Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>21-Mar-20<br>10am to 6pm</td>
-  <td>ACE The Place Community Club <br>120 Woodlands Ave 1, S(739069)</td>
-  <td>ACE The Place Community Club<br>Tel: 6891 3430</td>
+  <td>13-Apr-20<br>2pm to 5pm</td>
+  <td>Toa Payoh Public Library<br>6 Toa Payoh Central, S(319191)</td>
+  <td>Toa Payoh Public Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>21-Mar-20<br>9am to 5pm</td>
-  <td>MacPherson Community Club <br>400 Paya Lebar Way, (S)379131</td>
-  <td>MacPherson Community Club<br>Tel: 6745 2940</td>
+  <td>14-Apr-20<br>2pm to 5pm</td>
+  <td>library@harbourfront<br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
+  <td>library@harbourfront<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>28-Mar-20<br>9am to 5pm</td>
-  <td>The Frontier Community Club <br>60 Jurong West Central 3, S(648346)</td>
-  <td>The Frontier Community Club<br>Tel: 6795 8229</td>
+  <td>21-Apr-20<br>2pm to 5pm</td>
+  <td>Central Public Library<br>100 Victoria Street, S(188064)</td>
+  <td>Central Public Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>28-Mar-20<br>9am to 5pm</td>
-  <td>The Serangoon Community Club <br>10 Serangoon North Ave 2, S(555877)</td>
-  <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  <td>23-Apr-20<br>2pm to 5pm</td>
+  <td>Bedok Public Library<br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
+  <td>Bedok Public Library<br>Tel: 6332 3255</td>
   </tr>
   <tr>  
-<td>12-Apr-20<br>10am to 6pm</td>
-  <td>Keat Hong Community Club <br>2 Choa Chu Kang Loop, #01-01, S(689687)</td>
-  <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
-  </tr> 
-<td>26-Apr-20<br>9am to 5pm</td>
-  <td>Anchorvale Community Club <br>59 Anchorvale Road, S(544965)</td>
-  <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
-  </tr> 
+<td>27-Apr-20<br>2pm to 5pm</td>
+  <td>Ang Mo Kio Public Library<br>4300 Ang Mo Kio Ave 6, S(569842)</td>
+  <td>Ang Mo Kio Public Library<br>Tel: 6332 3255</td>
+  </tr>
 </table>
 
 
