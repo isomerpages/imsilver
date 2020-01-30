@@ -20,9 +20,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 <br>
 
 <table>
-  <tr><th><b>Date and Time</b></th>
+  <tr><th><b>Date & Time</b></th>
   <th><b>Venue</b></th>
-  <th><b>Registration and Enquiries</b></th></tr>
+  <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
   <td>18-Feb-20<br>2pm to 5pm</td>
   <td><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</td>
