@@ -43,7 +43,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>23-Feb-20<br>9am to 5pm</td>
-  <td><b>Blk 350 Canberra Road, S(751350)</b></td>
+  <td><b>Blk 350 Canberra Road</b>, S(751350)</td>
   <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
   Gambas Zone 1 RC<br>Tel: 6755 5052<br>
   Gambas Zone 2 RC<br>Tel: 6853 0037</td>
@@ -65,12 +65,12 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>1-Mar-20<br>10am to 6pm</td>
-  <td><b>Kampong Chai Chee Community Club</b></br>11 Bedok North Street 1, S(469662)</td>
+  <td><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)</td>
   <td>Kampong Chai Chee Community Club<br>Tel: 6241 9878</td>
   </tr>
 <tr>  
   <td>7-Mar-20<br>10am to 6pm</td>
-  <td><b>Tampines West Community Club</b></br>5 Tampines Ave 3, S(529705)</td>
+  <td><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)</td>
   <td>Tampines West Community Club<br>Tel: 6783 7910</td>
   </tr>
 <tr>  
@@ -100,22 +100,22 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>28-Mar-20<br>9am to 5pm</td>
-  <td><b>The Frontier Community Club <br>60 Jurong West Central 3, S(648346)</td>
+  <td><b>The Frontier Community Club</b><br>60 Jurong West Central 3, S(648346)</td>
   <td>The Frontier Community Club<br>Tel: 6795 8229</td>
   </tr>
 <tr>  
   <td>28-Mar-20<br>9am to 5pm</td>
-  <td><b>The Serangoon Community Club <br>10 Serangoon North Ave 2, S(555877)</td>
+  <td><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)</td>
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
   </tr>
 <tr>  
 <td>12-Apr-20<br>10am to 6pm</td>
-  <td>Keat Hong Community Club <br>2 Choa Chu Kang Loop, #01-01, S(689687)</td>
+  <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)</td>
   <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
   </tr> 
 <tr>
   <td>26-Apr-20<br>9am to 5pm</td>
-  <td>Anchorvale Community Club <br>59 Anchorvale Road, S(544965)</td>
+  <td><b>Anchorvale Community Club</b><br>59 Anchorvale Road, S(544965)</td>
   <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
   </tr> 
 </table>
