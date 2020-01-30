@@ -26,82 +26,82 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 <tr>  
   <td>18-Feb-20<br>2pm to 5pm</td>
   <td><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</td>
-  <td>Yishan Public Library<br>Tel: 6332 3255 <br>Walk-in registration only</td>
+  <td>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>20-Feb-20<br>2pm to 5pm</td>
   <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
-  <td>Clementi Public Library<br>Tel: 6332 3255</td>
+  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>25-Feb-20<br>2pm to 5pm</td>
   <td><b>Tampines Regional Library</b><br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
-  <td>Tampines Regional Library<br>Tel: 6332 3255</td>
+  <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>27-Feb-20<br>2pm to 5pm</td>
   <td><b>library@chinatown</b><br>133 New Bridge Road, #04-12, Chinatown Point, S(059413)</td>
-  <td>library@chinatown<br>Tel: 6332 3255</td>
+  <td>library@chinatown<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>3-Mar-20<br>2pm to 5pm</td>
   <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
-  <td>Woodlands Regional Library<br>Tel: 6332 3255</td>
+  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>10-Mar-20<br>2pm to 5pm</td>
   <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
-  <td>library@harbourfront<br>Tel: 6332 3255</td>
+  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>17-Mar-20<br>2pm to 5pm</td>
   <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
-  <td>Bedok Public Library<br>Tel: 6332 3255</td>
+  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>24-Mar-20<br><b>*3pm to 5pm</b></td>
   <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
-  <td>Central Public Library<br>Tel: 6332 3255</td>
+  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>1-Apr-20<br>2pm to 5pm</td>
   <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
-  <td>Woodlands Regional Library<br>Tel: 6332 3255</td>
+  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>7-Apr-20<br>2pm to 5pm</td>
   <td><b>Tampines Regional Library</b><br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
-  <td>Tampines Regional Library<br>Tel: 6332 3255</td>
+  <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>8-Apr-20<br>2pm to 5pm</td>
   <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
-  <td>Clementi Public Library<br>Tel: 6332 3255</td>
+  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>13-Apr-20<br>2pm to 5pm</td>
   <td><b>Toa Payoh Public Library</b><br>6 Toa Payoh Central, S(319191)</td>
-  <td>Toa Payoh Public Library<br>Tel: 6332 3255</td>
+  <td>Toa Payoh Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>14-Apr-20<br>2pm to 5pm</td>
   <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
-  <td>library@harbourfront<br>Tel: 6332 3255</td>
+  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>21-Apr-20<br>2pm to 5pm</td>
   <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
-  <td>Central Public Library<br>Tel: 6332 3255</td>
+  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>23-Apr-20<br>2pm to 5pm</td>
   <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
-  <td>Bedok Public Library<br>Tel: 6332 3255</td>
+  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
   <tr>  
 <td>27-Apr-20<br>2pm to 5pm</td>
   <td><b>Ang Mo Kio Public Library</b><br>4300 Ang Mo Kio Ave 6, S(569842)</td>
-  <td>Ang Mo Kio Public Library<br>Tel: 6332 3255</td>
+  <td>Ang Mo Kio Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 </table>
 
