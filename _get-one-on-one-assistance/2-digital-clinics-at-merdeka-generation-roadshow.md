@@ -108,12 +108,13 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>The Serangoon Community Club <br>10 Serangoon North Ave 2, S(555877)</td>
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
   </tr>
-  <tr>  
+<tr>  
 <td>12-Apr-20<br>10am to 6pm</td>
   <td>Keat Hong Community Club <br>2 Choa Chu Kang Loop, #01-01, S(689687)</td>
   <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
   </tr> 
-<td>26-Apr-20<br>9am to 5pm</td>
+<tr>
+  <td>26-Apr-20<br>9am to 5pm</td>
   <td>Anchorvale Community Club <br>59 Anchorvale Road, S(544965)</td>
   <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
   </tr> 
