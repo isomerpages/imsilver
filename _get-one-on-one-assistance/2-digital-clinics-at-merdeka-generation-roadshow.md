@@ -42,11 +42,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Bishan Community Club <br>Tel: 6259 4720</td>
   </tr>
 <tr>  
-  <td>22-Feb-20<br>9.30am to 5.30pm</td>
-  <td>Siglap South Community Centre <br>6 Palm Road, S(456441)</td>
-  <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
-  </tr>
-<tr>  
   <td>23-Feb-20<br>9am to 5pm</td>
   <td>Blk 350 Canberra Road, S(751350)</td>
   <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
@@ -75,13 +70,18 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>7-Mar-20<br>10am to 6pm</td>
+  <td>Tampines West Community Club <br>5 Tampines Ave 3, S(529705)</td>
+  <td>Tampines West Community Club<br>Tel: 6783 7910</td>
+  </tr>
+<tr>  
+  <td>7-Mar-20<br><b>*2pm to 6pm</b></td>
   <td>Chong Pang Community Club <br>21 Yishun Ring Road, S(768677)</td>
   <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
   </tr>
 <tr>  
-  <td>7-Mar-20<br>10am to 6pm</td>
-  <td>Tampines West Community Club <br>5 Tampines Ave 3, S(529705)</td>
-  <td>Tampines West Community Club<br>Tel: 6783 7910</td>
+  <td><b>*14-Mar-20</b><br>9.30am to 5.30pm</td>
+  <td>Siglap South Community Centre <br>6 Palm Road, S(456441)</td>
+  <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
   </tr>
 <tr>  
   <td>15-Mar-20<br>9am to 5pm</td>
@@ -107,5 +107,14 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>28-Mar-20<br>9am to 5pm</td>
   <td>The Serangoon Community Club <br>10 Serangoon North Ave 2, S(555877)</td>
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  </tr>
+  <tr>  
+<td>12-Apr-20<br>10am to 6pm</td>
+  <td>Keat Hong Community Club <br>2 Choa Chu Kang Loop, #01-01, S(689687)</td>
+  <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
+  </tr> 
+<td>26-Apr-20<br>9am to 5pm</td>
+  <td>Anchorvale Community Club <br>59 Anchorvale Road, S(544965)</td>
+  <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
   </tr> 
 </table>
