@@ -11,58 +11,189 @@ collection_name: get-one-on-one-assistance
 
 Do you face problems with using your smartphone and wish there was someone who could give you one-on-one assistance? Here are some programmes that you can attend to get the personal attention that you have always wanted!<br>
 
+**Upcoming Digital Clinic Sessions**<br>
+
+<table>
+  <tr><th><b>Date & Time</b></th>
+  <th><b>Venue</b></th>
+  <th><b>Registration & Enquiries</b></th></tr>
+<tr>  
+  <td>9-Feb-20<br>9am to 5pm</td>
+  <td><b>Ayer Rajah Community Club</b><br>150 Pandan Gardens, S(609335)<br>MG Digital Clinic</td>
+  <td>Ayer Rajah Community Club<br>Tel: 6560 9983</td>
+  </tr>
+<tr>  
+  <td>15-Feb-20<br>10am to 6pm</td>
+  <td><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)<br>MG Digital Clinic</td>
+  <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
+  </tr>
+<tr>  
+  <td>16-Feb-20<br>9am to 5pm</td>
+  <td><b>Bishan Community Club</b><br>51 Bishan Street 13, S(579799)<br>MG Digital Clinic</td>
+  <td>Bishan Community Club <br>Tel: 6259 4720</td>
+  </tr>
+<tr>  
+  <td>18-Feb-20<br>2pm to 5pm</td>
+  <td><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</td>
+  <td>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>20-Feb-20<br>2pm to 5pm</td>
+  <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
+  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>23-Feb-20<br>9am to 5pm</td>
+  <td><b>Blk 350 Canberra Road</b>, S(751350)<br>MG Digital Clinic</td>
+  <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
+  Gambas Zone 1 RC<br>Tel: 6755 5052<br>
+  Gambas Zone 2 RC<br>Tel: 6853 0037</td>
+  </tr>
+<tr>  
+  <td>23-Feb-20<br>9am to 5pm</td>
+  <td><b>Nanyang Community Club</b><br>60 Jurong West Street 91, S(649040)<br>MG Digital Clinic</td>
+  <td>Nanyang Community Club<br>Tel: 6791 0395</td>
+  </tr>
+<tr>  
+  <td>25-Feb-20<br>2pm to 5pm</td>
+  <td><b>Tampines Regional Library</b><br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
+  <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>27-Feb-20<br>2pm to 5pm</td>
+  <td><b>library@chinatown</b><br>133 New Bridge Road, #04-12, Chinatown Point, S(059413)</td>
+  <td>library@chinatown<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>29-Feb-20<br>9am to 5pm</td>
+  <td><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)<br>MG Digital Clinic</td>
+  <td>Hougang Community Club<br>Tel: 6282 8887</td>
+  </tr>
+<tr>  
+  <td>29-Feb-20<br>9am to 5pm</td>
+  <td><b>Hong Kah North Community Club</b><br>30 Bukit Batok Street 31, S(659440)<br>MG Digital Clinic</td>
+  <td>Hong Kah North Community Club<br>Tel: 6567 3130</td>
+  </tr>
+<tr>  
+  <td>1-Mar-20<br>10am to 6pm</td>
+  <td><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)<br>MG Digital Clinic</td>
+  <td>Kampong Chai Chee Community Club<br>Tel: 6241 9878</td>
+  </tr>
+<tr>  
+  <td>3-Mar-20<br>2pm to 5pm</td>
+  <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
+  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>7-Mar-20<br>10am to 6pm</td>
+  <td><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)<br>MG Digital Clinic</td>
+  <td>Tampines West Community Club<br>Tel: 6783 7910</td>
+  </tr>
+<tr>  
+  <td>7-Mar-20<br><b>*2pm to 6pm</b></td>
+  <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>MG Digital Clinic</td>
+  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
+  </tr>
+<tr>  
+  <td>10-Mar-20<br>2pm to 5pm</td>
+  <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
+  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td><b>*14-Mar-20</b><br>9.30am to 5.30pm</td>
+  <td><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>MG Digital Clinic</td>
+  <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
+  </tr>
+<tr>  
+  <td>15-Mar-20<br>9am to 5pm</td>
+  <td><b>Braddell Heights Community Club</b><br>50 Serangoon Ave 3, S(556129)<br>MG Digital Clinic</td>
+  <td>Braddell Heights Community Club<br>Tel: 6288 1258</td>
+  </tr>
+<tr>  
+  <td>17-Mar-20<br>2pm to 5pm</td>
+  <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
+  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>21-Mar-20<br>10am to 6pm</td>
+  <td><b>ACE The Place Community Club</b><br>120 Woodlands Ave 1, S(739069)<br>MG Digital Clinic</td>
+  <td>ACE The Place Community Club<br>Tel: 6891 3430</td>
+  </tr>
+<tr>  
+  <td>21-Mar-20<br>9am to 5pm</td>
+  <td><b>MacPherson Community Club</b><br>400 Paya Lebar Way, (S)379131<br>MG Digital Clinic</td>
+  <td>MacPherson Community Club<br>Tel: 6745 2940</td>
+  </tr>
+<tr>  
+  <td>24-Mar-20<br><b>*3pm to 5pm</b></td>
+  <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
+  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>28-Mar-20<br>9am to 5pm</td>
+  <td><b>The Frontier Community Club</b><br>60 Jurong West Central 3, S(648346)<br>MG Digital Clinic</td>
+  <td>The Frontier Community Club<br>Tel: 6795 8229</td>
+  </tr>
+<tr>  
+  <td>28-Mar-20<br>9am to 5pm</td>
+  <td><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>MG Digital Clinic</td>
+  <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  </tr>
+<tr>  
+  <td>1-Apr-20<br>2pm to 5pm</td>
+  <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
+  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>7-Apr-20<br>2pm to 5pm</td>
+  <td><b>Tampines Regional Library</b><br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
+  <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>8-Apr-20<br>2pm to 5pm</td>
+  <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
+  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+<td>12-Apr-20<br>10am to 6pm</td>
+  <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)<br>MG Digital Clinic</td>
+  <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
+  </tr> 
+<tr>  
+  <td>13-Apr-20<br>2pm to 5pm</td>
+  <td><b>Toa Payoh Public Library</b><br>6 Toa Payoh Central, S(319191)</td>
+  <td>Toa Payoh Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>14-Apr-20<br>2pm to 5pm</td>
+  <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
+  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>21-Apr-20<br>2pm to 5pm</td>
+  <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
+  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>23-Apr-20<br>2pm to 5pm</td>
+  <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
+  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>
+  <td>26-Apr-20<br>9am to 5pm</td>
+  <td><b>Anchorvale Community Club</b><br>59 Anchorvale Road, S(544965)<br>MG Digital Clinic</td>
+  <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
+  </tr> 
+<tr>  
+  <td>27-Apr-20<br>2pm to 5pm</td>
+  <td><b>Ang Mo Kio Public Library</b><br>4300 Ang Mo Kio Ave 6, S(569842)</td>
+  <td>Ang Mo Kio Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+</table>
+
 #### Digital Clinics<br>
 
 Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) to find out more.<br>
-
-**Upcoming Sessions**<br>
-
-<table>
-  <tr><th><b>Venue</b></th>
-  <th><b>Date</b></th>
-  <th><b>Time</b></th></tr>
-
-<tr>  
-<td><b>Yishun Public Library,</b> 930 Yishun Ave 2, #04-01 North Wing, Northpoint City, Singapore 769098</td>
-<td>18 February 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Clementi Public Library,</b> 3155 Commonwealth Avenue West, #05-13/14/15 The Clementi Mall, Singapore 129588</td>
-<td>20 February 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Tampines Regional Library,</b> 1 Tampines Walk, #02-01 Our Tampines Hub, Singapore 528523</td>
-<td>25 February 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>library@chinatown,</b> 133 New Bridge Rd, #04-12 Chinatown Point, Singapore 059413</td>
-<td>27 February 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Woodlands Regional Library,</b> 900 South Woodlands Drive, #01-03, Singapore 730900</td>
-<td>3 March 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>library@harbourfront,</b> 1 Harbourfront Walk, #03-05 (Lobby F) VivoCity, Singapore 098585</td>
-<td>10 March 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Bedok Public Library,</b> 11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, Singapore 469662</td>
-<td>17 March 2020</td> 
-<td>2pm – 5pm</td> </tr>
-
-<tr>  
-<td><b>Central Public Library,</b> 100 Victoria Street, Singapore 188064</td>
-<td>24 March 2020</td> 
-<td><b>*3pm – 5pm</b></td> </tr>
-
-</table>
 
 #### Merdeka Generation Digital Clinic<br>
 
@@ -70,5 +201,5 @@ Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held
 
 #### Tech Connect<br>
 
-Visit any of our eight Community Clubs and let our Tech Connect Kakis show you how mobile apps and websites can help bring greater convenience to your life!  [Click here](/get-one-on-one-assistance/tech-connect/) to find out more.<br>
+Visit any of our eight Community Clubs and let our Tech Connect Kakis show you how mobile apps and websites can help bring greater convenience to your life! [Click here](/get-one-on-one-assistance/tech-connect/) to find out more.<br>
 
