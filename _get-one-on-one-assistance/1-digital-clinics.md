@@ -25,30 +25,23 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Registration and Enquiries</b></th></tr>
 <tr>  
   <td>18-Feb-20<br>2pm to 5pm</td>
-  <td>Yishun Public Library <br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</td>
+  <td><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</td>
   <td>Yishan Public Library<br>Tel: 6332 3255 <br>Walk-in registration only</td>
   </tr>
 <tr>  
-  <td>15-Feb-20<br>10am to 6pm</td>
-  <td>Taman Jurong Community Club <br>1 Yung Seng Road, S(618495)</td>
-  <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
+  <td>20-Feb-20<br>2pm to 5pm</td>
+  <td>Clementi Public Library<br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
+  <td>Clementi Public Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>16-Feb-20<br>9am to 5pm</td>
-  <td>Bishan Community Club <br>51 Bishan Street 13, S(579799)</td>
-  <td>Bishan Community Club <br>Tel: 6259 4720</td>
+  <td>25-Feb-20<br>2pm to 5pm</td>
+  <td>Tampines Regional Library<br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
+  <td>Tampines Regional Library<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
-  <td>23-Feb-20<br>9am to 5pm</td>
-  <td>Blk 350 Canberra Road, S(751350)</td>
-  <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
-  Gambas Zone 1 RC<br>Tel: 6755 5052<br>
-  Gambas Zone 2 RC<br>Tel: 6853 0037</td>
-  </tr>
-<tr>  
-  <td>23-Feb-20<br>9am to 5pm</td>
-  <td>Nanyang Community Club <br>60 Jurong West Street 91, S(649040)</td>
-  <td>Nanyang Community Club<br>Tel: 6791 0395</td>
+  <td>27-Feb-20<br>2pm to 5pm</td>
+  <td>library@chinatown<br>133 New Bridge Road, #04-12, Chinatown Point, S(059413)</td>
+  <td>library@chinatown<br>Tel: 6332 3255</td>
   </tr>
 <tr>  
   <td>29-Feb-20<br>9am to 5pm</td>
