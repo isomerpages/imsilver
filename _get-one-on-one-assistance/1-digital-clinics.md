@@ -59,7 +59,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>24-Mar-20<br><b>*3pm to 5pm</b></td>
+  <td>24-Mar-20<br>*3pm to 5pm</td>
   <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
   <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
@@ -105,6 +105,8 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   </tr>
 </table>
 
+
+*Changes have been made to the event date/time.
 
 
 

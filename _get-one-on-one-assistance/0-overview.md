@@ -18,11 +18,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>9-Feb-20<br>9am to 5pm</td>
-  <td><b>Ayer Rajah Community Club</b><br>150 Pandan Gardens, S(609335)<br>(MG Digital Clinic)</td>
-  <td>Ayer Rajah Community Club<br>Tel: 6560 9983</td>
-  </tr>
-<tr>  
   <td>15-Feb-20<br>10am to 6pm</td>
   <td><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)<br>(MG Digital Clinic)</td>
   <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
@@ -90,17 +85,12 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Tampines West Community Club<br>Tel: 6783 7910</td>
   </tr>
 <tr>  
-  <td>7-Mar-20<br><b>*2pm to 6pm</b></td>
-  <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>(MG Digital Clinic)</td>
-  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
-  </tr>
-<tr>  
   <td>10-Mar-20<br>2pm to 5pm</td>
   <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
   <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td><b>*14-Mar-20</b><br>9.30am to 5.30pm</td>
+  <td>*14-Mar-20<br>9am to 5pm</td>
   <td><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>(MG Digital Clinic)</td>
   <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
   </tr>
@@ -125,7 +115,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>MacPherson Community Club<br>Tel: 6745 2940</td>
   </tr>
 <tr>  
-  <td>24-Mar-20<br><b>*3pm to 5pm</b></td>
+  <td>24-Mar-20<br>*3pm to 5pm</td>
   <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
   <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
@@ -138,6 +128,11 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>28-Mar-20<br>9am to 5pm</td>
   <td><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>(MG Digital Clinic)</td>
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  </tr>
+<tr>  
+  <td>*28-Mar-20<br>*2pm to 6pm</td>
+  <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>(MG Digital Clinic)</td>
+  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
   </tr>
 <tr>  
   <td>1-Apr-20<br>2pm to 5pm</td>
@@ -190,6 +185,8 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Ang Mo Kio Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 </table>
+
+*Changes have been made to the event date/time.
 
 #### Digital Clinics<br>
 

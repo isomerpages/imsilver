@@ -27,11 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>9-Feb-20<br>9am to 5pm</td>
-  <td><b>Ayer Rajah Community Club</b><br>150 Pandan Gardens, S(609335)</td>
-  <td>Ayer Rajah Community Club<br>Tel: 6560 9983</td>
-  </tr>
-<tr>  
   <td>15-Feb-20<br>10am to 6pm</td>
   <td><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)</td>
   <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
@@ -74,12 +69,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Tampines West Community Club<br>Tel: 6783 7910</td>
   </tr>
 <tr>  
-  <td>7-Mar-20<br><b>*2pm to 6pm</b></td>
-  <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)</td>
-  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
-  </tr>
-<tr>  
-  <td><b>*14-Mar-20</b><br>9.30am to 5.30pm</td>
+  <td>*14-Mar-20<br>9am to 5pm</td>
   <td><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)</td>
   <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
   </tr>
@@ -109,6 +99,11 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
   </tr>
 <tr>  
+  <td>*28-Mar-20<br>*2pm to 6pm</td>
+  <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)</td>
+  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
+  </tr>
+<tr>  
 <td>12-Apr-20<br>10am to 6pm</td>
   <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)</td>
   <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
@@ -119,3 +114,5 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
   </tr> 
 </table>
+
+*Changes have been made to the event date/time.
