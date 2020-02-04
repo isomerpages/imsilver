@@ -69,7 +69,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Tampines West Community Club<br>Tel: 6783 7910</td>
   </tr>
 <tr>  
-  <td><b>*14-Mar-20</b><br>9am to 5pm</td>
+  <td>*14-Mar-20<br>9am to 5pm</td>
   <td><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)</td>
   <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
   </tr>
@@ -99,7 +99,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
   </tr>
 <tr>  
-  <td>*28-Mar-20<br><b>*2pm to 6pm</b></td>
+  <td>*28-Mar-20<br>*2pm to 6pm</td>
   <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)</td>
   <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
   </tr>
