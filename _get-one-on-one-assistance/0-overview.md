@@ -90,7 +90,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td><b>*14-Mar-20</b><br>9am to 5pm</td>
+  <td>*14-Mar-20<br>9am to 5pm</td>
   <td><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>(MG Digital Clinic)</td>
   <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
   </tr>
