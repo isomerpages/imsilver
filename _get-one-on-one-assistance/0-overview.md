@@ -115,7 +115,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>MacPherson Community Club<br>Tel: 6745 2940</td>
   </tr>
 <tr>  
-  <td>24-Mar-20<br><b>*3pm to 5pm</b></td>
+  <td>24-Mar-20<br>*3pm to 5pm</td>
   <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
   <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
@@ -130,7 +130,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
   </tr>
 <tr>  
-  <td>*28-Mar-20<br><b>*2pm to 6pm</b></td>
+  <td>*28-Mar-20<br>*2pm to 6pm</td>
   <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>(MG Digital Clinic)</td>
   <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
   </tr>
