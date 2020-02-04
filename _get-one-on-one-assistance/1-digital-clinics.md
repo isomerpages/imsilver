@@ -106,6 +106,8 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 </table>
 
 
+*Changes have been made to the event date/time.
+
 
 
 
