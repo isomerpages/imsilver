@@ -42,8 +42,8 @@
   sub-links:
       - title: Articles
         url: /be-informed/articles/
-      - title: Coverage
-        url: /be-informed/coverage/
+      - title: Event Coverage
+        url: /be-informed/event-coverage/
       - title: Event Listings
         url: /be-informed/event-listings/
 
