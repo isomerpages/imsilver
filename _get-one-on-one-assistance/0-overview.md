@@ -70,6 +70,11 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Hong Kah North Community Club<br>Tel: 6567 3130</td>
   </tr>
 <tr>  
+  <td>1-Mar-20<br>8am to 2pm</td>
+  <td><b>Blk 77 Telok Blangah Drive, S(100077)</b><br>(MG Roadshow)</td>
+  <td>Walk-in registration only.</td>
+  </tr>
+<tr>  
   <td>1-Mar-20<br>10am to 6pm</td>
   <td><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</td>
   <td>Kampong Chai Chee Community Club<br>Tel: 6241 9878</td>
@@ -93,6 +98,11 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>*14-Mar-20<br>9am to 5pm</td>
   <td><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>(MG Digital Clinic)</td>
   <td>Siglap South Community Centre <br>Tel: 6241 1925</td>
+  </tr>
+<tr>  
+  <td>15-Mar-20<br>9am to 2pm</td>
+  <td><b>West Coast Community Centre</b><br>2 Clementi West Street 2, S(129605)<br>(MG Roadshow)</td>
+  <td>Walk-in registration only.</td>
   </tr>
 <tr>  
   <td>15-Mar-20<br>9am to 5pm</td>
