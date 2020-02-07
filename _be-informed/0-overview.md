@@ -18,4 +18,4 @@ Be the first to be notified of exclusive digital happenings for seniors in your 
 
 * To read the media articles about Silver Infocomm Initiative, visit our **[media](/be-informed/media)** page to learn more.<br>
 
-* IMDA seeks to inspire seniors to adopt basic digital skills. Visit our **[events](/events/)** page to check out the upcoming activities and mark your calendar!
+* IMDA seeks to inspire seniors to adopt basic digital skills. Visit our **[events](/be-informed/event-listings/)** page to check out the upcoming activities and mark your calendar!
