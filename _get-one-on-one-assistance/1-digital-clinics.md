@@ -54,9 +54,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td><s>10-Mar-20<br>2pm to 5pm</s></td>
-  <td><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></td>
-  <td><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</td>
+  <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
+  <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>15-Mar-20<br>9am to 2pm</td>
@@ -64,9 +64,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>17-Mar-20<br>2pm to 5pm</td>
-  <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
-  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</s></span></td>
+  <td><span style="color:red;"><s>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>24-Mar-20<br>*3pm to 5pm</td>
