@@ -36,42 +36,47 @@ Please contact respective SIJs to sign up for IT courses.
     <th class="tg-dvid">Address</th>
     <th class="tg-dvid">Contact</th>
   </tr>
-  <tr>
+<tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
     <td class="tg-0lax">Blk 531 Upper Cross Street, #04-40A, Singapore 050531</td>
     <td class="tg-0lax">65331010, Click <a href="https://m.facebook.com/Centre-of-Activity-and-Recreation-for-the-Elders-2961576610582817/" target="_blank">here</a>.</td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
     <td class="tg-kftd">Blk 270 Bangkit Road, #01-22, Singapore 670270</td>
     <td class="tg-kftd">64654411, <a href="https://www.cdac.org.sg/en/" target="_blank">www.cdac.org.sg</a></td>
-  </tr>
-  <tr>
+</tr>
+<tr>
     <td class="tg-0lax">Kampong Kembangan Community Club</td>
     <td class="tg-0lax">5 Lengkong Tiga, Singapore 417408</td>
     <td class="tg-0lax">64496022, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">Paya Lebar Kovan Community Club</td>
-    <td class="tg-kftd">207 Hougang Street 21, Singapore 530207</td>
-    <td class="tg-kftd">62844261, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Radin Mas Community Club</td>
-    <td class="tg-0lax">51 Telok Blangah Crescent, Singapore 0989157</td>
-    <td class="tg-0lax">62735294, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
-  </tr>
-  <tr>
-    <td class="tg-kftd">RSVP Singapore – The Organisation of Senior Volunteers</td>
-    <td class="tg-kftd">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
-    <td class="tg-kftd">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a><br>
+</tr>
+<tr>
+    <td class="tg-kftd">Loving Heart</td>
+    <td class="tg-kftd">Blk 210 Jurong East Street 21, #01-389, Singapore 600210</td>
+    <td class="tg-kftd">68974766, <a href="http://www.lovingheart.org.sg/" target="_blank">www.lovingheart.org.sg</a></td>
+</tr>
+<tr>
+    <td class="tg-0lax">Paya Lebar Kovan Community Club</td>
+    <td class="tg-0lax">207 Hougang Street 21, Singapore 530207</td>
+    <td class="tg-0lax">62844261, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
+</tr>
+<tr>
+    <td class="tg-kftd">Radin Mas Community Club</td>
+    <td class="tg-kftd">51 Telok Blangah Crescent, Singapore 0989157</td>
+    <td class="tg-kftd">62735294, <a href="https://www.onepa.sg" target="_blank">www.onePA.sg</a></td>
+</tr>
+<tr>
+    <td class="tg-0lax">RSVP Singapore – The Organisation of Senior Volunteers</td>
+    <td class="tg-0lax">9 Bishan Place, Junction 8 Shopping Centre, #09-03, Singapore 579837</td>
+    <td class="tg-0lax">64856111, <a href="https://rsvp.org.sg" target="_blank">www.rsvp.org.sg</a><br>
     Click <a href="https://rsvp.org.sg/cyberguide/" target="_blank">here</a> for course schedule.</td>
-  </tr>
-  <tr>
-    <td class="tg-0lax">Xiohoo</td>
-    <td class="tg-0lax">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
-    <td class="tg-0lax">88097075, Click <a href="https://xiohoo.com/" target="_blank">here</a> for course schedule.</td>
-  </tr>
+</tr>
+<tr>
+    <td class="tg-kftd">Xiohoo</td>
+    <td class="tg-kftd">Bugis Junction Office Tower, Ucommune 15th Floor, Singapore 188024</td>
+    <td class="tg-kftd">88097075, Click <a href="https://xiohoo.com/" target="_blank">here</a> for course schedule.</td>
+</tr>
 </table>
 
 The following Silver Infocomm Junctions will offer IT courses during the Silver Infocomm Fiesta period.<br>
