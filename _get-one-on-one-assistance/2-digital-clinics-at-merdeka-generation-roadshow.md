@@ -27,9 +27,9 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><s>15-Feb-20</s><br>10am to 6pm</td>
+  <td><s>15-Feb-20<br>10am to 6pm</td>
   <td><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)</td>
-  <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
+  <td>Taman Jurong Community Club <br>Tel: 6265 1711</s></td>
   </tr>
 <tr>  
   <td>16-Feb-20<br>9am to 5pm</td>
