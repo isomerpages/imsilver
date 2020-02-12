@@ -39,7 +39,7 @@ Please contact respective SIJs to sign up for IT courses.
   <tr>
     <td class="tg-0lax">Centre of Activity and Recreation for the Elders (CARE)</td>
     <td class="tg-0lax">Blk 531 Upper Cross Street, #04-40A, Singapore 050531</td>
-    <td class="tg-0lax">65331010, Click <a href="https://m.facebook.com/Centre-of-Activity-and-Recreation-for-the-Elders-2961576610582817/" target="_blank">here</a> for course schedule.</td>
+    <td class="tg-0lax">65331010, Click <a href="https://m.facebook.com/Centre-of-Activity-and-Recreation-for-the-Elders-2961576610582817/" target="_blank">here</a>.</td>
   </tr>
   <tr>
     <td class="tg-kftd">Chinese Development Assistance Council (CDAC) @ Bukit Panjang</td>
