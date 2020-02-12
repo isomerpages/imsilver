@@ -27,14 +27,14 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>15-Feb-20<br>10am to 6pm</td>
-  <td><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)</td>
-  <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
+  <td><span style="color:red;"><s>15-Feb-20<br>10am to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Taman Jurong Community Club <br>Tel: 6265 1711</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>16-Feb-20<br>9am to 5pm</td>
-  <td><b>Bishan Community Club</b><br>51 Bishan Street 13, S(579799)</td>
-  <td>Bishan Community Club <br>Tel: 6259 4720</td>
+  <td><span style="color:red;"><s>16-Feb-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Bishan Community Club</b><br>51 Bishan Street 13, S(579799)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Bishan Community Club <br>Tel: 6259 4720</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>23-Feb-20<br>9am to 5pm</td>

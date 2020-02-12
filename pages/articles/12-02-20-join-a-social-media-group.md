@@ -6,4 +6,4 @@ permalink: /join-a-social-media-group/
 breadcrumb: Join a Social Media Group
 ---
 
-![image1](/images/articles/join-a-social-media-group/join-a-social-media-group.jpg.jpg)
+![image1](/images/articles/join-a-social-media-group/join-a-social-media-group.jpg)

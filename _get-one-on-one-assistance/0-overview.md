@@ -18,19 +18,19 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>15-Feb-20<br>10am to 6pm</td>
-  <td><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)<br>(MG Digital Clinic)</td>
-  <td>Taman Jurong Community Club <br>Tel: 6265 1711</td>
+  <td><span style="color:red;"><s>15-Feb-20<br>10am to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Taman Jurong Community Club <br>Tel: 6265 1711</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>16-Feb-20<br>9am to 5pm</td>
-  <td><b>Bishan Community Club</b><br>51 Bishan Street 13, S(579799)<br>(MG Digital Clinic)</td>
-  <td>Bishan Community Club <br>Tel: 6259 4720</td>
+  <td><span style="color:red;"><s>16-Feb-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Bishan Community Club</b><br>51 Bishan Street 13, S(579799)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Bishan Community Club <br>Tel: 6259 4720</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>18-Feb-20<br>2pm to 5pm</td>
-  <td><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</td>
-  <td>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>18-Feb-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</s></span></td>
+  <td><span style="color:red;"><s>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>20-Feb-20<br>2pm to 5pm</td>
@@ -90,9 +90,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Tampines West Community Club<br>Tel: 6783 7910</td>
   </tr>
 <tr>  
-  <td>10-Mar-20<br>2pm to 5pm</td>
-  <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
-  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+ <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
+  <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>*14-Mar-20<br>9am to 5pm</td>
@@ -110,9 +110,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Braddell Heights Community Club<br>Tel: 6288 1258</td>
   </tr>
 <tr>  
-  <td>17-Mar-20<br>2pm to 5pm</td>
-  <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
-  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</s></span></td>
+  <td><span style="color:red;"><s>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>21-Mar-20<br>10am to 6pm</td>
