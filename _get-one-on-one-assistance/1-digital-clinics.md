@@ -24,7 +24,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><s>18-Feb-20<br>2pm to 5pm</s></td>
+  <td><span style="color:red;"><s>18-Feb-20<br>2pm to 5pm</s></span></td>
   <td><s><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</s></td>
   <td><s>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</td>
   </tr>
