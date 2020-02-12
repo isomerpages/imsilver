@@ -25,7 +25,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
   <td><s>18-Feb-20<br>2pm to 5pm</s></td>
-  <td><b><s>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</s></td>
+  <td><s><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</s></td>
   <td><s>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</td>
   </tr>
 <tr>  
@@ -54,9 +54,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>10-Mar-20<br>2pm to 5pm</td>
-  <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
-  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><s>10-Mar-20<br>2pm to 5pm</s></td>
+  <td><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></td>
+  <td><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</td>
   </tr>
 <tr>  
   <td>15-Mar-20<br>9am to 2pm</td>
