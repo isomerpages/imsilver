@@ -11,6 +11,7 @@ Check out our educational reads and tips on digital skills and find out how they
 
 | Date | Title |
 |--|--|
+| 12 February 2020| [Join a Social Media Group](/join-a-social-media-group/) |
 | 08 January 2020 | [Active Ageing at ActiveSG](/active-ageing-at-activesg/) |
 | 26 December 2019 | [Digitalise Your Vacation Memories](/digitalise-your-vacation-memories/) |
 | 12 December 2019 | [Packing the Apps for Your Trip](/packing-the-apps-for-your-trip/) |
