@@ -29,9 +29,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td><span style="color:red;"><s>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>20-Feb-20<br>2pm to 5pm</td>
-  <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
-  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>20-Feb-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</s></span></td>
+  <td><span style="color:red;"><s>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>25-Feb-20<br>2pm to 5pm</td>
@@ -49,9 +49,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>3-Mar-20<br>2pm to 5pm</td>
-  <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
-  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>3-Mar-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</s></span></td>
+  <td><span style="color:red;"><s>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
@@ -69,9 +69,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td><span style="color:red;"><s>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>24-Mar-20<br>*3pm to 5pm</td>
-  <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
-  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>24-Mar-20<br>*3pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Central Public Library</b><br>100 Victoria Street, S(188064)</s></span></td>
+  <td><span style="color:red;"><s>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>1-Apr-20<br>2pm to 5pm</td>
