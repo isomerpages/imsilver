@@ -45,9 +45,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   Gambas Zone 2 RC<br>Tel: 6853 0037</td>
   </tr>
 <tr>  
-  <td>23-Feb-20<br>9am to 5pm</td>
-  <td><b>Nanyang Community Club</b><br>60 Jurong West Street 91, S(649040)<br>(MG Digital Clinic)</td>
-  <td>Nanyang Community Club<br>Tel: 6791 0395</td>
+  <td><span style="color:red;"><s>23-Feb-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Nanyang Community Club</b><br>60 Jurong West Street 91, S(649040)</s></span></td>
+  <td><span style="color:red;"><s>Nanyang Community Club<br>Tel: 6791 0395</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>25-Feb-20<br>2pm to 5pm</td>
@@ -60,9 +60,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>library@chinatown<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>29-Feb-20<br>9am to 5pm</td>
-  <td><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)<br>(MG Digital Clinic)</td>
-  <td>Hougang Community Club<br>Tel: 6282 8887</td>
+  <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)</s></span></td>
+  <td><span style="color:red;"><s>Hougang Community Club<br>Tel: 6282 8887</s> <br>Cancelled</span>
   </tr>
 <tr>  
   <td>29-Feb-20<br>9am to 5pm</td>
@@ -85,9 +85,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>7-Mar-20<br>10am to 6pm</td>
-  <td><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)<br>(MG Digital Clinic)</td>
-  <td>Tampines West Community Club<br>Tel: 6783 7910</td>
+  <td><span style="color:red;"><s>7-Mar-20<br>10am to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)</s></span></td>
+  <td><span style="color:red;"><s>Tampines West Community Club<br>Tel: 6783 7910</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
  <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
@@ -105,9 +105,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>15-Mar-20<br>9am to 5pm</td>
-  <td><b>Braddell Heights Community Club</b><br>50 Serangoon Ave 3, S(556129)<br>(MG Digital Clinic)</td>
-  <td>Braddell Heights Community Club<br>Tel: 6288 1258</td>
+  <td><span style="color:red;"><s>15-Mar-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Braddell Heights Community Club</b><br>50 Serangoon Ave 3, S(556129)</s></span></td>
+  <td><span style="color:red;"><s>Braddell Heights Community Club<br>Tel: 6288 1258</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
@@ -120,9 +120,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>ACE The Place Community Club<br>Tel: 6891 3430</td>
   </tr>
 <tr>  
-  <td>21-Mar-20<br>9am to 5pm</td>
-  <td><b>MacPherson Community Club</b><br>400 Paya Lebar Way, (S)379131<br>(MG Digital Clinic)</td>
-  <td>MacPherson Community Club<br>Tel: 6745 2940</td>
+ <td><span style="color:red;"><s>21-Mar-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>MacPherson Community Club</b><br>400 Paya Lebar Way, (S)379131</s></span></td>
+  <td><span style="color:red;"><s>MacPherson Community Club<br>Tel: 6745 2940</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>24-Mar-20<br>*3pm to 5pm</s></span></td>
@@ -130,9 +130,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>28-Mar-20<br>9am to 5pm</td>
-  <td><b>The Frontier Community Club</b><br>60 Jurong West Central 3, S(648346)<br>(MG Digital Clinic)</td>
-  <td>The Frontier Community Club<br>Tel: 6795 8229</td>
+  <td><span style="color:red;"><s>28-Mar-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>The Frontier Community Club</b><br>60 Jurong West Central 3, S(648346)</s></span></td>
+  <td><span style="color:red;"><s>The Frontier Community Club<br>Tel: 6795 8229</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>28-Mar-20<br>9am to 5pm</td>
