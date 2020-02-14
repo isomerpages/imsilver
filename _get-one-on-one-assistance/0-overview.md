@@ -62,7 +62,7 @@ Do you face problems with using your smartphone and wish there was someone who c
 <tr>  
   <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)</s></span></td>
-  <td><span style="color:red;"><s>Hougang Community Club<br>Tel: 6282 8887</s> <br>Cancelled</span>
+  <td><span style="color:red;"><s>Hougang Community Club<br>Tel: 6282 8887</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>29-Feb-20<br>9am to 5pm</td>
