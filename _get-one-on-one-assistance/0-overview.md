@@ -40,9 +40,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>27-Feb-20<br>2pm to 5pm</td>
-  <td><b>library@chinatown</b><br>133 New Bridge Road, #04-12, Chinatown Point, S(059413)</td>
-  <td>library@chinatown<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>27-Feb-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>library@chinatown</b><br>133 New Bridge Road, #04-12, Chinatown Point, S(059413)</s></span></td>
+  <td><span style="color:red;"><s>library@chinatown<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
