@@ -27,16 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>15-Feb-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Taman Jurong Community Club</b><br>1 Yung Seng Road, S(618495)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Taman Jurong Community Club <br>Tel: 6265 1711</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>16-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Bishan Community Club</b><br>51 Bishan Street 13, S(579799)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Bishan Community Club <br>Tel: 6259 4720</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td>23-Feb-20<br>9am to 5pm</td>
   <td><b>Blk 350 Canberra Road</b>, S(751350)<br>(MG Digital Clinic)</td>
   <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
@@ -54,14 +44,14 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td><span style="color:red;"><s>Hougang Community Club<br>Tel: 6282 8887</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>29-Feb-20<br>9am to 5pm</td>
-  <td><b>Hong Kah North Community Club</b><br>30 Bukit Batok Street 31, S(659440)<br>(MG Digital Clinic)</td>
-  <td>Hong Kah North Community Club<br>Tel: 6567 3130</td>
+  <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Hong Kah North Community Club</b><br>30 Bukit Batok Street 31, S(659440)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Hong Kah North Community Club<br>Tel: 6567 3130</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>1-Mar-20<br>10am to 6pm</td>
-  <td><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</td>
-  <td>Kampong Chai Chee Community Club<br>Tel: 6241 9878</td>
+  <td><span style="color:red;"><s>1-Mar-20<br>10am to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Kampong Chai Chee Community Club<br>Tel: 6241 9878</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>7-Mar-20<br>10am to 6pm</s></span></td>
