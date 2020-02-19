@@ -24,11 +24,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>18-Feb-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Yishun Public Library</b><br>930 Yishun Ave 2, #04-01 North Wing, Northpoint City, S(769098)</s></span></td>
-  <td><span style="color:red;"><s>Yishun Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td><span style="color:red;"><s>20-Feb-20<br>2pm to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</s></span></td>
   <td><span style="color:red;"><s>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
