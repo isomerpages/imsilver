@@ -55,7 +55,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>Hong Kah North Community Club<br>Tel: 6567 3130</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>1-Mar-20<br>8am to 2pm</td>
+  <td>1-Mar-20<br>8am to 1pm</td>
   <td><b>Blk 77 Telok Blangah Drive, S(100077)</b><br>(MG Roadshow)</td>
   <td>Walk-in registration only.</td>
   </tr>
