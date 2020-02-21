@@ -56,7 +56,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   </tr>
 <tr>  
   <td><span style="color:red;"><s>1-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s><b>Heartbeat@Bedok Atrium</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</s></span></td>
   <td><span style="color:red;"><s>Kampong Chai Chee Community Club<br>Tel: 6241 9878</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
