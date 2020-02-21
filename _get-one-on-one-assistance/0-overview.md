@@ -18,11 +18,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>20-Feb-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</s></span></td>
-  <td><span style="color:red;"><s>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td>23-Feb-20<br>9am to 5pm</td>
   <td><b>Blk 350 Canberra Road</b>, S(751350)<br>(MG Digital Clinic)</td>
   <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
@@ -73,6 +68,11 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>7-Mar-20<br>10am to 6pm</s></span></td>
   <td><span style="color:red;"><s><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)<br>(MG Digital Clinic)</s></span></td>
   <td><span style="color:red;"><s>Tampines West Community Club<br>Tel: 6783 7910</s> <br>Cancelled</span></td>
+  </tr>
+<tr>  
+  <td>8-Mar-20<br>8am to 2pm</td>
+  <td><b>Blk 88 Tanglin Halt Road,</b><br>beside Commonwealth MRT Station, S(141088)<br>(MG Roadshow)</td>
+  <td>Walk-in registration only.</td>
   </tr>
 <tr>  
  <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
@@ -145,6 +145,16 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
+  <td>11-Apr-20<br>10am to 6pm</td>
+  <td><b>Yio Chu Kang Community Club</b><br>50 Ang Mo Kio Street 61, S(569163)<br>(MG Digital Clinic)</td>
+  <td>Yio Chu Kang Community Club<br>Tel: 6457 0414</td>
+  </tr>
+<tr>  
+  <td>11-Apr-20<br>10am to 6pm</td>
+  <td><b>Kaki Bukit Community Centre</b><br>670 Bedok North Street 3, S(469627)<br>(MG Digital Clinic)</td>
+  <td>Kaki Bukit Community Centre<br>Tel: 6445 4223</td>
+  </tr>
+<tr>  
 <td>12-Apr-20<br>10am to 6pm</td>
   <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)<br>(MG Digital Clinic)</td>
   <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
@@ -158,6 +168,16 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>14-Apr-20<br>2pm to 5pm</td>
   <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
   <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+<td>16-Apr-20<br>9am to 5pm</td>
+  <td><b>Blk 377 (Open space next to Senior Centre)</b><br>Bukit Batok Street 31, S(650377)<br>(MG Digital Clinic)</td>
+  <td>Hillview Community Club<br>Tel: 6515 0075</td>
+  </tr>
+<tr>  
+<td>19-Apr-20<br>9am to 5pm</td>
+  <td><b>Hardcourt at Yew Tee MRT Station</b><br>61 Choa Chu Kang Drive, S(689715)<br>(MG Digital Clinic)</td>
+  <td>Yew Tee Community Club<br>Tel: 6769 3672</td>
   </tr>
 <tr>  
   <td>21-Apr-20<br>2pm to 5pm</td>
