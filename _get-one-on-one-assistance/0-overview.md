@@ -197,7 +197,7 @@ Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics]
 
 #### Merdeka Generation Digital Clinics<br>
 
-Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/merdeka-generation-digital-clinics/) to find out more.<br>
+Join us at our Merdeka Generation Digital Clinics which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/merdeka-generation-digital-clinics/) to find out more.<br>
 
 #### Tech Connect<br>
 
