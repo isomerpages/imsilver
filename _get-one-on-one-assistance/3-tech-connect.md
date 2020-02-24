@@ -48,10 +48,6 @@ Tech Connect is a collaboration among the Ministry of Communications (MCI), Info
   <td>9am-10pm</td>
 </tr>
 <tr>
-  <td>Chong Pang CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
   <td>Chua Chu Kang CC</td>
   <td>9am-10pm</td>
 </tr>
