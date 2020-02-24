@@ -18,18 +18,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>23-Feb-20<br>9am to 5pm</td>
-  <td><b>Blk 350 Canberra Road</b>, S(751350)<br>(MG Digital Clinic)</td>
-  <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
-  Gambas Zone 1 RC<br>Tel: 6755 5052<br>
-  Gambas Zone 2 RC<br>Tel: 6853 0037</td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>23-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Nanyang Community Club</b><br>60 Jurong West Street 91, S(649040)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Nanyang Community Club<br>Tel: 6791 0395</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td>25-Feb-20<br>2pm to 5pm</td>
   <td><b>Tampines Regional Library</b><br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
   <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
@@ -207,9 +195,9 @@ Do you face problems with using your smartphone and wish there was someone who c
 
 Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) to find out more.<br>
 
-#### Merdeka Generation Digital Clinic<br>
+#### Merdeka Generation Digital Clinics<br>
 
-Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/) to find out more.<br>
+Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/merdeka-generation-digital-clinics/) to find out more.<br>
 
 #### Tech Connect<br>
 

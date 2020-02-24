@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Merdeka Generation Digital Clinic
-permalink: /get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/
-breadcrumb: Merdeka Generation Digital Clinic
+title: Merdeka Generation Digital Clinics
+permalink: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
+breadcrumb: Merdeka Generation Digital Clinics
 collection_name: get-one-on-one-assistance
 ---
 
@@ -26,18 +26,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <tr><th><b>Date & Time</b></th>
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
-<tr>  
-  <td>23-Feb-20<br>9am to 5pm</td>
-  <td><b>Blk 350 Canberra Road</b>, S(751350)<br>(MG Digital Clinic)</td>
-  <td>Yishun Link Community Club<br>Tel: 6684 1827<br>
-  Gambas Zone 1 RC<br>Tel: 6755 5052<br>
-  Gambas Zone 2 RC<br>Tel: 6853 0037</td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>23-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Nanyang Community Club</b><br>60 Jurong West Street 91, S(649040)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Nanyang Community Club<br>Tel: 6791 0395</s> <br>Cancelled</span></td>
-  </tr>
 <tr>  
   <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)<br>(MG Digital Clinic)</s></span></td>
