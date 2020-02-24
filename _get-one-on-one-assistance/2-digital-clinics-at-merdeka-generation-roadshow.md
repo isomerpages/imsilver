@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Merdeka Generation Digital Clinic
+title: Merdeka Generation Digital Clinicc
 permalink: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
-breadcrumb: Merdeka Generation Digital Clinic
+breadcrumb: Merdeka Generation Digital Clinicc
 collection_name: get-one-on-one-assistance
 ---
 
