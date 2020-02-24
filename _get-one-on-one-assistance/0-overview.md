@@ -207,9 +207,9 @@ Do you face problems with using your smartphone and wish there was someone who c
 
 Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) to find out more.<br>
 
-#### Merdeka Generation Digital Clinic<br>
+#### Merdeka Generation Digital Clinics<br>
 
-Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/digital-clinics-at-merdeka-generation-roadshow/) to find out more.<br>
+Join us at our Digital Clinics @ Merdeka Generation Roadshows which will be held island-wide. Our friendly volunteers will provide one-on-one assistance to help make your mobile devices work better for you! [Click here](/get-one-on-one-assistance/merdeka-generation-digital-clinics/) to find out more.<br>
 
 #### Tech Connect<br>
 
