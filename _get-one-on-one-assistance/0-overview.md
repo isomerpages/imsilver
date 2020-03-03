@@ -118,9 +118,19 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
   </tr>
 <tr>  
+  <td>*28-Mar-20<br>*10am to 6pm</td>
+  <td><b>Pek Kio Community Club</b><br>Blk 47 Owen Road, S(210047)<br>(MG Digital Clinic)</td>
+  <td>Pek Kio Community Club<br>Tel: 6299 0565</td>
+  </tr>
+<tr>  
   <td>1-Apr-20<br>2pm to 5pm</td>
   <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
   <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  </tr>
+<tr>  
+  <td>*04-Apr-20<br>*9am to 5pm</td>
+  <td><b>Pasir Ris East Community Club</b><br>1 Pasir Ris Drive 4, #01-08, S(519457)<br>(MG Digital Clinic)</td>
+  <td>Pasir Ris East Community Club<br>Tel: 6584 2798</td>
   </tr>
 <tr>  
   <td>7-Apr-20<br>2pm to 5pm</td>
