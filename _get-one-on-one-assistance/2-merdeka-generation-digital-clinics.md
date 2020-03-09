@@ -27,26 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Hougang Community Club<br>Tel: 6282 8887</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Hong Kah North Community Club</b><br>30 Bukit Batok Street 31, S(659440)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Hong Kah North Community Club<br>Tel: 6567 3130</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>1-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Kampong Chai Chee Community Club</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Kampong Chai Chee Community Club<br>Tel: 6241 9878</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>7-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Tampines West Community Club<br>Tel: 6783 7910</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td><span style="color:red;"><s>*14-Mar-20<br>9am to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>(MG Digital Clinic)</s></span></td>
   <td><span style="color:red;"><s>Siglap South Community Centre <br>Tel: 6241 1925</s><br>Cancelled</span></td>
