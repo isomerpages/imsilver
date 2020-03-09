@@ -18,51 +18,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>25-Feb-20<br>2pm to 5pm</td>
-  <td><b>Tampines Regional Library</b><br>1 Tampines Walk, #02-01, Our Tampines Hub, S(528523)</td>
-  <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>27-Feb-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>library@chinatown</b><br>133 New Bridge Road, #04-12, Chinatown Point, S(059413)</s></span></td>
-  <td><span style="color:red;"><s>library@chinatown<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Hougang Community Club</b><br>35 Hougang Ave 3, S(538840)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Hougang Community Club<br>Tel: 6282 8887</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>29-Feb-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Hong Kah North Community Club</b><br>30 Bukit Batok Street 31, S(659440)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Hong Kah North Community Club<br>Tel: 6567 3130</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td>1-Mar-20<br>8am to 1pm</td>
-  <td><b>Blk 77 Telok Blangah Drive, S(100077)</b><br>(MG Roadshow)</td>
-  <td>Walk-in registration only.</td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>1-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Heartbeat@Bedok Atrium</b><br>11 Bedok North Street 1, S(469662)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Kampong Chai Chee Community Club<br>Tel: 6241 9878</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>3-Mar-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</s></span></td>
-  <td><span style="color:red;"><s>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>7-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Tampines West Community Club</b><br>5 Tampines Ave 3, S(529705)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Tampines West Community Club<br>Tel: 6783 7910</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td>8-Mar-20<br>8am to 2pm</td>
-  <td><b>Blk 88 Tanglin Halt Road,</b><br>beside Commonwealth MRT Station, S(141088)<br>(MG Roadshow)</td>
-  <td>Walk-in registration only.</td>
-  </tr>
-<tr>  
  <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
   <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
