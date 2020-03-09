@@ -63,7 +63,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   </tr>
 <tr>  
   <td>28-Mar-20<br>10am to 6pm</td>
-  <td><b>Pek Kio Community Club</b><br>Blk 47 Owen Road, S(210047)<br>(MG Digital Clinic)</td>
+  <td>Blk 47 Owen Road, S(210047)<br>(MG Digital Clinic)</td>
   <td>Pek Kio Community Club<br>Tel: 6299 0565</td>
   </tr>
 <tr>  
