@@ -29,9 +29,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>15-Mar-20<br>9am to 2pm</td>
-  <td><b>West Coast Community Centre</b><br>2 Clementi West Street 2, S(129605)<br>(MG Roadshow)</td>
-  <td>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>15-Mar-20<br>9am to 2pm</s></span></td>
+  <td><span style="color:red;"><s><b>West Coast Community Centre</b><br>2 Clementi West Street 2, S(129605)<br>(MG Roadshow)</s></span></td>
+  <td><span style="color:red;"><s>Walk-in registration only.</s><br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
