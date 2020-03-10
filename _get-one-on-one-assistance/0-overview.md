@@ -28,9 +28,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>Siglap South Community Centre <br>Tel: 6241 1925</s><br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>15-Mar-20<br>9am to 2pm</td>
-  <td><b>West Coast Community Centre</b><br>2 Clementi West Street 2, S(129605)<br>(MG Roadshow)</td>
-  <td>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>15-Mar-20<br>9am to 2pm</s></span></td>
+  <td><span style="color:red;"><s><b>West Coast Community Centre</b><br>2 Clementi West Street 2, S(129605)<br>(MG Roadshow)</s></span></td>
+  <td><span style="color:red;"><s>Walk-in registration only.</s><br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>15-Mar-20<br>9am to 5pm</s></span></td>
@@ -83,7 +83,7 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>04-Apr-20<br>9am to 5pm</td>
+  <td>4-Apr-20<br>9am to 5pm</td>
   <td><b>Pasir Ris East Community Club</b><br>1 Pasir Ris Drive 4, #01-08, S(519457)<br>(MG Digital Clinic)</td>
   <td>Pasir Ris East Community Club<br>Tel: 6584 2798</td>
   </tr>
@@ -93,9 +93,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>8-Apr-20<br>2pm to 5pm</td>
-  <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
-  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>8-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</s></span></td>
+  <td><span style="color:red;"><s>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>11-Apr-20<br>10am to 6pm</td>
