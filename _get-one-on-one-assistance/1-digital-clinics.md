@@ -54,9 +54,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Tampines Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
   </tr>
 <tr>  
-  <td>8-Apr-20<br>2pm to 5pm</td>
-  <td><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</td>
-  <td>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>8-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Clementi Public Library</b><br>3155 Commonwealth Ave West, #05-13/14/15, The Clementi Mall, S(129588)</s></span></td>
+  <td><span style="color:red;"><s>Clementi Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>13-Apr-20<br>2pm to 5pm</td>
