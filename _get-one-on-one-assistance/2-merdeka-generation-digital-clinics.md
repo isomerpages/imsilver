@@ -67,7 +67,7 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Pek Kio Community Club<br>Tel: 6299 0565</td>
   </tr>
 <tr>  
-  <td>04-Apr-20<br>9am to 5pm</td>
+  <td>4-Apr-20<br>9am to 5pm</td>
   <td><b>Pasir Ris East Community Club</b><br>1 Pasir Ris Drive 4, #01-08, S(519457)<br>(MG Digital Clinic)</td>
   <td>Pasir Ris East Community Club<br>Tel: 6584 2798</td>
   </tr>
