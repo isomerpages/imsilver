@@ -18,11 +18,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
- <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
-  <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td><span style="color:red;"><s>*14-Mar-20<br>9am to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>(MG Digital Clinic)</s></span></td>
   <td><span style="color:red;"><s>Siglap South Community Centre <br>Tel: 6241 1925</s><br>Cancelled</span></td>
@@ -63,9 +58,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>The Frontier Community Club<br>Tel: 6795 8229</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>28-Mar-20<br>9am to 5pm</td>
-  <td><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>(MG Digital Clinic)</td>
-  <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  <td><span style="color:red;"><s>28-Mar-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>The Serangoon Community Club<br>Tel: 6285 8833</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>*28-Mar-20<br>*2pm to 6pm</td>
