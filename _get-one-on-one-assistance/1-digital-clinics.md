@@ -24,11 +24,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>10-Mar-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
-  <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td><span style="color:red;"><s>15-Mar-20<br>9am to 2pm</s></span></td>
   <td><span style="color:red;"><s><b>West Coast Community Centre</b><br>2 Clementi West Street 2, S(129605)<br>(MG Roadshow)</s></span></td>
   <td><span style="color:red;"><s>Walk-in registration only.</s><br>Cancelled</span></td>
