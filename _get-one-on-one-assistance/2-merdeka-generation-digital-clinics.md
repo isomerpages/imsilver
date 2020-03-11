@@ -52,9 +52,9 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td><span style="color:red;"><s>The Frontier Community Club<br>Tel: 6795 8229</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>28-Mar-20<br>9am to 5pm</td>
-  <td><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>(MG Digital Clinic)</td>
-  <td>The Serangoon Community Club<br>Tel: 6285 8833</td>
+  <td><span style="color:red;"><s>28-Mar-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>The Serangoon Community Club<br>Tel: 6285 8833</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>*28-Mar-20<br>*2pm to 6pm</td>
