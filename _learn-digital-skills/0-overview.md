@@ -16,10 +16,6 @@ These skills include searching for information, communicating online, transactin
 Learn basic digital skills through attending events, classes or simply learning online on your own.
 <br>
 
-#### Attend Events<br>
-
-Pick up digital skills and learn to use technology confidently for daily activities. [Click here](/be-informed/event-listings/)<br>
-
 #### Attend Classes<br>
 
 Take your first step, or take your learning journey to the next level by attending these classes. [Click here](/learn-digital-skills/attend-classes/overview/)<br>

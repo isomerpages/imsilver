@@ -105,7 +105,7 @@ The following Silver Infocomm Junctions will offer IT courses during the Silver 
    <tr>
     <td class="tg-kftd">Republic Polytechnic</td>
     <td class="tg-kftd">9 Woodlands Ave 9, Singapore 738964</td>
-    <td class="tg-kftd">65103000, <a href="https://www.rp.edu.sg/discover/" target="_blank">www.rp.edu.sg</a></td>
+    <td class="tg-kftd">65103000, <a href="https://www.rp.edu.sg/" target="_blank">www.rp.edu.sg</a></td>
   </tr>
 </table>
 

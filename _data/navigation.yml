@@ -5,14 +5,10 @@
 ##################################
 - title: About
   url: /about/
-  sub-links:
-      - title: Media
-        url: /media
+
 - title: Learn Digital Skills
   url: /learn-digital-skills/overview/
   sub-links:
-      - title: Upcoming Events
-        url: /be-informed/event-listings/
       - title: Attend Classes
         url: /learn-digital-skills/attend-classes/overview/
       - title: Learn Online
