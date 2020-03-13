@@ -5,9 +5,7 @@
 ##################################
 - title: About
   url: /about/
-  sub-links:
-      - title: Media
-        url: /media
+
 - title: Learn Digital Skills
   url: /learn-digital-skills/overview/
   sub-links:
