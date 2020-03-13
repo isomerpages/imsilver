@@ -48,7 +48,7 @@ Receive one-on-one assistance on your smartphone queries and enjoy greater conve
 *	For Android and iOS users
 
 **To sign up as a SG:D Friend**<br>
-Visit SG:D Friends [here](https://www.youtube.com/watch?v=en_IqoDr6lo){:target="_blank"}.<br>
+Visit SG:D Friends [here](https://www.imda.gov.sg/sgd-friends){:target="_blank"}.<br>
 
 **Visit a Digital Clinic near you**<br>
 Refer to [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) for the latest schedule.<br> 
