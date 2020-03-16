@@ -27,16 +27,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>*14-Mar-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Siglap South Community Centre</b><br>6 Palm Road, S(456441)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Siglap South Community Centre <br>Tel: 6241 1925</s><br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>15-Mar-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Braddell Heights Community Club</b><br>50 Serangoon Ave 3, S(556129)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Braddell Heights Community Club<br>Tel: 6288 1258</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td><span style="color:red;"><s>21-Mar-20<br>10am to 6pm</s></span></td>
   <td><span style="color:red;"><s><b>ACE The Place Community Club</b><br>120 Woodlands Ave 1, S(739069)<br>(MG Digital Clinic)</s></span></td>
   <td><span style="color:red;"><s>ACE The Place Community Club<br>Tel: 6891 3430</s><br>Cancelled</span></td>
@@ -67,14 +57,14 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Pek Kio Community Club<br>Tel: 6299 0565</td>
   </tr>
 <tr>  
-  <td>4-Apr-20<br>9am to 5pm</td>
-  <td><b>Pasir Ris East Community Club</b><br>1 Pasir Ris Drive 4, #01-08, S(519457)<br>(MG Digital Clinic)</td>
-  <td>Pasir Ris East Community Club<br>Tel: 6584 2798</td>
+  <td><span style="color:red;"><s>4-Apr-20<br>9am to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Pasir Ris East Community Club</b><br>1 Pasir Ris Drive 4, #01-08, S(519457)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Pasir Ris East Community Club<br>Tel: 6584 2798</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>11-Apr-20<br>10am to 6pm</td>
-  <td><b>Yio Chu Kang Community Club</b><br>50 Ang Mo Kio Street 61, S(569163)<br>(MG Digital Clinic)</td>
-  <td>Yio Chu Kang Community Club<br>Tel: 6457 0414</td>
+  <td><span style="color:red;"><s>11-Apr-20<br>10am to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Yio Chu Kang Community Club</b><br>50 Ang Mo Kio Street 61, S(569163)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Yio Chu Kang Community Club<br>Tel: 6457 0414</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>11-Apr-20<br>10am to 6pm</td>

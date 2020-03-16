@@ -17,5 +17,3 @@ Be the first to be notified of exclusive digital happenings for seniors in your 
 * IMDA organises fun outreach activities to help seniors embrace easy-to-learn digital skills. Visit our **[event coverage](/be-informed/event-coverage)** page to check out how the participants benefitted from these events.<br>
 
 * To read the media articles about Silver Infocomm Initiative, visit our **[media](/be-informed/media)** page to learn more.<br>
-
-* IMDA seeks to inspire seniors to adopt basic digital skills. Visit our **[events](/be-informed/event-listings/)** page to check out the upcoming activities and mark your calendar!
