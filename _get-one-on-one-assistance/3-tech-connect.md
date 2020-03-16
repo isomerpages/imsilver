@@ -13,158 +13,29 @@ Tech Connect is a collaboration among the Ministry of Communications (MCI), Info
 **List of Tech Connect Community Clubs/Centres**<br>
 
 <table>
-  <th><b>Venue</b></th>
-  <th><b>Opening Hours</b></th>
+  <th><b>South East Region</b></th>
+  <th><b>South West Region</b></th>
+  <th><b>North East Region</b></th>
 <tr>
   <td>Bedok CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
   <td>Boon Lay CC</td>
-  <td>9am-10pm</td>
+  <td>Aljunied CC</td>
 </tr>
 <tr>
-  <td>Braddell Heights CC</td>
-  <td>9am-10pm</td>
+  <td>Braddel Heights CC</td>
+  <td>Bukt Batok East CC</td>
+  <td>Eunos CC</td>
 </tr>
 <tr>
-  <td>Bukit Batok East CC</td>
-  <td>9am-10pm</td>
+  <td><b>North West Region</b></td>
+  <td><b>Central Region</b></td>
 </tr>
 <tr>
   <td>Bukit Panjang CC</td>
-  <td>9am-10pm</td>
+  <td>Ang Mo Kio CC</td>
 </tr>
 <tr>
   <td>Bukit Timah CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Buona Vista CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Chong Pang CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Chua Chu Kang CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Clementi CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Eunos CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Geylang Serai CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Hougang CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Joo Chiat CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Kaki Bukit CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Kampong Chai Chee CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Kampong Glam CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Kebun Baru CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Kembangan-Chai Chee CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Kreta Ayer-Kim Seng CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>MacPherson CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Marine Parade CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Marsiling CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Nee Soon Central CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Our Tampines Hub</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Paya Lebar CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Potong Pasir CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Punggol Vista CC</td>
-  <td>2pm-10pm</td>
-</tr>
-<tr>
-  <td>Queenstown CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Radin Mas CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Taman Jurong CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Tampines West CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Teck Ghee CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Telok Blangah CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>The Serangoon CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Ulu Pandan CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>West Coast CC</td>
-  <td>9am-10pm</td>
-</tr>
-<tr>
-  <td>Yuhua CC</td>
-  <td>9am-10pm</td>
+  <td>Bukit Merah CC</td>
 </tr>
 </table>
