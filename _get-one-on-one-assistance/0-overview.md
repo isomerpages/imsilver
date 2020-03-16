@@ -48,9 +48,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>The Serangoon Community Club<br>Tel: 6285 8833</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>*28-Mar-20<br>*2pm to 6pm</td>
-  <td><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>(MG Digital Clinic)</td>
-  <td>Chong Pang Community Club<br>Tel: 6758 8258</td>
+  <td><span style="color:red;"><s>*28-Mar-20<br>*2pm to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Chong Pang Community Club<br>Tel: 6758 8258</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td>28-Mar-20<br>10am to 6pm</td>
@@ -58,9 +58,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Pek Kio Community Club<br>Tel: 6299 0565</td>
   </tr>
 <tr>  
-  <td>1-Apr-20<br>2pm to 5pm</td>
-  <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
-  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>1-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</s></span></td>
+  <td><span style="color:red;"><s>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>4-Apr-20<br>9am to 5pm</s></span></td>
@@ -98,9 +98,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><span style="color:red;"><s>Toa Payoh Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>14-Apr-20<br>2pm to 5pm</td>
-  <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
-  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>14-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
+  <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
 <td>16-Apr-20<br>9am to 5pm</td>
@@ -113,14 +113,14 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Yew Tee Community Club<br>Tel: 6769 3672</td>
   </tr>
 <tr>  
-  <td>21-Apr-20<br>2pm to 5pm</td>
-  <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
-  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>21-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Central Public Library</b><br>100 Victoria Street, S(188064)</s></span></td>
+  <td><span style="color:red;"><s>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>23-Apr-20<br>2pm to 5pm</td>
-  <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
-  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>23-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</s></span></td>
+  <td><span style="color:red;"><s>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>
   <td>26-Apr-20<br>9am to 5pm</td>
