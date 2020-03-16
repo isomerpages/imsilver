@@ -52,9 +52,9 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td><span style="color:red;"><s>Chong Pang Community Club<br>Tel: 6758 8258</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>28-Mar-20<br>10am to 6pm</td>
-  <td><b>Pavilion</b><br>Blk 47 Owen Road, S(210047)<br>(MG Digital Clinic)</td>
-  <td>Pek Kio Community Club<br>Tel: 6299 0565</td>
+  <td><span style="color:red;"><s>28-Mar-20<br>10am to 6pm</s></span></td>
+  <td><span style="color:red;"><s><b>Pavilion</b><br>Blk 47 Owen Road, S(210047)<br>(MG Digital Clinic)</s></span></td>
+  <td><span style="color:red;"><s>Pek Kio Community Club<br>Tel: 6299 0565</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>4-Apr-20<br>9am to 5pm</s></span></td>
