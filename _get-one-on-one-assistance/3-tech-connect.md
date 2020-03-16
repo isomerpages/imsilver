@@ -12,30 +12,4 @@ Tech Connect is a collaboration among the Ministry of Communications (MCI), Info
 
 **List of Tech Connect Community Clubs/Centres**<br>
 
-<table>
-  <th><b>South East Region</b></th>
-  <th><b>South West Region</b></th>
-  <th><b>North East Region</b></th>
-<tr>
-  <td>Bedok CC</td>
-  <td>Boon Lay CC</td>
-  <td>Aljunied CC</td>
-</tr>
-<tr>
-  <td>Braddel Heights CC</td>
-  <td>Bukt Batok East CC</td>
-  <td>Eunos CC</td>
-</tr>
-<tr>
-  <td><b>North West Region</b></td>
-  <td><b>Central Region</b></td>
-</tr>
-<tr>
-  <td>Bukit Panjang CC</td>
-  <td>Ang Mo Kio CC</td>
-</tr>
-<tr>
-  <td>Bukit Timah CC</td>
-  <td>Bukit Merah CC</td>
-</tr>
-</table>
+![graphic](/images/get-one-on-one-assistance/Tech Connect CCs.png)
