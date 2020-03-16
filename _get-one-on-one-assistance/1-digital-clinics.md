@@ -34,9 +34,9 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td><span style="color:red;"><s>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>1-Apr-20<br>2pm to 5pm</td>
-  <td><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</td>
-  <td>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>1-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Woodlands Regional Library</b><br>900 South Woodlands Drive, #01-03, S(730900)</s></span></td>
+  <td><span style="color:red;"><s>Woodlands Regional Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
   <td><span style="color:red;"><s>7-Apr-20<br>2pm to 5pm</s></span></td>
@@ -54,19 +54,19 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td><span style="color:red;"><s>Toa Payoh Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>14-Apr-20<br>2pm to 5pm</td>
-  <td><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</td>
-  <td>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>14-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>library@harbourfront</b><br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)</s></span></td>
+  <td><span style="color:red;"><s>library@harbourfront<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>21-Apr-20<br>2pm to 5pm</td>
-  <td><b>Central Public Library</b><br>100 Victoria Street, S(188064)</td>
-  <td>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>21-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Central Public Library</b><br>100 Victoria Street, S(188064)</s></span></td>
+  <td><span style="color:red;"><s>Central Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 <tr>  
-  <td>23-Apr-20<br>2pm to 5pm</td>
-  <td><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</td>
-  <td>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>23-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</s></span></td>
+  <td><span style="color:red;"><s>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
   <tr>  
 <td>27-Apr-20<br>2pm to 5pm</td>
