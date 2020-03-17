@@ -128,9 +128,9 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
   </tr> 
 <tr>  
-  <td>27-Apr-20<br>2pm to 5pm</td>
-  <td><b>Ang Mo Kio Public Library</b><br>4300 Ang Mo Kio Ave 6, S(569842)</td>
-  <td>Ang Mo Kio Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</td>
+  <td><span style="color:red;"><s>27-Apr-20<br>2pm to 5pm</s></span></td>
+  <td><span style="color:red;"><s><b>Ang Mo Kio Public Library</b><br>4300 Ang Mo Kio Ave 6, S(569842)</s></span></td>
+  <td><span style="color:red;"><s>Ang Mo Kio Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
   </tr>
 </table>
 
