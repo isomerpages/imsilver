@@ -18,11 +18,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</s></span></td>
-  <td><span style="color:red;"><s>Bedok Public Library<br>Tel: 6332 3255 <br>Walk-in registration only.</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
   <td><span style="color:red;"><s>21-Mar-20<br>10am to 6pm</s></span></td>
   <td><span style="color:red;"><s><b>ACE The Place Community Club</b><br>120 Woodlands Ave 1, S(739069)<br>(MG Digital Clinic</s></span>)</td>
   <td><span style="color:red;"><s>ACE The Place Community Club<br>Tel: 6891 3430</s><br>Cancelled</span></td>
