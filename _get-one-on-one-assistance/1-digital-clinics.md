@@ -36,7 +36,6 @@ Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the foll
   <br>Toa Payoh Public Library <br> Address</td>
   <td>Walk-in registration only. <br> Tel: 6332 3255</td>
 </tr>
-</table>
 
 <table>
   <tr><th><b>Date & Time</b></th>
@@ -61,7 +60,6 @@ Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the foll
   <td>Jurong West Public Library <br> Address of AMK</td></tr>
 <tr>
   <td>library@harbourfront <br> Address of AMK</td></tr>
-</table>
   
 *Precautionary measures will be put in places to ensure the well-being of the participants and staff.
  
