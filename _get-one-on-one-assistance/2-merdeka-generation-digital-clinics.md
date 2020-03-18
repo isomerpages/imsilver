@@ -20,52 +20,12 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 * Government apps and digital services (Moments of Life app, My Transport, Smart AhMa apps, etc)<br>
 
 **Upcoming Sessions**
-<br>
+<br><br>Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
 
 <table>
   <tr><th><b>Date & Time</b></th>
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
-<tr>  
-  <td><span style="color:red;"><s>21-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>ACE The Place Community Club</b><br>120 Woodlands Ave 1, S(739069)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>ACE The Place Community Club<br>Tel: 6891 3430</s><br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>21-Mar-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>MacPherson Community Club</b><br>400 Paya Lebar Way, (S)379131<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>MacPherson Community Club<br>Tel: 6745 2940</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>28-Mar-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>The Frontier Community Club</b><br>60 Jurong West Central 3, S(648346)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>The Frontier Community Club<br>Tel: 6795 8229</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>28-Mar-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>The Serangoon Community Club</b><br>10 Serangoon North Ave 2, S(555877)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>The Serangoon Community Club<br>Tel: 6285 8833</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>*28-Mar-20<br>*2pm to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Chong Pang Community Club</b><br>21 Yishun Ring Road, S(768677)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Chong Pang Community Club<br>Tel: 6758 8258</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>28-Mar-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Pavilion</b><br>Blk 47 Owen Road, S(210047)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Pek Kio Community Club<br>Tel: 6299 0565</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>4-Apr-20<br>9am to 5pm</s></span></td>
-  <td><span style="color:red;"><s><b>Pasir Ris East Community Club</b><br>1 Pasir Ris Drive 4, #01-08, S(519457)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Pasir Ris East Community Club<br>Tel: 6584 2798</s> <br>Cancelled</span></td>
-  </tr>
-<tr>  
-  <td><span style="color:red;"><s>11-Apr-20<br>10am to 6pm</s></span></td>
-  <td><span style="color:red;"><s><b>Yio Chu Kang Community Club</b><br>50 Ang Mo Kio Street 61, S(569163)<br>(MG Digital Clinic)</s></span></td>
-  <td><span style="color:red;"><s>Yio Chu Kang Community Club<br>Tel: 6457 0414</s> <br>Cancelled</span></td>
-  </tr>
 <tr>  
   <td>11-Apr-20<br>10am to 6pm</td>
   <td><b>Kaki Bukit Community Centre</b><br>670 Bedok North Street 3, S(469627)<br>(MG Digital Clinic)</td>
