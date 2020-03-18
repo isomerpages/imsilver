@@ -18,13 +18,14 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 
 **Upcoming Sessions**
 <br>
+Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*.<br>
 
 <table>
   <tr><th><b>Date & Time</b></th>
   <th><b>Venue</b></th>
-  <th><b>Registration & Enquiries</b></th></tr>
+  <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
-  <td>7 Apr 20 <br><br> 14 Apr 20 <br><br> 21 Apr 20 <br><br> 28 Apr 20<br><br> 2pm to 5pm</td>
+  <td>7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
   <td>Ang Mo Kio Public Library <br> Address of AMK Lib <br>
   <br>Bedok Public Library <br> Address of Bedok Public Lib <br>
   <br>Jurong West Public Library <br> Address of Bedok Public Lib<br>
@@ -35,6 +36,39 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <br>Toa Payoh Public Library <br> Address </td>
   <td>Walk-in registration only. <br> Tel: 6332 3255</td>
 </tr>
+</table>
+
+<table>
+  <tr><th><b>Date & Time</b></th>
+  <th><b>Venue</b></th>
+  <th><b>Registration & Enquiries</b></th></tr> 
+<tr>
+  <td rowspan="8">7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
+<tr>
+  <td>Ang Mo Kio Public Library <br> Address of AMK</td>
+  <td rowspan="8">Walk-in registration only. <br> Tel: 6332 3255</td></tr>
+<tr>
+  <td>Sembawang Public Library <br> Address of AMK</td></tr>
+<tr>
+  <td>library@chinatown <br> Address of AMK</td></tr>
+<tr>
+  <td>Toa Payoh Public Library <br> Address of AMK</td></tr>
+<tr>
+  <td>Bedok Public Library <br> Address of AMK</td></tr>
+<tr>
+  <td>Marine Parade Public Library <br> Address of AMK</td></tr>
+<tr>
+  <td>Jurong West Public Library <br> Address of AMK</td></tr>
+<tr>
+  <td>library@harbourfront <br> Address of AMK</td></tr>
+</table>
+  
+*Precautionary measures will be put in places to ensure the well-being of the participants and staff.
+ 
+<table>
+  <tr><th><b>Date & Time</b></th>
+  <th><b>Venue</b></th>
+  <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
   <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
   <td><span style="color:red;"><s><b>Bedok Public Library</b><br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)</s></span></td>
