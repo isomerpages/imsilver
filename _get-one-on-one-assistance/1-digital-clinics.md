@@ -17,7 +17,6 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
 **Upcoming Sessions**
-<br>
 Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*.<br>
 
 <table>
@@ -43,10 +42,10 @@ Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the foll
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
-  <td rowspan="8">7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
+  <td rowspan="9">7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
 <tr>
   <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)</td>
-  <td rowspan="8">Walk-in registration only. <br> Tel: 6332 3255</td></tr>
+  <td rowspan="9">Walk-in registration only. <br> Tel: 6332 3255</td></tr>
 <tr>
   <td>Sembawang Public Library <br> Address of AMK</td></tr>
 <tr>
