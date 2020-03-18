@@ -33,14 +33,14 @@ Make cashless payments or do money transfers using banking and payment apps!
 ![image](/images/home-page/The Need for Speed.png)
 
 <table>
-  <tr><td>[DBS PayLah!] (https://www.imsilver.sg){:target="_blank"}<br></td>
-  <td>[OCBC Pay Anyone] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
+  <tr><td>[DBS PayLah!] (https://www.imsilver.sg){:target="_blank"}</td>
+  <td>[OCBC Pay Anyone] (https://www.imsilver.sg){:target="_blank"}</td></tr>
 <tr>  
- <td>[GrabPay] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
- <td>[POSB Digibank] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
+ <td>[GrabPay] (https://www.imsilver.sg){:target="_blank"}</td>
+ <td>[POSB Digibank] (https://www.imsilver.sg){:target="_blank"}</td></tr>
 <tr>  
-  <td>[Chinese, Malay and Tamil Resources] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
-  <td>[UOB Mighty] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
+  <td>[Chinese, Malay and Tamil Resources] (https://www.imsilver.sg){:target="_blank"}</td>
+  <td>[UOB Mighty] (https://www.imsilver.sg){:target="_blank"}</td></tr>
 </table>
 
 For 1-on-1 assistance with e-payments, please visit your nearest DBS, OCBC, POSB or UOB branches.
@@ -52,12 +52,12 @@ Upgrde yourself with online course and resources!
 ![image](/images/learn-online/overview/learn-online-overview.jpg)
 
 <table>
-  <tr><td>[DBS PayLah!] (https://www.imsilver.sg){:target="_blank"}<br></td>
-  <td>[OCBC Pay Anyone] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
+  <tr><td>[DBS PayLah!] (https://www.imsilver.sg){:target="_blank"}</td>
+  <td>[OCBC Pay Anyone] (https://www.imsilver.sg){:target="_blank"}</td></tr>
 <tr>  
- <td>[GrabPay] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
- <td>[POSB Digibank] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
+ <td>[GrabPay] (https://www.imsilver.sg){:target="_blank"}</td>
+ <td>[POSB Digibank] (https://www.imsilver.sg){:target="_blank"}</td></tr>
 <tr>  
-  <td>[Chinese, Malay and Tamil Resources] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
-  <td>[UOB Mighty] (https://www.imsilver.sg){:target="_blank"}<br></td></tr>
+  <td>[Chinese, Malay and Tamil Resources] (https://www.imsilver.sg){:target="_blank"}/td>
+  <td>[UOB Mighty] (https://www.imsilver.sg){:target="_blank"}</td></tr>
 </table>
