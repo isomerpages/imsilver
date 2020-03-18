@@ -14,7 +14,7 @@ collection_name: stay-healthy-go-digital
 
 Get your everyday needs online via shopping apps or e-market places!
 
-(image for shop online)
+![image](/images/home-page/The Need for Speed.png)
 
 <table>
 <tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">Amazon Prime</a></td>
@@ -29,7 +29,7 @@ Get your everyday needs online via shopping apps or e-market places!
 
 Make cashless payments or do money transfers using banking and payment apps!
 
-![image](/images/home-page/The Need for Speed.png)
+(Image for Pay Online)
 
 <table>
   <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
