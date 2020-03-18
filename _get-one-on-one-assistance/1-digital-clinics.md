@@ -17,14 +17,14 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
 **Upcoming Sessions**
-<br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*.<br>
+<br><br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*.<br>
 
 <table>
   <tr><th><b>Date & Time</b></th>
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
-  <td>7 Apr, 14 Apr, <br>21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held <br> every Tuesday in April 2020. <br>from 2pm to 5pm</td>
+  <td>7 Apr, 14 Apr, <br>21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held <br> every Tuesday in April 2020. <br><br> 2pm to 5pm</td>
   <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)<br>
   <br>Bedok Public Library <br> Address of Bedok Public Lib <br>
   <br>Jurong West Public Library <br> Address of Jurong West Lib<br>
@@ -33,9 +33,10 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <br>Marine Parade Public Library <br> Address<br>
   <br>Sembawang Public Library <br> Address<br>
   <br>Toa Payoh Public Library <br> Address</td>
-  <td>Walk-in registration only. <br> Tel: 6332 3255</td>
+  <td>Walk-in registration only. <br><br> Tel: 6332 3255</td>
 </tr>
-*Precautionary measures will be put in places to ensure the well-being of the participants and staff.<br>
+</table>
+<br>*Precautionary measures will be put in places to ensure the well-being of the participants and staff.<br>
    
 <table>
   <tr><th><b>Date & Time</b></th>
