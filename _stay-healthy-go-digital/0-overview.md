@@ -17,8 +17,8 @@ Get your everyday needs online via shopping apps or e-market places!
 (image for shop online)
 
 <table>
-  <tr><th>[Amazon Prime] (https://www.imsilver.sg){:target="_blank"}</th>
-  <th>[NTUC FairPrice] (https://www.imsilver.sg){:target="_blank"}</th></tr>
+  <tr><th><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Amazon Prime</a></th>
+  <th><a href="https://www.imsilver.imda.gov.sg/" target="_blank">NTUC FairPrice</a></th></tr>
 <tr>  
  <td>[GrabFood] (https://www.imsilver.sg){:target="_blank"}</td></tr>
  <td>[Shopee] (https://www.imsilver.sg){:target="_blank"}</td></tr>
@@ -33,8 +33,8 @@ Make cashless payments or do money transfers using banking and payment apps!
 ![image](/images/home-page/The Need for Speed.png)
 
 <table>
-  <tr><td>[DBS PayLah!] (https://www.imsilver.sg){:target="_blank"}</td>
-  <td>[OCBC Pay Anyone] (https://www.imsilver.sg){:target="_blank"}</td></tr>
+  <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
+  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
 <tr>  
  <td>[GrabPay] (https://www.imsilver.sg){:target="_blank"}</td>
  <td>[POSB Digibank] (https://www.imsilver.sg){:target="_blank"}</td></tr>
