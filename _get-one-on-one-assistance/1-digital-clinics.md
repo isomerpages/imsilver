@@ -26,19 +26,14 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 <tr>
   <td>7 Apr 20 <br><br> 14 Apr 20 <br><br> 21 Apr 20 <br><br> 28 Apr 20<br><br> 2pm to 5pm</td>
   <td>Ang Mo Kio Public Library <br> Address of AMK Lib <br>
-  <br>Bedok Public Library <br> <Address of Bedok Public Lib <br>
+  <br>Bedok Public Library <br> Address of Bedok Public Lib <br>
   <br>Jurong West Public Library <br> Address of Bedok Public Lib<br>
   <br>library@chinatown <br> Address <br>
   <br>library@harbourfront <br> Address<br>
   <br>Marine Parade Public Library <br> Address<br>
-  <br>Sembawang Public Library <br> Address
+  <br>Sembawang Public Library <br> Address <br>
   <br>Toa Payoh Public Library <br> Address </td>
   <td>Walk-in registration only. <br> Tel: 6332 3255</td>
-</tr>
-<tr>
-<td>Bedok Public Library</td>
-</tr>
-<tr><td>Jurong West Public Library</td>
 </tr>
 <tr>  
   <td><span style="color:red;"><s>17-Mar-20<br>2pm to 5pm</s></span></td>
