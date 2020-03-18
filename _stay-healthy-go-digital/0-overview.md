@@ -32,14 +32,14 @@ Make cashless payments or do money transfers using banking and payment apps!
 (Image for Pay Online)
 
 <table>
-  <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
+  <tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
 <tr>  
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">POSB Digibank</a></td></tr>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">POSB Digibank</a></td></tr>
 <tr>  
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">UOB Mighty</a></td></tr>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">UOB Mighty</a></td></tr>
 </table>
 
 For 1-on-1 assistance with e-payments, please visit your nearest DBS, OCBC, POSB or UOB branches.
@@ -51,12 +51,12 @@ Upgrde yourself with online course and resources!
 ![image](/images/learn-online/overview/learn-online-overview.jpg)
 
 <table>
-  <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
+  <tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
 <tr>  
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">POSB Digibank</a></td></tr>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">POSB Digibank</a></td></tr>
 <tr>  
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
-  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">UOB Mighty</a></td></tr>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">UOB Mighty</a></td></tr>
 </table>
