@@ -24,7 +24,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
-  <td>7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
+  <td>7 Apr, 14 Apr, <br>21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held <br> every Tuesday in April 2020. <br>from 2pm to 5pm</td>
   <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)<br>
   <br>Bedok Public Library <br> Address of Bedok Public Lib <br>
   <br>Jurong West Public Library <br> Address of Jurong West Lib<br>
@@ -36,33 +36,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Walk-in registration only. <br> Tel: 6332 3255</td>
 </tr>
 *Precautionary measures will be put in places to ensure the well-being of the participants and staff.<br>
-  
-<table>
-  <tr><th><b>Date & Time</b></th>
-  <th><b>Venue</b></th>
-  <th><b>Registration & Enquiries</b></th></tr> 
-<tr>
-  <td rowspan="9">7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
-<tr>
-  <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)</td>
-  <td rowspan="9">Walk-in registration only. <br> Tel: 6332 3255</td></tr>
-<tr>
-  <td>Sembawang Public Library <br> Address of AMK</td></tr>
-<tr>
-  <td>library@chinatown <br> Address of AMK</td></tr>
-<tr>
-  <td>Toa Payoh Public Library <br> Address of AMK</td></tr>
-<tr>
-  <td>Bedok Public Library <br> Address of AMK</td></tr>
-<tr>
-  <td>Marine Parade Public Library <br> Address of AMK</td></tr>
-<tr>
-  <td>Jurong West Public Library <br> Address of AMK</td></tr>
-<tr>
-  <td>library@harbourfront <br> Address of AMK</td></tr>
-  
-*Precautionary measures will be put in places to ensure the well-being of the participants and staff.
- 
+   
 <table>
   <tr><th><b>Date & Time</b></th>
   <th><b>Venue</b></th>
