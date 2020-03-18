@@ -26,14 +26,14 @@ Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the foll
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
   <td>7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
-  <td>Ang Mo Kio Public Library <br> Address of AMK Lib <br>
+  <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)<br>
   <br>Bedok Public Library <br> Address of Bedok Public Lib <br>
-  <br>Jurong West Public Library <br> Address of Bedok Public Lib<br>
-  <br>library@chinatown <br> Address <br>
+  <br>Jurong West Public Library <br> Address of Jurong West Lib<br>
+  <br>library@chinatown <br> Address<br>
   <br>library@harbourfront <br> Address<br>
   <br>Marine Parade Public Library <br> Address<br>
-  <br>Sembawang Public Library <br> Address <br>
-  <br>Toa Payoh Public Library <br> Address </td>
+  <br>Sembawang Public Library <br> Address<br>
+  <br>Toa Payoh Public Library <br> Address</td>
   <td>Walk-in registration only. <br> Tel: 6332 3255</td>
 </tr>
 </table>
@@ -45,7 +45,7 @@ Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the foll
 <tr>
   <td rowspan="8">7 Apr, 14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held every Tuesday, from 2pm to 5pm in April 2020.</td>
 <tr>
-  <td>Ang Mo Kio Public Library <br> Address of AMK</td>
+  <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)</td>
   <td rowspan="8">Walk-in registration only. <br> Tel: 6332 3255</td></tr>
 <tr>
   <td>Sembawang Public Library <br> Address of AMK</td></tr>
