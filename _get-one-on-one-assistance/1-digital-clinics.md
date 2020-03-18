@@ -33,7 +33,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <br><b>Marine Parade Public Library</b> <br>278 Marine Parade Road, #01-02 Marine Parade Community Building, S(449282)<br>
   <br><b>Sembawang Public Library</b> <br>30 Sembawang Drive, #05-01 Sun Plaza, S(757713)<br>
   <br><b>Toa Payoh Public Library</b> <br>6 Toa Payoh Central, S(319191)</td>
-  <td>Walk-in registration only. <br><br> Tel: 6332 3255</td>
+  <td>Walk-in registration only. <br><br> Tel: 63323255</td>
 </tr>
 </table>
 *Precautionary measures will be put in places to ensure the well-being of the participants and staff.<br>
