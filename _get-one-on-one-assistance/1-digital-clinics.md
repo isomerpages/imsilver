@@ -25,14 +25,14 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
   <td>7 Apr, 14 Apr, <br>21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held <br> every Tuesday in April 2020. <br><br> 2pm to 5pm</td>
-  <td>Ang Mo Kio Public Library <br> 4300 Ang Mo Kio Ave 6, S(569842)<br>
-  <br>Bedok Public Library <br> Address of Bedok Public Lib <br>
-  <br>Jurong West Public Library <br> Address of Jurong West Lib<br>
-  <br>library@chinatown <br> Address<br>
-  <br>library@harbourfront <br> Address<br>
-  <br>Marine Parade Public Library <br> Address<br>
-  <br>Sembawang Public Library <br> Address<br>
-  <br>Toa Payoh Public Library <br> Address</td>
+  <td>Ang Mo Kio Public Library <br>4300 Ang Mo Kio Ave 6, S(569842)<br>
+  <br>Bedok Public Library <br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)<br>
+  <br>Jurong West Public Library <br>60 Jurong West Central 3, #01-03, S(648346)<br>
+  <br>library@chinatown <br>133 New Bridge Road, #04-12 Chinatown Point, S(059413)<br>
+  <br>library@harbourfront <br>1 Harbourfront Walk, #03-05 (Lobby F) Vivo City, S(098585)<br>
+  <br>Marine Parade Public Library <br>278 Marine Parade Road, #01-02 Marine Parade Community Building, S(449282)<br>
+  <br>Sembawang Public Library <br>30 Sembawang Drive, #05-01 Sun Plaza, S(757713)<br>
+  <br>Toa Payoh Public Library <br>6 Toa Payoh Central, S(319191)</td>
   <td>Walk-in registration only. <br><br> Tel: 6332 3255</td>
 </tr>
 </table>
