@@ -17,10 +17,9 @@ Get your everyday needs online via shopping apps or e-market places!
 (image for shop online)
 
 <table>
-  <tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">Amazon Prime</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">NTUC FairPrice</a></td></tr>
-<tr>  
- <tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">GrabFood</a></td>
+<tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">Amazon Prime</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">NTUC FairPrice</a></td></tr> 
+<tr><td><a href="https://imsilver.imda.gov.sg/" target="_blank">GrabFood</a></td>
   <td><a href="https://imsilver.imda.gov.sg/" target="_blank">Shopee</a></td></tr>
 <tr>  
  <td><a href="https://imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td></tr>
@@ -36,10 +35,10 @@ Make cashless payments or do money transfers using banking and payment apps!
   <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
   <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
 <tr>  
- <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
+  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
   <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">POSB Digibank</a></td></tr>
 <tr>  
- <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
+  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
   <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">UOB Mighty</a></td></tr>
 </table>
 
@@ -55,9 +54,9 @@ Upgrde yourself with online course and resources!
   <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">DBS PayLah!</a></td>
   <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">OCBC Pay Anyone</a></td></tr>
 <tr>  
- <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
+  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">GrabPay</a></td>
   <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">POSB Digibank</a></td></tr>
 <tr>  
- <tr><td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
+  <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">Chinese, Malay and Tamil Resources</a></td>
   <td><a href="https://www.imsilver.imda.gov.sg/" target="_blank">UOB Mighty</a></td></tr>
 </table>
