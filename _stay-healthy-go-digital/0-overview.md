@@ -8,13 +8,13 @@ collection_name: stay-healthy-go-digital
 
 ![about](/images/about/about.jpg)
 
-<SHGD infographic>
+(SHGD infographic)
   
 #### Shop Online
 
 Get your everyday needs online via shopping apps or e-market places!
 
-<image for shop online>
+(image for shop online)
 
 <table>
   <tr><td>[Amazon Prime] (https://www.imsilver.sg){:target="_blank"}<br></td>
@@ -30,7 +30,7 @@ Get your everyday needs online via shopping apps or e-market places!
 
 Make cashless payments or do money transfers using banking and payment apps!
 
-<image for pay online>
+(image for pay online)
 
 <table>
   <tr><td>[DBS PayLah!] (https://www.imsilver.sg){:target="_blank"}<br></td>
