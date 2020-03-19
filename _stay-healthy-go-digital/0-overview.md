@@ -24,5 +24,5 @@ Upgrade yourself with the following learning guides and resources! Learn how you
   <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit</a></td>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Chinese, Malay and Tamil guides</a></td></tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Other learning guides</a></td></tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Other learning guides</a></td></tr>
 </table>
