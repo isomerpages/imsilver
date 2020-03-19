@@ -12,7 +12,9 @@ collection_name: get-one-on-one-assistance
 Do you face problems with using your smartphone and wish there was someone who could give you one-on-one assistance? Here are some programmes that you can attend to get the personal attention that you have always wanted!<br>
 
 **Upcoming Digital Clinic Sessions**
-<br><br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*. Please bring along your mobile devices for the Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
+<br><br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*.
+
+<br><br>Please bring along your mobile devices for the Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
 
 <table>
   <tr><th><b>Date & Time</b></th>
