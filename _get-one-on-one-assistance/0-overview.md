@@ -52,11 +52,6 @@ Do you face problems with using your smartphone and wish there was someone who c
   <td><b>Blk 377 (Open space next to Senior Centre)</b><br>Bukit Batok Street 31, S(650377)<br>(MG Digital Clinic)</td>
   <td>Hillview Community Club<br>Tel: 6515 0075</td>
   </tr>
-<tr>  
-<td>19-Apr-20<br>9am to 5pm</td>
-  <td><b>Hardcourt at Yew Tee MRT Station</b><br>61 Choa Chu Kang Drive, S(689715)<br>(MG Digital Clinic)</td>
-  <td>Yew Tee Community Club<br>Tel: 6769 3672</td>
-  </tr>
 <tr>
   <td>26-Apr-20<br>9am to 5pm</td>
   <td><b>Anchorvale Community Club</b><br>59 Anchorvale Road, S(544965)<br>(MG Digital Clinic)</td>
