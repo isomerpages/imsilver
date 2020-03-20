@@ -13,3 +13,5 @@ Tech Connect is a collaboration among the Ministry of Communications (MCI), Info
 **List of Tech Connect Community Clubs/Centres**<br>
 
 ![graphic](/images/get-one-on-one-assistance/Tech Connect CCs.png)
+
+Tech Connect CCs' operating hours are from 9am to 10pm (except for Punggol Vista CC that operates from 2pm to 10pm).

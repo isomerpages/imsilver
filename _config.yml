@@ -43,6 +43,8 @@ custom_print_css_path: "/assets/css/print.css"
 collections:
   be-informed2:
     output: true
+  stay-healthy-go-digital:
+    output: true
   get-involved:
     output: true
   get-one-on-one-assistance:
