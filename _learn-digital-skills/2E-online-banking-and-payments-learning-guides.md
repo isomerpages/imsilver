@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Online Banking and Payments Learning Guides
+title: Online Banking and Payments
 permalink: /learn-digital-skills/learn-online/digital-transactions-bds/
-breadcrumb: Online Banking and Payments Learning Guides
+breadcrumb: Online Banking and Payments
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
