@@ -12,7 +12,6 @@ Click below to view online guides that will teach you how to perform digital tra
 
 <h3>1. e-payment</h3>
  <h5>OCBC</h5>
-* <a href="https://www.ocbc.com/personal-banking/online-banking/campaign/digital-kiosk/ipad/index.html" target="_blank">OCBC Demo</a><br>
 * <a href="https://www.ocbc.com/personal-banking/lifegoals/silveryears/lifestyle.html" target="_blank">OCBC Tutorial Videos</a><br>
 * <a href="https://www.youtube.com/watch?v=eeyWcfZ2QqQ" target="_blank">How to retrieve access code</a><br>
 * <a href="https://www.youtube.com/watch?v=iG8r6lARhEE" target="_blank">How to reset Online Banking PIN or unlock Online Banking Access</a><br>
