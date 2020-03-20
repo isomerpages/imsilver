@@ -36,11 +36,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)<br>(MG Digital Clinic)</td>
   <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
   </tr> 
-<tr>  
-<td>16-Apr-20<br>9am to 5pm</td>
-  <td><b>Blk 377 (Open space next to Senior Centre)</b><br>Bukit Batok Street 31, S(650377)<br>(MG Digital Clinic)</td>
-  <td>Hillview Community Club<br>Tel: 6515 0075</td>
-  </tr>
 </table>
 
 *Changes have been made to the event date/time.
