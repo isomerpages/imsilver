@@ -41,11 +41,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td><b>Blk 377 (Open space next to Senior Centre)</b><br>Bukit Batok Street 31, S(650377)<br>(MG Digital Clinic)</td>
   <td>Hillview Community Club<br>Tel: 6515 0075</td>
   </tr>
-<tr>
-  <td>26-Apr-20<br>9am to 5pm</td>
-  <td><b>Anchorvale Community Club</b><br>59 Anchorvale Road, S(544965)<br>(MG Digital Clinic)</td>
-  <td>Anchorvale Community Club<br>Tel: 6489 4959</td>
-  </tr> 
 </table>
 
 *Changes have been made to the event date/time.
