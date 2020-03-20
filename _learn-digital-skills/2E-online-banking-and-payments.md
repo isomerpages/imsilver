@@ -14,7 +14,6 @@ Click below to view online guides that will teach you how to perform digital tra
  <h5>OCBC</h5>
 * <a href="https://www.ocbc.com/personal-banking/online-banking/campaign/digital-kiosk/ipad/index.html" target="_blank">OCBC Demo</a><br>
 * <a href="https://www.ocbc.com/personal-banking/lifegoals/silveryears/lifestyle.html" target="_blank">OCBC Tutorial Videos</a><br>
-* <a href="https://www.youtube.com/watch?v=yU3NWjnpEpc&list=PLQa6qD1sYFzavejvFnGu5JediH7ebeoKc" target="_blank">OCBC Mobile Banking App and OCBC Pay Anyone app</a><br>
   
 <h5>POSB</h5>
 * <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
