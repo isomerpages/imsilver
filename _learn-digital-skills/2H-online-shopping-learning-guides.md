@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Online Shopping Learning Guides
-permalink: /learn-digital-skills/learn-online/online-learning-shopping-learning-guides/
+permalink: /learn-digital-skills/learn-online/online-learning-shopping/
 breadcrumb: Online Shopping Learning Guides
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
