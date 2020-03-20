@@ -33,7 +33,7 @@ Please bring along your mobile devices for the Digital Clinic sessions. Do note 
   <td>Walk-in registration only. <br><br> Tel: 63323255</td>
 </tr>
 </table>
-*Precautionary measures will be put in places to ensure the well-being of the participants and staff.<br>
+*Precautionary measures will be put in place to ensure the well-being of the participants and staff.<br>
 
 <table>
   <tr><th><b>Date & Time</b></th>
