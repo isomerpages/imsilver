@@ -20,3 +20,5 @@ Often hear of good deals online from your friends? Check out the following guide
 * NTUC Fairprice
 * Qoo10
 * Shopee
+
+For ongoing deals and promotions, head over to the respective e-merchants' websites for more information.
