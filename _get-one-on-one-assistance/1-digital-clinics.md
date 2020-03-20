@@ -38,7 +38,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
   <td>Walk-in registration only. <br><br> Tel: 63323255</td>
 </tr>
 </table>
-*Precautionary measures will be put in places to ensure the well-being of the participants and staff.<br>
+*Precautionary measures will be put in place to ensure the well-being of the participants and staff.<br>
 
 
 
