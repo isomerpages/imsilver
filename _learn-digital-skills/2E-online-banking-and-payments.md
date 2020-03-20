@@ -28,5 +28,6 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br>
 
 <h5>UOB</h5>
-* <a href="https://www.youtube.com/watch?v=OAsUg3bGqwA&feature=youtu.be" target="_blank">UOB Mighty Ways to Pay</a><br>
-* <a href="https://www.youtube.com/playlist?list=PLUc9eMJO6adOiRG7DCxcpenViNVMIT9Ra" target="_blank">UOB Mighty Minute</a><br>
+* <a href="https://www.uob.com.sg/pib" target="_blank">UOB Personal Internet Banking</a><br>
+* <a href="https://www.uob.com.sg/mighty" target="_blank">UOB Mighty</a><br>
+
