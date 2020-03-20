@@ -10,15 +10,15 @@ second_nav_title: Learn Online
 
 Often hear of good deals online from your friends? Check out the following guides on some of the popular online retailers and kick start your online shopping journey today! <br>
 
-* Amazon
-* Cold Storage
-* Deliveroo
-* Foodpanda
-* Giant
-* Grab
+* Amazon / Prime Now
+* Cold Storage (coming soon)
+* Deliveroo (coming soon)
+* Foodpanda (coming soon)
+* Giant (coming soon)
+* GrabFood
 * Guardian
-* NTUC Fairprice
+* NTUC FairPrice
 * Qoo10
 * Shopee
 
-For ongoing deals and promotions, head over to the respective e-merchants' websites for more information.
+For ongoing deals and promotions, head over to the respective merchants' websites for more information.
