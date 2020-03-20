@@ -30,3 +30,9 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Other learning guides</a></td></tr>
 </table>
+
+#### One-on-One Assistance
+
+Need one-on-one assistance? Drop by a Digital Clinic to get personalized assistance for your mobile phone related queries. Click <a href="https://imsilver.sg/dc" target="_blank">here</a> to learn more about Digital Clinics.
+
+ne-on-one assistance is also available at selected Community Clubs as part of the Tech Connect initiative. CLick <a href="https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures" target="_blank">here</a> to learn about Tech Connect.
