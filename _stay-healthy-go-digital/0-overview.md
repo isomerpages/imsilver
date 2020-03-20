@@ -8,11 +8,9 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/stay-healthy-go-digital/SHGD-logoFC.png)
 
-#### Learn Online
-
 ![image](/images/learn-online/overview/learn-online-overview.jpg)
 
-Upgrade yourself with the following learning guides and resources! Learn how you can communicate online, stay safe online and even put your digital readiness to the test with a simple quiz!
+Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
 
 <table>
 <tr><td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
@@ -35,4 +33,6 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 
 Need one-on-one assistance? Drop by a Digital Clinic to get personalized assistance for your mobile phone related queries. Click <a href="http://imsilver.sg/dc" target="_blank">here</a> to learn more about Digital Clinics.
 
-One-on-one assistance is also available at selected Community Clubs as part of the Tech Connect initiative. Click <a href="https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures" target="_blank">here</a> to learn about Tech Connect.
+One-on-one assistance is also available at selected Community Clubs as part of the Tech Connect initiative. Click <a href="https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures" target="_blank">here</a> to find out more about Tech Connect.
+
+For online banking and payments, you may visit your preferred bank branches for assistance.
