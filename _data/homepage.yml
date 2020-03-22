@@ -33,6 +33,13 @@ i-want-to:
 # Info Sections
 info-sections:
   - section-title: 
+    section-subtitle: Stay Healthy, Go Digital
+    section-description: The current COVID-19 situation is a challenging one, but we can still make the most of our time even staying at home – by going online to carry out activities and engage with the community, using digital technologies. Remember, life doesn’t have to go on hold when you can go digital. You can make use of digital tools to live life to the fullest! Thanks to the convenience offered by digital tools and mobile connectivity, we can still enjoy some of our favourite activities even after taking precautions such as social distancing or working from home during this period.
+    section-more-button: Learn more
+    section-more-button-url: /stay-healthy-go-digital/
+    section-image-path: stay-healthy-go-digital/SHGD-logoFC.png
+
+  - section-title: 
     section-subtitle: IMReady - The Need for Speed
     section-description:  Ready to embrace new technologies and learn new skills? Follow the adventures of Ricky and Tony – one who prefers to shop ‘til he drops the traditional way, the other gets his groceries delivered at the touch of a screen – in the third instalment of our 4-part video series. Dinner guests are arriving, and a key ingredient is missing from the main dish! Tony decides to leave to get the laksa, ah, leaves from the shops, while Ricky coolly orders through an online app – and gets it sent to the doorstep. Find out who will be left on the shelf in this race against time, and remember to share this video speedily!
     section-more-button: Watch now
@@ -48,13 +55,6 @@ info-sections:
     section-more-button-url: https://confirmation.gevme.com/BDS_Quiz/landing/
     section-image-path: /images/bds/bds-left-v2.jpg
     
-  - section-title: 
-    section-subtitle: Digital Clinic
-    section-description: Have questions about your smartphone? Need one-on-one assistance on how to navigate through essential apps? Drop by the Digital Clinic and our friendly cyber volunteers will help you answer your specific usage queries.
-    section-more-button: Learn more
-    section-more-button-url: /get-one-on-one-assistance/digital-clinics/
-    section-image-path: /images/home-page/digital-clinics-graphic.png
-
 resources-title: Stay Updated on the Happenings Around You
 resources-subtitle: Be Informed
 resources-more-button: Learn More
