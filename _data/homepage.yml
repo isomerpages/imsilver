@@ -19,6 +19,8 @@ hero-banner: /images/home-page/sii-hero-banner3.jpg
 
 # I want to dropdown
 i-want-to:
+  - title: stay healthy, go digital
+    url: /stay-healthy-go-digital/
   - title: get one-on-one assistance
     url: /get-one-on-one-assistance/overview/
   - title: test my digital readiness
