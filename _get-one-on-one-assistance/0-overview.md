@@ -9,7 +9,7 @@ collection_name: get-one-on-one-assistance
 
 <span style="color:red"><b>All Digital Clinics will be temporarily suspended until further notice.</b></span>
 
-![SHGD](https://imsilver.imda.gov.sg/images/stay-healthy-go-digital/SHGD-logoFC.png)](https://imsilver.imda.gov.sg/stay-healthy-go-digital/)
+[![SHGD](https://imsilver.imda.gov.sg/images/stay-healthy-go-digital/SHGD-logoFC.png)](https://imsilver.imda.gov.sg/stay-healthy-go-digital/)
 
 #### **Get One-On-One Assistance**<br>
 
