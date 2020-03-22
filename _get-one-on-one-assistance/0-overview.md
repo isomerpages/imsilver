@@ -35,22 +35,6 @@ Please bring along your mobile devices for the Digital Clinic sessions. Do note 
 </table>
 *Precautionary measures will be put in place to ensure the well-being of the participants and staff.<br>
 
-<table>
-  <tr><th><b>Date & Time</b></th>
-  <th><b>Venue</b></th>
-  <th><b>Registration & Enquiries</b></th></tr>
-<tr>  
-  <td>11-Apr-20<br>10am to 6pm</td>
-  <td><b>Kaki Bukit Community Centre</b><br>670 Bedok North Street 3, S(469627)<br>(MG Digital Clinic)</td>
-  <td>Kaki Bukit Community Centre<br>Tel: 6445 4223</td>
-  </tr>
-<tr>  
-<td>12-Apr-20<br>10am to 6pm</td>
-  <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)<br>(MG Digital Clinic)</td>
-  <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
-  </tr> 
-</table>
-
 #### Digital Clinics<br>
 
 Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) to find out more.<br>
