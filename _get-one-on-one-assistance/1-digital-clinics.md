@@ -17,7 +17,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 ![graphic](/images/home-page/digital-clinics-graphic.png) <br>
 
 **Upcoming Sessions**
-<br><br>As part of a national community effort, Digital Clinics will be held at the following libraries on every Tuesday, 2pm to 5pm, from 14 April to 28 April 2020*.
+<br><br>As part of a national community effort, Digital Clinics will be held at the following libraries on every Tuesday, 2pm to 5pm, <br> from 14 April to 28 April 2020*.
 
 Please bring along your mobile devices for the Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
 
