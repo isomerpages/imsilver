@@ -14,7 +14,7 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.ocbc.com/personal-banking/lifegoals/silveryears/lifestyle.html" target="_blank">OCBC Tutorial Videos</a><br>
 * <a href="https://www.youtube.com/watch?v=eeyWcfZ2QqQ" target="_blank">How to retrieve access code</a><br>
 * <a href="https://www.youtube.com/watch?v=iG8r6lARhEE" target="_blank">How to reset Online Banking PIN or unlock Online Banking Access</a><br>
-* <a href="https://www.youtube.com/watch?v=yzOsMRqc6qc" target="_blank">How to change Access Code (English)</a><br>
+* <a href="https://www.youtube.com/watch?v=yzOsMRqc6qc" target="_blank">How to change Access Code</a><br>
 * <a href="https://www.youtube.com/watch?v=1eg61QugLsg" target="_blank">How to view your account information</a><br>
 * <a href="https://www.youtube.com/watch?v=jw9t8hNW1co" target="_blank">How to make bill payment</a><br>
   
