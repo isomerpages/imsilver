@@ -51,8 +51,6 @@ Please bring along your mobile devices for the Digital Clinic sessions. Do note 
   </tr> 
 </table>
 
-*Changes have been made to the event date/time.
-
 #### Digital Clinics<br>
 
 Get one-on-one assistance on how to use your smartphone. Click [Digital Clinics](/get-one-on-one-assistance/digital-clinics/) to find out more.<br>
