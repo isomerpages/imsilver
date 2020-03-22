@@ -46,6 +46,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 <h3>6. 电子付款</h3>
 **单元六 : 电子付款**<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>
+* [如何更改您的 OCBC 网上银行访问代码](https://www.youtube.com/watch?v=ih_03r-AwIw){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
