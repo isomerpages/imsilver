@@ -14,7 +14,7 @@ collection_name: get-one-on-one-assistance
 Do you face problems with using your smartphone and wish there was someone who could give you one-on-one assistance? Here are some programmes that you can attend to get the personal attention that you have always wanted!<br>
 
 **Upcoming Digital Clinic Sessions**
-<br><br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries on every Tuesday, starting from 14 April 2020, from 2pm to 5pm*..
+<br><br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries on every Tuesday, 2pm to 5pm, from 14 April to 28 April 2020*.
 
 Please bring along your mobile devices for the Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
 
@@ -23,7 +23,7 @@ Please bring along your mobile devices for the Digital Clinic sessions. Do note 
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
-  <td>14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held on every Tuesday, starting from 14 April 2020. <br><br> 2pm to 5pm</td>
+  <td>14 Apr, 21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held on every Tuesday, 2pm to 5pm, from 14 April to 28 April 2020.</td>
   <td><b>Ang Mo Kio Public Library</b> <br>4300 Ang Mo Kio Ave 6, S(569842)<br>
   <br><b>Bedok Public Library</b> <br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)<br>
   <br><b>Jurong West Public Library</b> <br>60 Jurong West Central 3, #01-03, S(648346)<br>
