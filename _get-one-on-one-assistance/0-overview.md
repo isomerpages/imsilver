@@ -7,6 +7,8 @@ collection_name: get-one-on-one-assistance
 ---
 ![image](/images/get-one-on-one-assistance/IMDA BDS_Web_Graphic_v3_Get One-On-One Assistance.png)
 
+<span style="color:red">All Digital Clinics will be temporarily suspended until further notice.</span>
+
 #### **Get One-On-One Assistance**<br>
 
 Do you face problems with using your smartphone and wish there was someone who could give you one-on-one assistance? Here are some programmes that you can attend to get the personal attention that you have always wanted!<br>
