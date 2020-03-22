@@ -19,7 +19,7 @@ Participants at the Digital Clinic will learn how to connect to Wi-Fi hotspots, 
 **Upcoming Sessions**
 <br><br>Digital Clinics for 'Stay Healthy, Go Digital' campaign will be held at the following libraries every Tuesday, from 2pm to 5pm in April 2020*.
 
-<br>Please bring along your mobile devices for the Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
+Please bring along your mobile devices for the Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
 
 <table>
   <tr><th><b>Date & Time</b></th>
