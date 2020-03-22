@@ -9,6 +9,10 @@ second_nav_title: Attend Classes
 
 ![picture](/images/learn-digital-skills/attend-classes.jpg)
 
+#### Attend Classes<br>
+
+Take your first step, or take your learning journey to the next level by attending these classes. [Click here](/learn-digital-skills/attend-classes/overview/)<br>
+
 Learn useful digital skills from our exciting and informative classes available island-wide! <br>
 #### [Silver Infocomm Junctions](/learn-digital-skills/attend-classes/silver-infocomm-junctions/)<br>
 #### [Silver Digital Creators](/learn-digital-skills/attend-classes/silver-digital-creators/)<br>
