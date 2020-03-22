@@ -28,7 +28,7 @@ Please bring along your mobile devices for the Digital Clinic sessions. Do note 
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr> 
 <tr>
-  <td>14 Apr, <br>21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held on selected <br> Tuesdays in April 2020. <br><br> 2pm to 5pm</td>
+  <td>14 Apr, <br>21 Apr, 28 Apr 2020 <br><br> Digital Clinic will be held on selected Tuesdays <br> in April 2020. <br><br> 2pm to 5pm</td>
   <td><b>Ang Mo Kio Public Library</b> <br>4300 Ang Mo Kio Ave 6, S(569842)<br>
   <br><b>Bedok Public Library</b> <br>11 Bedok North Street 1, #02-03 & #03-04, Heartbeat@Bedok, S(469662)<br>
   <br><b>Jurong West Public Library</b> <br>60 Jurong West Central 3, #01-03, S(648346)<br>
