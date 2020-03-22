@@ -37,5 +37,3 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
   </tr> 
 </table>
-
-*Changes have been made to the event date/time.
