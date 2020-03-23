@@ -20,6 +20,7 @@ Click below to view online guides that will show you how to utilise government d
 <h3>2. Digital Services</h3>
 **TraceTogether**
 * [How to set up TraceTogether](https://go.gov.sg/tt-setup){:target="_blank"}<br>
+* [9 geeky myth-busting facts you need to know about TraceTogether](https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether){:target="_blank"}<br>
 
 **Central Provident Fund (CPF)**
 * [Guide on How to Retrieve your CPF Contribution History Statement](https://www.sc.com/sg/online-form/cpf-statement/){:target="_blank"}<br>
