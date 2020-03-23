@@ -25,6 +25,7 @@ Click below to view online guides that will familiarise you with the basic skill
 <h3>2. Go Safe Online</h3>
 * [Introduction on Web Threats](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/internet-safety-for-all-the-basics-of-web-threats){:target="_blank"}<br>
 * [Android Mobile Security - What you need to know about malicious apps](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps){:target="_blank"}<br>
+* [#BSHARP Protect Yourself Online](https://www.posb.com.sg/personal/deposits/bank-with-ease/protecting-yourself-online){:target="_blank"}<br>
 * [Facebook - Securing your accounts](https://www.facebook.com/safety/tools/security){:target="_blank"}<br>
 * [Facebook - Staying Safe](https://www.facebook.com/safety/tools/safety){:target="_blank"}<br>
 * [Google Tools - Safety tips to stay protected online](https://www.google.com/safetycenter/tools/){:target="_blank"}<br>
