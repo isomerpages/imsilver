@@ -6,7 +6,7 @@ breadcrumb: Stay Healthy, Go Digital
 collection_name: stay-healthy-go-digital
 ---
 
-![image](/images/stay-healthy-go-digital/SHGD_sgunited_cobrand.png)
+![image](/images/stay-healthy-go-digital/SHGD-logoFC.png)
 
 ![image](/images/learn-online/overview/learn-online-overview.jpg)
 
