@@ -13,8 +13,8 @@ Often hear of good deals online from your friends? Check out the following guide
 * <a href="https://www.amazon.sg/godigital/" target="_blank">Amazon</a>
 * <a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime Now</a>
 * <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">Grab</a>
-* <a href="https://imsilver.imda.gov.sg/images/stay-healthy-go-digital/NTUC_stayhealthy-go-digital-1600px-V5.jpg" target="_blank">NTUC FairPrice</a>
-* <a href="https://imsilver.imda.gov.sg/images/stay-healthy-go-digital/Shopee_flyer.png" target="_blank">Shopee</a>
+* <a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a>
+* <a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a>
 * <a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a>
 
 For ongoing deals and promotions, head over to the respective merchants' websites for more information.
