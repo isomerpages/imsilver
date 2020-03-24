@@ -28,13 +28,23 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
   <th><b>Venue</b></th>
   <th><b>Registration & Enquiries</b></th></tr>
 <tr>  
-  <td>11-Apr-20<br>10am to 6pm</td>
-  <td><b>Kaki Bukit Community Centre</b><br>670 Bedok North Street 3, S(469627)<br>(MG Digital Clinic)</td>
-  <td>Kaki Bukit Community Centre<br>Tel: 6445 4223</td>
+  <td>02-May-20<br>9am to 5pm</td>
+  <td><b>Pavilion</b><br>Blk 188 Riverdale Drive, S(540188)</td>
+  <td>Riverdale Community Centre<br>Tel: 6875 5376</td>
   </tr>
 <tr>  
-<td>12-Apr-20<br>10am to 6pm</td>
-  <td><b>Keat Hong Community Club</b><br>2 Choa Chu Kang Loop, #01-01, S(689687)<br>(MG Digital Clinic)</td>
-  <td>Keat Hong Community Club<br>Tel: 6769 1598</td>
+<td>03-May-20<br>9am to 5pm</td>
+  <td><b>Punggol 21 Community Club</b><br>80 Punggol Field, S(828815)</td>
+  <td>Punggol 21 Community Club<br>Tel: 6312 0508</td>
+  </tr> 
+<tr>  
+<td>09-May-20<br>9.30am to 5.30pm</td>
+  <td><b>Telok Blangah Community Club</b><br>450 Telok Blangah Street 31, S(108943)</td>
+  <td>Telok Blangah Community Club<br>Tel: 6271 9602 <br><br> Dover Community Centre<br>Tel: 6777 1540</td>
+  </tr> 
+<tr>  
+<td>09-May-20<br>10am to 6pm</td>
+  <td><b>Nee Soon Central Community Club</b><br>1 Northpoint Drive, S(768019)</td>
+  <td>Nee Soon Central Community Club<br>Tel: 6752 7687</td>
   </tr> 
 </table>
