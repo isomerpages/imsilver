@@ -10,7 +10,7 @@ second_nav_title: Attend Classes
 ![picture](/images/learn-digital-skills/attend-classes.jpg)
 
 #### Attend Classes
-<br><span style="color:red"><b>All classroom training will be temporarily suspended until further notice.</b></span>
+<span style="color:red"><b>All classroom training will be temporarily suspended until further notice.</b></span>
 
 Take your first step, or take your learning journey to the next level by attending these classes.
 
