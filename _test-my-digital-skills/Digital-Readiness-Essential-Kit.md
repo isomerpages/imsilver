@@ -15,6 +15,7 @@ Check out our Digital Readiness Essential Kits to learn useful tips on digital s
 | Input Methods (Chinese) | N.A. |  [ ](/files/DREK100919/DREK-T4-Chinese Language Input.pdf) |  N.A. |  N.A. |
 | Moments of Life | [](/files/DREK100919/DREK-T4-MOL (English).pdf) | [](/files/DREK100919/DREK-T4-MOL (Chinese).pdf) | [](/files/DREK100919/DREK-T4-MOL (Malay).pdf) | [](/files/DREK100919/DREK-T4-MOL (Tamil).pdf) |
 | Online Shopping & Food Delivery | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (English)_200320.pdf) | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_200320.pdf) | N.A. | N.A. |
+| Gov.sg | [](/files/DREK240320/DREK-T7-Gov.sg (English)_24032020.pdf) | [](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf) | N.A. | N.A. |
 
 <br>N.A.: Not applicable/ Not available
 
