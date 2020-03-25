@@ -12,8 +12,9 @@ Click below to view online guides that will teach you how to perform digital tra
 
 <h5>DBS/POSB</h5>
 * <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
-* <a href="https://www.posb.com.sg/personal/deposits/pay-with-ease/paynow" target="_blank">POSB Internet Banking / PayNow</a><br>
-* <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/sms-banking" target="_blank">POSB SMS Banking </a><br>
+* <a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank">POSB Internet Banking</a><br>
+* <a href="https://www.posb.com.sg/personal/deposits/pay-with-ease/paynow" target="_blank">POSB PayNow</a><br>
+* <a href="https://www.dbs.com.sg/personal/support/guide-ibanking.html" target="_blank">DBS Internet Banking</a><br>
 * <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br>
 
  <h5>OCBC</h5>

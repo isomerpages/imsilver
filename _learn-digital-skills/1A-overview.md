@@ -9,9 +9,10 @@ second_nav_title: Attend Classes
 
 ![picture](/images/learn-digital-skills/attend-classes.jpg)
 
-#### Attend Classes<br>
+#### Attend Classes
+<span style="color:red"><b>All classroom training will be temporarily suspended until further notice.</b></span>
 
-Take your first step, or take your learning journey to the next level by attending these classes. [Click here](/learn-digital-skills/attend-classes/overview/)<br>
+Take your first step, or take your learning journey to the next level by attending these classes.
 
 Learn useful digital skills from our exciting and informative classes available island-wide! <br>
 #### [Silver Infocomm Junctions](/learn-digital-skills/attend-classes/silver-infocomm-junctions/)<br>
