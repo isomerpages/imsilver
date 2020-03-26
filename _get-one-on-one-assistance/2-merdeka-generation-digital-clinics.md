@@ -8,6 +8,8 @@ collection_name: get-one-on-one-assistance
 
 ![image](/images/get-one-on-one-assistance/merdeka-clinics1.jpeg)
 
+<span style="color:red"><b>As part of national efforts to minimise local transmission of COVID-19, all Merdeka Generation Digital Clinics will be temporarily suspended until further notice.</b></span>
+
 At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Digital Readiness survey to assess their digital needs. The clinic will then prescribe a customised package of assistance. Examples of help available will include:<br>
 
 * Download the Wireless@SG mobile app and one-time account set up to enjoy unlimited free data at available hotspots<br>
@@ -20,7 +22,6 @@ At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Di
 * Government apps and digital services (Moments of Life app, My Transport, Smart AhMa apps, etc)<br>
 
 **Upcoming Sessions**
-<br><br><span style="color:red"><b>As part of national efforts to minimise local transmission of COVID-19, all Merdeka Generation Digital Clinics will be temporarily suspended until further notice.</b></span>
 <br><br>Please bring along your mobile devices for the Merdeka Generation Digital Clinic sessions. Do note that the venues and dates of Digital Clinics are subject to changes. Please refer to the list below for the updated schedule.<br>
 
 <table>
