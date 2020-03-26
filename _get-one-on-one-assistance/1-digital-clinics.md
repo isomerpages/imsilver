@@ -8,6 +8,8 @@ collection_name: get-one-on-one-assistance
 
 [![DCvideo](https://img.youtube.com/vi/2p2-mMrdo6s/maxresdefault.jpg)](https://www.youtube.com/watch?v=2p2-mMrdo6s?autoplay=1)
 
+<br><span style="color:red"><b>As part of national efforts to minimise local transmission of COVID-19, all Digital Clinics will be temporarily suspended until further notice.</b></span>
+
 The Digital Clinic provides a one-on-one concierge-type assistance. This is a volunteer-led initiative and is available to anyone who is looking for help on how to use their mobile devices, such as smartphones. 
 
 Digital Clinic sessions cater to both iOS and Android device users. These sessions are open to all ages and are held in public libraries and community spaces regularly. Participants can walk-in and be attended to on a first-come, first-served basis. 
