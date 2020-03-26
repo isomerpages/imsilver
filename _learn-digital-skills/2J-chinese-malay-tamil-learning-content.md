@@ -43,20 +43,24 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
+* [确保安全上网](/files/DREK040220/DREK-T3-Staying Safe Online (Chinese)_040220.pdf){:target="_blank"}<br>
 <h3>6. 电子付款</h3>
 **单元六 : 电子付款**<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>
 * [如何更改您的 OCBC 网上银行访问代码](https://www.youtube.com/watch?v=ih_03r-AwIw){:target="_blank"}<br>
 * [PayNow](/files/DREK101219/DREK-T1-PAYNow_Chinese_101219.pdf){:target="_blank"}<br>
+* [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 <h3>8. 娱乐与艺术政府电子服务</h3>
 **单元八 : 政府电子服务**<br>
-* [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
+* [连接 Wireless@SGx 无线网络](/files/DREK100919/DREK-T2_Wireless@SG (Chinese).pdf){:target="_blank"}<br>
+* [人生旅程助手应用程序](/files/DREK100919/DREK-T4-MOL (Chinese).pdf){:target="_blank"}<br>
+* [通过Gov.sg获取最新消息](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf){:target="_blank"}<br>
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
-* [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
+* [文字输入法与语音信息](/files/DREK100919/DREK-T4-Chinese Language Input.pdf){:target="_blank"}<br>
 
 # **Bahasa Melayu**<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
