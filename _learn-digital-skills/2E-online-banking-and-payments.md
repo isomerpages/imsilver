@@ -29,3 +29,5 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.uob.com.sg/pib" target="_blank">UOB Personal Internet Banking</a><br>
 * <a href="https://www.uob.com.sg/mighty" target="_blank">UOB Mighty</a><br>
 
+<h5>Grab</h5>
+* <a href="https://www.grab.com/sg/stayhealthygodigital" target="_blank">Grabpay</a><br>
