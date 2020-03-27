@@ -26,5 +26,6 @@ Click below to view online guides that will show you how to utilise government d
 * [Guide on How to Retrieve your CPF Contribution History Statement](https://www.sc.com/sg/online-form/cpf-statement/){:target="_blank"}<br>
 * [Guide on How to View Statements and Messages Via iPhone](https://www.cpf.gov.sg/Assets/members/Documents/OnlineDemo/iPhone_Statements.mp4){:target="_blank"}
 
-
+**NLB Mobile App**
+* [Guide on How to Download and Use the NLB Mobile App](https://mobileapp.nlb.gov.sg/){:target="_blank"}<br>
 
