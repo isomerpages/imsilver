@@ -20,4 +20,5 @@ If you prefer to learn on your own, here are some online learning guides for you
 #### [Online Shopping](/learn-digital-skills/learn-online/online-shopping/)<br>
 #### [Digital Maker](/learn-digital-skills/learn-online/digital-maker/)<br>
 #### [Chinese, Malay and Tamil Learning Content](/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/)<br>
+#### [Digital Lifestyle](/learn-digital-skills/learn-online/digital-lifestyle/)<br>
 #### [Related Links](/learn-digital-skills/learn-online/related-links/)<br>
