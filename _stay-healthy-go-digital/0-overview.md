@@ -8,7 +8,7 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/stay-healthy-go-digital/SHGD-logoFC.png)
 
-![image](/images/learn-online/overview/learn-online-overview.jpg)
+![image](/images/stay-healthy-go-digital/main.jpg)
 
 Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
 
@@ -29,10 +29,11 @@ Upgrade yourself with the following learning guides and resources! Learn how you
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/government-digital-services-bds/" target="_blank">Government Digital Services</a></td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Chinese, Malay and Tamil guides</a></td>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-lifestyle/" target="_blank">Digital Lifestyle</a></td>
+  <td><a href="https://http://mobileapp.nlb.gov.sg/" target="_blank">NLB Mobile App</a></td>
 </tr>
 <tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Chinese, Malay and Tamil guides</a></td>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Other learning guides</a></td>
 </tr>
 </table>
