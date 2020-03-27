@@ -6,7 +6,7 @@ breadcrumb: Digital Lifestyle
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-![1](/images/learn-online/e-payment.jpg)
+![1](/images/learn-online/digital-lifestyle.jpg)
 
 Check out the following guides on how you can go digital in your daily lives! <br>
 
