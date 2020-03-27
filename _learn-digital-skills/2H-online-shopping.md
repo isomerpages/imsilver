@@ -6,7 +6,7 @@ breadcrumb: Online Shopping
 collection_name: learn-digital-skills
 second_nav_title: Learn Online
 ---
-![1](/images/learn-online/e-payment.jpg)
+![1](/images/learn-online/online-shopping.jpg)
 
 Often hear of good deals online from your friends? Check out the following guides on some of the popular online retailers and kick start your online shopping journey today! <br>
 
