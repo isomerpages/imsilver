@@ -8,7 +8,7 @@ collection_name: get-one-on-one-assistance
 
 ![image](/images/get-one-on-one-assistance/merdeka-clinics1.jpeg)
 
-<span style="color:red"><b>As part of national efforts to minimise local transmission of COVID-19, all Merdeka Generation Digital Clinics will be temporarily suspended until further notice.</b></span>
+<span style="color:red"><b>All Merdeka Generation Digital Clinics will be temporarily suspended until further notice.</b></span>
 
 At the Merdeka Generation (MG) Digital Clinics, seniors will undergo a simple Digital Readiness survey to assess their digital needs. The clinic will then prescribe a customised package of assistance. Examples of help available will include:<br>
 
