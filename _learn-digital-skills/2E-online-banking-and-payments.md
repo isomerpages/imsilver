@@ -18,6 +18,8 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br>
 
  <h5>OCBC</h5>
+* <a href="https://www.ocbc.com/personal-banking/digital-banking" target="_blank">Digital Banking with OCBC Bank</a><br>
+* <a href="https://www.ocbc.com/personal-banking/digital-banking/payanyone.page" target="_blank">OCBC Pay Anyone</a><br>
 * <a href="https://www.ocbc.com/personal-banking/lifegoals/silveryears/lifestyle.html" target="_blank">OCBC Tutorial Videos</a><br>
 * <a href="https://www.youtube.com/watch?v=eeyWcfZ2QqQ" target="_blank">How to retrieve access code</a><br>
 * <a href="https://www.youtube.com/watch?v=iG8r6lARhEE" target="_blank">How to reset Online Banking PIN or unlock Online Banking Access</a><br>
