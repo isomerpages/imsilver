@@ -16,6 +16,7 @@ Often hear of good deals online from your friends? Check out the following guide
 * <a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a>
 * <a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a>
 * <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">Grab</a>
+* <a href="https://www.guardian.com.sg/stay-healthy-go-digital" target="_blank">Guardian</a>
 * <a href="https://pages.lazada.sg/wow/camp/lazada/dailycampaign/sg/campaign/start-shopping-on-lazada?hybrid=1/" target="_blank">Lazada</a>
 * <a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a>
 * <a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a>
