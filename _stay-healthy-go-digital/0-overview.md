@@ -14,7 +14,7 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 
 <table>
 <tr>
-  <td><a href="/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
   <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit</a></td></tr>
 <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/" target="_blank">Online banking and payments learning guides</a></td>
