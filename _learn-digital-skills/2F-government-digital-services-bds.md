@@ -16,6 +16,9 @@ Click below to view online guides that will show you how to utilise government d
 *  [FAQs on SingPass 2FA (SingPass Mobile)](http://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#TOPIC_210129){:target="_blank"}<br>
 *  [Introducing SingPass Mobile. Say goodbye to passwords and tokens!](https://www.youtube.com/watch?v=dDrqT64ydd0){:target="_blank"}<br>
 *  [Using the SingPass Mobile app to log in within seconds!](https://www.youtube.com/watch?v=f4di4HPgaRY){:target="_blank"}<br>
+*  [SingPass Mobile Quick Start Guide](/files/SingPass Mobile.pdf){:target="_blank"}<br>
+*  [SingPass Mobile Quick Start Guide (Chinese)](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
+
 
 <h3>2. Digital Services</h3>
 **TraceTogether**
