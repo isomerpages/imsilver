@@ -58,6 +58,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [连接 Wireless@SGx 无线网络](/files/DREK100919/DREK-T2_Wireless@SG (Chinese).pdf){:target="_blank"}<br>
 * [人生旅程助手应用程序](/files/DREK100919/DREK-T4-MOL (Chinese).pdf){:target="_blank"}<br>
 * [通过Gov.sg获取最新消息](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf){:target="_blank"}<br>
+* [SingPass Mobile](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
 * [文字输入法与语音信息](/files/DREK100919/DREK-T4-Chinese Language Input.pdf){:target="_blank"}<br>
