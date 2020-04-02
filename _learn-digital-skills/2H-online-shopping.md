@@ -12,6 +12,7 @@ Often hear of good deals online from your friends? Check out the following guide
 
 * <a href="https://www.amazon.sg/godigital/" target="_blank">Amazon</a>
 * <a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime Now</a>
+* <a href="https://support.carousell.com/hc/en-us/articles/360046091073/" target="_blank">Carousell</a>
 * <a href="https://www.coldstorage.com.sg/stay-healthy-go-digital" target="_blank">Cold Storage</a>
 * <a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a>
 * <a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a>
