@@ -47,4 +47,4 @@ One-on-one assistance is also available at selected Community Clubs as part of t
 
 #### Businesses Go Digital!
 
-To help businesses embrace digitalisation and overcome business challenges, IMDA has also curated a wide range of purposeful digital solutions and resources. Check them out <a href="https://www.imda.gov.sg/bizgodigital" target="_blank">here</a>!
+To help companies embrace digitalisation and overcome business challenges, IMDA has also curated a wide range of purposeful digital solutions and resources. Check them out <a href="https://www.imda.gov.sg/bizgodigital" target="_blank">here</a>!
