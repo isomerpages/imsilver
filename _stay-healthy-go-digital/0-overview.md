@@ -43,3 +43,8 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 Need one-on-one assistance? Drop by a Digital Clinic at selected public libraries to get personalized assistance for your mobile phone related queries. Click <a href="http://imsilver.sg/dc" target="_blank">here</a> to learn more about Digital Clinics.
 
 One-on-one assistance is also available at selected Community Clubs as part of the Tech Connect initiative. Click <a href="https://www.pa.gov.sg/engage/connect-with-government/tech-connect-brochures" target="_blank">here</a> to find out more about Tech Connect.
+
+
+#### Businesses Go Digital!
+
+To help companies embrace digitalisation and overcome business challenges, IMDA has also curated a wide range of purposeful digital solutions and resources. Check them out <a href="https://www.imda.gov.sg/bizgodigital" target="_blank">here</a>!
