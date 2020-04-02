@@ -13,6 +13,7 @@ Check out the following guides on how you can go digital in your daily lives! <b
 
 **NLB Mobile App**
 * [Guide on How to Download and Use the NLB Mobile App](https://mobileapp.nlb.gov.sg/){:target="_blank"}<br>
+* [Top Tips for Seniors](https://mobileapp.nlb.gov.sg/toptips/seniors/){:target="_blank"}<br>
 
 **People's Association (PA)**
 * [Join PAssions L!ve as PA Trainers bring you new fitness, culinary, beauty and craft lessons content daily](https://m.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA/){:target="_blank"}<br>
