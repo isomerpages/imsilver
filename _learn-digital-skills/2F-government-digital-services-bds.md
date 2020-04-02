@@ -18,6 +18,7 @@ Click below to view online guides that will show you how to utilise government d
 *  [Using the SingPass Mobile app to log in within seconds!](https://www.youtube.com/watch?v=f4di4HPgaRY){:target="_blank"}<br>
 *  [SingPass Mobile Quick Start Guide](/files/SingPass Mobile.pdf){:target="_blank"}<br>
 *  [SingPass Mobile Quick Start Guide (Chinese)](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
+* From 1 April 2021, SingPass users will no longer be able to use the OneKey Token. We encourage all SingPass users to download [SingPass Mobile](http://www.go.gov.sg/singpass-guides){:target="_blank"} or use SMS-OTP as their 2FA method of transaction with government digital services.
 
 
 <h3>2. Digital Services</h3>
