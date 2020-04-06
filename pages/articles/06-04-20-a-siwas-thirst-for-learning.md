@@ -64,6 +64,6 @@ So together, doing something simple for the outcome we desire, we can build the 
 
 <br>
 
-The SIWA programme is helping seniors to embrace a digital lifestyle and this in turn encourages those around them to do the same. If Mr. Ramli’s story reminds you of anyone in your life, the next SIWA nominations will be held in the 2nd quarter of 2020. To learn more, please visit http://imsilver.sg/siwa 
+The SIWA programme is helping seniors to embrace a digital lifestyle and this in turn encourages those around them to do the same. If Mr. Ramli’s story reminds you of anyone in your life, the next SIWA nominations will be held in the 2nd quarter of 2020. To learn more, please visit [http://imsilver.sg/siwa](http://imsilver.sg/siwa){:target="_blank"} 
 
-To find out more about some of our other 2019 SIWA appointments, please watch our video on YouTube.
+To find out more about some of our other 2019 SIWA appointments, please watch [our video on YouTube.](https://www.youtube.com/watch?v=YBzyi3KTfZM){:target="_blank"}
