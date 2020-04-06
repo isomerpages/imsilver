@@ -28,7 +28,7 @@ Fresh grads back then, we wanted to make an impact in the community. For me, Iâ€
 
 I actually moved to Australia for 12 years after I had heart surgery as I needed a slower pace of life. When I returned to Singapore, I decided to dedicate myself to community efforts once again, this time at Sengkang Community Club.
 
-![image](/images/articles/a-siwas-thirst-for-learning/a-siwas-thirst-for-learning-2.png)
+![image](/images/articles/a-siwas-thirst-for-learning/a-siwas-thirst-for-learning-2.png)<br>
 I was delighted to find out about programmes such as SIWA and SkillsFuture. We decided to use this to organise activities for the elderly at the Community Club. I was encouraged because I saw that the SIWA programme created a good learning environment. At the same time, all my experience can be imparted to the people. 
 
 <b><i>What is your biggest takeaway as a SIWA?</i></b>
@@ -61,8 +61,6 @@ How are you going to be ready for the future, to be engaged with the world? You 
 ![image](/images/articles/a-siwas-thirst-for-learning/a-siwas-thirst-for-learning-5.png)
 
 So together, doing something simple for the outcome we desire, we can build the roots of success. Again, the thirst for learning must be there. We must be able to look at the benefits and end result. If not, we will be stagnated, backdated and outdated. This comes from me, a 66-year-old man who aspires to be a better ambassador for the community.
-
-<br>
 
 The SIWA programme is helping seniors to embrace a digital lifestyle and this in turn encourages those around them to do the same. If Mr. Ramliâ€™s story reminds you of anyone in your life, the next SIWA nominations will be held in the 2nd quarter of 2020. To learn more, please visit [http://imsilver.sg/siwa](http://imsilver.sg/siwa){:target="_blank"} 
 
