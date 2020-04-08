@@ -19,6 +19,7 @@ Often hear of good deals online from your friends? Check out the following guide
 * <a href="https://csfoods.sg/shop/index.php?route=information/faq" target="_blank">CS Foods</a>
 * <a href="https://foodscene.deliveroo.com.sg/promotions/deliveroo-step-by-step-guide.html" target="_blank">Deliveroo</a>
 * <a href="https://www.eamart.com/help-centre" target="_blank">EA Mart</a>
+* <a href="https://myfave.com/download/" target="_blank">Fave</a>
 * <a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a>
 * <a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a>
 * <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">Grab</a>
