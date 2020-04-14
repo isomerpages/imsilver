@@ -14,7 +14,7 @@ Often hear of good deals online from your friends? Check out the following guide
   <tr>
     <th>Online Shopping</th>
     <th>Online Food Delivery</th>
-    <th>Online Grocery</th>
+    <th>Online Groceries</th>
   </tr>
   <tr>
     <td><a href="https://www.amazon.sg/godigital/" target="_blank">Amazon</a></td> 
