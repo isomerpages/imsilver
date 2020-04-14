@@ -33,8 +33,8 @@ Often hear of good deals online from your friends? Check out the following guide
   </tr>
   <tr>
    <td><a href="https://pages.lazada.sg/wow/camp/lazada/dailycampaign/sg/campaign/start-shopping-on-lazada?hybrid=1/" target="_blank">Lazada</a></td> 
-    <td><a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a></td>
-    <td><a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime Now</a></td>
+    <td> </td>
+    <td><a href="https://www.coldstorage.com.sg/stay-healthy-go-digital" target="_blank">Cold Storage</a></td>
   </tr>
 </table>
 
