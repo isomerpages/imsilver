@@ -26,7 +26,16 @@ Often hear of good deals online from your friends? Check out the following guide
     <td><a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">Grab</a></td>
     <td><a href="https://apollomarine.com.sg" target="_blank">Apollo Marine</a></td>
   </tr>
-  
+  <tr>
+   <td><a href="https://myfave.com/download/" target="_blank">Fave</a></td> 
+    <td><a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a></td>
+    <td><a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime Now</a></td>
+  </tr>
+  <tr>
+   <td><a href="https://pages.lazada.sg/wow/camp/lazada/dailycampaign/sg/campaign/start-shopping-on-lazada?hybrid=1/" target="_blank">Lazada</a></td> 
+    <td><a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a></td>
+    <td><a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime Now</a></td>
+  </tr>
 </table>
 
 For ongoing deals and promotions, head over to the respective merchants' websites for more information.
