@@ -64,7 +64,7 @@ Often hear of good deals online from your friends? Check out the following guide
    <tr>
   <td> </td> 
     <td> </td>
-    <td><a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">Lazanda (Redmart)</a></td>
+    <td><a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">Lazada (Redmart)</a></td>
   </tr>
      <tr>
   <td> </td> 
