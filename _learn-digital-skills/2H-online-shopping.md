@@ -12,12 +12,12 @@ Often hear of good deals online from your friends? Check out the following guide
 
 <table>
   <tr>
-    <th>District</th>
-    <th>District</th>
-    <th>District</th>
+    <th>Online Shopping</th>
+    <th>Online Food Delivery</th>
+    <th>Online Grocery</th>
   </tr>
   <tr>
-    <td>District</td>
+    <td><a href="https://www.amazon.sg/godigital/" target="_blank">Amazon</a></td>
     <td>District</td>
     <td>District</td>
   </tr>
