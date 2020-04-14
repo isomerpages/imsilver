@@ -46,6 +46,41 @@ Often hear of good deals online from your friends? Check out the following guide
     <td> </td>
     <td><a href="https://www.eamart.com/help-centre" target="_blank">EA Mart</a></td>
   </tr>
+   <tr>
+  <td> </td> 
+    <td> </td>
+    <td><a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a></td>
+  </tr>
+  <tr>
+  <td> </td> 
+    <td> </td>
+    <td><a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a></td>
+  </tr>
+  <tr>
+  <td> </td> 
+    <td> </td>
+    <td><a href="https://www.guardian.com.sg/stay-healthy-go-digital?utm_source=imda&utm_medium=referral&utm_campaign=stayhealthygodigital" target="_blank">Guardian</a></td>
+  </tr>
+   <tr>
+  <td> </td> 
+    <td> </td>
+    <td><a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">(Lazanda) Redmart</a></td>
+  </tr>
+     <tr>
+  <td> </td> 
+    <td> </td>
+    <td><a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a></td>
+  </tr>
+  <tr>
+  <td> </td> 
+    <td> </td>
+  <td><a href="https://songfish.com.sg/" target="_blank">Song Fish</a></td>
+  </tr>
+   <tr>
+  <td> </td> 
+    <td> </td>
+  <td><a href="https://yayapapaya.com.sg/faq/" target="_blank">Yaya Papaya</a></td>
+  </tr>
 </table>
 
 For ongoing deals and promotions, head over to the respective merchants' websites for more information.
