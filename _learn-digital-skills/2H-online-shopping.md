@@ -74,7 +74,7 @@ Often hear of good deals online from your friends? Check out the following guide
   <tr>
     <td> </td> 
     <td> </td>
-  <td><a href="https://www.watsons.com.sg/stayhealthygodigital/" target="_blank">Watsons</a></td>
+  <td><a href="https://www.watsons.com.sg/stayhealthygodigital" target="_blank">Watsons</a></td>
   </tr>
    <tr>
   <td> </td> 
