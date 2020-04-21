@@ -71,6 +71,11 @@ Often hear of good deals online from your friends? Check out the following guide
     <td> </td>
   <td><a href="https://songfish.com.sg/" target="_blank">Song Fish</a></td>
   </tr>
+  <tr>
+    <td> </td> 
+    <td> </td>
+  <td><a href="https://www.watsons.com.sg/stayhealthygodigital/" target="_blank">Watsons</a></td>
+  </tr>
    <tr>
   <td> </td> 
     <td> </td>
