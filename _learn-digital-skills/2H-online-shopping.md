@@ -42,7 +42,7 @@ Often hear of good deals online from your friends? Check out the following guide
     <td><a href="https://csfoods.sg/shop/index.php?route=information/faq" target="_blank">CS Foods</a></td>
   </tr>
   <tr>
-  <td><td><a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a></td>
+  <td><a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a></td>
     <td> </td>
     <td><a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a></td>
   </tr>
