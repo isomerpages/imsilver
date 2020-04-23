@@ -37,17 +37,17 @@ Often hear of good deals online from your friends? Check out the following guide
     <td><a href="https://www.coldstorage.com.sg/stay-healthy-go-digital" target="_blank">Cold Storage</a></td>
   </tr>
   <tr>
-  <td><a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a></td> 
+  <td><a href="https://www.shopback.sg/stayhealthygodigital" target="_blank">ShopBack</a></td> 
     <td> </td>
     <td><a href="https://csfoods.sg/shop/index.php?route=information/faq" target="_blank">CS Foods</a></td>
   </tr>
   <tr>
-  <td><a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a></td> 
+  <td><a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a></td>
     <td> </td>
     <td><a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a></td>
   </tr>
   <tr>
-  <td> </td> 
+  <td><a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a></td> 
     <td> </td>
     <td><a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a></td>
   </tr>
