@@ -12,6 +12,8 @@ collection_name: stay-healthy-go-digital
 
 Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
 
+#### For your viewing pleasure
+
 <table>
 <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
@@ -38,6 +40,12 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 </tr>
 </table>
 
-#### Businesses Go Digital!
+#### For your reading pleasure ()
+#### For your listening pleasure ()
+#### For the latest news updates (新闻讯息)
+#### Health & wellness ()
+#### For an active digital lifestyle ()
+#### Virtual Digital Clinics
+#### Virtual Digital Pods
 
 To help companies embrace digitalisation and overcome business challenges, IMDA has also curated a wide range of purposeful digital solutions and resources. Check them out <a href="https://www.imda.gov.sg/bizgodigital" target="_blank">here</a>!
