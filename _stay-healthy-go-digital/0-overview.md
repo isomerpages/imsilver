@@ -6,9 +6,9 @@ breadcrumb: Stay Healthy, Go Digital
 collection_name: stay-healthy-go-digital
 ---
 
-![image](/images/stay-healthy-go-digital/SHGD-logoFC.png)
-
 ![image](/images/stay-healthy-go-digital/main.jpg)
+
+![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)
 
 Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
 
