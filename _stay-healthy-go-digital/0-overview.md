@@ -15,8 +15,7 @@ Life doesn’t have to go on hold when you can Go Digital! Here are some online 
 Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! Berikut adalah beberapa sumber dalam talian untuk membantu warga emas kita terus terlibat dan berhubungan semasa berada di rumah.
 
 
-#### For your viewing pleasure / 观赏娱乐
-#### Untuk tontonan anda /
+#### For your viewing pleasure / 观赏娱乐 / Untuk tontonan anda /
 
 <table>
 <tr>
@@ -44,8 +43,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### For your reading pleasure / 阅读空间
-#### Untuk bacaan anda /
+#### For your reading pleasure / 阅读空间 / Untuk bacaan anda /
 
 <table>
 <tr>
@@ -73,8 +71,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### For your listening pleasure / 听觉享受
-#### Untuk pendengaran anda / 
+#### For your listening pleasure / 听觉享受 / Untuk pendengaran anda
 
 <table>
 <tr>
@@ -103,7 +100,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </table>
 
 #### For the latest news updates / 新闻讯息
-####
 
 <table>
 <tr>
@@ -131,8 +127,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### Health & wellness / 健康保健
-#### Untuk kesihatan dan kesejahteraan anda / 
+#### Health & wellness / 健康保健 / Untuk kesihatan dan kesejahteraan anda
 
 <table>
 <tr>
@@ -160,8 +155,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### For an active digital lifestyle / 数码生活
-#### Untuk gaya hidup digital yang aktif
+#### For an active digital lifestyle / 数码生活 / Untuk gaya hidup digital yang aktif
 
 <table>
 <tr>
@@ -189,13 +183,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### Virtual Digital Clinics / 线上数码诊所
-#### Klinik Digital Maya
+#### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya
 
 Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/dc" target="_blank">here</a>!
 
-#### Digital Pods / 数码学堂
-#### Pod Digital
+#### Digital Pods / 数码学堂 / Pod Digital
 
 Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!
 
