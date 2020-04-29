@@ -19,27 +19,51 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 
 <table>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit</a></td></tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygANZiDpYtpBviK0blZBAsP" target="_blank">Happy Go Lucky</a></td>
+  <td>gov.sg</td></tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/" target="_blank">Online banking and payments learning guides</a></td>
-  <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyir5yoTt5LBQTHkvxC842xN" target="_blank">Ho Seh Bo</a></td>
+  <td>gov.sg</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Cybersecurity learning guides</a></td>
-  <td><a href="https://myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html/" target="_blank">Learn online with SkillsFuture</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyg7nQygH7Qgb2ly15dTjVrl" target="_blank">Happy Can Already</a></td>
+  <td>gov.sg</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">E-communications learning guides</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/government-digital-services-bds/" target="_blank">Government Digital Services</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjPBF4fWDPTak7Ve6XMKfX-" target="_blank">Happy Can Already 2</a></td>
+  <td>gov.sg</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-lifestyle/" target="_blank">Digital Lifestyle</a></td>
-  <td><a href="https://mobileapp.nlb.gov.sg/" target="_blank">NLB Mobile App</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjxSsIqP0IaMFUIcqR23DLu" target="_blank">Happy Can Already 3</a></td>
+  <td>gov.sg</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Chinese, Malay and Tamil guides</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Other learning guides</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Happy Can Already 4</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? / 吃饱没？</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? 2 / 吃饱没？ 2</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? 3 / 吃饱没？ 3</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? 4 / 吃饱没？ 4</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">e-Getai</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">"Getai Challenge" Season 2</a></td>
+  <td>gov.sg</td>
 </tr>
 </table>
 
