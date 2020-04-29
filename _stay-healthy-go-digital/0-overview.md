@@ -220,7 +220,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>National Silver Academy</td>
 </tr>
   <tr>
-  <td><a href="https://go.gov.sg/pacoursesYT" target="_blank">Pa Courses: PAssion L!VE</a></td>
+  <td><a href="https://go.gov.sg/pacoursesYT" target="_blank">PA Courses: PAssion L!VE</a></td>
   <td>People's Association</td>
 </tr>
   <tr>
