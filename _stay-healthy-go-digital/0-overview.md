@@ -160,7 +160,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>Mediacorp</td>
 </tr>
   <tr>
-  <td><a href="https://www.channelnewsasia.com/" target="_blank">"CNA</a></td>
+  <td><a href="https://www.channelnewsasia.com/" target="_blank">CNA</a></td>
   <td>Mediacorp</td>
 </tr>
   <tr>
@@ -237,23 +237,23 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th>By</th>
   </tr>
 <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygANZiDpYtpBviK0blZBAsP" target="_blank">Happy Go Lucky / 欢喜没烦恼</a></td>
-  <td>gov.sg</td></tr>
+  <td><a href="confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
+  <td>IMSilver</td></tr>
 <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyir5yoTt5LBQTHkvxC842xN" target="_blank">Ho Seh Bo / 好世谋</a></td>
-  <td>gov.sg</td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Basic Digital Skills Resources </a></td>
+  <td>IMSilver</td>
 </tr>
 <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyg7nQygH7Qgb2ly15dTjVrl" target="_blank">Happy Can Already / 喜欢就好</a></td>
-  <td>gov.sg</td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources </a></td>
+  <td>IMSilver</td>
 </tr>
 <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjPBF4fWDPTak7Ve6XMKfX-" target="_blank">Happy Can Already 2 / 喜欢就好 2</a></td>
-  <td>gov.sg</td>
+  <td><a href="https:betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=seniors" target="_blank">Media Literacy Council Resources for Seniors</a></td>
+  <td>Media Literacy Council</td>
 </tr>
 <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjxSsIqP0IaMFUIcqR23DLu" target="_blank">Happy Can Already 3 / 喜欢就好 3</a></td>
-  <td>gov.sg</td>
+  <td><a href="https://csa.gov.sg/gosafeonline/resources/cyber-safety-interactive-handbook" target="_blank">Cyber Safety Interactive Handbook</a></td>
+  <td>Cyber Security Agency of Singapore</td>
 </tr>
 </table>
 
