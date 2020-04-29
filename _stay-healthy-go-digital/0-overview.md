@@ -10,37 +10,13 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)
 
-Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
+Life doesn’t have to go on hold when you can Go Digital! Here are some online resources to help our seniors stay engaged and connected while being at home.
+居家防疫不无聊，数码世界找精彩！这里给年长者提供一些线上资源，让大家足不出户，也能过健康充实的生活。
+Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! Berikut adalah beberapa sumber dalam talian untuk membantu warga emas kita terus terlibat dan berhubungan semasa berada di rumah.
 
-#### For your viewing pleasure (观赏娱乐)
 
-<table>
-<tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit</a></td></tr>
-<tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/" target="_blank">Online banking and payments learning guides</a></td>
-  <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
-</tr>
-<tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Cybersecurity learning guides</a></td>
-  <td><a href="https://myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html/" target="_blank">Learn online with SkillsFuture</a></td>
-</tr>
-<tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">E-communications learning guides</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/government-digital-services-bds/" target="_blank">Government Digital Services</a></td>
-</tr>
-<tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-lifestyle/" target="_blank">Digital Lifestyle</a></td>
-  <td><a href="https://mobileapp.nlb.gov.sg/" target="_blank">NLB Mobile App</a></td>
-</tr>
-<tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Chinese, Malay and Tamil guides</a></td>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Other learning guides</a></td>
-</tr>
-</table>
-
-#### For your reading pleasure (阅读空间)
+#### For your viewing pleasure / 观赏娱乐
+#### Untuk tontonan anda /
 
 <table>
 <tr>
@@ -68,7 +44,8 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 </tr>
 </table>
 
-#### For your listening pleasure (听觉享受)
+#### For your reading pleasure / 阅读空间
+#### Untuk bacaan anda /
 
 <table>
 <tr>
@@ -96,7 +73,8 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 </tr>
 </table>
 
-#### For the latest news updates (新闻讯息)
+#### For your listening pleasure / 听觉享受
+#### Untuk pendengaran anda / 
 
 <table>
 <tr>
@@ -124,7 +102,8 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 </tr>
 </table>
 
-#### Health & wellness (健康保健)
+#### For the latest news updates / 新闻讯息
+####
 
 <table>
 <tr>
@@ -152,7 +131,8 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 </tr>
 </table>
 
-#### For an active digital lifestyle (数码生活)
+#### Health & wellness / 健康保健
+#### Untuk kesihatan dan kesejahteraan anda / 
 
 <table>
 <tr>
@@ -180,12 +160,43 @@ Upgrade yourself with the following learning guides and resources! Learn how you
 </tr>
 </table>
 
-#### Virtual Digital Clinics
+#### For an active digital lifestyle / 数码生活
+#### Untuk gaya hidup digital yang aktif
 
-Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
+<table>
+<tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online shopping learning guides</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit</a></td></tr>
+<tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/" target="_blank">Online banking and payments learning guides</a></td>
+  <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
+</tr>
+<tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/cyber-security-bds/" target="_blank">Cybersecurity learning guides</a></td>
+  <td><a href="https://myskillsfuture.sg/content/portal/en/career-resources/career-resources/campaigns/learn-online-with-skillsfuture.html/" target="_blank">Learn online with SkillsFuture</a></td>
+</tr>
+<tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/e-communications-bds/" target="_blank">E-communications learning guides</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/government-digital-services-bds/" target="_blank">Government Digital Services</a></td>
+</tr>
+<tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-lifestyle/" target="_blank">Digital Lifestyle</a></td>
+  <td><a href="https://mobileapp.nlb.gov.sg/" target="_blank">NLB Mobile App</a></td>
+</tr>
+<tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Chinese, Malay and Tamil guides</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Other learning guides</a></td>
+</tr>
+</table>
 
-#### Virtual Digital Pods
+#### Virtual Digital Clinics / 线上数码诊所
+#### Klinik Digital Maya
 
-Upgrade yourself with the following learning guides and resources! Learn how you can shop, bank, communicate and stay safe online and even put your digital readiness to the test with a simple quiz!
+Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/dc" target="_blank">here</a>!
+
+#### Digital Pods / 数码学堂
+#### Pod Digital
+
+Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!
 
 To help companies embrace digitalisation and overcome business challenges, IMDA has also curated a wide range of purposeful digital solutions and resources. Check them out <a href="https://www.imda.gov.sg/bizgodigital" target="_blank">here</a>!
