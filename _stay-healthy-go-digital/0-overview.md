@@ -47,27 +47,27 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? / 吃饱没？</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi0geTXLeWqbdNdkhI-6BDi" target="_blank">Eat Already? / 吃饱没？</a></td>
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? 2 / 吃饱没？ 2</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjDYSDE_tQ5-KwR3Ib2eh7z" target="_blank">Eat Already? 2 / 吃饱没？ 2</a></td>
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? 3 / 吃饱没？ 3</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjspDWXTj9MNUnva-Hui8gY" target="_blank">Eat Already? 3 / 吃饱没？ 3</a></td>
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">Eat Already? 4 / 吃饱没？ 4</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygSYpRU3ZIhbIG0Fm9lvSFn" target="_blank">Eat Already? 4 / 吃饱没？ 4</a></td>
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">e-Getai / 歌台直播秀</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLDTSIsYExeBTOYOohPjQp_imGS-X-72Xk&app=desktop" target="_blank">e-Getai / 歌台直播秀</a></td>
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi6paN7VnkkdmDT-6ZJ3WFs" target="_blank">"Getai Challenge" Season 2 / 歌台星力量 – 兴旺发</a></td>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyigYxsleCkZ-x3IykgYmX0l" target="_blank">"Getai Challenge" Season 2 / 歌台星力量 – 兴旺发</a></td>
   <td>gov.sg</td>
 </tr>
 </table>
@@ -84,7 +84,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>Singapore Press Holdings</td>
   </tr>
 <tr>
-  <td><a href="mobileapp.nlb.gov.sg" target="_blank">NLB eBooks & audiobooks</a></td>
+  <td><a href="https://mobileapp.nlb.gov.sg" target="_blank">NLB eBooks & audiobooks</a></td>
   <td>National Library Board</td>
 </tr>
 </table>
@@ -238,14 +238,14 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   </tr>
 <tr>
   <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
-  <td>IMDA</td></tr>
+  <td>IMSilver</td></tr>
 <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Basic Digital Skills Resources </a></td>
-  <td>IMDA</td>
+  <td>IMSilver</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources (Chinese, Malay and Tamil) </a></td>
-  <td>IMDA</td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources </a></td>
+  <td>IMSilver</td>
 </tr>
 <tr>
   <td><a href="https:betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=seniors" target="_blank">Media Literacy Council Resources for Seniors</a></td>
