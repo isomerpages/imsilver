@@ -238,14 +238,14 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   </tr>
 <tr>
   <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
-  <td>IMSilver</td></tr>
+  <td>IMDA</td></tr>
 <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Basic Digital Skills Resources </a></td>
-  <td>IMSilver</td>
+  <td>IMDA</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources </a></td>
-  <td>IMSilver</td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources (Chinese, Malay and Tamil) </a></td>
+  <td>IMDA</td>
 </tr>
 <tr>
   <td><a href="https:betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=seniors" target="_blank">Media Literacy Council Resources for Seniors</a></td>
