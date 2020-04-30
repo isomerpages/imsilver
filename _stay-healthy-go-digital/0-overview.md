@@ -166,7 +166,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>Mediacorp</td>
 </tr>
   <tr>
-  <td><a href="https://seithi.mediacorp.sg/" target="_blank">Seithi</a></td>
+  <td><a href="https://seithi.mediacorp.sg/" target="_blank">Seithi செய்தி</a></td>
   <td>Mediacorp</td>
 </tr>
   <tr>
@@ -246,7 +246,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>IMDA</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources </a></td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources (Chinese, Malay and Tamil) </a></td>
+  <td>IMDA</td>
+</tr>
+  <tr>
+  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit </a></td>
   <td>IMDA</td>
 </tr>
 <tr>
@@ -267,4 +271,4 @@ Our Digital Clinics have gone online! Have a mobile phone related query? Get one
 
 Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!
 
-To help companies embrace digitalisation and overcome business challenges, IMDA has also curated a wide range of purposeful digital solutions and resources. Check them out <a href="https://www.imda.gov.sg/bizgodigital" target="_blank">here</a>!
+Be sure to also visit IMDA's <a href="https://www.imda.gov.sg/for-community/We-Go-Digital" target="_blank">We Go Digital page</a> to find out more on how you can buy, pay, learn, work and play online!
