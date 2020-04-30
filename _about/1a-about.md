@@ -11,7 +11,7 @@ collection_name: about
 
 #### IM Silver
 
-The IM Silver Portal is a website managed by the Infocomm Media Development Authority. (IMDA) The Portal provides online guides, content and resources aimed at helping seniors and mature adults learn how to use mobile and digital technologies effectively.
+The IM Silver Portal is a website managed by the Infocomm Media Development Authority (IMDA). The Portal provides online guides, content and resources aimed at helping seniors and mature adults learn how to use mobile and digital technologies effectively.
 
 
 ![about](/images/about/about.jpg)
