@@ -15,6 +15,8 @@ Digital Pod is a series of free online interactive classes specially curated for
 
 Register now for these upcoming Digital Pods. Look out for new classes published monthly!
 
+[schedule]
+
 *Digital Pods are in English unless otherwise stated.
 
 For more information, please contact 6377 3800.
