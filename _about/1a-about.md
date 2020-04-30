@@ -22,4 +22,4 @@ Building Digital Readiness is part of Singapore’s efforts to ensure that every
 
 #### Silver Infocomm Initiative
 
-The Silver Infocomm Initiative (SII) is one of the Digital Readiness effort to promote digital inclusion for seniors. Led by the government in strong partnership with industry, academia and the community, it offers a range of learning platforms to engage seniors and mature adults so that they, too will be able to benefit from a digital economy. Annually, the Silver Infocomm Initiative benefits over 50,000 seniors, equipping them with relevant digital skills for daily living.  
+The Silver Infocomm Initiative (SII) is a Digital Readiness effort that aims to promote digital inclusion for seniors. Led by the government in strong partnership with industry, academia and the community, it offers a range of learning platforms to engage seniors and mature adults so that they, too will be able to benefit from a digital economy. Annually, the Silver Infocomm Initiative benefits over 50,000 seniors, equipping them with relevant digital skills for daily living.  
