@@ -263,7 +263,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 
 Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/dc" target="_blank">here</a>!
 
-#### Digital Pods / 数码学堂 / Pod Digital / மின்னிலக்கக் கூட்டரங்குகள் 
+#### Digital Pods / 数码乐学舱 / Pod Digital / மின்னிலக்கக் கூட்டரங்குகள் 
 
 Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!
 
