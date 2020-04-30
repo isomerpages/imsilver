@@ -22,7 +22,7 @@ To join Digital Pod sessions, you will require the following:
   <tr>
     <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
     <td>An email address for you to receive the session details when you book your session; and</td>
-    <td>You may be required to download a relevant mobile app e.g. Zoom to join the session. Instructions will be given to you in the confirmation email.</td>
+    <td>You may be required to download a suitable mobile app e.g. Zoom to join the session. Detailed instructions will be provided in the confirmation email upon registration.</td>
   </tr>
 <tr>
   <td>一台可以连接上网而且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
