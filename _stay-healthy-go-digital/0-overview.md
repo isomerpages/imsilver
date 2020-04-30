@@ -111,7 +111,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### For the latest news updates / 新闻讯息 / [malay] / அண்மைச் செய்திகளை அறிய
+#### For the latest news updates / 新闻讯息 / Untuk pemberitahuan berita terkini / அண்மைச் செய்திகளை அறிய
 
 <table>
   <tr>
