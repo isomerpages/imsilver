@@ -20,7 +20,7 @@ To join a Virtual Digital Clinic session, you will need:
   </tr>
   <tr>
     <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
-    <td>To download Microsoft Teams mobile app before the session; and</td>
+    <td>To <a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">download Microsoft Teams app</a> before the session; and</td>
     <td>An email address for you to receive the session details when you book your session.</td>
   </tr>
 <tr>
