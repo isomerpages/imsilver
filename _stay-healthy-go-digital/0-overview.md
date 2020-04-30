@@ -10,7 +10,7 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)
 
-#### Stay Healthy Go Digital: Resources for Seniors / 乐龄生活数码化，保健乐活齐加码 / SUMBER UNTUK WARGA EMAS KEKAL SIHAT, GUNAKAN WADAH DIGITAL / மின்னிலக்க வாழ்வுடன் மேம்பட்ட வளர்ச்சியடைய மூத்தோருக்கான வளங்கள் 
+#### Stay Healthy Go Digital: Resources for Seniors / 乐龄生活数码化，保健乐活齐加码 / Sumber untuk warga emas kekal sihat, gunakan wadah digital / மின்னிலக்க வாழ்வுடன் மேம்பட்ட வளர்ச்சியடைய மூத்தோருக்கான வளங்கள் 
 
 Life doesn’t have to go on hold when you can Go Digital! Here are some online resources to help our seniors stay engaged and connected while being at home. <br>
 <!--居家防疫不无聊，数码世界找精彩！这里给年长者提供一些线上资源，让大家足不出户，也能过健康充实的生活。 <br>
@@ -111,7 +111,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### For the latest news updates / 新闻讯息 / [malay] / [tamil]
+#### For the latest news updates / 新闻讯息 / [malay] / அண்மைச் செய்திகளை அறிய
 
 <table>
   <tr>
