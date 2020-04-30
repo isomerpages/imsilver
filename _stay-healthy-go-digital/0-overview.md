@@ -10,6 +10,8 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)
 
+#### Stay Healthy Go Digital: Resources for Seniors 
+
 Life doesn’t have to go on hold when you can Go Digital! Here are some online resources to help our seniors stay engaged and connected while being at home. <br>
 <!--居家防疫不无聊，数码世界找精彩！这里给年长者提供一些线上资源，让大家足不出户，也能过健康充实的生活。 <br>
 Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! Berikut adalah beberapa sumber dalam talian untuk membantu warga emas kita terus terlibat dan berhubungan semasa berada di rumah. <br>
