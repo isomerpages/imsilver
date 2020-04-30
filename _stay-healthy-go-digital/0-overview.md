@@ -20,7 +20,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th>By</th>
+    <th width="30%">By</th>
   </tr>
 <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygANZiDpYtpBviK0blZBAsP" target="_blank">Happy Go Lucky / 欢喜没烦恼</a></td>
