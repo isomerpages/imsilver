@@ -10,7 +10,35 @@ collection_name: get-one-on-one-assistance
 
 Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? You can join the Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered.  
 
-[requirements]
+To join a Virtual Digital Clinic session, you will need:
+
+<table>
+  <tr>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
+  </tr>
+  <tr>
+    <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
+    <td>To download Microsoft Teams mobile app before the session; and</td>
+    <td>An email address for you to receive the session details when you book your session.</td>
+  </tr>
+<tr>
+  <td>一台可以连接上网而且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
+  <td>参加课程前，请下载微软Teams视讯会议应用程序；</td>
+  <td>个人电邮地址，以便在成功预订课程时段后，接收参与课程所需的信息。</td>
+  </tr>
+<tr>
+  <td>Peranti yang disambungkan ke internet seperti PC, tablet atau telefon bijak dengan fungsi kamera dan mikrofon;</td>
+  <td>Memuat turun aplikasi mudah alih Microsoft Teams sebelum sesi; dan</td>
+  <td>Alamat e-mel untuk anda menerima butiran sesi semasa anda menempah sesi anda.</td>
+</tr>
+  <tr>
+  <td>இணையத் தொடர்புள்ள சாதனம். எ.கா. கணினி, கைக்கணினி அல்லது புகைப்படக் கருவியும் ஒலிவாங்கியும் உள்ள திறன்பேசி;</td>
+  <td>அங்கத்திற்கு முன்பாக மைக்ரோசாஃப்ட் டீம்ஸ் கைப்பேசி செயலியைப் பதிவிறக்கம் செய்யவேண்டும்; அதோடு </td>
+  <td>-	அங்கத்திற்கு நீங்கள் பதிவு செய்யும்போது அங்கத்தின் விவரங்களைப் பெறுவதற்கான மின்னஞ்சல் முகவரி. </td>
+</tr>
+</table>
 
 It’s that simple! Click <a href="" target="_blank">here</a> to book your session now! 
 
