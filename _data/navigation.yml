@@ -23,10 +23,10 @@
   sub-links:
       - title: Virtual Digital Clinics
         url: /get-one-on-one-assistance/virtual-digital-clinics/
-      - title: Merdeka Generation Digital Clinics
-        url: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
-      - title: Tech Connect
-        url: /get-one-on-one-assistance/tech-connect/
+      #- title: Merdeka Generation Digital Clinics
+       # url: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
+      #- title: Tech Connect
+       # url: /get-one-on-one-assistance/tech-connect/
 
 - title: Test My Digital Skills
   url: https://confirmation.gevme.com/BDS_Quiz/landing/
