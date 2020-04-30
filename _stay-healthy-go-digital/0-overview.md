@@ -190,7 +190,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>zaobao.sg, People's Association, Ministry of Communications & Information</td>
 </tr>
 <tr>
-  <td><a href="https://www.healthhub.sg/programmes/71/healthy-ageing-exercise" target="_blank">7 Easy Exercises to an Active Lifestyle (also available in Chinese, Malay and Tamil)</a></td>
+  <td><a href="https://www.healthhub.sg/programmes/71/healthy-ageing-exercise" target="_blank">7 Easy Exercises to an Active Lifestyle <br>(also available in Chinese, Malay and Tamil)</a></td>
   <td>Health Promotion Board</td>
 </tr>
 <tr>
