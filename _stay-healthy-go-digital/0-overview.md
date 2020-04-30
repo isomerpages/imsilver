@@ -20,7 +20,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="30%">By</th>
+    <th width="40%">By</th>
   </tr>
 <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygANZiDpYtpBviK0blZBAsP" target="_blank">Happy Go Lucky / 欢喜没烦恼</a></td>
@@ -77,7 +77,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="30%">By</th>
+    <th width="40%">By</th>
   </tr>
 <tr>
   <td><a href="https://complimentary.mynewsstand.online/sphmloveu/" target="_blank">SPH Magazines</a></td>
@@ -94,7 +94,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="30%">By</th>
+    <th width="40%">By</th>
   </tr>
 <tr>
   <td><a href="https://www.camokakis.sg/" target="_blank">Camokakis</a></td>
@@ -114,7 +114,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="30%">By</th>
+    <th width="40%">By</th>
   </tr>
 <tr>
   <td><a href="https://www.straitstimes.com" target="_blank">The Straits Times</a></td>
@@ -178,7 +178,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="30%">By</th>
+    <th width="40%">By</th>
   </tr>
 <tr>
   <td><a href="https://tv.mewatch.sg/en/channel8/shows/g/get-fit-with-me-30-mins/episodes" target="_blank">Get Fit with Me - Overcome COVID-19 健康那件事 全民来防疫</a></td>
@@ -234,7 +234,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="30%">By</th>
+    <th width="40%">By</th>
   </tr>
 <tr>
   <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
