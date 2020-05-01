@@ -22,22 +22,22 @@ To join Digital Pod sessions, you will require the following; <br>要参与数�
   <tr>
     <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
     <td>An email address for you to receive the session details when you book your session;</td>
-    <td>You may be required to download a suitable mobile app e.g. Zoom to join the session. Detailed instructions will be provided in the confirmation email upon registration.</td>
+    <td>You may be required to download a suitable mobile app e.g. Zoom to join the session. Detailed instructions will be provided in the confirmation email upon registration</td>
   </tr>
 <tr>
   <td>一台可以连接上网而且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
   <td>个人电邮地址，以便在成功预订课程时段后，接收参与课程所需的信息</td>
-  <td>您可能需要下载视讯会议应用程序如Zoom以参与课程。您在成功登记后所接获的电邮将会提供明确的指示。</td>
+  <td>您可能需要下载视讯会议应用程序如Zoom以参与课程。您在成功登记后所接获的电邮将会提供明确的指示</td>
   </tr>
 <tr>
   <td>Peranti yang disambungkan ke internet seperti PC, tablet atau telefon bijak dengan fungsi kamera dan mikrofon;</td>
   <td>Alamat e-mel untuk anda menerima butiran sesi semasa anda menempah sesi anda;</td>
-  <td>Anda mungkin diminta memuat turun aplikasi mudah alih yang berkaitan misalnya Zoom untuk menyertai sesi. Arahan akan diberi kepada anda dalam e-mel pengesahan.</td>
+  <td>Anda mungkin diminta memuat turun aplikasi mudah alih yang berkaitan misalnya Zoom untuk menyertai sesi. Arahan akan diberi kepada anda dalam e-mel pengesahan</td>
 </tr>
   <tr>
   <td>இணையத் தொடர்புள்ள சாதனம். எ.கா. கணினி, கைக்கணினி அல்லது புகைப்படக் கருவியும் ஒலிவாங்கியும் உள்ள திறன்பேசி;</td>
   <td>அங்கத்திற்கு நீங்கள் பதிவு செய்யும்போது அங்கத்தின் விவரங்களைப் பெறுவதற்கான மின்னஞ்சல் முகவரி; </td>
-  <td>தேவையான ஒரு கைப்பேசி செயலியை நீங்கள் பதிவிறக்கம் செய்ய வேண்டியிருக்கலாம். எ.கா. Zoom. அங்கத்தை உறுதிப்படுத்தும் மின்னஞ்சலில் இதுபற்றி உங்களுக்கு விவரமளிக்கப்படும். </td>
+  <td>தேவையான ஒரு கைப்பேசி செயலியை நீங்கள் பதிவிறக்கம் செய்ய வேண்டியிருக்கலாம். எ.கா. Zoom. அங்கத்தை உறுதிப்படுத்தும் மின்னஞ்சலில் இதுபற்றி உங்களுக்கு விவரமளிக்கப்படும் </td>
 </tr>
 </table>
 
