@@ -10,7 +10,7 @@ collection_name: get-one-on-one-assistance
 
 Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? You can join the Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered.  
 
-To join a Virtual Digital Clinic session, you will need / 要参与线上数码诊所课程，您需要 / Untuk menyertai Klinik Digital Maya, anda perlukan / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
+To join a Virtual Digital Clinic session, you will need <br> 要参与线上数码诊所课程，您需要 <br> Untuk menyertai Klinik Digital Maya, anda perlukan <br> மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
 
 <table>
   <tr>
