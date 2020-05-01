@@ -263,7 +263,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>IMDA</td>
 </tr>
 <tr>
-  <td><a href="https:betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=seniors" target="_blank">Media Literacy Council Resources for Seniors</a></td>
+  <td><a href="https://betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=seniors" target="_blank">Media Literacy Council Resources for Seniors</a></td>
   <td>Media Literacy Council</td>
 </tr>
 <tr>
