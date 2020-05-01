@@ -52,22 +52,54 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>19 May 2020</td>
   <td>Basics of Google Pay</td>
-  <td rowspan="4"><a href="" target="_blank">Register now</a></td>
+  <td rowspan="4">Conducted in: English and Mandarin<br>Presented by: Google<br><a href="" target="_blank">Register here</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
   <td>PayNow on Google Pay</td>
-  
 </tr>
 <tr>
   <td>2 June 2020</td>
   <td>Editing with Google Photos</td>
-  
 </tr>
   <tr>
   <td>9 June 2020</td>
   <td>Sharing photos with Google Photos</td>
+</tr>
+<tr>
+  <td>11 June 2020</td>
+  <td>Building a mobile app using Salesforce Trialhead</td>
+  <td rowspan="4">Conducted in: English<br>Presented by: Salesforce<br><a href="" target="_blank">Register here</a></td>
+  </tr>
+<tr>
+  <td>18 June 2020</td>
+  <td>Building an activity tracker mobile app</td>
+</tr>
+<tr>
+  <td>25 June 2020</td>
+  <td>[App development for another function]</td>
+</tr>
+  <tr>
+  <td>2 July 2020</td>
+  <td>[App development for another function]</td>
+</tr>
+<tr>
+  <td>16 June 2020</td>
+  <td>Protect your online accounts<br>如何使用强密码保护您的在线帐户</td>
+  <td rowspan="4">Conducted in: English and Mandarin<br>Presented by: Facebook<br><a href="" target="_blank">Register here</a></td>
+  </tr>
+<tr>
+  <td>23 June 2020</td>
+  <td>Having a positive online experience<br>拥有积极的社交媒体的体验</td>
   
+</tr>
+<tr>
+  <td>30 June 2020</td>
+  <td>Think Critically<br>培养批判性思维能力</td>
+</tr>
+  <tr>
+  <td>7 July 2020</td>
+  <td>Keeping in TOUCH through Facebook<br>通过Facebook保持联系</td>
 </tr>
 </table>
 
