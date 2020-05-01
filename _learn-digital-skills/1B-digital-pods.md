@@ -47,7 +47,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <tr>
     <th>When</th>
     <th>Topic</th>
-    <th>Registeration link</th>
+    <th>Registration link</th>
   </tr>
 <tr>
   <td>Date 1</td>
