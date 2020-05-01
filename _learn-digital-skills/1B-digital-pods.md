@@ -43,7 +43,33 @@ To join Digital Pod sessions, you will require the following; <br>要参与数�
 
 Register now for these upcoming Digital Pods. Look out for new classes which will be published monthly!
 
-[schedule]
+<table>
+  <tr>
+    <th>When</th>
+    <th>Topic</th>
+    <th>Registeration link</th>
+  </tr>
+<tr>
+  <td>Date 1</td>
+  <td>Topic 1</td>
+  <td><a href="" target="_blank">Register now</a></td>
+  </tr>
+<tr>
+  <td>Date 2</td>
+  <td>Topic 2</td>
+  <td><a href="" target="_blank">Register now</a></td>
+</tr>
+<tr>
+  <td>Date 3</td>
+  <td>Topic 3</td>
+  <td><a href="" target="_blank">Register now</a></td>
+</tr>
+  <tr>
+  <td>Date 4</td>
+  <td>Topic 4</td>
+  <td><a href="" target="_blank">Register now</a></td>
+</tr>
+</table>
 
 *Digital Pods are in English unless stated otherwise.
 
