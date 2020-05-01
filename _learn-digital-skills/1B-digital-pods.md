@@ -71,6 +71,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
 </table>
 
-*Digital Pods are in English unless stated otherwise.
+*Digital Pods are conducted in English unless stated otherwise.
 
 For more information, please contact 6377 3800.
