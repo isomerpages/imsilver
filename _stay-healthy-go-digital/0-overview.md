@@ -190,7 +190,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>zaobao.sg, People's Association, Ministry of Communications & Information</td>
 </tr>
 <tr>
-  <td><a href="https://www.healthhub.sg/programmes/71/healthy-ageing-exercise" target="_blank">7 Easy Exercises to an Active Lifestyle <br>(also available in Chinese, Malay and Tamil)</a></td>
+  <td><a href="https://www.healthhub.sg/programmes/71/healthy-ageing-exercise" target="_blank">7 Easy Exercises to an Active Lifestyle <br>(also available in 中文, Melayu and தமிழ்)</a></td>
   <td>Health Promotion Board</td>
 </tr>
 <tr>
@@ -238,6 +238,14 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th>Title</th>
     <th width="40%">By</th>
   </tr>
+  <tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online Shopping Guides</a></td>
+  <td>IMDA</td></tr>
+<tr>
+  <tr>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/" target="_blank">Online Banking and Payment Guides</a></td>
+  <td>IMDA</td></tr>
+<tr>
 <tr>
   <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
   <td>IMDA</td></tr>
@@ -246,11 +254,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>IMDA</td>
 </tr>
 <tr>
-  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources (Chinese, Malay and Tamil) </a></td>
+  <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources (中文, Melayu and தமிழ்) </a></td>
   <td>IMDA</td>
 </tr>
   <tr>
-  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit </a></td>
+  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit <br>(available in English, 中文, Melayu and தமிழ்)</a></td>
   <td>IMDA</td>
 </tr>
 <tr>
