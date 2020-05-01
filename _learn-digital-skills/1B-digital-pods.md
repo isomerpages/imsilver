@@ -52,7 +52,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>19 May 2020</td>
   <td>Basics of Google Pay</td>
-  <td rowspan="4">Conducted in: English and Mandarin<br>Presented by: Google<br><a href="" target="_blank">Register here</a></td>
+  <td rowspan="4" valign="top">Conducted in: English and Mandarin<br>Presented by: Google<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
@@ -69,7 +69,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>11 June 2020</td>
   <td>Building a mobile app using Salesforce Trialhead</td>
-  <td rowspan="4">Conducted in: English<br>Presented by: Salesforce<br><a href="" target="_blank">Register here</a></td>
+  <td rowspan="4" valign="top">Conducted in: English<br>Presented by: Salesforce<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>18 June 2020</td>
@@ -86,7 +86,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>16 June 2020</td>
   <td>Protect your online accounts<br>如何使用强密码保护您的在线帐户</td>
-  <td rowspan="4">Conducted in: English and Mandarin<br>Presented by: Facebook<br><a href="" target="_blank">Register here</a></td>
+  <td rowspan="4" valign="top">Conducted in: English and Mandarin<br>Presented by: Facebook<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>23 June 2020</td>
