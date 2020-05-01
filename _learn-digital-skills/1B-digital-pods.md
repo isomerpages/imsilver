@@ -11,7 +11,7 @@ second_nav_title: Attend Classes
 
 Digital Pod is a series of free online interactive classes specially curated for seniors to pick up digital skills. The duration of each Digital Pod is 30 minutes, and you can learn a different topic each week! 
 
-To join Digital Pod sessions, you will require the following / 要参与数码乐学舱课程，您需要 / Untuk menyertai Pod Digital, anda perlukan / மின்னிலக்கக் கூட்டரங்கில் சேர, உங்களுக்குத் தேவையானவை:
+To join Digital Pod sessions, you will require the following <br>要参与数码乐学舱课程，您需要 <br>Untuk menyertai Pod Digital, anda perlukan <br>மின்னிலக்கக் கூட்டரங்கில் சேர, உங்களுக்குத் தேவையானவை:
 
 <table>
   <tr>
@@ -45,6 +45,6 @@ Register now for these upcoming Digital Pods. Look out for new classes published
 
 [schedule]
 
-*Digital Pods are in English unless otherwise stated.
+*Digital Pods are in English unless stated otherwise.
 
 For more information, please contact 6377 3800.
