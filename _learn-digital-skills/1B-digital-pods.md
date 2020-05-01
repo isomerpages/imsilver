@@ -47,27 +47,27 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <tr>
     <th>When</th>
     <th>Topic</th>
-    <th>Registration link</th>
+    <th>Registration and other details</th>
   </tr>
 <tr>
-  <td>Date 1</td>
-  <td>Topic 1</td>
-  <td><a href="" target="_blank">Register now</a></td>
+  <td>19 May 2020</td>
+  <td>Basics of Google Pay</td>
+  <td rowspan="4"><a href="" target="_blank">Register now</a></td>
   </tr>
 <tr>
-  <td>Date 2</td>
-  <td>Topic 2</td>
-  <td><a href="" target="_blank">Register now</a></td>
+  <td>26 May 2020</td>
+  <td>PayNow on Google Pay</td>
+  
 </tr>
 <tr>
-  <td>Date 3</td>
-  <td>Topic 3</td>
-  <td><a href="" target="_blank">Register now</a></td>
+  <td>2 June 2020</td>
+  <td>Editing with Google Photos</td>
+  
 </tr>
   <tr>
-  <td>Date 4</td>
-  <td>Topic 4</td>
-  <td><a href="" target="_blank">Register now</a></td>
+  <td>9 June 2020</td>
+  <td>Sharing photos with Google Photos</td>
+  
 </tr>
 </table>
 
