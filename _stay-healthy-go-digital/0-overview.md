@@ -240,11 +240,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   </tr>
   <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online Shopping Guides</a></td>
-  <td>IMDA</td>
+  <td>IMDA and partners</td>
   </tr>
   <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/digital-transactions-bds/" target="_blank">Online Banking and Payment Guides</a></td>
-  <td>IMDA</td>
+  <td>IMDA and partners</td>
   </tr>
 <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Basic Digital Skills Resources </a></td>
