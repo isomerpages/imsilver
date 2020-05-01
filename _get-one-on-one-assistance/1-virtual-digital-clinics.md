@@ -10,7 +10,7 @@ collection_name: get-one-on-one-assistance
 
 Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? You can join the Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered.  
 
-To join a Virtual Digital Clinic session, you will need <br> 要参与线上数码诊所课程，您需要 <br> Untuk menyertai Klinik Digital Maya, anda perlukan <br> மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
+To join a Virtual Digital Clinic session, you will need; <br> 要参与线上数码诊所课程，您需要; <br> Untuk menyertai Klinik Digital Maya, anda perlukan; <br> மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
 
 <table>
   <tr>
@@ -20,7 +20,7 @@ To join a Virtual Digital Clinic session, you will need <br> 要参与线上数�
   </tr>
   <tr>
     <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
-    <td>To <a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">download Microsoft Teams app</a> before the session; and</td>
+    <td>To <a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">download Microsoft Teams app</a> before the session;</td>
     <td>An email address for you to receive the session details when you book your session.</td>
   </tr>
 <tr>
@@ -30,12 +30,12 @@ To join a Virtual Digital Clinic session, you will need <br> 要参与线上数�
   </tr>
 <tr>
   <td>Peranti yang disambungkan ke internet seperti PC, tablet atau telefon bijak dengan fungsi kamera dan mikrofon;</td>
-  <td>Memuat turun aplikasi mudah alih <a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">Microsoft Teams</a> sebelum sesi; dan</td>
+  <td>Memuat turun aplikasi mudah alih <a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">Microsoft Teams</a> sebelum sesi;</td>
   <td>Alamat e-mel untuk anda menerima butiran sesi semasa anda menempah sesi anda.</td>
 </tr>
   <tr>
   <td>இணையத் தொடர்புள்ள சாதனம். எ.கா. கணினி, கைக்கணினி அல்லது புகைப்படக் கருவியும் ஒலிவாங்கியும் உள்ள திறன்பேசி;</td>
-  <td><a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">அங்கத்திற்கு முன்பாக மைக்ரோசாஃப்ட் டீம்ஸ் கைப்பேசி செயலியைப் பதிவிறக்கம் செய்யவேண்டும்; அதோடு </a></td>
+  <td><a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">அங்கத்திற்கு முன்பாக மைக்ரோசாஃப்ட் டீம்ஸ் கைப்பேசி செயலியைப் பதிவிறக்கம் செய்யவேண்டும்; </a></td>
   <td>அங்கத்திற்கு நீங்கள் பதிவு செய்யும்போது அங்கத்தின் விவரங்களைப் பெறுவதற்கான மின்னஞ்சல் முகவரி. </td>
 </tr>
 </table>
