@@ -247,10 +247,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>IMDA</td>
   </tr>
 <tr>
-  <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
-  <td>IMDA</td>
-  </tr>
-<tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">Basic Digital Skills Resources </a></td>
   <td>IMDA</td>
 </tr>
@@ -258,6 +254,10 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/chinese-malay-tamil-learning-content/" target="_blank">Basic Digital Skills Resources (中文, Melayu and தமிழ்) </a></td>
   <td>IMDA</td>
 </tr>
+  <tr>
+  <td><a href="https://confirmation.gevme.com/BDS_Quiz/landing/" target="_blank">Basic Digital Skills Quiz</a></td>
+  <td>IMDA</td>
+  </tr>
   <tr>
   <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit <br>(available in English, 中文, Melayu and தமிழ்)</a></td>
   <td>IMDA</td>
