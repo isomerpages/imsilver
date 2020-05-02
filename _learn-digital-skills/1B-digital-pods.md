@@ -15,9 +15,9 @@ To join Digital Pod sessions, you will require the following: <br>要参与数�
 
 <table>
   <tr>
-    <th width="15%">1</th>
-    <th width="60%">2</th>
-    <th width="25%">3</th>
+    <th>1</th>
+    <th>2</th>
+    <th>3</th>
   </tr>
   <tr>
     <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
@@ -45,9 +45,9 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 
 <table>
   <tr>
-    <th>When</th>
-    <th>Topic</th>
-    <th>Registration and other details</th>
+    <th width="15%">When</th>
+    <th width="60%">Topic</th>
+    <th width="25%">Registration and other details</th>
   </tr>
 <tr>
   <td>19 May 2020</td>
