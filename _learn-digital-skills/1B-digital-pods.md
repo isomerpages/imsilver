@@ -15,9 +15,9 @@ To join Digital Pod sessions, you will require the following: <br>要参与数�
 
 <table>
   <tr>
-    <th>1</th>
-    <th>2</th>
-    <th>3</th>
+    <th width="15%">1</th>
+    <th width="60%">2</th>
+    <th width="25%">3</th>
   </tr>
   <tr>
     <td>An internet-connected device eg. PC, tablet or smartphone with camera and microphone functions</td>
