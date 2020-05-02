@@ -52,7 +52,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>19 May 2020</td>
   <td><b>Digital payments with Google Pay</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
-  <td rowspan="4" valign="top">Conducted in: English and Mandarin<br>Presented by: Google<br><a href="" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Presented by: Google<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
@@ -69,7 +69,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>11 June 2020</td>
   <td><b>Creating with Salesforce Trialhead 101</b><br>Learn how easy it is to create an app using Salesforce TrialHead. Understand the fundamentals in app creation and build your foundation in this first lesson!</td>
-  <td rowspan="4" valign="top">Conducted in: English<br>Presented by: Salesforce<br><a href="" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="top">Conducted in: <b>English</b><br>Presented by: Salesforce<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>18 June 2020</td>
@@ -86,7 +86,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>16 June 2020</td>
   <td><b>Protect your online accounts</b><br><b>如何使用强密码保护您的在线帐户</b><br>Do you know that any one of us may be a target of hackers? But there are so many easy ways to protect ourselves. Have a better understanding of the importance of having strong passwords or strengthening the security of your Facebook accounts and ways to have a more secure account.</td>
-  <td rowspan="4" valign="top">Conducted in: English and Mandarin<br>Presented by: Facebook<br><a href="" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Presented by: Facebook<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>23 June 2020</td>
