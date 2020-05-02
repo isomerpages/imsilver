@@ -51,55 +51,55 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>19 May 2020</td>
-  <td>Digital payments with Google Pay <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
+  <td><b>Digital payments with Google Pay</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
   <td rowspan="4" valign="top">Conducted in: English and Mandarin<br>Presented by: Google<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
-  <td>Discovering Convenience with Google Pay<br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and xxx.</td>
+  <td><b>Discovering Convenience with Google Pay</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and xxx.</td>
 </tr>
 <tr>
   <td>2 June 2020</td>
-  <td>Organise your photos like a pro with Google Photos - Part 1<br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
+  <td><b>Organise your photos like a pro with Google Photos - Part 1</b><br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
 </tr>
   <tr>
   <td>9 June 2020</td>
-  <td>Organise your photos like a pro with Google Photos - Part 2<br>Learn how you can design photo collages and share your memories with family and friends!</td>
+  <td><b>Organise your photos like a pro with Google Photos - Part 2</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
 </tr>
 <tr>
   <td>11 June 2020</td>
-  <td>Creating with Salesforce Trialhead 101<br>Learn how easy it is to create an app using Salesforce TrialHead. Understand the fundamentals in app creation and build your foundation in this first lesson!</td>
+  <td><b>Creating with Salesforce Trialhead 101</b><br>Learn how easy it is to create an app using Salesforce TrialHead. Understand the fundamentals in app creation and build your foundation in this first lesson!</td>
   <td rowspan="4" valign="top">Conducted in: English<br>Presented by: Salesforce<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>18 June 2020</td>
-  <td>Building a simple mobile app - Part 1<br>Have fun developing a simple app on your mobile phone - tracking your own activites eg. how many times you visited a park</td>
+  <td><b>Building a simple mobile app - Part 1</b><br>Have fun developing a simple app on your mobile phone - tracking your own activites eg. how many times you visited a park</td>
 </tr>
 <tr>
   <td>25 June 2020</td>
-  <td>Building a simple mobile app - Part 2<br></td>
+  <td><b>Building a simple mobile app - Part 2</b><br></td>
 </tr>
   <tr>
   <td>2 July 2020</td>
-  <td>Building a simple mobile app - Part 3<br></td>
+  <td><b>Building a simple mobile app - Part 3</b><br></td>
 </tr>
 <tr>
   <td>16 June 2020</td>
-  <td>Protect your online accounts<br>如何使用强密码保护您的在线帐户<br>Do you know that any one of us may be a target of hackers? But there are so many easy ways to protect ourselves. Have a better understanding of the importance of having strong passwords or strengthening the security of your Facebook accounts and ways to have a more secure account.</td>
+  <td><b>Protect your online accounts</b><br><b>如何使用强密码保护您的在线帐户</b><br>Do you know that any one of us may be a target of hackers? But there are so many easy ways to protect ourselves. Have a better understanding of the importance of having strong passwords or strengthening the security of your Facebook accounts and ways to have a more secure account.</td>
   <td rowspan="4" valign="top">Conducted in: English and Mandarin<br>Presented by: Facebook<br><a href="" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>23 June 2020</td>
-  <td>Having a positive online experience with Facebook Groups<br>拥有积极的社交媒体的体验<br>It is important to have the right online etiquette when interacting with others online, especially on public groups and pages. Find out how to find Facebook Groups that match your passion and interests!</td>
+  <td><b>Having a positive online experience with Facebook Groups</b><br><b>拥有积极的社交媒体的体验</b><br>It is important to have the right online etiquette when interacting with others online, especially on public groups and pages. Find out how to find Facebook Groups that match your passion and interests!</td>
   
 </tr>
 <tr>
   <td>30 June 2020</td>
-  <td>Think Critically<br>培养批判性思维能力<br>We may receive information and updates sent through social media or messaging apps. It can sometimes be difficult to separate fact from fiction. Find out how you can build skills to navigate the digital world and to identify false news, online scams and clickbaits.</td>
+  <td><b>Think Critically<br><b>培养批判性思维能力</b><br>We may receive information and updates sent through social media or messaging apps. It can sometimes be difficult to separate fact from fiction. Find out how you can build skills to navigate the digital world and to identify false news, online scams and clickbaits.</td>
 </tr>
   <tr>
   <td>7 July 2020</td>
-  <td>Keeping in TOUCH through Facebook<br>通过Facebook保持联系<br>There are so many ways to stay in contact with our friends AND have lots of fun even when you are apart! Find out how we can use Facebook and other apps to do so!</td>
+  <td><b>Keeping in TOUCH through Facebook</b><br><b>通过Facebook保持联系</b><br>There are so many ways to stay in contact with our friends AND have lots of fun even when you are apart! Find out how we can use Facebook and other apps to do so!</td>
 </tr>
 </table>
 
