@@ -91,11 +91,10 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>23 June 2020</td>
   <td><b>Having a positive online experience with Facebook Groups</b><br><b>拥有积极的社交媒体的体验</b><br>It is important to have the right online etiquette when interacting with others online, especially on public groups and pages. Find out how to find Facebook Groups that match your passion and interests!</td>
-  
 </tr>
 <tr>
   <td>30 June 2020</td>
-  <td><b>Think Critically<br><b>培养批判性思维能力</b><br>We may receive information and updates sent through social media or messaging apps. It can sometimes be difficult to separate fact from fiction. Find out how you can build skills to navigate the digital world and to identify false news, online scams and clickbaits.</td>
+  <td><b>Think Critically</b><br><b>培养批判性思维能力</b><br>We may receive information and updates sent through social media or messaging apps. It can sometimes be difficult to separate fact from fiction. Find out how you can build skills to navigate the digital world and to identify false news, online scams and clickbaits.</td>
 </tr>
   <tr>
   <td>7 July 2020</td>
