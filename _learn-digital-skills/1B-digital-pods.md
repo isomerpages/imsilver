@@ -56,7 +56,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>26 May 2020</td>
-  <td><b>Discovering convenience with Google Pay<br> 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and [tbc].</td>
+  <td><b>Discovering convenience with Google Pay<br> 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and buying movie tickets!</td>
 </tr>
 <tr>
   <td>2 June 2020</td>
