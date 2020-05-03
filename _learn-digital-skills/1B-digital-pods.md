@@ -51,12 +51,12 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>19 May 2020</td>
-  <td><b>Digital payments with Google Pay<br> 电子付款</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
+  <td><b>Mobile payments with Google Pay<br>Google Pay 手机支付</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
   <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Google<br><br><a href="https://form.gov.sg/5eae33e62137fe0011d050f7" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
-  <td><b>Discovering convenience with Google Pay<br> 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and buying movie tickets!</td>
+  <td><b>Do more with your money on Google Pay<br>Google Pay 不仅仅是支付</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and buying movie tickets!</td>
 </tr>
 <tr>
   <td>2 June 2020</td>
@@ -68,20 +68,20 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
 <tr>
   <td>11 June 2020</td>
-  <td><b>Creating with Salesforce Trialhead 101</b><br>Learn how easy it is to create an app using Salesforce TrialHead. Understand the fundamentals in app creation and build your foundation in this first lesson!</td>
+  <td><b>Creating with Salesforce Trailhead 101 (Part 1)</b><br>Learn how easy it is to create an app using Salesforce TrailHead. Understand the fundamentals in app creation and build your foundation in this first lesson!</td>
   <td rowspan="4" valign="top">Conducted in: <b>English</b><br><br>Brought to you by: Salesforce<br><br><a href="https://form.gov.sg/5eae39e72137fe0011d06977" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>18 June 2020</td>
-  <td><b>Building a simple mobile app - Part 1</b><br>Build an app to store study materials and notes</td>
+  <td><b>Creating with Salesforce Trailhead 101 (Part 2)</b><br>Strengthen your foundation to create the necessary fields to build a customised app that you can call your own. </td>
 </tr>
 <tr>
   <td>25 June 2020</td>
-  <td><b>Building a simple mobile app - Part 2</b><br>Build an app to store study materials and notes</td>
+  <td><b>Creating with Salesforce Trailhead 101 (Part 3)</b><br>Build up a reporting template to organise your data and findings that you will get from your own app. Visualise the data with charts and a simple dashboard. </td>
 </tr>
   <tr>
   <td>2 July 2020</td>
-  <td><b>Building a simple mobile app</b><br>Build an app to track visits to your local park</td>
+  <td><b>Building a simple mobile app</b><br>Create a simple app to track visits to your local park</td>
 </tr>
 <tr>
   <td>16 June 2020</td>
