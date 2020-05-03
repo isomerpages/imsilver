@@ -60,11 +60,11 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
 <tr>
   <td>2 June 2020</td>
-  <td><b>Organise your photos like a pro with Google Photos - Part 1 (English only)</b><br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
+  <td><b>Organise your photos like a pro with Google Photos - Part 1 <br>(English only)</b><br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
 </tr>
   <tr>
   <td>9 June 2020</td>
-  <td><b>Organise your photos like a pro with Google Photos - Part 2 (English only)</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
+  <td><b>Organise your photos like a pro with Google Photos - Part 2 <br>(English only)</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
 </tr>
 <tr>
   <td>11 June 2020</td>
