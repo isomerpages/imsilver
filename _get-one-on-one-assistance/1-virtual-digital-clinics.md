@@ -35,7 +35,7 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参与线上数
 </tr>
   <tr>
   <td>இணையத் தொடர்புள்ள சாதனம். எ.கா. கணினி, கைக்கணினி அல்லது புகைப்படக் கருவியும் ஒலிவாங்கியும் உள்ள திறன்பேசி</td>
-  <td><a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">அங்கத்திற்கு முன்பாக மைக்ரோசாஃப்ட் டீம்ஸ் கைப்பேசி செயலியைப் பதிவிறக்கம் செய்யவேண்டும் </a></td>
+  <td>அங்கத்திற்கு முன்பாக <a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">மைக்ரோசாஃப்ட் டீம்ஸ் கைப்பேசி செயலியைப் பதிவிறக்கம் செய்யவேண்டும் </a></td>
   <td>அங்கத்திற்கு நீங்கள் பதிவு செய்யும்போது அங்கத்தின் விவரங்களைப் பெறுவதற்கான மின்னஞ்சல் முகவரி </td>
 </tr>
 </table>
