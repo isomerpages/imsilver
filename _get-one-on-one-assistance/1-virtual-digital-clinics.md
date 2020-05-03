@@ -10,7 +10,7 @@ collection_name: get-one-on-one-assistance
 
 Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? You can join the Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered.  
 
-To join a Virtual Digital Clinic session, you will need: <br> 要参与线上数码诊所课程，您需要: <br> Untuk menyertai Klinik Digital Maya, anda perlukan: <br> மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
+To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数码诊所课程，您须备有: <br> Untuk menyertai Klinik Digital Maya, anda perlukan: <br> மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
 
 <table>
   <tr>
@@ -24,9 +24,9 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参与线上数
     <td>An email address for you to receive the session details when you book your session</td>
   </tr>
 <tr>
-  <td>一台可以连接上网而且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
-  <td>参加课程前，请下载微软<a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">Teams</a>视讯会议应用程序</td>
-  <td>个人电邮地址，以便在成功预订课程时段后，接收参与课程所需的信息</td>
+  <td>一台可以连接互联网且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
+  <td>参加诊所前，请下载微软视讯会议应用程序<a href="https://www.microsoft.com/en-sg/microsoft-365/microsoft-teams/download-app" target="_blank">(Microsoft Teams)</a></td>
+  <td>个人电子邮件，以便在成功预订问诊时段后，接收参加诊所所需的信息</td>
   </tr>
 <tr>
   <td>Peranti yang disambungkan ke internet seperti PC, tablet atau telefon bijak dengan fungsi kamera dan mikrofon</td>
