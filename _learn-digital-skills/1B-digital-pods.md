@@ -56,7 +56,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>26 May 2020</td>
-  <td><b>Discovering convenience with Google Pay<br> 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and xxx.</td>
+  <td><b>Discovering convenience with Google Pay<br> 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and [tbc].</td>
 </tr>
 <tr>
   <td>2 June 2020</td>
@@ -73,15 +73,15 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>18 June 2020</td>
-  <td><b>Building a simple mobile app - Part 1</b><br>Have fun developing a simple app on your mobile phone - tracking your own activites eg. how many times you visited a park</td>
+  <td><b>Building a simple mobile app - Part 1</b><br>Build an app to store study materials and notes</td>
 </tr>
 <tr>
   <td>25 June 2020</td>
-  <td><b>Building a simple mobile app - Part 2</b><br></td>
+  <td><b>Building a simple mobile app - Part 2</b><br>Build an app to store study materials and notes</td>
 </tr>
   <tr>
   <td>2 July 2020</td>
-  <td><b>Building a simple mobile app - Part 3</b><br></td>
+  <td><b>Building a simple mobile app</b><br>Build an app to track visits to your local park</td>
 </tr>
 <tr>
   <td>16 June 2020</td>
