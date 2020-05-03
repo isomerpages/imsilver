@@ -11,7 +11,7 @@ second_nav_title: Attend Classes
 
 Digital Pod is a series of free online interactive classes specially curated for seniors to pick up digital skills. The duration of each Digital Pod is 30 minutes, and you can learn a different topic each week! 
 
-To join Digital Pod sessions, you will require the following: <br>要参与数码乐学舱课程，您需要: <br>Untuk menyertai Pod Digital, anda perlukan: <br>மின்னிலக்கக் கூட்டரங்கில் சேர, உங்களுக்குத் தேவையானவை:
+To join Digital Pod sessions, you will require the following: <br>要参加数码乐学舱课程，您须备有: <br>Untuk menyertai Pod Digital, anda perlukan: <br>மின்னிலக்கக் கூட்டரங்கில் சேர, உங்களுக்குத் தேவையானவை:
 
 <table>
   <tr>
@@ -25,9 +25,9 @@ To join Digital Pod sessions, you will require the following: <br>要参与数�
     <td>You may be required to download a suitable mobile app e.g. Zoom to join the session. Detailed instructions will be provided in the confirmation email upon registration</td>
   </tr>
 <tr>
-  <td>一台可以连接上网而且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
-  <td>个人电邮地址，以便在成功预订课程时段后，接收参与课程所需的信息</td>
-  <td>您可能需要下载视讯会议应用程序如Zoom以参与课程。您在成功登记后所接获的电邮将会提供明确的指示</td>
+  <td>一台可以连接互联网而且具有摄像和收音功能的电脑、平板电脑或智能手机</td>
+  <td>个人电子邮件，以便在成功预订课程时段后，接收参加课程所需的信息</td>
+  <td>您可能需要下载视讯会议应用程序如Zoom以参加课程。您在成功登记后所接获的电邮将会提供明确的指示</td>
   </tr>
 <tr>
   <td>Peranti yang disambungkan ke internet seperti PC, tablet atau telefon bijak dengan fungsi kamera dan mikrofon</td>
