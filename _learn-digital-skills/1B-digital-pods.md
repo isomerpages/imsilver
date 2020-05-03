@@ -51,12 +51,12 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>19 May 2020</td>
-  <td><b>Digital payments with Google Pay 电子付款</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
+  <td><b>Digital payments with Google Pay<br> 电子付款</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
   <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Presented by: Google<br><a href="https://form.gov.sg/5eae33e62137fe0011d050f7" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
-  <td><b>Discovering Convenience with Google Pay 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and xxx.</td>
+  <td><b>Discovering Convenience with Google Pay<br> 便利生活</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and xxx.</td>
 </tr>
 <tr>
   <td>2 June 2020</td>
