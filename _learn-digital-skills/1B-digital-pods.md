@@ -52,7 +52,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>19 May 2020</td>
   <td><b>Digital payments with Google Pay<br> 电子付款</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
-  <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Presented by: Google<br><a href="https://form.gov.sg/5eae33e62137fe0011d050f7" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Brought to you by: Google<br><a href="https://form.gov.sg/5eae33e62137fe0011d050f7" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>26 May 2020</td>
@@ -60,16 +60,16 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
 <tr>
   <td>2 June 2020</td>
-  <td><b>Organise your photos like a pro with Google Photos - Part 1</b><br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
+  <td><b>Organise your photos like a pro with Google Photos - Part 1 (English only)</b><br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
 </tr>
   <tr>
   <td>9 June 2020</td>
-  <td><b>Organise your photos like a pro with Google Photos - Part 2</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
+  <td><b>Organise your photos like a pro with Google Photos - Part 2 (English only)</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
 </tr>
 <tr>
   <td>11 June 2020</td>
   <td><b>Creating with Salesforce Trialhead 101</b><br>Learn how easy it is to create an app using Salesforce TrialHead. Understand the fundamentals in app creation and build your foundation in this first lesson!</td>
-  <td rowspan="4" valign="top">Conducted in: <b>English</b><br>Presented by: Salesforce<br><a href="https://form.gov.sg/5eae39e72137fe0011d06977" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="top">Conducted in: <b>English</b><br>Brought to you by: Salesforce<br><a href="https://form.gov.sg/5eae39e72137fe0011d06977" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>18 June 2020</td>
@@ -86,7 +86,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 <tr>
   <td>16 June 2020</td>
   <td><b>Protect your online accounts</b><br><b>如何使用强密码保护您的在线帐户</b><br>Do you know that any one of us may be a target of hackers? But there are so many easy ways to protect ourselves. Have a better understanding of the importance of having strong passwords or strengthening the security of your Facebook accounts and ways to have a more secure account.</td>
-  <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Presented by: Facebook<br><a href="https://form.gov.sg/5eae3ace2137fe0011d06cfa" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="top">Conducted in: <b>English and Mandarin</b><br>Brought to you by: Facebook and TOUCH Community Services<br><a href="https://form.gov.sg/5eae3ace2137fe0011d06cfa" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>23 June 2020</td>
