@@ -73,7 +73,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">"Learn Together With Me 乐学每疫刻</a></td>
+  <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">Learn Together With Me / 乐学每疫刻</a></td>
   <td>Mediacorp</td>
 </tr>
 </table>
