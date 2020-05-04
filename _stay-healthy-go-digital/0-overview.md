@@ -245,7 +245,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   </tr>
   <tr>
   <td><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></td>
-  <td>GovTech and MOH</td>
+  <td>GovTech</td>
   </tr>
   <tr>
   <td><a href="https://www.gov.sg/article/digital-contact-tracing-tools-for-all-businesses-operating-during-circuit-breaker" target="_blank">SafeEntry</a></td>
