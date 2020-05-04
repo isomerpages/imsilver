@@ -8,7 +8,7 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/stay-healthy-go-digital/SHGD-phase-2_banner_final.jpg)
 
-![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)
+[![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)](https://www.sgunited.gov.sg/stay-engaged/)
 
 #### Stay Healthy Go Digital: Resources for Seniors <br> 生活数码化 为健康加码： 乐龄资源 <br> Sumber untuk warga emas kekal sihat, gunakan wadah digital <br> மின்னிலக்க வாழ்வுடன் மேம்பட்ட வளர்ச்சியடைய மூத்தோருக்கான வளங்கள் 
 
