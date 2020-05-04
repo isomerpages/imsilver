@@ -42,4 +42,4 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数
 
 It’s that simple! Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here</a> to book your session now! 
 
-For more information, please contact 6377 3800.
+For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">here</a> to return to the Stay Healthy, Go Digital page.
