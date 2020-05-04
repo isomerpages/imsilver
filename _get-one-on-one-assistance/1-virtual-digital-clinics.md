@@ -40,7 +40,7 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数
 </tr>
 </table>
 
-Virtual Digital Clinic sessions are held every Friday* between 2 - 5pm. 
+Virtual Digital Clinic sessions are held every Friday*, starting 15 May, between 2 - 5pm. 
 
 It’s that simple! Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here</a> to book your session now! 
 
