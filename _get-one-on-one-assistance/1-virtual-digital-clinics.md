@@ -46,4 +46,4 @@ It’s that simple! Click <a href="https://outlook.office365.com/owa/calendar/Vi
 
 For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">here</a> to return to the Stay Healthy, Go Digital page.
 
-*Selected Virtual Digital Clinic sessions are held on Saturday instead of Friday.
+*Selected Virtual Digital Clinic sessions will be held on Saturday instead of Friday.
