@@ -175,7 +175,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### Health & wellness / 健康保健 / Untuk kesihatan dan kesejahteraan anda / நீங்கள் நலமுடன் இருக்க 
+#### Health & wellness / 健康保健 / Kesihatan dan kesejahteraan / நீங்கள் நலமுடன் இருக்க 
 
 <table>
   <tr>
