@@ -187,7 +187,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>Ministry of Communications & Information</td></tr>
 <tr>
   <td><a href="https://www.zaobao.com.sg/keywords/come-n-live-at-zaobaosg?ref=zbsg-homepage&utm_medium=jumbotron" target="_blank">Come 'n Live 疫起过生活</a></td>
-  <td>zaobao.sg, People's Association, Ministry of Communications & Information</td>
+  <td>zaobao.sg</td>
 </tr>
 <tr>
   <td><a href="https://www.healthhub.sg/programmes/71/healthy-ageing-exercise" target="_blank">7 Easy Exercises to an Active Lifestyle <br>(also available in 中文, Melayu and தமிழ்)</a></td>
