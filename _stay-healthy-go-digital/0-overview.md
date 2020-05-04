@@ -239,6 +239,14 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th width="40%">By</th>
   </tr>
   <tr>
+  <td><a href="https://www.tracetogether.gov.sg/" target="_blank">Community-driven contract tracing with the TraceTogether app</a></td>
+  <td>GovTech and MOH</td>
+  </tr>
+  <tr>
+  <td><a href="https://www.gov.sg/article/digital-contact-tracing-tools-for-all-businesses-operating-during-circuit-breaker" target="_blank">Speeding up contact tracing efforts with SafeEntry</a></td>
+  <td>GovTech</td>
+  </tr>
+  <tr>
   <td><a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="_blank">Online Shopping Guides</a></td>
   <td>IMDA and partners</td>
   </tr>
