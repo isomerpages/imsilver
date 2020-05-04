@@ -104,4 +104,4 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 
 *Digital Pods are conducted in English unless stated otherwise.
 
-For more information, please contact 6377 3800.
+For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">here</a> to return to the Stay Healthy, Go Digital page.
