@@ -203,6 +203,10 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>zaobao.sg</td>
 </tr>
   <tr>
+  <td><a href="https://www.go.gov.sg/stayactivevideos" target="_blank">Exercise Ideas - Stay Active Anywhere, Anytime!</a></td>
+  <td>Health Promotion Board</td>
+</tr>
+  <tr>
   <td><a href="https://www.youtube.com/watch?v=NvweN5VszlE" target="_blank">General Exercise for the Elderly</a></td>
   <td>Khoo Teck Puat Hospital</td>
 </tr>
@@ -213,10 +217,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <tr>
   <td><a href="https://www.youtube.com/watch?v=BLL9qcOFXYU&list=PLn_nEJn6-R5JjmqUihypGen7WykXfcQAU&index=8" target="_blank">Good Life Workout</a></td>
   <td>GoodLife! MFC</td>
-</tr>
-  <tr>
-  <td><a href="https://www.go.gov.sg/stayactivevideos" target="_blank">Exercise Ideas - Stay Active Anywhere, Anytime!</a></td>
-  <td>Health Promotion Board</td>
 </tr>
   <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLwg-yU2cddCjpj676X5hHp--gBK823jVa" target="_blank">Functional Fitness Exercises</a></td>
