@@ -24,6 +24,30 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th>Title</th>
     <th width="40%">By</th>
   </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi0geTXLeWqbdNdkhI-6BDi" target="_blank">Eat Already? / 吃饱没？</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjDYSDE_tQ5-KwR3Ib2eh7z" target="_blank">Eat Already? 2 / 吃饱没？ 2</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjspDWXTj9MNUnva-Hui8gY" target="_blank">Eat Already? 3 / 吃饱没？ 3</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygSYpRU3ZIhbIG0Fm9lvSFn" target="_blank">Eat Already? 4 / 吃饱没？ 4</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLDTSIsYExeBTOYOohPjQp_imGS-X-72Xk&app=desktop" target="_blank">e-Getai / 歌台直播秀</a></td>
+  <td>gov.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyigYxsleCkZ-x3IykgYmX0l" target="_blank">"Getai Challenge" Season 2 / 歌台星力量 – 兴旺发</a></td>
+  <td>gov.sg</td>
+</tr>
 <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygANZiDpYtpBviK0blZBAsP" target="_blank">Happy Go Lucky / 欢喜没烦恼</a></td>
   <td>gov.sg</td>
@@ -49,28 +73,8 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi0geTXLeWqbdNdkhI-6BDi" target="_blank">Eat Already? / 吃饱没？</a></td>
-  <td>gov.sg</td>
-</tr>
-  <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjDYSDE_tQ5-KwR3Ib2eh7z" target="_blank">Eat Already? 2 / 吃饱没？ 2</a></td>
-  <td>gov.sg</td>
-</tr>
-  <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyjspDWXTj9MNUnva-Hui8gY" target="_blank">Eat Already? 3 / 吃饱没？ 3</a></td>
-  <td>gov.sg</td>
-</tr>
-  <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqygSYpRU3ZIhbIG0Fm9lvSFn" target="_blank">Eat Already? 4 / 吃饱没？ 4</a></td>
-  <td>gov.sg</td>
-</tr>
-  <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLDTSIsYExeBTOYOohPjQp_imGS-X-72Xk&app=desktop" target="_blank">e-Getai / 歌台直播秀</a></td>
-  <td>gov.sg</td>
-</tr>
-  <tr>
-  <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyigYxsleCkZ-x3IykgYmX0l" target="_blank">"Getai Challenge" Season 2 / 歌台星力量 – 兴旺发</a></td>
-  <td>gov.sg</td>
+  <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">"Learn Together With Me 乐学每疫刻</a></td>
+  <td>Mediacorp</td>
 </tr>
 </table>
 
@@ -81,14 +85,14 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th>Title</th>
     <th width="40%">By</th>
   </tr>
+  <tr>
+  <td><a href="https://mobileapp.nlb.gov.sg" target="_blank">NLB eBooks & audiobooks</a></td>
+  <td>National Library Board</td>
+</tr>
 <tr>
   <td><a href="https://complimentary.mynewsstand.online/sphmloveu/" target="_blank">SPH Magazines</a></td>
   <td>Singapore Press Holdings</td>
   </tr>
-<tr>
-  <td><a href="https://mobileapp.nlb.gov.sg" target="_blank">NLB eBooks & audiobooks</a></td>
-  <td>National Library Board</td>
-</tr>
 </table>
 
 #### For your listening pleasure / 听觉享受 / Untuk pendengaran anda / நீங்கள் கேட்டு மகிழ
@@ -183,13 +187,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th width="40%">By</th>
   </tr>
 <tr>
-  <td><a href="https://tv.mewatch.sg/en/channel8/shows/g/get-fit-with-me-30-mins/episodes" target="_blank">Get Fit with Me - Overcome COVID-19 健康那件事 全民来防疫</a></td>
-  <td>Ministry of Communications & Information</td></tr>
-<tr>
-  <td><a href="https://www.zaobao.com.sg/keywords/come-n-live-at-zaobaosg?ref=zbsg-homepage&utm_medium=jumbotron" target="_blank">Come 'n Live 疫起过生活</a></td>
-  <td>zaobao.sg</td>
-</tr>
-<tr>
   <td><a href="https://www.healthhub.sg/programmes/71/healthy-ageing-exercise" target="_blank">7 Easy Exercises to an Active Lifestyle <br>(also available in 中文, Melayu and தமிழ்)</a></td>
   <td>Health Promotion Board</td>
 </tr>
@@ -202,6 +199,18 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>SportSG</td>
 </tr>
 <tr>
+  <td><a href="https://www.zaobao.com.sg/keywords/come-n-live-at-zaobaosg?ref=zbsg-homepage&utm_medium=jumbotron" target="_blank">Come 'n Live 疫起过生活</a></td>
+  <td>zaobao.sg</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/watch?v=NvweN5VszlE" target="_blank">General Exercise for the Elderly</a></td>
+  <td>Khoo Teck Puat Hospital</td>
+</tr>
+  <tr>
+  <td><a href="https://tv.mewatch.sg/en/channel8/shows/g/get-fit-with-me-30-mins/episodes" target="_blank">Get Fit with Me - Overcome COVID-19 健康那件事 全民来防疫</a></td>
+  <td>Ministry of Communications & Information</td>
+  </tr>
+<tr>
   <td><a href="https://www.youtube.com/watch?v=BLL9qcOFXYU&list=PLn_nEJn6-R5JjmqUihypGen7WykXfcQAU&index=8" target="_blank">Good Life Workout</a></td>
   <td>GoodLife! MFC</td>
 </tr>
@@ -212,10 +221,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLwg-yU2cddCjpj676X5hHp--gBK823jVa" target="_blank">Functional Fitness Exercises</a></td>
   <td>En Community Services Society</td>
-</tr>
-  <tr>
-  <td><a href="https://www.youtube.com/watch?v=NvweN5VszlE" target="_blank">General Exercise for the Elderly</a></td>
-  <td>Khoo Teck Puat Hospital</td>
 </tr>
   <tr>
   <td><a href="https://www.c3a.org.sg/NSA_eNuggets" target="_blank">NSA e-Nuggets Series</a></td>
@@ -239,11 +244,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th width="40%">By</th>
   </tr>
   <tr>
-  <td><a href="https://www.tracetogether.gov.sg/" target="_blank">Community-driven contract tracing with the TraceTogether app</a></td>
+  <td><a href="https://www.tracetogether.gov.sg/" target="_blank">TraceTogether</a></td>
   <td>GovTech and MOH</td>
   </tr>
   <tr>
-  <td><a href="https://www.gov.sg/article/digital-contact-tracing-tools-for-all-businesses-operating-during-circuit-breaker" target="_blank">Speeding up contact tracing efforts with SafeEntry</a></td>
+  <td><a href="https://www.gov.sg/article/digital-contact-tracing-tools-for-all-businesses-operating-during-circuit-breaker" target="_blank">SafeEntry</a></td>
   <td>GovTech</td>
   </tr>
   <tr>
