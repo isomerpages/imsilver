@@ -7,7 +7,7 @@ breadcrumb: Digital Readiness Essential Kit
 
 Check out our Digital Readiness Essential Kits to learn useful tips on digital skills with step-by-step guide, and how it can bring convenience to your daily activities.
 
-| Topic | English | Mandarin | Malay | Tamil |
+| Topic | English | 中文 | Melayu | தமிழ் |
 | -- | -- | -- | -- | -- |
 | PayNow | [ ](/files/DREK101219/DREK-T1-PAYNow_English_101219.pdf) | [ ](/files/DREK101219/DREK-T1-PAYNow_Chinese_101219.pdf) | [ ](/files/DREK101219/DREK-T1-PAYNow_Malay_101219.pdf) | [ ](/files/DREK101219/DREK-T1-PAYNow_Tamil_101219.pdf)|
 | Wireless@SG | [ ](/files/DREK100919/DREK-T2_Wireless@SG (English).pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Chinese).pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf) | [ ](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf) |

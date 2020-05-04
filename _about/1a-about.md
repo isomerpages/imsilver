@@ -11,7 +11,7 @@ collection_name: about
 
 #### IM Silver
 
-The IM Silver Portal is a website managed by the Infocomm Media Development Authority. (IMDA) The Portal provides online guides, content and resources aimed at helping seniors and mature adults learn how to use mobile and digital technologies effectively.
+The IM Silver Portal is a website managed by the Infocomm Media Development Authority (IMDA). The Portal provides online guides, content and resources aimed at helping seniors and mature adults learn how to use mobile and digital technologies effectively.
 
 
 ![about](/images/about/about.jpg)
@@ -22,4 +22,4 @@ Building Digital Readiness is part of Singapore’s efforts to ensure that every
 
 #### Silver Infocomm Initiative
 
-The Silver Infocomm Initiative (SII) is one of the Digital Readiness effort to promote digital inclusion for seniors. Led by the government in strong partnership with industry, academia and the community, it offers a range of learning platforms to engage seniors and mature adults so that they, too will be able to benefit from a digital economy. Annually, the Silver Infocomm Initiative benefits over 50,000 seniors, equipping them with relevant digital skills for daily living.  
+The Silver Infocomm Initiative (SII) is a Digital Readiness effort that aims to promote digital inclusion for seniors. Led by the government in strong partnership with industry, academia and the community, it offers a range of learning platforms to engage seniors and mature adults so that they, too will be able to benefit from a digital economy. Annually, the Silver Infocomm Initiative benefits over 50,000 seniors, equipping them with relevant digital skills for daily living.  

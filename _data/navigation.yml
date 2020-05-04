@@ -13,18 +13,20 @@
 - title: Learn Digital Skills
   url: /learn-digital-skills/overview/
   sub-links:
+      - title: Attend Classes
+        url: /learn-digital-skills/attend-classes/overview/
       - title: Learn Online
         url: /learn-digital-skills/learn-online/overview/
 
 - title: Get One-on-One Assistance
   url: /get-one-on-one-assistance/overview/
   sub-links:
-      - title: Digital Clinics
-        url: /get-one-on-one-assistance/digital-clinics/
-      - title: Merdeka Generation Digital Clinics
-        url: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
-      - title: Tech Connect
-        url: /get-one-on-one-assistance/tech-connect/
+      - title: Virtual Digital Clinics
+        url: /get-one-on-one-assistance/virtual-digital-clinics/
+      #- title: Merdeka Generation Digital Clinics
+       # url: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
+      #- title: Tech Connect
+       # url: /get-one-on-one-assistance/tech-connect/
 
 - title: Test My Digital Skills
   url: https://confirmation.gevme.com/BDS_Quiz/landing/
