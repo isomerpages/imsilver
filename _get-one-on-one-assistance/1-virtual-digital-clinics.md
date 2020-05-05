@@ -40,8 +40,8 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数
 </tr>
 </table>
 
-Joining a Virtual Digital Clinic session using Microsoft Teams (PC): [ ](/files/VDC/VDC-using-Teams_Computer-or-Laptop.pdf)<br>
-Joining a Virtual Digital Clinic session using Microsoft Teams (Mobile): [ ](/files/VDC/VDC-using-Teams_Mobile phone-or-Tablet.pdf)
+How to join a Virtual Digital Clinic session using Microsoft Teams (PC): [ ](/files/VDC/VDC-using-Teams_Computer-or-Laptop.pdf)<br>
+How to join a Virtual Digital Clinic session using Microsoft Teams (Mobile): [ ](/files/VDC/VDC-using-Teams_Mobile phone-or-Tablet.pdf)
 
 Virtual Digital Clinic sessions are held every Friday*, starting 15 May 2020, between 2 - 5pm.
 
