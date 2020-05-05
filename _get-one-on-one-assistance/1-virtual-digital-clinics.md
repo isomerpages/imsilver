@@ -8,7 +8,7 @@ collection_name: get-one-on-one-assistance
 
 ![graphic](/images/get-one-on-one-assistance/virtual-dc.jpg)
 
-Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? You can join the Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered.  
+Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? Join a Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered!  
 
 To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数码诊所课程，您须备有: <br> Untuk menyertai Klinik Digital Maya, anda perlukan: <br> மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கத்தில் சேர, உங்களுக்குத் தேவையானவை:
 
@@ -43,7 +43,7 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数
 How to join a Virtual Digital Clinic session using Microsoft Teams (PC): [ ](/files/VDC/VDC-using-Teams_Computer-or-Laptop.pdf) <br>
 How to join a Virtual Digital Clinic session using Microsoft Teams (Mobile): [ ](/files/VDC/VDC-using-Teams_Mobile phone-or-Tablet.pdf)
 
-Virtual Digital Clinic sessions are held every Friday*, starting 15 May 2020, between 2 - 5pm.
+Virtual Digital Clinic sessions are held <b>every Friday*, starting 15 May 2020, between 2 - 5pm</b>.
 
 Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here</a> to book your session now! For more information, please contact 6377 3800.
 
