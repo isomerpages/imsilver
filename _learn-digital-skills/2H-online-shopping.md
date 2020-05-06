@@ -47,12 +47,12 @@ Often hear of good deals online from your friends? Check out the following guide
     <td><a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a></td>
   </tr>
   <tr>
-  <td><a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a></td> 
+  <td><a href="https://www.youtube.com/watch?v=jIK08z_G0Yw" target="_blank">Shopee (video guide)</a></td> 
     <td> </td>
     <td><a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a></td>
   </tr>
   <tr>
-  <td> </td> 
+  <td><a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a> </td> 
     <td> </td>
     <td><a href="https://www.guardian.com.sg/stay-healthy-go-digital?utm_source=imda&utm_medium=referral&utm_campaign=stayhealthygodigital" target="_blank">Guardian</a></td>
   </tr>
