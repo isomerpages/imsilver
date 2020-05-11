@@ -93,6 +93,10 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td><a href="https://complimentary.mynewsstand.online/sphmloveu/" target="_blank">SPH Magazines</a></td>
   <td>Singapore Press Holdings</td>
   </tr>
+  <tr>
+  <td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/TimeofYourLifeGoodReadsforthe50plus.aspx" target="_blank">Time of Your Life: Good Reads for the 50plus</a></td>
+  <td>National Library Board</td>
+  </tr>
 </table>
 
 #### For your listening pleasure / 听觉享受 / Untuk pendengaran anda / நீங்கள் கேட்டு மகிழ
