@@ -47,6 +47,25 @@ Virtual Digital Clinic sessions are held <b>every Friday*, starting 15 May 2020,
 
 Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here</a> to book your session now! For more information, please contact 6377 3800.
 
+<table>
+  <tr>
+    <th>Date and Time</th>
+    <th>Availability</th>
+  </tr>
+<tr>
+  <td>15 May 2020<br>2:00pm - 5:00pm </td>
+  <td>Limited Chinese-speaking and Malay-speaking sessions left.<br>English sessions are fully booked.</td>
+  </tr>
+<tr>
+  <td>23 May 2020<br>9:00am - 12:00pm</td>
+  <td>Sessions available on a first-come, first-served basis.</td>
+</tr>
+<tr>
+  <td>29 May 2020<br>2:00pm - 5:00pm</td>
+  <td>Sessions available on a first-come, first-served basis.</td>
+</tr>
+</table>
+
 Click <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">here</a> to return to the Stay Healthy, Go Digital page.
 
 *Selected Virtual Digital Clinic sessions will be held on Saturday instead of Friday.
