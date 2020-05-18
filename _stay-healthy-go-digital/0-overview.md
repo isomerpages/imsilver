@@ -77,7 +77,7 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>Mediacorp</td>
 </tr>
   <tr>
-  <td><a href=" https://www.youtube.com/channel/UClXGrvxGnzV1pprhEpE10NA" target="_blank">A Librarian's World</a></td>
+  <td><a href="https://www.youtube.com/channel/UClXGrvxGnzV1pprhEpE10NA" target="_blank">A Librarian's World</a></td>
   <td>National Library Board</td>
 </tr>
   <tr>
