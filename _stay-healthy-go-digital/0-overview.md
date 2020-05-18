@@ -76,6 +76,26 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">Learn Together With Me / 乐学每疫刻</a></td>
   <td>Mediacorp</td>
 </tr>
+  <tr>
+  <td><a href="https://www.youtube.com/channel/UClXGrvxGnzV1pprhEpE10NA" target="_blank">A Librarian's World</a></td>
+  <td>National Library Board</td>
+</tr>
+  <tr>
+  <td><a href="https://www.facebook.com/publiclibrarysg" target="_blank">National Library Board: Digital Storytelling (English)</a></td>
+  <td>National Library Board</td>
+</tr>
+  <tr>
+  <td><a href="https://go.gov.sg/chinese-library-services" target="_blank">National Library Board: Digital Storytelling (中文)</a></td>
+  <td>National Library Board</td>
+</tr>
+  <tr>
+  <td><a href="https://go.gov.sg/malay-library-services" target="_blank">National Library Board: Digital Storytelling (Melayu)</a></td>
+  <td>National Library Board</td>
+</tr>
+  <tr>
+  <td><a href="https://go.gov.sg/tamil-library-services" target="_blank">National Library Board: Digital Storytelling (தமிழ்)</a></td>
+  <td>National Library Board</td>
+</tr>
 </table>
 
 #### For your reading pleasure / 阅读空间 / Untuk bacaan anda / நீங்கள் படித்து மகிழ 
@@ -94,7 +114,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>Singapore Press Holdings</td>
   </tr>
   <tr>
-  <td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/TimeofYourLifeGoodReadsforthe50plus.aspx" target="_blank">Time of Your Life: Good Reads for the 50plus</a></td>
+  <td><a href="https://medium.com/@nationallibrarysg" target="_blank">National Library Singapore Blog</a></td>
+  <td>National Library Board</td>
+  </tr>
+  <tr>
+  <td><a href="https://www.nlb.gov.sg/SearchDiscover/ExploreourPublications/TimeofYourLifeGoodReadsforthe50plus.aspx" target="_blank">NLB Time of Your Life: Good Reads for the 50plus</a></td>
   <td>National Library Board</td>
   </tr>
 </table>
@@ -282,6 +306,10 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <tr>
   <td><a href="https://betterinternet.sg/Resources/Resources-Listing?topic=everything&persona=seniors" target="_blank">Media Literacy Council Resources for Seniors</a></td>
   <td>Media Literacy Council</td>
+</tr>
+  <tr>
+  <td><a href="https://www.nlb.gov.sg/golibrary2/c/30307529/result/term/toyl" target="_blank">NLB Courses and Programmes for Seniors</a></td>
+  <td>National Library Board</td>
 </tr>
 <tr>
   <td><a href="https://csa.gov.sg/gosafeonline/resources/cyber-safety-interactive-handbook" target="_blank">Cyber Safety Interactive Handbook</a></td>
