@@ -68,6 +68,26 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   <td>English, Mandarin, Malay</td>
   <td>Limited Mandarin / English sessions available.<br>Sessions available on a first-come, first-served basis.</td>
 </tr>
+  <tr>
+  <td>05 June 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin, Malay</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+  <td>12 June 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin, Tamil</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+  <td>19 June 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin, Tamil</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+  <td>26 June 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin, Malay</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
 </table>
 
 Click <a href="https://imsilver.imda.gov.sg/stay-healthy-go-digital/" target="_blank">here</a> to return to the Stay Healthy, Go Digital page.
