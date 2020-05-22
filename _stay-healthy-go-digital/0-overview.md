@@ -10,6 +10,14 @@ collection_name: stay-healthy-go-digital
 
 [![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)](https://www.sgunited.gov.sg/stay-engaged/)
 
+#### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
+
+Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/vdc" target="_blank">here</a>!<br>
+
+#### Digital Pods / 数码乐学舱 / Pod Digital / மின்னிலக்கக் கூட்டரங்குகள் 
+
+Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!<br>
+
 #### Stay Healthy Go Digital: Resources for Seniors <br> 生活数码化 为健康加码： 乐龄资源 <br> Sumber untuk warga emas kekal sihat, gunakan wadah digital <br> மின்னிலக்க வாழ்வுடன் மேம்பட்ட வளர்ச்சியடைய மூத்தோருக்கான வளங்கள் 
 
 Life doesn’t have to go on hold when you can Go Digital! Here are some online resources to help our seniors stay engaged and connected while being at home. <br>
@@ -317,12 +325,5 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 </tr>
 </table>
 
-#### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
-
-Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/vdc" target="_blank">here</a>!
-
-#### Digital Pods / 数码乐学舱 / Pod Digital / மின்னிலக்கக் கூட்டரங்குகள் 
-
-Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!
 
 Be sure to also visit IMDA's <a href="https://www.imda.gov.sg/for-community/We-Go-Digital" target="_blank">We Go Digital page</a> to find out more on how you can buy, pay, learn, work and play online!
