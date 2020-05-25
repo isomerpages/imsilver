@@ -54,19 +54,9 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
     <th>Availability</th>
   </tr>
 <tr>
-  <td>15 May 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin, Malay</td>
-  <td><b>Registrations are now closed.</b></td>
-  </tr>
-<tr>
-  <td>23 May 2020<br>9:00am - 12:00pm</td>
-  <td>English, Mandarin, Tamil</td>
-  <td>Limited English-only / Tamil-Eng sessions available.<br><b>Mandarin speaking sessions are full</b>.<br></td>
-</tr>
-<tr>
   <td>29 May 2020<br>2:00pm - 5:00pm</td>
   <td>English, Mandarin, Malay</td>
-   <td>Limited English-only / Malay-Eng sessions available.<br><b>Mandarin speaking sessions are full</b>.<br></td>
+  <td>Limited Malay-English sessions available.<br></b>English & Mandarin speaking sessions are full</b>.<br></td>
 </tr>
   <tr>
   <td>05 June 2020<br>2:00pm - 5:00pm </td>
