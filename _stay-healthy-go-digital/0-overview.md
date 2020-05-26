@@ -30,11 +30,11 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
 <table>
   <tr>
     <th>Title</th>
-    <th width="40%">By</th>
+    <th width="30%">By</th>
   </tr>
    <tr>
      <td><b>Now Playing - </b><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326" target="_blank">Learn Together With Me S3 / 乐学每疫刻 3</a></td>
-  <td>gov.sg</td>
+  <td>Mediacorp</td>
 </tr>
   <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi0geTXLeWqbdNdkhI-6BDi" target="_blank">Eat Already? / 吃饱没？</a></td>
