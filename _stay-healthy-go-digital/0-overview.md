@@ -32,6 +32,10 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th>Title</th>
     <th width="40%">By</th>
   </tr>
+   <tr>
+     <td><b>Now Playing - </b><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326" target="_blank">Learn Together With Me S3 / 乐学每疫刻 3</a></td>
+  <td>gov.sg</td>
+</tr>
   <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi0geTXLeWqbdNdkhI-6BDi" target="_blank">Eat Already? / 吃饱没？</a></td>
   <td>gov.sg</td>
@@ -81,7 +85,12 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <td>gov.sg</td>
 </tr>
   <tr>
-  <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">Learn Together With Me / 乐学每疫刻</a></td>
+  <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">Learn Together With Me S1 / 乐学每疫刻 1</a></td>
+  <td>Mediacorp</td>
+</tr>
+  </tr>
+  <tr>
+  <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s2-2/ep1/940053" target="_blank">Learn Together With Me S2 / 乐学每疫刻 2 </a></td>
   <td>Mediacorp</td>
 </tr>
   <tr>
