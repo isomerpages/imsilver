@@ -87,7 +87,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   <tr>
   <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">Learn Together With Me S1 / 乐学每疫刻 1</a></td>
   <td>Mediacorp</td>
-</tr>
   </tr>
   <tr>
   <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s2-2/ep1/940053" target="_blank">Learn Together With Me S2 / 乐学每疫刻 2 </a></td>
