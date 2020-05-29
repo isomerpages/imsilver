@@ -11,6 +11,8 @@ Check out our educational reads and tips on digital skills and find out how they
 
 | Date | Title |
 |--|--|
+| 29 May 2020 | [A Senior's Guide to YouTube](/a-senior's-guide-to-youtube/) |
+| 29 May 2020 | [Texting Tips](/texting-tips/) |
 | 06 April 2020 | [A SIWA's Thirst for Learning](/a-siwas-thirst-for-learning/) |
 | 09 March 2020 | [Connecting Seniors Through WhatsApp](/connecting-seniors-through-whatsapp/) |
 | 12 February 2020 | [Join a Social Media Group](/join-a-social-media-group/) |
