@@ -10,6 +10,15 @@ collection_name: stay-healthy-go-digital
 
 [![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)](https://www.sgunited.gov.sg/stay-engaged/)
 
+#### Seniors Go Digital / 乐学数码计划/ Program Transformasi Digital untuk Warga Emas / !"ேதா&'கானமி,ன-ல'கமயமாத0தி1ட3
+
+Seniors Go Digital is a specially designed programme to assist you on your digital journey.
+
+It may seem challenging at first to make the digital leap, but fret not! We are here to take the first step with you, and will be with
+you every step of the way.
+
+Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
+
 #### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
 
 Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/vdc" target="_blank">here</a>!<br>
