@@ -20,7 +20,7 @@ hero-banner: /images/home-page/sii-hero-banner3.jpg
 # I want to dropdown
 i-want-to:
   - title: go digital
-    url: /stay-healthy-go-digital/
+    url: /seniors-go-digital/
   - title: get one-on-one assistance
     url: /get-one-on-one-assistance/overview/
   - title: test my digital readiness
@@ -38,7 +38,7 @@ info-sections:
     section-subtitle: Seniors Go Digital
     section-description: Helping you make connections that matter and giving you more reasons to smile.
     section-more-button: Learn more
-    section-more-button-url: /stay-healthy-go-digital/
+    section-more-button-url: /seniors-go-digital/
     section-image-path: images/seniors-go-digital/SG_Digital_logo.jpg
 
   - section-title: 
