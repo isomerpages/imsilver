@@ -2,21 +2,19 @@
 layout: leftnav-page-content
 title: Seniors Go Digital
 permalink: /stay-healthy-go-digital/
-breadcrumb: Stay Healthy, Go Digital
+breadcrumb: Seniors Go Digital
 collection_name: stay-healthy-go-digital
 ---
 
-![image](/images/stay-healthy-go-digital/SHGD-phase-2_banner_final.jpg)
+![image](/images/seniors-go-digital/SG_Digital_IMsilver_overview.jpg)
 
-[![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)](https://www.sgunited.gov.sg/stay-engaged/)
-
-#### Seniors Go Digital / 乐学数码计划/ Program Transformasi Digital untuk Warga Emas / !"ேதா&'கானமி,ன-ல'கமயமாத0தி1ட3
+#### Seniors Go Digital
 
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
-
+<br><br>
 It may seem challenging at first to make the digital leap, but fret not! We are here to take the first step with you, and will be with
 you every step of the way.
-
+<br><br>
 Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
 
 #### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
