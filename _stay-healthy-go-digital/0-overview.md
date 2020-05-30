@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Stay Healthy, Go Digital
+title: Seniors Go Digital
 permalink: /stay-healthy-go-digital/
 breadcrumb: Stay Healthy, Go Digital
 collection_name: stay-healthy-go-digital
