@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Seniors Go Digital
-permalink: /stay-healthy-go-digital/
+permalink: /seniors-go-digital/
 breadcrumb: Seniors Go Digital
 collection_name: stay-healthy-go-digital
 ---
