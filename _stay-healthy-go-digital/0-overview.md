@@ -1,14 +1,21 @@
 ---
 layout: leftnav-page-content
-title: Stay Healthy, Go Digital
-permalink: /stay-healthy-go-digital/
-breadcrumb: Stay Healthy, Go Digital
+title: Seniors Go Digital
+permalink: /seniors-go-digital/
+breadcrumb: Seniors Go Digital
 collection_name: stay-healthy-go-digital
 ---
 
-![image](/images/stay-healthy-go-digital/SHGD-phase-2_banner_final.jpg)
+![image](/images/seniors-go-digital/SG_Digital_IMsilver_overview.jpg)
 
-[![image](/images/stay-healthy-go-digital/SHGD_SGunited.JPG)](https://www.sgunited.gov.sg/stay-engaged/)
+#### Seniors Go Digital / 数码乐龄计划 / Program Transformasi Digital untuk Warga Emas / மூத்தோர் மின்னிலக்கமயமாதல் திட்டம்
+
+Seniors Go Digital is a specially designed programme to assist you on your digital journey.
+<br><br>
+It may seem challenging at first to make the digital leap, but fret not! We are here to take the first step with you, and will be with
+you every step of the way.
+<br><br>
+Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
 
 #### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
 
@@ -32,10 +39,6 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
     <th>Title</th>
     <th width="30%">By</th>
   </tr>
-   <tr>
-     <td><b>Now Playing - </b><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326" target="_blank">Learn Together With Me S3 / 乐学每疫刻 3</a></td>
-  <td>Mediacorp</td>
-</tr>
   <tr>
   <td><a href="https://www.youtube.com/playlist?list=PLH2CR4s1lqyi0geTXLeWqbdNdkhI-6BDi" target="_blank">Eat Already? / 吃饱没？</a></td>
   <td>gov.sg</td>
@@ -90,6 +93,10 @@ Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! B
   </tr>
   <tr>
   <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s2-2/ep1/940053" target="_blank">Learn Together With Me S2 / 乐学每疫刻 2 </a></td>
+  <td>Mediacorp</td>
+</tr>
+  <tr>
+     <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326" target="_blank">Learn Together With Me S3 / 乐学每疫刻 3</a></td>
   <td>Mediacorp</td>
 </tr>
   <tr>
