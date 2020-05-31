@@ -8,7 +8,7 @@ collection_name: stay-healthy-go-digital
 
 ![image](/images/seniors-go-digital/SG_Digital_IMsilver_overview.jpg)
 
-#### Seniors Go Digital
+#### Seniors Go Digital / 数码乐龄计划 / Program Transformasi Digital untuk Warga Emas / மூத்தோர் மின்னிலக்கமயமாதல் திட்டம்
 
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
 <br><br>
