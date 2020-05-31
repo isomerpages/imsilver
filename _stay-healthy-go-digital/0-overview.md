@@ -25,13 +25,6 @@ Our Digital Clinics have gone online! Have a mobile phone related query? Get one
 
 Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!<br>
 
-#### Stay Healthy Go Digital: Resources for Seniors <br> 生活数码化 为健康加码： 乐龄资源 <br> Sumber untuk warga emas kekal sihat, gunakan wadah digital <br> மின்னிலக்க வாழ்வுடன் மேம்பட்ட வளர்ச்சியடைய மூத்தோருக்கான வளங்கள் 
-
-Life doesn’t have to go on hold when you can Go Digital! Here are some online resources to help our seniors stay engaged and connected while being at home. <br>
-<!--居家防疫不无聊，数码世界找精彩！这里给年长者提供一些线上资源，让大家足不出户，也能过健康充实的生活。 <br>
-Kehidupan tidak perlu dihentikan apabila anda boleh Menggunakan Wadah Digital! Berikut adalah beberapa sumber dalam talian untuk membantu warga emas kita terus terlibat dan berhubungan semasa berada di rumah. <br>
-மின்னிலக்க வாழ்வு உங்களை வரவேற்கும்போது வாழ்க்கைக்குத் தடைப்போட வேண்டியதில்லை! வீட்டில் இருக்கும் நமது மூத்தோர் தங்களை ஈடுபடுத்திக் கொள்ளவும் வெளியுலகுடன் இணைந்திருக்கவும் இந்த இணைய வளங்கள் உதவியாக இருக்கும். -->
-
 #### For your viewing pleasure / 视频观赏 / Untuk tontonan anda / நீங்கள் பார்த்து மகிழ 
 
 <table>
