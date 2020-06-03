@@ -53,11 +53,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
     <th>Languages Offered</th>
     <th>Availability</th>
   </tr>
-<tr>
-  <td>29 May 2020<br>2:00pm - 5:00pm</td>
-  <td>English, Mandarin, Malay</td>
-  <td>Limited Malay-English sessions available.<br><b>English & Mandarin speaking sessions are full.</b></td>
-</tr>
   <tr>
   <td>05 June 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin, Malay</td>
