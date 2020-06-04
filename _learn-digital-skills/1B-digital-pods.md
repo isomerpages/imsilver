@@ -100,8 +100,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>7 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Keeping in TOUCH through Facebook</b><br><b>通过Facebook保持联系</b><br>Discover the wonders of video calls and how they can help you stay in contact with your family and friends better!<br> 发觉视频通话的奇妙之处，以及它如何能帮助您更好地与家人和朋友保持联系！</td>
 </tr>
-  
-  
   <tr>
   <td>9 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Learn to connect effortlessly with friends and family through Teams</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
@@ -109,7 +107,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>16 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Use your mobile devices with ease with Microsoft Accessibility Features</b></br>Are you aware of accessibility features that allow you to use your devices with ease? Learn about increasing font size, reading aloud the content on your screen, magnifying text size, and translating from English to Chinese amongst other functions. These are also especially helpful to persons with disabilities or seniors who may have limited vision.</td>
+  <td><b>Use your mobile devices with ease with Microsoft Accessibility Features</b><br>Are you aware of accessibility features that allow you to use your devices with ease? Learn about increasing font size, reading aloud the content on your screen, magnifying text size, and translating from English to Chinese amongst other functions. These are also especially helpful to persons with disabilities or seniors who may have limited vision.</td>
 </tr>
 <tr>
   <td>23 July 2020<br><br>3:00 - 3:30pm</td>
