@@ -109,7 +109,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   <td>16 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Are you aware of accessibility features that allow you to use your devices with ease? Learn about increasing font size, reading aloud the content on your screen, magnifying text size, and translating from English to Chinese amongst other functions. These are also especially helpful to persons with disabilities or seniors who may have limited vision.</td>
+  <td><b>Use your mobile devices with ease with Microsoft Accessibility Features</b></br>Are you aware of accessibility features that allow you to use your devices with ease? Learn about increasing font size, reading aloud the content on your screen, magnifying text size, and translating from English to Chinese amongst other functions. These are also especially helpful to persons with disabilities or seniors who may have limited vision.</td>
 </tr>
 <tr>
   <td>23 July 2020<br><br>3:00 - 3:30pm</td>
