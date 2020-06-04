@@ -56,7 +56,7 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   <tr>
   <td>05 June 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin, Malay</td>
-  <td>Sessions are available for registration on a first-come, first-served basis.<br><b>Mandarin-speaking sessions are full.</b></td>
+  <td><b>Registration is now closed.</b></td>
   </tr>
    <tr>
   <td>12 June 2020<br>2:00pm - 5:00pm </td>
