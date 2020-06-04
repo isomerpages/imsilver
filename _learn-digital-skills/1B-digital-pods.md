@@ -100,6 +100,28 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>7 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Keeping in TOUCH through Facebook</b><br><b>通过Facebook保持联系</b><br>Discover the wonders of video calls and how they can help you stay in contact with your family and friends better!<br> 发觉视频通话的奇妙之处，以及它如何能帮助您更好地与家人和朋友保持联系！</td>
 </tr>
+  
+  
+  <tr>
+  <td>9 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn to connect effortlessly with friends and family through Teams</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
+  <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Microsoft<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
+  </tr>
+<tr>
+  <td>18 June 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Creating with Salesforce Trailhead 101 (Part 2)</b><br>Strengthen your foundation to create the necessary fields to build a customised app that you can call your own. </td>
+</tr>
+<tr>
+  <td>25 June 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Creating with Salesforce Trailhead 101 (Part 3)</b><br>Build up a reporting template to organise your data and findings that you will get from your own app. Visualise the data with charts and a simple dashboard. </td>
+</tr>
+  <tr>
+  <td>2 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Building a simple mobile app</b><br>Create a simple app to track visits to your local park</td>
+</tr>
+  
+  
+  
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise.
