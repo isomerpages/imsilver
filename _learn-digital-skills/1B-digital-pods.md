@@ -100,6 +100,26 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>7 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Keeping in TOUCH through Facebook</b><br><b>通过Facebook保持联系</b><br>Discover the wonders of video calls and how they can help you stay in contact with your family and friends better!<br> 发觉视频通话的奇妙之处，以及它如何能帮助您更好地与家人和朋友保持联系！</td>
 </tr>
+  <tr>
+  <td>9 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn to connect effortlessly with friends and family through Teams</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
+  <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Microsoft<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
+  </tr>
+<tr>
+  <td>16 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Use your mobile devices with ease with Microsoft Accessibility Features</b><br>Are you aware of accessibility features that allow you to use your devices with ease? Learn about increasing font size, reading aloud the content on your screen, magnifying text size, and translating from English to Chinese amongst other functions. These are also especially helpful to persons with disabilities or seniors who may have limited vision.</td>
+</tr>
+<tr>
+  <td>23 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Increase your productivity with Microsoft Accessibility Features</b><br>Discover how to scan files using camera and convert them into text for access across PC and mobile. Leverage Assistive Technologies like voice controls and screen readers to easy consume the information captured.</td>
+</tr>
+  <tr>
+  <td>30 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Use your devices with ease with Microsoft Accessibility Features</b><br>We will cover topics like how to use Narrator to change font size and contrast for ease of use, how to customize the commands in the new simplified Ribbon, how to Dictate and Read Aloud in email and Edge browser, and more of the latest accessibility features in Outlook for Windows.</td>
+</tr>
+  
+  
+  
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise.
