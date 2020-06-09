@@ -50,19 +50,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
     <th width="25%">Registration and other details</th>
   </tr>
 <tr>
-  <td>19 May 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Mobile payments with Google Pay<br>Google Pay 手机支付</b> <br>Be introduced to Google Pay. Learn to set up and discover the different ways you can pay with Google Pay. It's simple and safe!</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Google<br><br><a href="https://form.gov.sg/5eae33e62137fe0011d050f7" target="_blank">Click to register</a></td>
-  </tr>
-<tr>
-  <td>26 May 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Do more with your money on Google Pay<br>Google Pay 不仅仅是支付</b><br>Discover how easy it is to pay for daily transactions with Google Pay. Come and watch the demo on using Google Pay for food ordering and buying movie tickets!</td>
-</tr>
-<tr>
-  <td>2 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Organise your photos like a pro with Google Photos - Part 1 <br>(English only)</b><br>Learn how to use Google Photos to organise your photos and make them look stunning!</td>
-</tr>
-  <tr>
+  
   <td>9 June 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Organise your photos like a pro with Google Photos - Part 2 <br>(English only)</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
 </tr>
