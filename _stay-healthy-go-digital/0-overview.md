@@ -6,12 +6,12 @@ breadcrumb: Seniors Go Digital
 collection_name: stay-healthy-go-digital
 ---
 
-![image](/images/seniors-go-digital/SG_Digital_IMsilver_overview.jpg)
+![image](/images/seniors-go-digital/IMSilver_mast_head_banner.jpg)
 
 #### Seniors Go Digital / 数码乐龄计划 / Program Transformasi Digital untuk Warga Emas / மூத்தோர் மின்னிலக்கமயமாதல் திட்டம்
 
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
-<br><br>
+<br><br><br><br>
 It may seem challenging at first to make the digital leap, but fret not! We are here to take the first step with you, and will be with
 you every step of the way.
 <br><br>
