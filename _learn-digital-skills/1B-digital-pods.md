@@ -51,10 +51,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
 <tr>
   
-  <td>9 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Organise your photos like a pro with Google Photos - Part 2 <br>(English only)</b><br>Learn how you can design photo collages and share your memories with family and friends!</td>
-</tr>
-<tr>
   <td>11 June 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Creating with Salesforce Trailhead 101 (Part 1)</b><br>Learn how easy it is to create an app using Salesforce TrailHead. Understand the fundamentals of apps creation and build your foundation in this first lesson!</td>
   <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Salesforce<br><br><a href="https://form.gov.sg/5eae39e72137fe0011d06977" target="_blank">Click to register</a></td>
