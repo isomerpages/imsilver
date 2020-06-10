@@ -103,7 +103,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
   <tr>
   <td>14 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Easy payment and transport with GrabPay & GrabRides</b><br>English (Support for Questions and Answers in Malay)<br>Discover a simple and safe method to making e-payments through GrabPay, and booking your next ride through GrabRides!<br></td>
+  <td><b>Easy payment and transport with GrabPay & GrabRides</b><br>English (Support for Questions and Answers in Malay)<br>Discover a simple and safe method to making e-payments through GrabPay, and booking your next ride through GrabRides!</td>
   <td rowspan="4" valign="middle">Conducted in: <b>English (Support for Questions and Answers in Malay)</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
   </tr>
  <tr>
@@ -117,7 +117,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
  <tr>
   <td>4 August 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>通过GrabFood和GrabMart满足您的饥饿感</b><br>学会怎么使用GrabFood以及GrabMart做网络购物<br></td>
+  <td><b>通过GrabFood和GrabMart满足您的饥饿感</b><br>学会怎么使用GrabFood以及GrabMart做网络购物</td>
 </tr>
     <tr>
   <td>6 August 2020<br><br>10:00 - 10:30am</td>
