@@ -43,7 +43,6 @@ To join Digital Pod sessions, you will require the following: <br>要参加数�
 
 Register now for these upcoming Digital Pods. Look out for new classes which will be published monthly!
 
-<table>
   <tr>
     <th width="15%">When</th>
     <th width="60%">Topic</th>
