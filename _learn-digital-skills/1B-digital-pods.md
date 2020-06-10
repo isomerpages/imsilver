@@ -108,7 +108,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
  <tr>
   <td>21 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>(Presented with some Malay terms)<br>  Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!<br>Conducted in English</td>
+  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>(Presented with some Malay terms)<br>  Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
 </tr>
   <tr>
   <td>28 July 2020<br><br>3:00 - 3:30pm</td>
@@ -133,7 +133,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
    <tr>
   <td>27 August 2020<br><br>10:00 - 10:30am</td>
-  <td><b>Creating With Videos on iPhone and iPad  - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。</td>
+  <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。</td>
 </tr>
 </table>
 
