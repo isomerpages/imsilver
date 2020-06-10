@@ -101,7 +101,16 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>30 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Use your devices with ease with Microsoft Accessibility Features</b><br>We will cover topics like how to use Narrator to change font size and contrast for ease of use, how to customize the commands in the new simplified Ribbon, how to Dictate and Read Aloud in email and Edge browser, and more of the latest accessibility features in Outlook for Windows.</td>
 </tr>
-  
+    <tr>
+<td>14 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Easy payment and transport with GrabPay & GrabRides</b><br>Discover a simple and safe method to making e-payments through GrabPay, and booking your next ride through GrabRides!</td>
+  <td rowspan="4" valign="middle">Conducted in: <b>English (Support for Questions and Answers in Malay)</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
+  </tr>
+ <tr>
+  <td>21 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br><br>  Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
+</tr>
+
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise.
