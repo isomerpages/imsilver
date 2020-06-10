@@ -110,16 +110,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>21 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
 </tr>
-  <tr>
-  <td>28 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>使用GrabPay和GrabRides轻松付款和运输</b><br>学会怎么用GrabPay做简单的电子支付, 并通过GrabRides 预订您的下一趟旅程</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>Mandarin</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
-  </tr>
- <tr>
-  <td>4 August 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>通过GrabFood和GrabMart满足您的饥饿感</b><br>学会怎么使用GrabFood以及GrabMart做网络购物</td>
-</tr>
-
+ 
 
 </table>
 
