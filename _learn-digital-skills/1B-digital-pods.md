@@ -138,7 +138,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
    <tr>
   <td>27 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。
-</tr></td>
+</td></tr>
 
 </table>
 
