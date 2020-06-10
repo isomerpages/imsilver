@@ -39,10 +39,8 @@ To join Digital Pod sessions, you will require the following: <br>要参加数�
   <td>அங்கத்திற்கு நீங்கள் பதிவு செய்யும்போது அங்கத்தின் விவரங்களைப் பெறுவதற்கான மின்னஞ்சல் முகவரி </td>
   <td>தேவையான ஒரு கைப்பேசி செயலியை நீங்கள் பதிவிறக்கம் செய்ய வேண்டியிருக்கலாம். எ.கா. Zoom. அங்கத்தை உறுதிப்படுத்தும் மின்னஞ்சலில் இதுபற்றி உங்களுக்கு விவரமளிக்கப்படும் </td>
 </tr>
-</table>
 
 Register now for these upcoming Digital Pods. Look out for new classes which will be published monthly!
-
 <table>
   <tr>
     <th width="15%">When</th>
@@ -101,40 +99,46 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>30 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Use your devices with ease with Microsoft Accessibility Features</b><br>We will cover topics like how to use Narrator to change font size and contrast for ease of use, how to customize the commands in the new simplified Ribbon, how to Dictate and Read Aloud in email and Edge browser, and more of the latest accessibility features in Outlook for Windows.</td>
 </tr>
-  <tr>
-  <td>14 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Easy payment and transport with GrabPay & GrabRides</b><br>(Presented with some Malay terms)<br>Discover a simple and safe method to making e-payments through GrabPay, and booking your next ride through GrabRides!<br></td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
+    <tr>
+<td>14 July 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Easy payment and transport with GrabPay & GrabRides</b><br>Discover a simple and safe method to making e-payments through GrabPay, and booking your next ride through GrabRides!</td>
+  <td rowspan="2" valign="middle">Conducted in: <b>English (Support for Questions and Answers in Malay)</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
   </tr>
  <tr>
   <td>21 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>(Presented with some Malay terms)<br>  Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
+  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
 </tr>
+ 
   <tr>
   <td>28 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>使用GrabPay和GrabRides轻松付款和运输</b> (Mandarin only)<br>学会怎么用GrabPay做简单的电子支付, 并通过GrabRides 预订您的下一趟旅程</td>
-</tr>
+  <td><b>使用GrabPay和GrabRides轻松付款和运输</b><br>学会怎么用GrabPay做简单的电子支付, 并通过GrabRides 预订您的下一趟旅程</td>
+  <td rowspan="2" valign="middle">Conducted in: <b>Mandarin</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
+  </tr>
  <tr>
   <td>4 August 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>通过GrabFood和GrabMart满足您的饥饿感</b> (Mandarin only)<br>学会怎么使用GrabFood以及GrabMart做网络购物<br></td>
+  <td><b>通过GrabFood和GrabMart满足您的饥饿感</b><br>学会怎么使用GrabFood以及GrabMart做网络购物</td>
 </tr>
-    <tr>
+
+ <tr>
   <td>6 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Make Reading Easier on iPhone and iPad</b><br><b>轻轻松松阅读⼿机</b><br>Discover in-built accessibility features that help make reading on your iPhone and iPad much easier, such as having the content read out to you.<br>使⽤iOS的辅助功能帮助您更轻松地在iPhone和iPad上阅读，甚⾄让它朗读给您听呢。</td>
   <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: TinkerTanker Pte Ltd, certified Apple Professional Learning Provider<br><br><a href="https://form.gov.sg/5ee0882273f04700113223d3" target="_blank">Click to register</a></td>
   </tr>
+  
    <tr>
   <td>13 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Input Without Typing on iPhone and iPad</b><br><b>轻轻松松的输⼊法</b><br>Find out how you can make use of in-built features to speak instead of type out text on your iPhone and iPad.<br>学习怎么⽤iOS的语⾳功能帮您轻轻松松地在iPhone和iPad上输⼊⽂字。</td>
 </tr>
+
    <tr>
   <td>20 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Creating With Photos  on iPhone and iPad - make colouring sheets & go back in time</b><br><b>创意照⽚</b><br>Use filters and editing tools in the Photos app on iOS to create colouring sheets or give your photos a vintage look.<br>学习如何使⽤滤镜和编辑，把照⽚创造成填⾊和古早版。</td>
 </tr>
+
    <tr>
   <td>27 August 2020<br><br>10:00 - 10:30am</td>
-  <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。</td>
-</tr>
+  <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。
+</td></tr>
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise.
