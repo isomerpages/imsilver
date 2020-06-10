@@ -108,7 +108,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   </tr>
  <tr>
   <td>21 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br><br>  Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
+  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
 </tr>
   <tr>
   <td>28 July 2020<br><br>3:00 - 3:30pm</td>
