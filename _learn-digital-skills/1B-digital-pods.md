@@ -121,6 +121,24 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td><b>通过GrabFood和GrabMart满足您的饥饿感</b><br>学会怎么使用GrabFood以及GrabMart做网络购物</td>
 </tr>
 
+    <tr>
+  <td>6 August 2020<br><br>10:00 - 10:30am</td>
+  <td><b>Make Reading Easier on iPhone and iPad</b><br><b>轻轻松松阅读⼿机</b><br>Discover in-built accessibility features that help make reading on your iPhone and iPad much easier, such as having the content read out to you.<br>使⽤iOS的辅助功能帮助您更轻松地在iPhone和iPad上阅读，甚⾄让它朗读给您听呢。</td>
+  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: TinkerTanker Pte Ltd, certified Apple Professional Learning Provider<br><br><a href="https://form.gov.sg/5ee0882273f04700113223d3" target="_blank">Click to register</a></td>
+  </tr>
+   <tr>
+  <td>13 August 2020<br><br>10:00 - 10:30am</td>
+  <td><b>Input Without Typing on iPhone and iPad</b><br><b>轻轻松松的输⼊法</b><br>Find out how you can make use of in-built features to speak instead of type out text on your iPhone and iPad.<br>学习怎么⽤iOS的语⾳功能帮您轻轻松松地在iPhone和iPad上输⼊⽂字。</td>
+</tr>
+   <tr>
+  <td>20 August 2020<br><br>10:00 - 10:30am</td>
+  <td><b>Creating With Photos  on iPhone and iPad - make colouring sheets & go back in time</b><br><b>创意照⽚</b><br>Use filters and editing tools in the Photos app on iOS to create colouring sheets or give your photos a vintage look.<br>学习如何使⽤滤镜和编辑，把照⽚创造成填⾊和古早版。</td>
+</tr>
+   <tr>
+  <td>27 August 2020<br><br>10:00 - 10:30am</td>
+  <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。
+  </td></tr>
+
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise.
