@@ -83,6 +83,11 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   <td>English, Mandarin and Malay</td>
   <td>Sessions are available for registration on a first-come, first-served basis.<br></td>
   </tr>
+    <tr>
+   <td>24 July 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin and Tamil</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.<br></td>
+  </tr>
 </table>
 
 Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
