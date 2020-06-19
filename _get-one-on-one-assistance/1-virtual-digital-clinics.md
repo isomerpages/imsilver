@@ -61,7 +61,7 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
    <tr>
   <td>26 June 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Malay</td>
-  <td><b>All sessions booked</b><br></td>
+  <td><b>All sessions booked.</b><br></td>
     </tr>
   <tr>
   <td>3 July 2020<br>2:00pm - 5:00pm </td>
