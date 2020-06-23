@@ -14,9 +14,9 @@ Here you will find guides on how to use other useful digital services and apps
 * [Make medical appointments at Polyclinic or Hospitals](https://www.nhgp.com.sg/apptmod/apptmod_login.aspx?r=view_appointments){:target="_blank"}<br>
 * [Health Promotion Board (HPB) Healthy 365 Mobile Application](https://www.healthhub.sg/apps/25/healthy365){:target="_blank"}<br>
 * [Health Promotion Board (HPB) Health Hub](https://www.healthhub.sg/){:target="_blank"}<br>
-* [The benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI/){:target="_blank"}<br>
-* [The benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
-* [The benefits of Teleconsultation (Tamil Subtitles](https://www.youtube.com/watch?v=bZR7D_MlPDY/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation (Tamil Subtitles](https://www.youtube.com/watch?v=bZR7D_MlPDY/){:target="_blank"}<br>
 
 <h3>2. Transport</h3>
 * [Land Transport Authority (LTA) - MyTransport Mobile Application](https://www.mytransport.sg/mobile/mytransport_mobile.html){:target="_blank"}<br>
