@@ -56,22 +56,17 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-0pky">Podcasts (Whatsapp)</td>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="4">Tier 2<br> E-Government Services</td>
-    <td class="tg-0pky">SingPass</td>
-    <td class="tg-0pky"> <br>
+    <td class="tg-lboi" rowspan="2">Tier 2<br> E-Government Services</td>
+    <td class="tg-0pky">SingPass Mobile</td>
+    <td class="tg-0pky"><a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">English</a><br>
+    <td class="tg-0pky"><a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">中文</a><br>
+
+ <br>
 
 
 </td>
   </tr>
-  <tr>
-    <td class="tg-0pky">SingPass Mobile</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Pasir Ris Elias</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Punggol 21</td>
-  </tr>
+
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 3</td>
     <td class="tg-0pky">ACE The Place</td>
