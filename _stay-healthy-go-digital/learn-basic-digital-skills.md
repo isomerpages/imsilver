@@ -56,11 +56,19 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-0pky">Podcasts (Whatsapp)</td>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="4">Tier 2</td>
-    <td class="tg-0pky">Aljunied</td>
+    <td class="tg-lboi" rowspan="4">Tier 2<br> E-Government Services</td>
+    <td class="tg-0pky">SingPass</td>
+    <td class="tg-0pky">*  [How to register for SingPass and set up 2FA](https://www.singpass.gov.sg/singpass/common/supportmain){:target="_blank"}<br>
+*  [How to set up and use the SingPass Mobile app](https://singpassmobile.sg/?utm_source=IMDA&utm_medium=web_link&utm_campaign=SPMLaunch2018){:target="_blank"}<br>
+*  [FAQs on SingPass 2FA (SingPass Mobile)](http://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#TOPIC_210129){:target="_blank"}<br>
+*  [Introducing SingPass Mobile. Say goodbye to passwords and tokens!](https://www.youtube.com/watch?v=dDrqT64ydd0){:target="_blank"}<br>
+*  [Using the SingPass Mobile app to log in within seconds!](https://www.youtube.com/watch?v=f4di4HPgaRY){:target="_blank"}<br>
+*  [SingPass Mobile Quick Start Guide](/files/SingPass Mobile.pdf){:target="_blank"}<br>
+*  [SingPass Mobile Quick Start Guide (Chinese)](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
+From 1 April 2021, SingPass users will no longer be able to use the OneKey Token. We encourage all SingPass users to download [SingPass Mobile](http://www.go.gov.sg/singpass-guides){:target="_blank"} or use SMS-OTP as their 2FA method of transaction with government digital services.</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pasir Ris East</td>
+    <td class="tg-0pky">SingPass Mobile</td>
   </tr>
   <tr>
     <td class="tg-0pky">Pasir Ris Elias</td>
