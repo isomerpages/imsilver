@@ -32,7 +32,10 @@ Our learning programme will be tiered according to your capacity to learn and yo
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 1</td>
-    <td class="tg-lboi"> [ ](/files/DREK100919/DREK-T2_Wireless@SG (English).pdf)</td>
+    <td class="tg-lboi">
+| Topic | English | 中文 | Melayu | தமிழ் |
+| -- | -- | -- | -- | -- |
+| PayNow | [ ](/files/PayNow/11154_DREK-T1-PAYNow_English.pdf) | [ ](/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf)|</td>
   </tr>
   <tr>
     <td class="tg-lboi">Buona Vista</td>
