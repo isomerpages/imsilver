@@ -75,10 +75,6 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-0pky"></td>
  
   
-   <tr>
-    <td class="tg-0pky">PayNow</td>
-    <td class="tg-0pky"></td>
-  </tr>
 </table>
 
 For more information on other resources, please [click here](https://pa.gov.sg/our-network/community-clubs/locate-cc){:target="_blank"}
