@@ -6,7 +6,10 @@
 
 - title: Seniors Go Digital
   url: /seniors-go-digital/
-
+  sub-links: 
+     #- title: Learn Basic Digital Skills
+      # url: /seniors-go-digital/learn-basic-digital-skills/
+       
 - title: About
   url: /about/
 
