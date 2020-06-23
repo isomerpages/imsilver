@@ -4,12 +4,12 @@ title: Learn Basic Digital Skills
 permalink: /seniors-go-digital/learn-basic-digital-skills
 breadcrumb: Learn Basic Digital Skills
 collection_name: learn-basic-digital-skills
-second_nav_title: Learn Basic Digital SKills
+second_nav_title: Learn Basic Digital Skills
 ---
 
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
-Our learning programme will be tiered according to your capacity to learn and you will be guided through 3 tiers of digital skill as shown from the table below. 
+Our learning programme will be tiered according to your capacity to learn and you will be guided through 3 tiers of digital skill as shown from the table below. <br><br>
 **3 Tiers of Digital Skills**
 
 <style type="text/css">
@@ -70,7 +70,6 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-0pky">Marsiling</td>
   </tr>
   <tr>
-   
 </table>
 
 For more information on other resources, please [click here](https://pa.gov.sg/our-network/community-clubs/locate-cc){:target="_blank"}
