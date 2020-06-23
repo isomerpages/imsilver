@@ -69,7 +69,6 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <td class="tg-0pky">Marsiling</td>
   </tr>
-  <tr>
 </table>
 
 For more information on other resources, please [click here](https://pa.gov.sg/our-network/community-clubs/locate-cc){:target="_blank"}
