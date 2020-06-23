@@ -50,10 +50,16 @@ Our learning programme will be tiered according to your capacity to learn and yo
     
   </tr>
   <tr>
-    <td class="tg-lboi">Learn Together with Me Videos  </td>
+    <td class="tg-lboi">Learn Together with Me Videos S1 </td>
+    <td class="tg-0pky">
+     <a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">中文</a><br>
+  </td>
   </tr>
   <tr>
     <td class="tg-0pky">Podcasts (Whatsapp)</td>
+  <td class="tg-0pky">
+    To be added <br>
+  </td>
   </tr>
   
   <tr>
