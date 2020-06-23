@@ -12,10 +12,10 @@ collection_name: stay-healthy-go-digital
 
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
 <br><br>
-It may seem challenging at first to make the digital leap, but fret not! We are here to take the first step with you, and will be with
-you every step of the way.
+It may seem challenging at first to make the digital leap, but fret not! We're here to help you learn the skills needed to enjoy the convenience of living in a digital world. Our learning programme will be tiered according to your capacity to learn and you will be guided through 3 tiers of digital skills <a href="http://imsilver.sg/seniors-go-digital/learn-basic-digital-skills" target="blank">here</a>!<br> 
 <br><br>
 Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
+
 
 #### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
 
