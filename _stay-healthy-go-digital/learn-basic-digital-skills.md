@@ -62,18 +62,8 @@ Our learning programme will be tiered according to your capacity to learn and yo
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">English</a><br>
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">中文</a><br>
     </td>
+</tr>
 
- <br>
-
-
-</td>
-  </tr>
-
-  <tr>
- <td class="tg-lboi" rowspan="3">Tier 3<br> Transacting Digitally</td>
-    <td class="tg-0pky">Online Banking and Payments</td>
-    <td class="tg-0pky"></td>
- 
   
 </table>
 
