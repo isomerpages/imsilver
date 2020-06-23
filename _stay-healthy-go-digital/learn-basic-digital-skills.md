@@ -34,7 +34,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 1<br> Communication Skills</td>
     <td class="tg-lboi">Wireless@SG</td>
-    <td class=tg-1boi">
+    <td class="tg-1boi">
     <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">English</a><br>
     <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">中文</a><br>
     <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Melayu</a><br>
@@ -43,6 +43,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
   </tr>
   <tr>
     <td class="tg-lboi">Gov.sg </td>
+    <td class="tg-1boi">
    <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">English</a><br>
     <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">中文</a><br>
    <br>
