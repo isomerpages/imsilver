@@ -55,8 +55,9 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <td class="tg-0pky">Podcasts (Whatsapp)</td>
   </tr>
+  
   <tr>
-    <td class="tg-lboi" rowspan="2">Tier 2<br> E-Government Services</td>
+    <td class="tg-lboi" rowspan="1">Tier 2<br> E-Government Services</td>
     <td class="tg-0pky">SingPass Mobile</td>
     <td class="tg-0pky">
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">English</a><br>
