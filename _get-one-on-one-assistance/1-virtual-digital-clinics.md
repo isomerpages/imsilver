@@ -66,7 +66,7 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   <tr>
   <td>3 July 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Tamil</td>
-  <td>Sessions are available for registration on a first-come, first-served basis. <b>The English and Mandarin sessions are full.</b><br></td>
+  <td>Sessions are available for registration on a first-come, first-served basis. <br><b>The English and Mandarin sessions are full.</b><br></td>
   </tr>
   <tr>
     <td>10 July 2020<br>2:00pm - 5:00pm </td>
