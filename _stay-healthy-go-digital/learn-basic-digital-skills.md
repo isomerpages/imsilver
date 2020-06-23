@@ -31,8 +31,8 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <th class="tg-lboi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="4"><span style="background-color:#ffce93">Tier 1</span></td>
-    <td class="tg-lboi">Bishan</td>
+    <td class="tg-lboi" rowspan="4">Tier 1</td>
+    <td class="tg-lboi"> [ ](/files/DREK100919/DREK-T2_Wireless@SG (English).pdf)</td>
   </tr>
   <tr>
     <td class="tg-lboi">Buona Vista</td>
