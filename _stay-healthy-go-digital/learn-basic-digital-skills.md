@@ -29,7 +29,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <th class="tg-lboi"><span style="font-weight:700">Tier</span></th>
     <th class="tg-lboi"><span style="font-weight:700">Topic</span></th>
-    <th class="tg-1boi"><span style="font-weight:700">Languages 
+    <th class="tg-1boi"><span style="font-weight:700">Languages</span><th>
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 1<br> Communication Skills</td>
