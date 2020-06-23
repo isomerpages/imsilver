@@ -70,10 +70,10 @@ Our learning programme will be tiered according to your capacity to learn and yo
   </tr>
 
   <tr>
- <td class="tg-lboi" rowspan="3">Tier 3 - Transacting Digitally</td>
+ <td class="tg-lboi" rowspan="3">Tier 3<br> Transacting Digitally</td>
     <td class="tg-0pky">Online Banking and Payments</td>
     <td class="tg-0pky"></td>
-  </tr>
+ 
   
    <tr>
     <td class="tg-0pky">PayNow</td>
