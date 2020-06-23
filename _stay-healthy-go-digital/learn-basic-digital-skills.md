@@ -46,8 +46,8 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-1boi">
    <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">English</a><br>
     <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">中文</a><br>
-   <br>
-                                                                                                                           </td>
+    </td>
+    
   </tr>
   <tr>
     <td class="tg-lboi">Learn Together with Me Videos  </td>
@@ -60,6 +60,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-0pky">SingPass Mobile</td>
     <td class="tg-0pky"><a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">English</a><br>
     <td class="tg-0pky"><a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">中文</a><br>
+    </td>
 
  <br>
 
