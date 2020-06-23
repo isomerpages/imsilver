@@ -45,6 +45,10 @@ Our learning programme will be tiered according to your capacity to learn and yo
   </tr>
   <tr>
     <td class="tg-lboi">Gov.sg </td>
+   <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">English</a><br>
+    <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">中文</a><br>
+   <br>
+
   </tr>
   <tr>
     <td class="tg-lboi">Learn Together with Me Videos  </td>
