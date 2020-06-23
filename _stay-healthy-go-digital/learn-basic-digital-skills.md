@@ -33,53 +33,41 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 1</td>
     <td class="tg-lboi">Bishan</td>
-    <td class="tg-lboi">62594720</td>
   </tr>
   <tr>
     <td class="tg-lboi">Buona Vista</td>
-    <td class="tg-lboi">67785163</td>
   </tr>
   <tr>
     <td class="tg-lboi">Geylang West</td>
-    <td class="tg-lboi">67483024</td>
   </tr>
   <tr>
     <td class="tg-0pky">Kallang</td>
-    <td class="tg-0pky">62984582</td>
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 2</td>
     <td class="tg-0pky">Aljunied</td>
-    <td class="tg-0pky">62885578</td>
   </tr>
   <tr>
     <td class="tg-0pky">Pasir Ris East</td>
-    <td class="tg-0pky">65842798</td>
   </tr>
   <tr>
     <td class="tg-0pky">Pasir Ris Elias</td>
-    <td class="tg-0pky">65831220 / 65852538</td>
   </tr>
   <tr>
     <td class="tg-0pky">Punggol 21</td>
-    <td class="tg-0pky">63120508</td>
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 3</td>
     <td class="tg-0pky">ACE The Place</td>
-    <td class="tg-0pky">68913430</td>
   </tr>
   <tr>
     <td class="tg-0pky">Bukit Panjang</td>
-    <td class="tg-0pky">65060900</td>
   </tr>
   <tr>
     <td class="tg-0pky">Fuchun</td>
-    <td class="tg-0pky">63656911</td>
   </tr>
   <tr>
     <td class="tg-0pky">Marsiling</td>
-    <td class="tg-0pky">62696768</td>
   </tr>
   <tr>
    
