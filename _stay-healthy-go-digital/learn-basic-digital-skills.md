@@ -70,17 +70,14 @@ Our learning programme will be tiered according to your capacity to learn and yo
   </tr>
 
   <tr>
-    <td class="tg-lboi" rowspan="4">Tier 3</td>
-    <td class="tg-0pky">ACE The Place</td>
+ <td class="tg-lboi" rowspan="3">Tier 3 - Transacting Digitally</td>
+    <td class="tg-0pky">Online Banking and Payments</td>
+    <td class="tg-0pky"></td>
   </tr>
-  <tr>
-    <td class="tg-0pky">Bukit Panjang</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Fuchun</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Marsiling</td>
+  
+   <tr>
+    <td class="tg-0pky">PayNow</td>
+    <td class="tg-0pky"></td>
   </tr>
 </table>
 
