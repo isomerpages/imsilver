@@ -62,7 +62,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
 * [文字输入法与语音信息](/files/DREK100919/DREK-T4-Chinese Language Input.pdf){:target="_blank"}<br>
-
+* [The benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI/){:target="_blank"}<br>
 # **Bahasa Melayu**<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Malay)](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
@@ -70,7 +70,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Wireless@SG](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf){:target="_blank"}<br>
 * [Staying Safe Online](/files/DREK200320/DREK-T3-Staying Safe Online (Malay)_200320.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
-
+* [The benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
 # **தமிழ்**<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
@@ -78,3 +78,4 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Wireless@SG](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf){:target="_blank"}<br>
 * [Staying Safe Online](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
+* [The benefits of Teleconsultation (Tamil Subtitles](https://www.youtube.com/watch?v=bZR7D_MlPDY/){:target="_blank"}<br>
