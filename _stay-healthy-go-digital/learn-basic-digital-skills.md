@@ -28,23 +28,29 @@ Our learning programme will be tiered according to your capacity to learn and yo
 <table class="tg">
   <tr>
     <th class="tg-lboi"><span style="font-weight:700">Tier</span></th>
-    <th class="tg-lboi"><span style="font-weight:700">Resources</span></th>
+    <th class="tg-lboi"><span style="font-weight:700">Topic</span></th>
+    <th class="tg-1boi"><span style="font-weight:700">Languages 
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="4">Tier 1</td>
-    <td class="tg-lboi">
-| Topic | English | 中文 | Melayu | தமிழ் |
-| -- | -- | -- | -- | -- |
-| PayNow | [ ](/files/PayNow/11154_DREK-T1-PAYNow_English.pdf) | [ ](/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf)|</td>
+    <td class="tg-lboi" rowspan="4">Tier 1<br> Communication Skills</td>
+    <td class="tg-lboi">Wireless@SG</td>
+    <td class=tg-1boi">
+    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">English</a><br>
+    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">中文</a><br>
+    <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Melayu</a><br>
+    <a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">தமிழ்</a><br>
+
+
+                                                                      
   </tr>
   <tr>
-    <td class="tg-lboi">Buona Vista</td>
+    <td class="tg-lboi">Gov.sg </td>
   </tr>
   <tr>
-    <td class="tg-lboi">Geylang West</td>
+    <td class="tg-lboi">Learn Together with Me Videos  </td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kallang</td>
+    <td class="tg-0pky">Podcasts (Whatsapp)</td>
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 2</td>
