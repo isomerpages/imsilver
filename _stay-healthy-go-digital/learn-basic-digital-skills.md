@@ -10,7 +10,7 @@ second_nav_title: Learn Basic Digital Skills
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
 Our learning programme will be tiered according to your capacity to learn and you will be guided through 3 tiers of digital skill as shown from the table below. <br><br>
-**3 Tiers of Digital Skills**
+<h3>3 Tiers of Digital Skills</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -168,7 +168,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
     </td>
   </tr>
 </table><br>
-**Cybersecurity Tips**<br>
+<h3>Cybersecurity Tips</h3>
 
 Cybercrime Prevention<br>
 <a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
@@ -197,5 +197,5 @@ Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
 
-**Other Resources**<br><br>
+<h3>Other Resources</h3>
 
