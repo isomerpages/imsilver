@@ -1,8 +1,7 @@
 ---
 layout: leftnav-page-content
 title: 3 Tiers of Digital Skills
-permalink: /seniors-go-digital/3-tiers-of-digital-skills
-breadcrumb: 3-tiers-of-digital-skills
+
 ---
 
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
