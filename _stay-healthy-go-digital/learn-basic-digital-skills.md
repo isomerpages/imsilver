@@ -158,6 +158,7 @@ GRAB<br>
 
 **中文**<br>
 <a href="https://imsilver-staging.netlify.app/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf" target="_blank">PayNow 应用程序</a><br>
+<a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep7/956129" target="_blank">乐学每疫刻 S3E7 (网上银行服务)</a><br>
 
 **Melayu**<br>
 <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br>
