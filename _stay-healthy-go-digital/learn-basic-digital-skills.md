@@ -168,7 +168,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
     </td>
   </tr>
 </table><br>
-**Cybersecurity Tips**<br><br>
+**Cybersecurity Tips**<br>
 
 Cybercrime Prevention<br>
 <a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
