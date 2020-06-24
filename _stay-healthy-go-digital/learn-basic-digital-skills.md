@@ -112,7 +112,7 @@ Even if you are old, technology can help!</a><br>
 **English**<br>
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br>
 
-**中文**
+**中文**<br>
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile应用程序</a><br>
 
  </td>
