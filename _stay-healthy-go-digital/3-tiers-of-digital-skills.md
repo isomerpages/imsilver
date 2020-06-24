@@ -320,34 +320,34 @@ Transport
 * [Land Transport Authority (LTA) - MyTransport Mobile Application](https://www.mytransport.sg/mobile/mytransport_mobile.html){:target="_blank"}<br>
 
 Online Shopping (Your Daily Needs)
- <a href="https://www.amazon.sg/godigital/" target="_blank">Amazon</a><br>
- <a href="https://support.carousell.com/hc/en-us/articles/360046091073/" target="_blank">Carousell</a><br>
- <a href="https://myfave.com/download/" target="_blank">Fave</a><br>
- <a href="https://pages.lazada.sg/wow/camp/lazada/dailycampaign/sg/campaign/start-shopping-on-lazada?hybrid=1/" target="_blank">Lazada</a><br>
- <a href="https://www.shopback.sg/stayhealthygodigital" target="_blank">ShopBack</a><br>
- <a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a><br>
- <a href="https://www.youtube.com/watch?v=jIK08z_G0Yw" target="_blank">Shopee (video guide)</a><br>
- <a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a><br>
+* <a href="https://www.amazon.sg/godigital/" target="_blank">Amazon</a><br>
+* <a href="https://support.carousell.com/hc/en-us/articles/360046091073/" target="_blank">Carousell</a><br>
+* <a href="https://myfave.com/download/" target="_blank">Fave</a><br>
+* <a href="https://pages.lazada.sg/wow/camp/lazada/dailycampaign/sg/campaign/start-shopping-on-lazada?hybrid=1/" target="_blank">Lazada</a><br>
+* <a href="https://www.shopback.sg/stayhealthygodigital" target="_blank">ShopBack</a><br>
+* <a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a><br>
+* <a href="https://www.youtube.com/watch?v=jIK08z_G0Yw" target="_blank">Shopee (video guide)</a><br>
+* <a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a><br>
  
 Online Shopping (Food Delivery)
- <a href="https://foodscene.deliveroo.com.sg/promotions/deliveroo-step-by-step-guide.html" target="_blank">Deliveroo</a><br>
- <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabFood</a><br>
- <a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a><br>
+* <a href="https://foodscene.deliveroo.com.sg/promotions/deliveroo-step-by-step-guide.html" target="_blank">Deliveroo</a><br>
+* <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabFood</a><br>
+* <a href="https://www.foodpanda.sg/contents/coronavirus-covid-19/" target="_blank">Foodpanda</a><br>
 
 Online Shopping (Grocery Shopping)
- <a href="https://adamhalal.sg/pages/how-it-works" target="_blank">Adam Halal</a><br>
- <a href="https://apollomarine.com.sg" target="_blank">Apollo Marine</a><br>
- <a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime</a><br>
- <a href="https://www.coldstorage.com.sg/stay-healthy-go-digital" target="_blank">Cold Storage</a><br>
- <a href="https://csfoods.sg/shop/index.php?route=information/faq" target="_blank">CS Foods</a><br>
- <a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a><br>
- <a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a><br>
- <a href="https://www.guardian.com.sg/stay-healthy-go-digital?utm_source=imda&utm_medium=referral&utm_campaign=stayhealthygodigital" target="_blank">Guardian</a><br>
- <a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">Lazada (Redmart)</a></td><br>
- <a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a></td><br>
- <a href="https://songfish.com.sg/" target="_blank">Song Fish</a><br>
- <a href="https://www.watsons.com.sg/stayhealthygodigital" target="_blank">Watsons</a><br>
- <a href="https://yayapapaya.com.sg/faq/" target="_blank">Yaya Papaya</a><br>
+* <a href="https://adamhalal.sg/pages/how-it-works" target="_blank">Adam Halal</a><br>
+* <a href="https://apollomarine.com.sg" target="_blank">Apollo Marine</a><br>
+* <a href="https://www.amazon.sg/useprimenow/" target="_blank">Amazon Prime</a><br>
+* <a href="https://www.coldstorage.com.sg/stay-healthy-go-digital" target="_blank">Cold Storage</a><br>
+* <a href="https://csfoods.sg/shop/index.php?route=information/faq" target="_blank">CS Foods</a><br>
+* <a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a><br>
+* <a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a><br>
+* <a href="https://www.guardian.com.sg/stay-healthy-go-digital?utm_source=imda&utm_medium=referral&utm_campaign=stayhealthygodigital" target="_blank">Guardian</a><br>
+* <a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">Lazada (Redmart)</a></td><br>
+* <a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a></td><br>
+* <a href="https://songfish.com.sg/" target="_blank">Song Fish</a><br>
+* <a href="https://www.watsons.com.sg/stayhealthygodigital" target="_blank">Watsons</a><br>
+* <a href="https://yayapapaya.com.sg/faq/" target="_blank">Yaya Papaya</a><br>
 
 <h3>Other Resources (中文)</h3><br>
 1. 初识电脑
