@@ -197,5 +197,22 @@ Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
 
-<h3>Other Resources</h3>
+<h3>Other Resources</h3><br>
+<h5>Introduction to Desktop and Mobile Devices</h5><br> 
+- Basic Parts of a Computer<br>
+* <a href="https://www.digitallearn.org/courses/getting-started-on-a-computer" target="_blank">Introduction to Computer</a><br>
+ * <a href="http://www.gcflearnfree.org/mousetutorial" target="_blank">Using Mouse</a><br>
+ * <a href="https://edu.gcfglobal.org/en/typing/" target="_blank">Using Keyboard</a><br>
 
+<h5>Operating System</h5><br>
+- Windows 10<br>
+   * <a href="https://support.microsoft.com/en-sg/help/17195/windows-10-see-whats-on-the-menu" target="_blank">Start Menu</a><br>
+   * <a href="https://support.microsoft.com/en-sg/help/17161/windows-10-find-all-your-apps-and-programs" target="_blank">Find All Your Apps and Programs</a><br>
+   * <a href="https://support.microsoft.com/en-sg/help/17185/windows-10-lock-screen" target="_blank">Personalise Lock Screen</a><br>  
+- Windows 7<br>
+   * <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Using Windows 7</a><br>
+ 
+<h5>Internet</h5><br>
+ * <a href="https://edu.gcfglobal.org/en/internetexplorer/" target="_blank">Using Internet Explorer</a><br>
+ * <a href="https://edu.gcfglobal.org/en/chrome/" target="_blank">Using Chrome</a><br>
+ 
