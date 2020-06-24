@@ -110,7 +110,12 @@ Even if you are old, technology can help!</a><br>
     <td class="tg-0pky">
       
 **English**<br>
-<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br>
+<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br
+<a href="https://www.singpass.gov.sg/singpass/common/supportmain" target="_blank">How to register for SingPass and set up 2FA</a><br>
+<a href="https://singpassmobile.sg/?utm_source=IMDA&utm_medium=web_link&utm_campaign=SPMLaunch2018" target="_blank">How to set up and use the SingPass Mobile app</a><br>
+<a href="https://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#TOPIC_210129" target="_blank">FAQs on SingPass 2FA (SingPass Mobile)</a><br>
+<a href="https://www.youtube.com/watch?v=dDrqT64ydd0" target="_blank">Introducing SingPass Mobile. Say goodbye to passwords and tokens!</a><br>
+<a href="https://www.youtube.com/watch?v=f4di4HPgaRY" target="_blank">Using the SingPass Mobile app to log in within seconds!</a><br>
 
 **中文**<br>
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile应用程序</a><br>
