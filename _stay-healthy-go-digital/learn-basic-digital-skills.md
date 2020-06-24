@@ -37,15 +37,15 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-1boi">
       
 **English** <br>
-    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br><br>
+<a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br><br>
     
 **中文**<br>
-   <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br><br>
+<a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br><br>
    
 **Melayu**<Br>
 <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br><br>
   
-  **தமிழ்**<br>
+**தமிழ்**<br>
 <a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
 உடன் இைணதல</a><br>
    </td>                                                         
@@ -54,7 +54,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-lboi">Gov.sg </td>
     <td class="tg-1boi">
       
-  **English** <br>
+**English** <br>
    <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">Stay updated with Gov.sg</a><br><br>
    
 **中文**<br> 
@@ -164,11 +164,8 @@ GRAB<br>
 <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br><Br>
 
 **தமிழ்**<br>
-<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
-
-</td>
-</tr>
-  
+<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br></td>
+  </tr>
 </table>
 
 **Cybersecurity Tips**<br>
