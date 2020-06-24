@@ -110,8 +110,8 @@ Our learning programme will be tiered according to your capacity to learn and yo
   </tr>
 
   <tr>
-    <td class="tg-lboi" rowspan="1">Tier 3<br> Transacting Digitally</td>
-    <td class="tg-0pky">e-Payments and Digital Banking</td>
+    <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking</td>
+    <td class="tg-0pky">Online Banking and Payments Apps</td>
     <td class="tg-0pky">
       
   **English**<br>
