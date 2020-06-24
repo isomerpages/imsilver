@@ -91,10 +91,9 @@ Our learning programme will be tiered according to your personal needs and you w
   </td>
   </tr>
       <td class="tg-0pky">Zoom</td>
-    <td class="tg-0pky">
+    <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
+   <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
   
-  
-
   </td>
   </tr>
   <tr>
