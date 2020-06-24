@@ -93,6 +93,16 @@ Our learning programme will be tiered according to your personal needs and you w
   </tr>
   
   <tr>
+    <td class="tg-0pky">WhatsApp</td>
+    <td class="tg-0pky"><a href="https://faq.whatsapp.com/en/iphone/20910703" target="_blank">Add Contacts via iPhone</a><br>
+    <a href="https://faq.whatsapp.com/en/android/21082107" target="_blank">Add Contacts via Android</a><br>
+    <a href="https://faq.whatsapp.com/en/iphone/23702247" target="_blank">Voice Messaging via iPhone</a><br>
+    <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br>
+
+    </td>
+  </tr>
+  
+  <tr>
     <td class="tg-0pky">Zoom</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
     <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
