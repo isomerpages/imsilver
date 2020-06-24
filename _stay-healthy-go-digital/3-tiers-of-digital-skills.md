@@ -197,12 +197,31 @@ Windows 10<br>
    * <a href="https://support.microsoft.com/en-sg/help/17185/windows-10-lock-screen" target="_blank">Personalise Lock Screen</a><br> 
    
 Windows 7<br>
-   * <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Using Windows 7</a><br>
+ * <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Using Windows 7</a><br>
  
 Internet<br>
  * <a href="https://edu.gcfglobal.org/en/internetexplorer/" target="_blank">Using Internet Explorer</a><br>
  * <a href="https://edu.gcfglobal.org/en/chrome/" target="_blank">Using Chrome</a><br>
  
+ <h4>Mobile Devices</h4>
+ 
+* <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/smartphones" target="_blank">Introduction to Smartphones</a><br>
+* <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Introduction to Tablet</a><br>
+
+Operating System<br>
+Android Basics<br>
+* <a href="https://edu.gcfglobal.org/en/androidbasics/" target="_blank">Introduction to Android</a><br>
+* <a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/android-mobile-security-what-you-need-to-know-about-malicious-apps" target="_blank">Android Mobile Security</a><br>
+* <a href="https://support.google.com/android/answer/6215472?hl=en" target="_blank">Protect Your Android Device</a><br>
+  
+iOS Basics<br>
+* <a href="https://appleid.apple.com/faq/#!&page=faq" target="_blank">FAQ on Apple ID</a><br>
+* <a href="https://books.apple.com/us/book/ipad-starter-guide-ios-10/id1181563338" target="_blank">Getting Started with iPad</a><br>(*Please note that you will need an Apple account to download the iBooks into your Apple device, for the link above. The Apple ID is the personal account that you use when you first set up your iPhone/iPad. Size: 272 MB*)
+* <a href="https://edu.gcfglobal.org/en/ipadbasics/" target="_blank">iPad Basics</a><br>
+* <a href="https://www.apple.com/accessibility/" target="_blank">Make Your iPad and iPhone Accessible</a><br>
+
+Windows Basics<br>
+* <a href="/files/surface-pro-4-user-guide-EN.pdf">Using Microsoft Surface</a><br>
 <h3>Other Resources (中文)</h3><br>
 
 
