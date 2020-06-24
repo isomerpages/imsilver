@@ -287,6 +287,11 @@ Microsoft Surface
 4. 社交媒体
 **单元四 : 社交媒体**<br>
 * [开始使用 Skype](https://support.skype.com/zh-Hant/skype/windows-desktop/start/){:target="_blank"}<br>
+5. 娱乐与艺术
+**单元五 : 娱乐与艺术**<br>
+* [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
+6. 其他
+* [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
 
 <h3>Other Resources (Melayu)</h3><br>
 meListen Timba Ilmu Bersama Podcast<br>
