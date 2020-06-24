@@ -171,3 +171,15 @@ Our learning programme will be tiered according to your capacity to learn and yo
 **Cybersecurity Tips**<br>
 <a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
 <a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/protect-your-computer-from-cyber-threats" target="_blank">Protect your computer From Cyber Threats</a><br>
+<a href="https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en" target="_blank">10 Simple Cyber Security Tips</a><br>
+<a href="https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/cyber_tips_4_you_flyer.pdf?la=en" target="_blank">4 Important Tips To Go Safe Online</a><br>
+<a href="https://www.kaspersky.com/resource-center/threats/spam-phishing" target="_blank">Learn more about Spam and Phishing</a><br>
+<a href="https://www.kaspersky.com/resource-center/preemptive-safety/money-online" target="_blank">Protecting Your Money - Security Tips</a><br>
+<a href="https://www.youtube.com/watch?v=EoStqEEKvwA&feature=youtu.be" target="_blank">Media Literacy Council Do What's Right: Be Safe</a><br>
+<a href="https://www.youtube.com/watch?v=1pt2TfFXp2w&t=5s" target="_blank">National Crime Prevention Council See Beh Suay - Episode 1</a><br>
+<a href="https://www.youtube.com/watch?v=8aRIsd0hoBw" target="_blank">National Crime Prevention Council See Beh Suay - Episode 2</a><br>
+<a href="https://www.youtube.com/watch?v=7aE3Cb_gYUI" target="_blank">National Crime Prevention Council See Beh Suay - Episode 3</a><br>
+<a href="https://www.youtube.com/watch?v=Uq6Hm_Th5Xk" target="_blank">National Crime Prevention Council See Beh Suay - Episode 4</a><br>
+
+
+
