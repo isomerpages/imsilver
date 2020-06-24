@@ -108,8 +108,13 @@ Even if you are old, technology can help!</a><br>
     <td class="tg-lboi" rowspan="1">Tier 2<br> E-Government Services</td>
     <td class="tg-0pky">SingPass </td>
     <td class="tg-0pky">
-<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">English</a><br>
-<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">中文</a><br>
+      
+**English**<br>
+<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br>
+
+**中文**
+<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile应用程序</a><br>
+
     </td>
    </tr>
 
