@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: 3 Tiers of Digital Skills
+
 
 ---
 
