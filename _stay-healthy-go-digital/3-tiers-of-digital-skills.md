@@ -33,7 +33,7 @@ Our learning programme will be tiered according to your personal needs and you w
     <th class="tg-1boi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="6">Tier 1<br> Communication Skills</td>
+    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills</td>
     <td class="tg-lboi">Wireless@SGx</td>
     <td class="tg-1boi">
       
