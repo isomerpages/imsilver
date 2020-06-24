@@ -343,8 +343,8 @@ Online Shopping (Grocery Shopping)
 * <a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a><br>
 * <a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a><br>
 * <a href="https://www.guardian.com.sg/stay-healthy-go-digital?utm_source=imda&utm_medium=referral&utm_campaign=stayhealthygodigital" target="_blank">Guardian</a><br>
-* <a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">Lazada (Redmart)</a></td><br>
-* <a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a></td><br>
+* <a href="https://pages.lazada.sg/wow/i/sg/redmart/startshoppingonredmart?wh_weex=true&wx_navbar_transparent=true/" target="_blank">Lazada (Redmart)</a><br>
+* <a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a><br>
 * <a href="https://songfish.com.sg/" target="_blank">Song Fish</a><br>
 * <a href="https://www.watsons.com.sg/stayhealthygodigital" target="_blank">Watsons</a><br>
 * <a href="https://yayapapaya.com.sg/faq/" target="_blank">Yaya Papaya</a><br>
