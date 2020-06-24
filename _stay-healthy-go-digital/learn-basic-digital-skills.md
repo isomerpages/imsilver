@@ -115,8 +115,8 @@ Even if you are old, technology can help!</a><br>
 **中文**
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile应用程序</a><br>
 
-    </td>
-   </tr>
+ </td>
+ </tr>
 
   <tr>
     <td class="tg-lboi" rowspan="2">Tier 3<br> Transacting Digitally</td>
