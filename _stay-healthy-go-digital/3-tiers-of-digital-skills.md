@@ -240,12 +240,32 @@ iOS Basics<br>
 Windows Basics<br>
 * <a href="/files/surface-pro-4-user-guide-EN.pdf">Using Microsoft Surface</a><br>
 
-Windows Basics<br>
-* <a href="/files/surface-pro-4-user-guide-EN.pdf">Using Microsoft Surface</a><br>
-
 Managing Information and Communication<br>
+Email<br>
+* <a href="https://www.digitallearn.org/courses/intro-to-email" target="_blank">Introduction to Email</a><br>
+* <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
+* <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
+* <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
 
+Connecting Through Social Media<br>
+* <a href="https://www.digitallearn.org/courses/intro-to-facebook" target="_blank">Introduction to Facebook</a><br>
+* <a href="https://www.facebook.com/safety/tools/security" target="_blank">Facebook - Securing Your Accounts</a><br>
+* <a href="https://www.facebook.com/safety/tools/safety" target="_blank">Facebook - Staying Safe</a><br>
+* <a href="https://edu.gcfglobal.org/en/instagram/" target="_blank">Getting Started with Instagram</a><br>
 
+Communicating with Friends<br>
+1. Skype<br>
+* <a href="https://support.skype.com/en/skype/windows-desktop/start/" target="_blank">Getting started with Skype</a><br>
+* <a href="https://www.digitallearn.org/courses/intro-to-skype" target="_blank">Introduction to Skype</a><br>
+     
+2. Google Hangouts<br>
+* <a href="https://support.google.com/a/users/answer/9302868" target="_blank">Getting Started with Google Hangouts Meet</a><br>
+* <a href="https://support.google.com/a/users/answer/9310170" target="_blank">Switching to Google Hangouts from Skype</a><br>
+
+Online Storage
+* <a href="https://support.google.com/a/users/answer/9310246" target="_blank">Google Drive</a><br>
+* <a href="https://support.google.com/a/users/answer/9310160" target="_blank">Switching to Google Drive from Dropbox</a><br>
+ 
 <h3>Other Resources (中文)</h3><br>
 
 
