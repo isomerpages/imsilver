@@ -84,7 +84,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </tr>
   <tr>
   <td>9 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Learn to connect effortlessly with friends and family through Teams</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
+  <td><b>Learn how to install and use Teams to participate in Virtual Digital Clinics</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
   <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Microsoft<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
   </tr>
 <tr>
