@@ -38,10 +38,10 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-lboi" rowspan="4">Tier 1<br> Communication Skills</td>
     <td class="tg-lboi">Wireless@SG</td>
     <td class="tg-1boi">
-    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">English</a><br>
-    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">中文</a><br>
-    <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Melayu</a><br>
-    <a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">தமிழ்</a><br>
+    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">English</a><br></td>
+    <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">中文</a><br></td>
+  <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Melayu</a><br></td>
+ <td class="Tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">தமிழ்</a><br>
                                                                                                                             </td>                                                         
   </tr>
   <tr>
