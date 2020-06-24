@@ -53,8 +53,13 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <td class="tg-lboi">Gov.sg </td>
     <td class="tg-1boi">
-   <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">English</a><br></td>
-   <td class="tg-1boi"> <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">中文</a><br>
+      
+  **English** <br>
+   <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">Stay updated with Gov.sg</a><br>
+   
+**中文**<br> 
+ <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">通过Gov.sg
+获取最新消息</a><br>
     </td>
     
   </tr>
