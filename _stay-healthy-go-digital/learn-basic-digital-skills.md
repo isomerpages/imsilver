@@ -118,7 +118,7 @@ Even if you are old, technology can help!</a><br>
 <a href="https://www.youtube.com/watch?v=f4di4HPgaRY" target="_blank">Using the SingPass Mobile app to log in within seconds!</a><br>
 
 **中文**<br>
-<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile应用程序</a><br>
+<a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile 应用程序</a><br>
 
  </td>
  </tr>
@@ -129,9 +129,10 @@ Even if you are old, technology can help!</a><br>
     <td class="tg-0pky">
       
 **English**<br>
+<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br><br>
 DBS/POSB<br>
 <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
-<a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank"POSB Internet Banking</a><br>
+<a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank">POSB Internet Banking</a><br>
 <a href="https://www.posb.com.sg/personal/deposits/pay-with-ease/paynow" target="_blank">POSB PayNow</a><br>
 <a href="https://www.dbs.com.sg/personal/support/guide-ibanking.html" target="_blank">DBS Internet Banking</a><br>
 <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br><br>
@@ -151,12 +152,16 @@ UOB<br>
 <a href="https://www.uob.com.sg/personal/eservices/mobile/overview.page" target="_blank">UOB Mighty</a><br><br>
 
 GRAB<br>
-<a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabPay</a><br>
-
+<a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabPay</a><br><br>
 
 **中文**<br>
+<a href="https://imsilver-staging.netlify.app/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf" target="_blank">PayNow 应用程序</a><br>
 
+**Melayu**<br>
+<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br>
 
+**தமிழ்**<br>
+<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
 
 </td>
 </tr>
