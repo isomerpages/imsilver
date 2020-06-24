@@ -267,7 +267,26 @@ Online Storage
 * <a href="https://support.google.com/a/users/answer/9310160" target="_blank">Switching to Google Drive from Dropbox</a><br>
  
 <h3>Other Resources (中文)</h3><br>
-
+1. 初识电脑
+**单元一 : 初识电脑**<br>
+* [电脑基础](https://edu.gcfglobal.org/en/chinese-computer-basics/){:target="_blank"}<br>
+* [电脑基本技能](https://edu.gcfglobal.org/en/basic-computer-skills-chinese/){:target="_blank"}<br>
+2. 操作系统
+**单元二：操作系统**<br>
+Windows 10 特征<br>
+* [开始”菜单上的内容](https://support.microsoft.com/zh-cn/help/17195){:target="_blank"}<br>
+* [全屏显示“开始”菜单](https://support.microsoft.com/zh-cn/help/17179/windows-10-make-start-full-screen){:target="_blank"}<br>
+* [寻找你的所有应用和程序](https://support.microsoft.com/zh-cn/help/17161/windows-10-find-all-your-apps-and-programs){:target="_blank"}<br>
+* [个性化锁屏界面](https://support.microsoft.com/zh-cn/help/17185/windows-10-lock-screen){:target="_blank"}<br>
+Microsoft Surface
+* [Surface Pro 4 用户指南 ](http://download.microsoft.com/download/2/9/B/29B20383-302C-4517-A006-B0186F04BE28/surface-pro-4-user-guide-zh-cn.pdf){:target="_blank"}<br>
+3. 电邮
+**单元三 : 电邮**<br>
+* [开始使用 Microsoft Outlook](https://support.office.com/zh-cn/article/Video-View-email-9aa2285c-acee-41eb-89fc-b0630af0a886?omkt=zh-CN){:target="_blank"}<br>
+* [ 开始使用 Gmail](https://gsuite.google.com.tw/learning-center/products/gmail/get-started/){:target="_blank"}<br>
+4. 社交媒体
+**单元四 : 社交媒体**<br>
+* [开始使用 Skype](https://support.skype.com/zh-Hant/skype/windows-desktop/start/){:target="_blank"}<br>
 
 <h3>Other Resources (Melayu)</h3><br>
 meListen Timba Ilmu Bersama Podcast<br>
