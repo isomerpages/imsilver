@@ -99,7 +99,7 @@ Our learning programme will be tiered according to your personal needs and you w
     <a href="https://faq.whatsapp.com/en/iphone/23702247" target="_blank">Voice Messaging via iPhone</a><br>
     <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br>
 
-    </td>
+  </td>
   </tr>
   
   <tr>
