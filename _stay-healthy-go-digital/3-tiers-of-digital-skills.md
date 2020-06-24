@@ -96,6 +96,7 @@ Our learning programme will be tiered according to your personal needs and you w
   
   </td>
   </tr>
+  
   <tr>
     <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services</td>
     <td class="tg-0pky">SingPass </td>
