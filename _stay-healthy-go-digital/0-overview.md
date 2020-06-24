@@ -12,7 +12,7 @@ collection_name: stay-healthy-go-digital
 
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
 <br><br>
-It may seem challenging at first to make the digital leap, but fret not! We are here to take the first step with you, and will be with you every step of the way.<br> 
+It may seem challenging at first to make the digital leap, but fret not! We're here to help you learn the skills needed to enjoy the convenience of living in a digital world. There are 3 tiers of digital skills to guide you through your digital journey. Click<a href="https://imsilver-staging.netlify.app/seniors-go-digital/3-tiers-of-digital-skills" target="blank"> here</a> to start learning today!<br> 
 <br>
 Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
 
