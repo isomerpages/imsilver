@@ -10,7 +10,7 @@ collection_name: 3-tiers-of-digital-skills
 
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
-Our learning programme will be tiered according to your personal needs and you will be guided through 3 tiers of digital skill:<br>
+Our learning programme will be tiered according to your personal needs and you will be guided through 3 tiers of digital skills.<br>
 <h3>3 Tiers of Digital Skills</h3>
 
 <style type="text/css">
@@ -90,7 +90,13 @@ Our learning programme will be tiered according to your personal needs and you w
 
   </td>
   </tr>
+      <td class="tg-0pky">Zoom</td>
+    <td class="tg-0pky">
   
+  
+
+  </td>
+  </tr>
   <tr>
     <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services</td>
     <td class="tg-0pky">SingPass </td>
