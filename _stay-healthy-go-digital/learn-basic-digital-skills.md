@@ -29,26 +29,30 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <tr>
     <th class="tg-lboi"><span style="font-weight:700">Tier</span></th>
     <th class="tg-lboi"><span style="font-weight:700">Topic</span></th>
-    <th class="tg-1boi"><span style="font-weight:700">English</span></th>
-       <th class="tg-1boi"><span style="font-weight:700">中文</span></th>
-       <th class="tg-1boi"><span style="font-weight:700">Melayu</span></th>
-       <th class="tg-1boi"><span style="font-weight:700">தமிழ்</span></th>
+    <th class="tg-1boi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
     <td class="tg-lboi" rowspan="4">Tier 1<br> Communication Skills</td>
     <td class="tg-lboi">Wireless@SG</td>
     <td class="tg-1boi">
-    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">English</a><br></td>
-    <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">中文</a><br></td>
-  <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Melayu</a><br></td>
- <td class="Tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">தமிழ்</a><br>
+      <b><u>English</b></u><br>
+    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br>
+    
+    <b></u>中文</b></u><br>
+   <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br>
+   
+      <b></u>Melayu</b></u><br>
+  <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br>
+  <b></u>தமிழ்</b></u><br>
+ <td class="Tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
+உடன் இைணதல</a><br>
                                                                                                                             </td>                                                         
   </tr>
   <tr>
     <td class="tg-lboi">Gov.sg </td>
     <td class="tg-1boi">
-   <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">English</a><br>
-    <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">中文</a><br>
+   <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">English</a><br></td>
+   <td class="tg-1boi"> <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">中文</a><br>
     </td>
     
   </tr>
