@@ -129,7 +129,7 @@ Even if you are old, technology can help!</a><br>
     <td class="tg-0pky">
       
 **English**<br>
-<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br><br>
+<a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br>
 <a href="https://www.mas.gov.sg/development/e-payments/sgqr" target="_blank">Guide to Singapore Quick Response Code (SGQR)</a><br><br>
 
 DBS/POSB<br>
