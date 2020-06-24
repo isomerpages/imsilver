@@ -203,7 +203,7 @@ Internet<br>
  * <a href="https://edu.gcfglobal.org/en/internetexplorer/" target="_blank">Using Internet Explorer</a><br>
  * <a href="https://edu.gcfglobal.org/en/chrome/" target="_blank">Using Chrome</a><br>
  
- <h4>Mobile Devices</h4>
+ Mobile Devices<br>
  
 * <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/smartphones" target="_blank">Introduction to Smartphones</a><br>
 * <a href="https://www.digitalunite.com/technology-guides/smartphones-tablets/tablet-computers" target="_blank">Introduction to Tablet</a><br>
