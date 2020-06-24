@@ -72,7 +72,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
 与语音信息</a><br>
   </td>
   <tr>
-    <td class="tg-lboi">Learn Together with Me Videos S1 </td>
+    <td class="tg-lboi">Learn Together with Me Videos</td>
     <td class="tg-0pky">
     
  **中文**<br> 
