@@ -308,6 +308,16 @@ Central Provident Fund (CPF)
 NLB Mobile App
 * [Guide on How to Download and Use the NLB Mobile App](https://mobileapp.nlb.gov.sg/){:target="_blank"}<br>
 
+Health
+* [Make medical appointments at Polyclinic or Hospitals](https://www.nhgp.com.sg/apptmod/apptmod_login.aspx?r=view_appointments){:target="_blank"}<br>
+* [Health Promotion Board (HPB) Healthy 365 Mobile Application](https://www.healthhub.sg/apps/25/healthy365){:target="_blank"}<br>
+* [Health Promotion Board (HPB) Health Hub](https://www.healthhub.sg/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation (Tamil Subtitles](https://www.youtube.com/watch?v=bZR7D_MlPDY/){:target="_blank"}<br>
+
+Transport
+* [Land Transport Authority (LTA) - MyTransport Mobile Application](https://www.mytransport.sg/mobile/mytransport_mobile.html){:target="_blank"}<br>
 
 <h3>Other Resources (中文)</h3><br>
 1. 初识电脑
@@ -334,7 +344,6 @@ Microsoft Surface
 **单元五 : 娱乐与艺术**<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 6. 其他
-* [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
 * [(Mandarin only) Join Zaobao's series of lifestyle videos to keep yourself healthy at home](https://www.zaobao.com.sg/keywords/come-n-live-at-zaobaosg?ref=zbsg-homepage&utm_medium=jumbotron/){:target="_blank"}<br>
 
 <h3>Other Resources (Melayu)</h3><br>
@@ -345,7 +354,6 @@ Microsoft Surface
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-BELAJAR-DALAM-TALIAN-LEARN-ONLINE--12766642" target="_blank">
   Timba Imu Bersama - Belajar Dalam Talian (Learn Online)</a><br><br>
 2. [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
-3. [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk){:target="_blank"}<br>
 
 
 <h3>Other Resources (தமிழ்)</h3><br>
@@ -355,4 +363,3 @@ Microsoft Surface
   Even if you are old, technology can help!</a><br>
 <a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/Tele-consultation---%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF--%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AF%8A%E0%AE%B3%E0%AE%BF-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AE%BE%E0%AE%95--%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AE%9F%E0%AE%BF-%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%9A%E0%AE%A4%E0%AE%BF!-12780742" target="_blank">Teleconsultation</a><br><br>
 2. [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
-3. [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
