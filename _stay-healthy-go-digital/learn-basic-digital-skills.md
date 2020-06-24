@@ -188,7 +188,7 @@ Introduction to Desktop and Mobile Devices<br>
 Basic Parts of a Computer<br>
 * <a href="https://www.digitallearn.org/courses/getting-started-on-a-computer" target="_blank">Introduction to Computer</a><br>
  * <a href="http://www.gcflearnfree.org/mousetutorial" target="_blank">Using Mouse</a><br>
- * <a href="https://edu.gcfglobal.org/en/typing/" target="_blank">Using Keyboard</a><br>
+ * <a href="https://edu.gcfglobal.org/en/typing/" target="_blank">Using Keyboard</a>
 
 Operating System<br>
 Windows 10<br>
