@@ -208,7 +208,7 @@ Basic Parts of a Computer<br>
 Windows 10<br>
    * <a href="https://support.microsoft.com/en-sg/help/17195/windows-10-see-whats-on-the-menu" target="_blank">Start Menu</a><br>
    * <a href="https://support.microsoft.com/en-sg/help/17161/windows-10-find-all-your-apps-and-programs" target="_blank">Find All Your Apps and Programs</a><br>
-   * <a href="https://support.microsoft.com/en-sg/help/17185/windows-10-lock-screen" target="_blank">Personalise Lock Screen</a><br>  
+   * <a href="https://support.microsoft.com/en-sg/help/17185/windows-10-lock-screen" target="_blank">Personalise Lock Screen</a><br> 
 Windows 7<br>
    * <a href="https://www.digitallearn.org/courses/using-a-pc-windows-7" target="_blank">Using Windows 7</a><br>
  
