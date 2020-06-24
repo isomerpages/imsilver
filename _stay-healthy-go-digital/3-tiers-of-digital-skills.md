@@ -286,7 +286,15 @@ Communicating with Friends<br>
 Online Storage
 * <a href="https://support.google.com/a/users/answer/9310246" target="_blank">Google Drive</a><br>
 * <a href="https://support.google.com/a/users/answer/9310160" target="_blank">Switching to Google Drive from Dropbox</a><br>
- 
+
+NLB Mobile App 
+* [Guide on How to Download and Use the NLB Mobile App](https://mobileapp.nlb.gov.sg/){:target="_blank"}<br>
+* [Top Tips for Seniors](https://mobileapp.nlb.gov.sg/toptips/seniors/){:target="_blank"}<br>
+* [Spotlight](https://mobileapp.nlb.gov.sg/spotlight/){:target="_blank"}<br>
+
+People's Association (PA)
+* [Join PAssions L!ve as PA Trainers bring you new fitness, culinary, beauty and craft lessons content daily](https://m.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA/){:target="_blank"}<br>
+
 <h3>Other Resources (中文)</h3><br>
 1. 初识电脑
 **单元一 : 初识电脑**<br>
@@ -313,6 +321,7 @@ Microsoft Surface
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 6. 其他
 * [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
+* [(Mandarin only) Join Zaobao's series of lifestyle videos to keep yourself healthy at home](https://www.zaobao.com.sg/keywords/come-n-live-at-zaobaosg?ref=zbsg-homepage&utm_medium=jumbotron/){:target="_blank"}<br>
 
 <h3>Other Resources (Melayu)</h3><br>
 1. meListen Timba Ilmu Bersama Podcast<br>
@@ -332,6 +341,6 @@ Microsoft Surface
   <a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/%E0%AE%AE%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AF%8D-%E0%AE%87%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%95-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81-%E0%AE%8E%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF--12766864" target="_blank">How do seniors stay safe on internet?</a><br>
   <a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-       %E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/%E0%AE%B5%E0%AE%AF%E0%AE%9A%E0%AE%BE%E0%AE%A9%E0%AE%BE%E0%AE%B2%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%A4%E0%AF%8A%E0%AE%B4%E0%AE%BF%E0%AE%B2%E0%AF%8D%E0%AE%A8%E0%AF%81%E0%AE%9F%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%87-%E0%AE%95%E0%AF%88%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D---%E0%AE%B5%E0%AE%BE%E0%AE%99%E0%AF%8D%E0%AE%95-    %E0%AE%A4%E0%AF%86%E0%AE%B0%E0%AE%BF%E0%AE%9E%E0%AF%8D%E0%AE%9A%E0%AE%BF%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B5%E0%AF%8B%E0%AE%AE%E0%AF%8D!-12766674" target="_blank">
   Even if you are old, technology can help!</a><br>
-<a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/Tele-consultation---%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF--%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AF%8A%E0%AE%B3%E0%AE%BF-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AE%BE%E0%AE%95--%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AE%9F%E0%AE%BF-%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%9A%E0%AE%A4%E0%AE%BF!-12780742" target="_blank">Teleconsultation</a><br>
+<a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/Tele-consultation---%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF--%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AF%8A%E0%AE%B3%E0%AE%BF-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AE%BE%E0%AE%95--%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AE%9F%E0%AE%BF-%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%9A%E0%AE%A4%E0%AE%BF!-12780742" target="_blank">Teleconsultation</a><br><br>
 2. [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
 3. [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
