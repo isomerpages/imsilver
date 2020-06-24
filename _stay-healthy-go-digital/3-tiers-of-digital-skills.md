@@ -199,7 +199,7 @@ Go Safe Online<br>
 Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
-<h3>Cybersecurity Tips (网络安全)</h3>
+<h3>Cybersecurity Tips (中文)</h3>
 * [十个简单的网络安全提示](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
 * [个人资料保护法令 – 详情须知：什么是《个人资料保护法令》？](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Individuals/what-you-should-know-about-pdpa-v1-0---chinese.pdf){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
@@ -210,6 +210,11 @@ Personal Data Protection<br>
 * [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
 * [确保安全上网](/files/DREK040220/DREK-T3-Staying Safe Online (Chinese)_040220.pdf){:target="_blank"}<br>
+
+<h3>Cybersecurity Tips (中文)</h3>
+* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
+* [Media Literacy Council Do What’s Right: Be Safe (Malay)](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
+* [Staying Safe Online](/files/DREK200320/DREK-T3-Staying Safe Online (Malay)_200320.pdf){:target="_blank"}<br>
 
 <h3>Other Resources (English)</h3><br>
 Introduction to Desktop and Mobile Devices<br> 
@@ -305,14 +310,15 @@ Microsoft Surface
 * [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
 
 <h3>Other Resources (Melayu)</h3><br>
-meListen Timba Ilmu Bersama Podcast<br>
+1. meListen Timba Ilmu Bersama Podcast<br>
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA--STAYING-CONNECTED--12777982 " target="_blank">Timba Ilmu Bersama (Staying Connected)</a><br>
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-TELEKONSULTASI--TELECONSULTATION--12773708" target="_blank">Timba   Ilmu Bersama - TELEKONSULTASI (Teleconsultation)</a><br>
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-BERMAIN-SECARA-ONLINE--PLAY-ONLINE--12769356" target="_blank">Timba  Ilmu Bersama - Bermain Secara Online (Play Online)</a><br>
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-KEKAL-SELAMAT-DIRUANG-SIBER-STAYING-SAFE-ONLINE--12769076"         target="_blank">Timba Ilmu Bersama - Kekal Selamat Diruang Siber (Staying Safe Online) </a><br>
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-BELAJAR-DALAM-TALIAN-LEARN-ONLINE--12766642" target="_blank">
   Timba Imu Bersama - Belajar Dalam Talian (Learn Online)</a><br><br>
-
+2. [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
+3. [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk){:target="_blank"}<br>
 
 
 <h3>Other Resources (தமிழ்)</h3><br>
