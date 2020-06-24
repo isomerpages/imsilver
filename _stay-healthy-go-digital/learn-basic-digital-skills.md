@@ -76,9 +76,8 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-0pky">
     
  **中文**<br> 
-  <a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep1/935559" target="_blank">乐学每疫刻 1</a><br>
- <a href="https://www.mewatch.sg/en/series/learn-together-with-me-s2-2/ep1/940053" target="_blank">乐学每疫刻 2</a><br>
-  <a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326" target="_blank">乐学每疫刻 3</a><br>
+  <a href="https://www.mewatch.sg/en/series/learn-together-with-me/ep4/936950" target="_blank">乐学每疫刻 S1E4 (Whatsapp)</a><br>
+ 
   </td>
   </tr>
   
@@ -107,7 +106,7 @@ Even if you are old, technology can help!</a><br>
   
   <tr>
     <td class="tg-lboi" rowspan="1">Tier 2<br> E-Government Services</td>
-    <td class="tg-0pky">SingPass Mobile</td>
+    <td class="tg-0pky">SingPass </td>
     <td class="tg-0pky">
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">English</a><br>
 <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">中文</a><br>
