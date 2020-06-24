@@ -35,15 +35,17 @@ Our learning programme will be tiered according to your capacity to learn and yo
     <td class="tg-lboi" rowspan="4">Tier 1<br> Communication Skills</td>
     <td class="tg-lboi">Wireless@SG</td>
     <td class="tg-1boi">
-**English** 
+      
+**English** <br>
     <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br>
     
-**中文**
+**中文**<br>
    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br>
    
-**Melayu
+**Melayu<Br>
 <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br>
-  **தமிழ்**
+  
+  **தமிழ்**<br>
 <a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
 உடன் இைணதல</a><br>
    </td>                                                         
