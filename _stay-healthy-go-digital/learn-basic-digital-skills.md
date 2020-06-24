@@ -197,8 +197,8 @@ Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
 
-<h3>Other Resources</h3><br>
-<h5>Introduction to Desktop and Mobile Devices</h5><br> 
+<h3>Other Resources (English)</h3><br>
+Introduction to Desktop and Mobile Devices<br> 
 Basic Parts of a Computer<br>
 * <a href="https://www.digitallearn.org/courses/getting-started-on-a-computer" target="_blank">Introduction to Computer</a><br>
  * <a href="http://www.gcflearnfree.org/mousetutorial" target="_blank">Using Mouse</a><br>
@@ -216,3 +216,11 @@ Windows 7<br>
  * <a href="https://edu.gcfglobal.org/en/internetexplorer/" target="_blank">Using Internet Explorer</a><br>
  * <a href="https://edu.gcfglobal.org/en/chrome/" target="_blank">Using Chrome</a><br>
  
+<h3>Other Resources (中文)</h3><br>
+
+
+<h3>Other Resources (Melayu)</h3><br>
+
+
+
+<h3>Other Resources (தமிழ்)</h3><br>
