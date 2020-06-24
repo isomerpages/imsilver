@@ -173,7 +173,7 @@ Our learning programme will be tiered according to your personal needs and you w
     </td>
   </tr>
 </table><br>
-<h3>Cybersecurity Tips</h3>
+<h3>Cybersecurity Tips (English)</h3>
 
 Cybercrime Prevention<br>
 <a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
@@ -199,6 +199,17 @@ Go Safe Online<br>
 Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
+<h3>Cybersecurity Tips (网络安全)</h3>
+* [十个简单的网络安全提示](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
+* [个人资料保护法令 – 详情须知：什么是《个人资料保护法令》？](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Individuals/what-you-should-know-about-pdpa-v1-0---chinese.pdf){:target="_blank"}<br>
+* [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
+* [Media Literacy Council Do What’s Right: Be Safe (Mandarin)](https://www.youtube.com/watch?v=9RTvOWxy7uc){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 1 (Mandarin)](https://www.youtube.com/watch?v=ElI1H57dvl8){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 2 (Mandarin)](https://www.youtube.com/watch?v=YtYOvu-rnzU){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
+* [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
+* [确保安全上网](/files/DREK040220/DREK-T3-Staying Safe Online (Chinese)_040220.pdf){:target="_blank"}<br>
 
 <h3>Other Resources (English)</h3><br>
 Introduction to Desktop and Mobile Devices<br> 
