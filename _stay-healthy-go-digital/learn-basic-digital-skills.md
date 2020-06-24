@@ -130,6 +130,8 @@ Even if you are old, technology can help!</a><br>
       
 **English**<br>
 <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br><br>
+<a href="https://www.mas.gov.sg/development/e-payments/sgqr" target="_blank">Guide to Singapore Quick Response Code (SGQR)</a><br><br>
+
 DBS/POSB<br>
 <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
 <a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank">POSB Internet Banking</a><br>
