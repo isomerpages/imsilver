@@ -167,4 +167,7 @@ Our learning programme will be tiered according to your capacity to learn and yo
   <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
     </td>
   </tr>
-</table>
+</table><br>
+**Cybersecurity Tips**<br>
+<a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
+<a href="https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/protect-your-computer-from-cyber-threats" target="_blank">Protect your computer From Cyber Threats</a><br>
