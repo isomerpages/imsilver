@@ -297,6 +297,18 @@ NLB Mobile App
 People's Association (PA)
 * [Join PAssions L!ve as PA Trainers bring you new fitness, culinary, beauty and craft lessons content daily](https://m.youtube.com/channel/UCEW_9QdnGjn_8_xi8yh7PXA/){:target="_blank"}<br>
 
+TraceTogether
+* [How to set up TraceTogether](https://go.gov.sg/tt-setup){:target="_blank"}<br>
+* [9 geeky myth-busting facts you need to know about TraceTogether](https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether){:target="_blank"}<br>
+
+Central Provident Fund (CPF)
+* [Guide on How to Retrieve your CPF Contribution History Statement](https://www.sc.com/sg/online-form/cpf-statement/){:target="_blank"}<br>
+* [Guide on How to View Statements and Messages Via iPhone](https://www.cpf.gov.sg/Assets/members/Documents/OnlineDemo/iPhone_Statements.mp4){:target="_blank"}
+
+NLB Mobile App
+* [Guide on How to Download and Use the NLB Mobile App](https://mobileapp.nlb.gov.sg/){:target="_blank"}<br>
+
+
 <h3>Other Resources (中文)</h3><br>
 1. 初识电脑
 **单元一 : 初识电脑**<br>
