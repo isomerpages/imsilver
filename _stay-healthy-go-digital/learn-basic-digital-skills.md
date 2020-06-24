@@ -63,6 +63,14 @@ Our learning programme will be tiered according to your capacity to learn and yo
     </td>
     
   </tr>
+    <tr>
+    <td class="tg-lboi">Input Methods (Chinese) </td>
+    <td class="tg-0pky">
+      
+**中文**<br> 
+     <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T4-Chinese%20Language%20Input.pdf" target="_blank">文字输入法
+与语音信息</a><br>
+  </td>
   <tr>
     <td class="tg-lboi">Learn Together with Me Videos S1 </td>
     <td class="tg-0pky">
