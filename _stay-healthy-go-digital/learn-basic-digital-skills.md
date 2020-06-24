@@ -124,7 +124,7 @@ Even if you are old, technology can help!</a><br>
  </tr>
 
   <tr>
-    <td class="tg-lboi" rowspan="3">Tier 3<br> Transacting Digitally</td>
+    <td class="tg-lboi" rowspan="1">Tier 3<br> Transacting Digitally</td>
     <td class="tg-0pky">Online Banking and Payments</td>
     <td class="tg-0pky">
       
@@ -169,7 +169,7 @@ GRAB<br>
 </td>
 </tr>
   
-</table><br>
+</table>
 
 **Cybersecurity Tips**<br>
 <a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
