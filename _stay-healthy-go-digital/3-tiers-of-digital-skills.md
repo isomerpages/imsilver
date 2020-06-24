@@ -4,7 +4,6 @@ title: 3 Tiers of Digital Skills
 permalink: /seniors-go-digital/3-tiers-of-digital-skills
 breadcrumb: 3-tiers-of-digital-skills
 collection_name: 3-tiers-of-digital-skills
-second_nav_title: 3 Tiers of Digital Skills
 ---
 
 ![pasa](/images/learn-digital-skills/pa-senior-academy/pa-senior-academy.jpeg)
@@ -222,6 +221,13 @@ iOS Basics<br>
 
 Windows Basics<br>
 * <a href="/files/surface-pro-4-user-guide-EN.pdf">Using Microsoft Surface</a><br>
+
+Windows Basics<br>
+* <a href="/files/surface-pro-4-user-guide-EN.pdf">Using Microsoft Surface</a><br>
+
+Managing Information and Communication<br>
+
+
 <h3>Other Resources (中文)</h3><br>
 
 
