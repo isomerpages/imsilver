@@ -41,10 +41,10 @@ Our learning programme will be tiered according to your capacity to learn and yo
 **中文**
    <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br>
    
-**Melayu**
-  <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br>
+**Melayu
+<a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br>
   **தமிழ்**
- <td class="tg-1boi"><a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
+<a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
 உடன் இைணதல</a><br>
    </td>                                                         
   </tr>
