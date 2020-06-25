@@ -108,7 +108,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">Zoom</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
     <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
-    [Starter Kit on Using Zoom](/files/DREK 220620/Zoom Tipsheet_22 June 20.pdf){:target="_blank"}<br>
+    * [确保安全上网](/files/DREK 220620/Zoom Tipsheet_22 June 20.pdf){:target="_blank"}<br>
   </td>
   </tr>
   
