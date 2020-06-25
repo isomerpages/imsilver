@@ -320,8 +320,9 @@ Health
 * [Health Promotion Board (HPB) Healthy 365 Mobile Application](https://www.healthhub.sg/apps/25/healthy365){:target="_blank"}<br>
 * [Health Promotion Board (HPB) Health Hub](https://www.healthhub.sg/){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI/){:target="_blank"}<br>
-* [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
-* [The Benefits of Teleconsultation (Tamil Subtitles](https://www.youtube.com/watch?v=bZR7D_MlPDY/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation | Manfaat Telerundingan (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
+* [The Benefits of Teleconsultation | தொலைத்தொடர்பு ஆலோசனையின்
+நன்மைகள் (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY/){:target="_blank"}<br>
 
 Transport
 * [Land Transport Authority (LTA) - MyTransport Mobile Application](https://www.mytransport.sg/mobile/mytransport_mobile.html){:target="_blank"}<br>
