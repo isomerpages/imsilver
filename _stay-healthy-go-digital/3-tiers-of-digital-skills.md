@@ -380,6 +380,7 @@ Microsoft Surface
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 6. 其他
 * [(Mandarin only) Join Zaobao's series of lifestyle videos to keep yourself healthy at home](https://www.zaobao.com.sg/keywords/come-n-live-at-zaobaosg?ref=zbsg-homepage&utm_medium=jumbotron/){:target="_blank"}<br>
+* [乐学每疫刻 S1E6 - IMSilver, meWATCH](https://www.mewatch.sg/en/series/learn-together-with-me/ep6/937216){:target="_blank"}<br>
 * [乐学每疫刻 S3E1 - 网上购物](https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326){:target="_blank"}<br>
 * [乐学每疫刻 S3E2 - 线上医疗咨询服务](https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep2/954630){:target="_blank"}<br>
 * [乐学每疫刻 S3E5 - Facebook](https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep5/955655){:target="_blank"}<br>
