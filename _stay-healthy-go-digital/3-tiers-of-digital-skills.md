@@ -33,8 +33,8 @@ Our learning programme will be tiered according to your personal needs and you w
     <th class="tg-1boi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills<br>Peringkat 1
-Kemahiran Komunikasi<br>பிரிவு 1
+    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills<br>Peringkat 1<br>
+Kemahiran Komunikasi<br>பிரிவு 1<br>
 ததொடர்புத் திறன்கள்</td>
     <td class="tg-lboi">Wireless@SGx</td>
     <td class="tg-1boi">
@@ -112,8 +112,8 @@ Kemahiran Komunikasi<br>பிரிவு 1
   </tr>
   
   <tr>
-    <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services<br>Peringkat 2
-Perkhidmatan Digital Pemerintah<br>பிரிவு 2
+    <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services<br>Peringkat 2<br>
+Perkhidmatan Digital Pemerintah<br>பிரிவு 2<br>
 மின்னிலக்க அரசாங்கச் சேவைகள்</td>
     <td class="tg-0pky">SingPass </td>
     <td class="tg-0pky">
@@ -133,8 +133,8 @@ Perkhidmatan Digital Pemerintah<br>பிரிவு 2
   </tr>
 
   <tr>
-    <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking<br>Peringkat 3
-e-Bayaran dan Perbankan<br>பிரிவு 3
+    <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking<br>Peringkat 3<br>
+e-Bayaran dan Perbankan<br>பிரிவு 3<br>
 மின்-கட்டணமுறைகள் மற்றும்
 வங்கிச்சேவை</td>
     <td class="tg-0pky">Online Banking and Payments Apps</td>
