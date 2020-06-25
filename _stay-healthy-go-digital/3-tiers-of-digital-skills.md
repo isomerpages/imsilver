@@ -389,7 +389,7 @@ Microsoft Surface
 <a href="https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-BELAJAR-DALAM-TALIAN-LEARN-ONLINE--12766642" target="_blank">
   Timba Imu Bersama - Belajar Dalam Talian (Learn Online)</a><br><br>
 2. [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
-3. [The Benefits of Teleconsultation | Manfaat Telerundingan (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
+3. [The Benefits of Teleconsultation (Manfaat Telerundingan) ](https://youtu.be/ac7C_x1yZuk/){:target="_blank"}<br>
 
 
 <h3>Other Resources (மற்ற வளங்கள்)</h3><br>
