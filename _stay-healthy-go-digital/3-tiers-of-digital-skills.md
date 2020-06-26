@@ -187,7 +187,7 @@ e-Bayaran dan Perbankan<br><br>பிரிவு 3<br>
     </td>
   </tr>
 </table><br>
-<h3>Cybersecurity Tips (English)</h3>
+<h3>Cybersecurity Tips </h3>
 
 Cybercrime Prevention<br>
 <a href="https://www.csa.gov.sg/gosafeonline/resources/crimewatch" target="_blank">Cyber Terror, Cyber Attacks, Love Scam</a><br>
