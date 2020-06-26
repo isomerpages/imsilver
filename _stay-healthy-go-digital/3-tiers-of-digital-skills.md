@@ -11,7 +11,7 @@ collection_name: 3-tiers-of-digital-skills
 ![pasa](/images/seniors-go-digital/3_Tiers_of_Digital_Skills.jpg)
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
 Our learning programme will be tiered according to your personal needs and you will be guided through 3 tiers of digital skills.<br>
-<h3>3 Tiers of Digital Skills | Kemahiran Digital 3 Peringkat | 3 மின்னிலக்கத் திறன் பிரிவுகள்</h3>
+<h3>3 Tiers of Digital Skills | 数码技能三大级别 | Kemahiran Digital 3 Peringkat | 3 மின்னிலக்கத் திறன் பிரிவுகள்</h3>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -33,7 +33,8 @@ Our learning programme will be tiered according to your personal needs and you w
     <th class="tg-1boi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills<br><br>Peringkat 1<br>
+    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills<br><br>第一级别<br>
+通讯技能<br><br>Peringkat 1<br>
 Kemahiran Komunikasi<br><br>பிரிவு 1<br>
 ததொடர்புத் திறன்கள்</td>
     <td class="tg-lboi">Wireless@SGx</td>
@@ -119,7 +120,8 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   </tr>
   
   <tr>
-    <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services<br><br>Peringkat 2<br>
+    <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services<br><br>第二级别<br>
+数码政府服务<br><br>Peringkat 2<br>
 Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
 மின்னிலக்க அரசாங்கச் சேவைகள்</td>
     <td class="tg-0pky">SingPass </td>
@@ -140,7 +142,8 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   </tr>
 
   <tr>
-    <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking<br><br>Peringkat 3<br>
+    <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking<br><br>第三级别<br>
+电子付款与银行服务<br><br>Peringkat 3<br>
 e-Bayaran dan Perbankan<br><br>பிரிவு 3<br>
 மின்-கட்டணமுறைகள் மற்றும்
 வங்கிச்சேவை</td>
@@ -213,7 +216,7 @@ Go Safe Online<br>
 Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
-<h3>Cybersecurity Tips (中文)</h3>
+<h3>Cybersecurity Tips (网络安全贴士)</h3>
 * [十个简单的网络安全提示](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
 * [个人资料保护法令 – 详情须知：什么是《个人资料保护法令》？](https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Individuals/what-you-should-know-about-pdpa-v1-0---chinese.pdf){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Mandarin)](https://www.youtube.com/watch?v=kyOtss5uVik&feature=youtu.be){:target="_blank"}<br>
