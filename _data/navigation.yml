@@ -19,10 +19,10 @@
         url: /learn-digital-skills/learn-online/overview/
 
 - title: Virtual Digital Clinics
-  url: /virtual-digital-clinics/overview/
+  url: /get-one-on-one-assistance/virtual-digital-clinics/
   sub-links:
-      - title: Virtual Digital Clinics
-        url: /get-one-on-one-assistance/virtual-digital-clinics/
+      #- title: Virtual Digital Clinics
+       # url: /get-one-on-one-assistance/virtual-digital-clinics/
       #- title: Merdeka Generation Digital Clinics
        # url: /get-one-on-one-assistance/merdeka-generation-digital-clinics/
       #- title: Tech Connect
