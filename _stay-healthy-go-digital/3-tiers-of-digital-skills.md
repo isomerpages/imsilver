@@ -40,16 +40,16 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   **English** <br>
-  <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br><br>
     
   **中文**<br>
-  <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br><br>
    
   **Melayu**<Br>
-  <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(Malay).pdf" target="_blank">Menyambung ke Wireless@SGx</a><br><br>
   
   **தமிழ்**<br>
-  <a href="https://imsilver-staging.netlify.app/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
+  <a href="https://imsilver.imda.gov.sg/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
   உடன் இைணதல</a><br>
     </td>                                                         
   </tr>
@@ -59,10 +59,10 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   **English** <br>
-  <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">Stay updated with Gov.sg</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">Stay updated with Gov.sg</a><br><br>
    
   **中文**<br> 
-  <a href="https://imsilver-staging.netlify.app/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">通过Gov.sg获取最新消息</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">通过Gov.sg获取最新消息</a><br>
     </td>  
   </tr>
   
@@ -71,7 +71,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
   **中文**<br> 
-  <a href="https://imsilver-staging.netlify.app/files/DREK100919/DREK-T4-Chinese%20Language%20Input.pdf" target="_blank">文字输入法与语音信息</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T4-Chinese%20Language%20Input.pdf" target="_blank">文字输入法与语音信息</a><br>
   </td>
   </tr>
   
@@ -108,8 +108,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">Zoom</td>
     <td class="tg-0pky"><a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
     <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
-    <a href="https://imsilver-staging.netlify.app/files/DREK%20220620/Zoom%20Tipsheet_22%20June%2020.pdf" target="_blank">Starter Kit on Using Zoom</a><br>
-
+      
 </td>
   </tr>
   
@@ -121,7 +120,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
     <td class="tg-0pky">
       
   **English**<br>
-  <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br>
   <a href="https://www.singpass.gov.sg/singpass/common/supportmain" target="_blank">How to register for SingPass and set up 2FA</a><br>
   <a href="https://singpassmobile.sg/?utm_source=IMDA&utm_medium=web_link&utm_campaign=SPMLaunch2018" target="_blank">How to set up and use the SingPass Mobile app</a><br>
   <a href="https://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#TOPIC_210129" target="_blank">FAQs on SingPass 2FA (SingPass Mobile)</a><br>
@@ -129,7 +128,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <a href="https://www.youtube.com/watch?v=f4di4HPgaRY" target="_blank">Using the SingPass Mobile app to log in within seconds!</a><br><br>
 
   **中文**<br>
-  <a href="https://imsilver-staging.netlify.app/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile 应用程序</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile 应用程序</a><br>
 
    </td>
   </tr>
@@ -143,7 +142,7 @@ e-Bayaran dan Perbankan<br><br>பிரிவு 3<br>
     <td class="tg-0pky">
       
   **English**<br>
-  <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br>
   <a href="https://www.mas.gov.sg/development/e-payments/sgqr" target="_blank">Guide to Singapore Quick Response Code (SGQR)</a><br><br>
 
   DBS/POSB<br>
@@ -171,14 +170,14 @@ e-Bayaran dan Perbankan<br><br>பிரிவு 3<br>
   <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabPay</a><br><br>
 
   **中文**<br>
-  <a href="https://imsilver-staging.netlify.app/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf" target="_blank">PayNow 应用程序</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf" target="_blank">PayNow 应用程序</a><br>
   <a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep7/956129" target="_blank">乐学每疫刻 S3E7 (网上银行服务)</a><br><br>
 
   **Melayu**<br>
-  <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br><br>
 
   **தமிழ்**<br>
-  <a href="https://imsilver-staging.netlify.app/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
     </td>
   </tr>
 </table><br>
