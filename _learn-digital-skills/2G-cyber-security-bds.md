@@ -15,9 +15,7 @@ Click below to view online guides that will familiarise you with the basic skill
 * [Protect Your Computer From Cyber Threats](https://www.csa.gov.sg/gosafeonline/go-safe-for-me/homeinternetusers/protect-your-computer-from-cyber-threats){:target="_blank"}<br>
 * [10 Simple Cyber Security Tips](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
 * [4 Important Tips To Go Safe Online](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/cyber_tips_4_you_flyer.pdf?la=en){:target="_blank"}<br>
-* [Learn more about Spam and Phishing](https://www.kaspersky.com/resource-center/threats/spam-phishing){:target="_blank"}<br>
-* [Protecting Your Money - Security Tips](https://www.kaspersky.com/resource-center/preemptive-safety/money-online){:target="_blank"}<br>
-* [Media Literacy Council Do What's Right:Be Safe](https://www.youtube.com/watch?v=EoStqEEKvwA&feature=youtu.be){:target="_blank"}<br>
+41* [Media Literacy Council Do What's Right:Be Safe](https://www.youtube.com/watch?v=EoStqEEKvwA&feature=youtu.be){:target="_blank"}<br>
 * [National Crime Prevention Council See Beh Suay - Episode 1](https://www.youtube.com/watch?v=1pt2TfFXp2w&t=5s){:target="_blank"}<br>
 * [National Crime Prevention Council See Beh Suay - Episode 2](https://www.youtube.com/watch?v=8aRIsd0hoBw){:target="_blank"}<br>
 * [National Crime Prevention Council See Beh Suay - Episode 3](https://www.youtube.com/watch?v=7aE3Cb_gYUI){:target="_blank"}<br>
@@ -29,7 +27,6 @@ Click below to view online guides that will familiarise you with the basic skill
 * [Facebook - Securing your accounts](https://www.facebook.com/safety/tools/security){:target="_blank"}<br>
 * [Facebook - Staying Safe](https://www.facebook.com/safety/tools/safety){:target="_blank"}<br>
 * [Google Tools - Safety tips to stay protected online](https://www.google.com/safetycenter/tools/){:target="_blank"}<br>
-* [Learn about Malware](https://www.kaspersky.com/resource-center/preemptive-safety/faq){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!)](https://www.youtube.com/watch?v=gq5S77jZeIc){:target="_blank"}<br>
 <h3>3. Personal Data Protection</h3>
 * [Protecting Your Personal Data](https://www.pdpc.gov.sg/individuals/protecting-your-personal-data){:target="_blank"}<br>

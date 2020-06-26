@@ -53,16 +53,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
     <th>Languages Offered</th>
     <th>Availability</th>
   </tr>
-   <tr>
-  <td>19 June 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Tamil</td>
-     <td><b>Registration is closed.</b><br></td>
-  </tr>
-   <tr>
-  <td>26 June 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Malay</td>
-  <td><b>Registration is closed.</b><br></td>
-    </tr>
   <tr>
   <td>3 July 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Tamil</td>
