@@ -338,7 +338,7 @@ Organisations interested to contribute to the cause can contact the Community Ch
 Visit the fundraising webpage for the Digital Access Programme <a href="http://go.gov.sg/SupportDigitalAccess" target="_blank">here</a> to donate online, or scan the QR code below.<br>
 <table border="1" bordercolor="#fff" cellspacing="0" cellpadding="0">
 <tr>
-    <td><img width="100%" height="100%" src="https://github.com/isomerpages/imsilver/blob/staging/images/seniors-go-digital/Fundrasing_QR_Code.png"/></td>
+    <td><img width="100%" height="100%" src="../images/seniors-go-digital/Fundrasing_QR_Code.png"/></td>
 </tr>
 </table><br>
 (Tax deductions applicable for donations above $10)<br><br>
