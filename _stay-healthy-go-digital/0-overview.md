@@ -336,9 +336,9 @@ Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are 
 Visit our <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Access" target="_blank">Digital Access Programme</a> to find out more about how you can support the digital needs of low-income households and individuals, including seniors.<br><br>
 Organisations interested to contribute to the cause can contact the Community Chest at ncss_comchest@ncss.gov.sg or at 1800 210 2600.<br>
 Visit the fundraising webpage for the Digital Access Programme <a href="http://go.gov.sg/SupportDigitalAccess" target="_blank">here</a> to donate online, or scan the QR code below.<br>
-<table border="1" bordercolor="#aaa" cellspacing="0" cellpadding="0">
+<table border="1" bordercolor="#fff" cellspacing="0" cellpadding="0">
 <tr>
-    <td><img width="100%" height="100%" src="../images/seniors-go-digital/Funrasing_QR_Code.png"/></td>
+    <td><img width="100%" height="100%" src="https://github.com/isomerpages/imsilver/blob/staging/images/seniors-go-digital/Fundrasing_QR_Code.png"/></td>
 </tr>
 </table><br>
 (Tax deductions applicable for donations above $10)<br><br>
