@@ -6,7 +6,7 @@ breadcrumb: Seniors Go Digital
 collection_name: stay-healthy-go-digital
 ---
 
-<img src="../images/seniors-go-digital/IMSilver_mast_head_banner.jpg"><br>
+![image](/images/seniors-go-digital/IMSilver_mast_head_banner.jpg)
 
 #### Seniors Go Digital / 数码乐龄计划 / Program Transformasi Digital untuk Warga Emas / மூத்தோர் மின்னிலக்கமயமாதல் திட்டம்
 
@@ -336,6 +336,10 @@ Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are 
 Visit our <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Access" target="_blank">Digital Access Programme</a> to find out more about how you can support the digital needs of low-income households and individuals, including seniors.<br><br>
 Organisations interested to contribute to the cause can contact the Community Chest at ncss_comchest@ncss.gov.sg or at 1800 210 2600.<br>
 Visit the fundraising webpage for the Digital Access Programme <a href="http://go.gov.sg/SupportDigitalAccess" target="_blank">here</a> to donate online, or scan the QR code below.<br>
-<img src="../images/seniors-go-digital/Fundrasing_QR_Code.png" width="50%" height="auto"><br>
+<table border="1" bordercolor="#aaa" cellspacing="0" cellpadding="0">
+<tr>
+    <td><img width="100%" height="100%" src="../images/seniors-go-digital/Funrasing_QR_Code.png"/></td>
+</tr>
+</table><br>
 (Tax deductions applicable for donations above $10)<br><br>
 Be sure to also visit IMDA's <a href="https://www.imda.gov.sg/for-community/Seniors-Go-Digital" target="_blank">Seniors Go Digital page</a> to find out more on how seniors can take their next step in going digital! Watch this space for more exciting activities coming your way!
