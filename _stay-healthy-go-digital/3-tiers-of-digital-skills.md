@@ -145,7 +145,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <td class="tg-0pky">TraceTogether</td>
     <td class="tg-0pky">
   
-  <a href="https://imsilver-staging.netlify.app/files/TraceTogether%20Token_4Languages.pdf" target="_blank">TraceTogether Token Tipsheet (4 Languages inclusive)</a><br><br>
+  <a href="https://imsilver-staging.netlify.app/files/TraceTogether%20Token_4Languages.pdf" target="_blank">TraceTogether Token Tipsheet (4 Languages)</a><br><br>
   English<br>
   <a href="https://imsilver-staging.netlify.app/files/Onboarding%20Guide%20for%20TraceTogther_English.pdf" target="_blank">Onboarding Guide for TraceTogether App</a><br>
   <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20English.pdf" target="_blank">TraceTogether Programme Tipsheet</a><br><br>
