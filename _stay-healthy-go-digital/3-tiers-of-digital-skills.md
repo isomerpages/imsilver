@@ -154,7 +154,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   Melayu<br>
   <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20Malay.pdf" target="_blank">Mengapa gunakan TraceTogether?</a><br><br>
   தமிழ்<br>
-  <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf" target="_blank">TraceTogether ஏன் பயன்படுத் வேண்டும்?</a><br><br>
+  <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf" target="_blank">TraceTogether ஏன் பயன்படுத்த வேண்டும்?</a><br><br>
 </td>
 </tr>
 
