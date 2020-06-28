@@ -157,11 +157,11 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
 </td>
 </tr>
 
-    <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking<br><br>第三级别<br>
-电子付款与银行服务<br><br>Peringkat 3<br>
-e-Bayaran dan Perbankan<br><br>பிரிவு 3<br>
-மின்-கட்டணமுறைகள் மற்றும்
-வங்கிச்சேவை</td>
+ <td class="tg-lboi" rowspan="1">Tier 3<br>e-Payments and Digital Banking<br><br>第三级别<br>
+      电子付款与银行服务<br><br>Peringkat 3<br>
+      e-Bayaran dan Perbankan<br><br>பிரிவு 3<br>
+      மின்-கட்டணமுறைகள் மற்றும்
+      வங்கிச்சேவை</td>
     <td class="tg-0pky">Online Banking and Payments Apps</td>
     <td class="tg-0pky">
       
