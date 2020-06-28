@@ -92,4 +92,4 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * [Staying Safe Online](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
-* [TraceTogether ஏன் பயன்படுத் வேண்டும்?](/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf){:target="_blank"}<br>
+* [TraceTogether ஏன் பயன்படுத்த வேண்டும்?](/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf){:target="_blank"}<br>
