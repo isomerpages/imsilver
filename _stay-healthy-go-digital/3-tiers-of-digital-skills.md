@@ -120,7 +120,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   </tr>
   
   <tr>
-    <td class="tg-lboi" rowspan="1">Tier 2<br>Digital Government Services<br><br>第二级别<br>
+    <td class="tg-lboi" rowspan="2">Tier 2<br>Digital Government Services<br><br>第二级别<br>
 数码政府服务<br><br>Peringkat 2<br>
 Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
 மின்னிலக்க அரசாங்கச் சேவைகள்</td>
