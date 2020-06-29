@@ -144,17 +144,17 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
 <tr>
   <td class="tg-0pky">TraceTogether</td>
     <td class="tg-0pky">
-  [TraceTogether Token Tipsheet (4 Languages)](/files/TraceTogether%20Token_4Languages.pdf){:target="_blank"}<br>
-  <a href="https://imsilver-staging.netlify.app/files/TraceTogether%20Token_4Languages.pdf" target="_blank">TraceTogether Token Tipsheet (4 Languages)</a><br><br>
+      
+  <a href="https://imsilver.imda.gov.sg/files/TraceTogether%20Token_4Languages.pdf" target="_blank">TraceTogether Token Tipsheet (4 Languages)</a><br><br>
   English<br>
-  <a href="https://imsilver-staging.netlify.app/files/Onboarding%20Guide%20for%20TraceTogther_English.pdf" target="_blank">Onboarding Guide for TraceTogether App</a><br>
-  <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20English.pdf" target="_blank">TraceTogether Programme Tipsheet</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/Onboarding%20Guide%20for%20TraceTogther_English.pdf" target="_blank">Onboarding Guide for TraceTogether App</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/Why%20use%20TraceTogether%20poster%20-%20English.pdf" target="_blank">TraceTogether Programme Tipsheet</a><br><br>
   中文<br>
-  <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf" target="_blank">为何要使用 “合力追踪" 应用程序？</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf" target="_blank">为何要使用 “合力追踪" 应用程序？</a><br><br>
   Melayu<br>
-  <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20Malay.pdf" target="_blank">Mengapa gunakan TraceTogether?</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/Why%20use%20TraceTogether%20poster%20-%20Malay.pdf" target="_blank">Mengapa gunakan TraceTogether?</a><br><br>
   தமிழ்<br>
-  <a href="https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf" target="_blank">TraceTogether ஏன் பயன்படுத்த வேண்டும்?</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf" target="_blank">TraceTogether ஏன் பயன்படுத்த வேண்டும்?</a><br><br>
 </td>
 </tr>
 
