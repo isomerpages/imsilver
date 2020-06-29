@@ -25,9 +25,9 @@ From 1 April 2021, SingPass users will no longer be able to use the OneKey Token
 **TraceTogether**
 * [How to set up TraceTogether](https://go.gov.sg/tt-setup){:target="_blank"}<br>
 * [9 geeky myth-busting facts you need to know about TraceTogether](https://www.tech.gov.sg/media/technews/geeky-myth-busting-facts-you-need-to-know-about-tracetogether){:target="_blank"}<br>
-* [TraceTogether Token Tipsheet (4 Languages)](https://imsilver-staging.netlify.app/files/TraceTogether%20Token_4Languages.pdf){:target="_blank"}<br>
-* [Onboarding Guide for TraceTogether App](https://imsilver-staging.netlify.app/files/Onboarding%20Guide%20for%20TraceTogther_English.pdf){:target="_blank"}<br>
-* [TraceTogether Programme Tipsheet](https://imsilver-staging.netlify.app/files/Why%20use%20TraceTogether%20poster%20-%20English.pdf){:target="_blank"}<br>
+* [TraceTogether Token Tipsheet (4 Languages)](/files/TraceTogether%20Token_4Languages.pdf){:target="_blank"}<br>
+* [Onboarding Guide for TraceTogether App](/files/Onboarding%20Guide%20for%20TraceTogther_English.pdf){:target="_blank"}<br>
+* [TraceTogether Programme Tipsheet](/files/Why%20use%20TraceTogether%20poster%20-%20English.pdf){:target="_blank"}<br>
 
 **Central Provident Fund (CPF)**
 * [Guide on How to Retrieve your CPF Contribution History Statement](https://www.sc.com/sg/online-form/cpf-statement/){:target="_blank"}<br>
