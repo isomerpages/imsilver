@@ -333,5 +333,3 @@ Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are 
 </tr>
 </table>
 
-
-Be sure to also visit IMDA's <a href="https://www.imda.gov.sg/for-community/Seniors-Go-Digital" target="_blank">Seniors Go Digital page</a> to find out more on how seniors can take their next step in going digital!

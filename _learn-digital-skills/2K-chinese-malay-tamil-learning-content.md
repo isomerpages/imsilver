@@ -59,6 +59,8 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [人生旅程助手应用程序](/files/DREK100919/DREK-T4-MOL (Chinese).pdf){:target="_blank"}<br>
 * [通过Gov.sg获取最新消息](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf){:target="_blank"}<br>
 * [SingPass Mobile](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
+* [为何要使用 “合力追踪" 应用程序？](/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf){:target="_blank"}<br>
+
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
 * [文字输入法与语音信息](/files/DREK100919/DREK-T4-Chinese Language Input.pdf){:target="_blank"}<br>
@@ -75,7 +77,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Staying Safe Online](/files/DREK200320/DREK-T3-Staying Safe Online (Malay)_200320.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk){:target="_blank"}<br>
-
+* [Mengapa gunakan TraceTogether?](/files/Why%20use%20TraceTogether%20poster%20-%20Malay.pdf){:target="_blank"}<br>
 
 # **தமிழ்**<br>
 * <a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/%E0%AE%87%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AF%8D-%E0%AE%AA%E0%AF%8A%E0%AE%B4%E0%AF%81%E0%AE%A4%E0%AF%81%E0%AE%AA%E0%AF%8B%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81-%E0%AE%85%E0%AE%AE%E0%AF%8D%E0%AE%9A%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%88-%E0%AE%AA%E0%AF%86%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AF%8D!-%E0%AE%9A%E0%AF%81%E0%AE%B5%E0%AE%BE%E0%AE%B0%E0%AE%9A%E0%AE%BF%E0%AE%AF%E0%AE%AE%E0%AE%BE%E0%AE%A9-%E0%AE%A4%E0%AE%95%E0%AE%B5%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%88-%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AE%B2%E0%AE%BE%E0%AE%AE%E0%AF%8D!--%E0%AE%AE%E0%AF%87%E0%AE%B2%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%B5%E0%AE%B0%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%87%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AF%87!-12767186" target="_blank">meLISTEN Podcast - Seniors can enjoy entertainment online! (மூத்தோர் இணையம்வழி பொழுதுபோக்கு நிகழ்ச்சிகளைக் கண்டு மகிழலாம்!)</a><br>
@@ -90,3 +92,4 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * [Staying Safe Online](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
+* [TraceTogether ஏன் பயன்படுத்த வேண்டும்?](/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf){:target="_blank"}<br>
