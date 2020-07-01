@@ -45,7 +45,10 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
   <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
   <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
-   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Email%20Account_010720.pdf" target="_blank">Starter Kit on Email</a><br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Email%20Account_010720.pdf" target="_blank">Starter Kit on Email</a><br><br>
+      
+   中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Email_Chi.pdf" target="_blank">电邮 入门教学</a><br><br>
 
  </td>                                                         
   </tr>
@@ -54,8 +57,9 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   English<br>
-  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-MS%20Teams_010720.pdf" target="_blank">Starter Kit on Microsoft Teams</a><br>
-   
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-MS%20Teams_010720.pdf" target="_blank">Starter Kit on Microsoft Teams</a><br><br>
+  中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Microsoft%20Teams_Chi.pdf" target="_blank">微软通讯和协作软件 (Microsoft Teams) 入门教学</a><br><br>
   </td>                                                         
   </tr>
   
@@ -95,7 +99,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
   中文<br> 
-  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T4-Chinese%20Language%20Input.pdf" target="_blank">文字输入法与语音信息</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Chinese%20Language%20Input_Chi.pdf" target="_blank">文字输入法与语音信息</a><br>
   </td>
   </tr>
   
@@ -127,7 +131,10 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
    <a href="https://faq.whatsapp.com/en/iphone/20910703" target="_blank">Add Contacts via iPhone</a><br>
    <a href="https://faq.whatsapp.com/en/android/21082107" target="_blank">Add Contacts via Android</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/23702247" target="_blank">Voice Messaging via iPhone</a><br>
-   <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br>
+   <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br><br>
+  
+  中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/WhatsApp_Chi.pdf" target="_blank">WhatsApp 入门教学</a><br>
 
   </td>
   </tr>
@@ -139,8 +146,11 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
    English<br>
     <a href="https://imsilver.imda.gov.sgfiles/DREK010720/Tipsheet-Zoom_010720.pdf" target="_blank">Starter Kit on Zoom</a><br>
     <a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
-    <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
+    <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br><br>
     
+   中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Zoom_Chi.pdf" target="_blank">视频通讯平台 Zoom 入门教学</a><br>
+
 </td>
   </tr>
   
