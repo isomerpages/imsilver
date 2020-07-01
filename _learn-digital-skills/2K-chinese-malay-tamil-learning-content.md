@@ -29,9 +29,15 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 **单元三 : 电邮**<br>
 * [开始使用 Microsoft Outlook](https://support.office.com/zh-cn/article/Video-View-email-9aa2285c-acee-41eb-89fc-b0630af0a886?omkt=zh-CN){:target="_blank"}<br>
 * [ 开始使用 Gmail](https://gsuite.google.com.tw/learning-center/products/gmail/get-started/){:target="_blank"}<br>
+* [ 电邮 入门教学](https://imsilver.imda.gov.sg/files/DREK010720/Email_Chi.pdf){:target="_blank"}<br>
+
 <h3>4. 社交媒体</h3>
 **单元四 : 社交媒体**<br>
 * [开始使用 Skype](https://support.skype.com/zh-Hant/skype/windows-desktop/start/){:target="_blank"}<br>
+* [微软通讯和协作软件 (Microsoft Teams) 入门教学](/files/DREK010720/Microsoft%20Teams_Chi.pdf){:target="_blank"}<br>
+* [WhatsApp 入门教学](/files/DREK010720/WhatsApp_Chi.pdf){:target="_blank"}<br>
+* [视频通讯平台 Zoom 入门教学](/files/DREK010720/Zoom_Chi.pdf){:target="_blank"}<br>
+
 <h3>5. 网络安全</h3>
 **单元五 : 网络安全**<br>
 * [十个简单的网络安全提示](https://www.csa.gov.sg/gosafeonline/~/media/gso/files/resources/live%20savvy%20tips.pdf?la=en){:target="_blank"}<br>
@@ -63,8 +69,9 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
-* [文字输入法与语音信息](/files/DREK100919/DREK-T4-Chinese Language Input.pdf){:target="_blank"}<br>
+* [文字输入法与语音信息](/files/DREK010720/Chinese%20Language%20Input_Chi.pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
+
 # **Bahasa Melayu**<br>
 * [meListen Podcast - Timba Ilmu Bersama (Staying Connected) ](https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA--STAYING-CONNECTED--12777982){:target="_blank"}<br>
 * [meListen Podcast - TELEKONSULTASI (Teleconsultation)](https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-TELEKONSULTASI--TELECONSULTATION--12773708){:target="_blank"}<br>
