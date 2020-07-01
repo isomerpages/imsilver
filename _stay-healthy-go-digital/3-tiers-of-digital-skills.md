@@ -33,15 +33,42 @@ Our learning programme will be tiered according to your personal needs and you w
     <th class="tg-1boi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills<br><br>第一级别<br>
+    <td class="tg-lboi" rowspan="9">Tier 1<br> Communication Skills<br><br>第一级别<br>
 通讯技能<br><br>Peringkat 1<br>
 Kemahiran Komunikasi<br><br>பிரிவு 1<br>
 ததொடர்புத் திறன்கள்</td>
-    <td class="tg-lboi">Wireless@SGx</td>
+      <td class="tg-lboi">Email Account</td>
     <td class="tg-1boi">
       
   English<br>
-  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br><br>
+  <a href="https://www.digitallearn.org/courses/intro-to-email" target="_blank">Introduction to Email</a><br>
+  <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
+  <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
+  <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Email%20Account_010720.pdf" target="_blank">Starter Kit on Email</a><br><br>
+      
+   中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Email_Chi.pdf" target="_blank">电邮 入门教学</a><br><br>
+
+ </td>                                                         
+  </tr>
+     <tr>
+      <td class="tg-lboi">Microsoft Teams</td>
+    <td class="tg-1boi">
+      
+  English<br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-MS%20Teams_010720.pdf" target="_blank">Starter Kit on Microsoft Teams</a><br><br>
+  中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Microsoft%20Teams_Chi.pdf" target="_blank">微软通讯和协作软件 (Microsoft Teams) 入门教学</a><br><br>
+  </td>                                                         
+  </tr>
+  
+   <tr>
+   <td class="tg-lboi">Wireless@SGx</td>
+   <td class="tg-1boi">
+      
+  English<br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Wireless%40SGx_010720.pdf" target="_blank">Starter Kit on Wireless@SGx</a><br><br>
     
   中文<br>
   <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br><br>
@@ -60,7 +87,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   English <br>
-  <a href="https://imsilver.imda.gov.sg/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">Stay updated with Gov.sg</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Gov.sg_010720.pdf" target="_blank">Starter kit on Gov.sg</a><br><br>
    
   中文<br> 
   <a href="https://imsilver.imda.gov.sg/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">通过Gov.sg获取最新消息</a><br>
@@ -72,7 +99,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
   中文<br> 
-  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T4-Chinese%20Language%20Input.pdf" target="_blank">文字输入法与语音信息</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Chinese%20Language%20Input_Chi.pdf" target="_blank">文字输入法与语音信息</a><br>
   </td>
   </tr>
   
@@ -100,10 +127,14 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
   English<br>
+    <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-WhatsApp_010720.pdf" target="_blank">Starter Kit on WhatsApp</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/20910703" target="_blank">Add Contacts via iPhone</a><br>
    <a href="https://faq.whatsapp.com/en/android/21082107" target="_blank">Add Contacts via Android</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/23702247" target="_blank">Voice Messaging via iPhone</a><br>
-   <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br>
+   <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br><br>
+  
+  中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/WhatsApp_Chi.pdf" target="_blank">WhatsApp 入门教学</a><br>
 
   </td>
   </tr>
@@ -113,9 +144,13 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
    English<br>
+    <a href="https://imsilver.imda.gov.sgfiles/DREK010720/Tipsheet-Zoom_010720.pdf" target="_blank">Starter Kit on Zoom</a><br>
     <a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
-    <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
-      
+    <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br><br>
+    
+   中文<br>
+   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Zoom_Chi.pdf" target="_blank">视频通讯平台 Zoom 入门教学</a><br>
+
 </td>
   </tr>
   
