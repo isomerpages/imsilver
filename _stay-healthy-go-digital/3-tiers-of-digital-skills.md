@@ -41,7 +41,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   English<br>
-  <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(English).pdf" target="_blank">Guide to Wireless@SGx</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Wireless%40SGx_010720.pdf" target="_blank">Starter Kit on Wireless@SGx</a><br><br>
     
   中文<br>
   <a href="https://imsilver.imda.gov.sg/files/DREK100919/DREK-T2_Wireless@SG%20(Chinese).pdf" target="_blank">连接 Wireless@SGx 无线网络</a><br><br>
@@ -60,7 +60,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   English <br>
-  <a href="https://imsilver.imda.gov.sg/files/DREK240320/DREK-T7-Gov.sg%20(English)_24032020.pdf" target="_blank">Stay updated with Gov.sg</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Gov.sg_010720.pdf" target="_blank">Starter kit on Gov.sg</a><br><br>
    
   中文<br> 
   <a href="https://imsilver.imda.gov.sg/files/DREK240320/DREK-T7-Gov.sg%20(Chinese)_24032020.pdf" target="_blank">通过Gov.sg获取最新消息</a><br>
@@ -100,6 +100,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
   English<br>
+    <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-WhatsApp_010720.pdf" target="_blank">Starter Kit on WhatsApp</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/20910703" target="_blank">Add Contacts via iPhone</a><br>
    <a href="https://faq.whatsapp.com/en/android/21082107" target="_blank">Add Contacts via Android</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/23702247" target="_blank">Voice Messaging via iPhone</a><br>
@@ -113,9 +114,10 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
    English<br>
+    <a href="https://imsilver.imda.gov.sgfiles/DREK010720/Tipsheet-Zoom_010720.pdf" target="_blank">Starter Kit on Zoom</a><br>
     <a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
     <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
-      
+    
 </td>
   </tr>
   
