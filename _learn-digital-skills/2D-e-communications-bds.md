@@ -33,6 +33,9 @@ second_nav_title: Learn Online
 <h5>Microsoft Teams</h5>
 * <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-MS%20Teams_010720.pdf" target="_blank">Starter Kit on Microsoft Teams</a><br>
 
+<h5>Zoom</h5>
+* <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Zoom_010720.pdf" target="_blank">Starter Kit on Zoom</a><br>
+
 <h5>WhatsApp</h5>
 * <a href="https://faq.whatsapp.com/en/iphone/20910703">Add Contacts via iPhone</a><br>
 * <a href="https://faq.whatsapp.com/en/android/21082107">Add Contacts via Android</a><br>
