@@ -33,12 +33,32 @@ Our learning programme will be tiered according to your personal needs and you w
     <th class="tg-1boi"><span style="font-weight:700">Resources</span></th>
   </tr>
   <tr>
-    <td class="tg-lboi" rowspan="7">Tier 1<br> Communication Skills<br><br>第一级别<br>
+    <td class="tg-lboi" rowspan="9">Tier 1<br> Communication Skills<br><br>第一级别<br>
 通讯技能<br><br>Peringkat 1<br>
 Kemahiran Komunikasi<br><br>பிரிவு 1<br>
 ததொடர்புத் திறன்கள்</td>
-    <td class="tg-lboi">Wireless@SGx</td>
+    <tr>
+      <td class="tg-lboi">Email Account</td>
     <td class="tg-1boi">
+      
+  English<br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Email%20Account_010720.pdf" target="_blank">Starter Kit on Email</a><br>
+   
+  </td>                                                         
+  </tr>
+     <tr>
+      <td class="tg-lboi">Microsoft Teams</td>
+    <td class="tg-1boi">
+      
+  English<br>
+  <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-MS%20Teams_010720.pdf" target="_blank">Starter Kit on Microsoft Teams</a><br>
+   
+  </td>                                                         
+  </tr>
+  
+   <tr>
+   <td class="tg-lboi">Wireless@SGx</td>
+   <td class="tg-1boi">
       
   English<br>
   <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Wireless%40SGx_010720.pdf" target="_blank">Starter Kit on Wireless@SGx</a><br><br>
