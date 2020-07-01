@@ -37,7 +37,6 @@ Our learning programme will be tiered according to your personal needs and you w
 通讯技能<br><br>Peringkat 1<br>
 Kemahiran Komunikasi<br><br>பிரிவு 1<br>
 ததொடர்புத் திறன்கள்</td>
-    <tr>
       <td class="tg-lboi">Email Account</td>
     <td class="tg-1boi">
       
