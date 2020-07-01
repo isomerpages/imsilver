@@ -13,7 +13,7 @@ second_nav_title: Learn Online
 * <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
 * <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
 * <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
-* r<a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Email%20Account_010720.pdf" target="_blank">Starter Kit on Email</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Email%20Account_010720.pdf" target="_blank">Starter Kit on Email</a><br>
 
 <h3>2. Connecting Through Social Media</h3>
 * <a href="https://www.digitallearn.org/courses/intro-to-facebook" target="_blank">Introduction to Facebook</a><br>
