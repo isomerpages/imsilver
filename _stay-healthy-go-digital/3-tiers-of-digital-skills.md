@@ -144,7 +144,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-0pky">
       
    English<br>
-    <a href="https://imsilver.imda.gov.sgfiles/DREK010720/Tipsheet-Zoom_010720.pdf" target="_blank">Starter Kit on Zoom</a><br>
+    <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-Zoom_010720.pdf" target="_blank">Starter Kit on Zoom</a><br>
     <a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
     <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br><br>
     
