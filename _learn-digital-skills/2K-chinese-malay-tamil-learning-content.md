@@ -49,7 +49,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
-* [确保安全上网](/files/DREK040220/DREK-T3-Staying Safe Online (Chinese)_040220.pdf){:target="_blank"}<br>
+* [安全上网 入门教学](/files/DREK010720/Staying%20Safe%20Online_Chi.pdf){:target="_blank"}<br>
 <h3>6. 电子付款</h3>
 **单元六 : 电子付款**<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>

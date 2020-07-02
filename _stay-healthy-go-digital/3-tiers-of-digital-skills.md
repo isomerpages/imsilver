@@ -262,8 +262,8 @@ Go Safe Online<br>
 <a href="https://www.facebook.com/safety/tools/security" target="_blank">Facebook - Securing your accounts</a><br>
 <a href="https://www.facebook.com/safety/tools/safety" target="_blank">Facebook - Staying Safe</a><br>
 <a href="https://safety.google/" target="_blank">Google Tools - Safety tips to stay protected online</a><br>
-<a href="https://www.youtube.com/watch?v=gq5S77jZeIc" target="_blank">Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!)</a><br><br>
-  
+<a href="https://www.youtube.com/watch?v=gq5S77jZeIc" target="_blank">Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!)</a><br>
+<a href="https://imsilver.imda.gov.sg/files/DREK010720/Staying%20Safe%20Online_Eng.pdf" target="_blank">Starter Kit on Staying Safe Online</a><br><br>
 Personal Data Protection<br>
 <a href="https://www.youtube.com/watch?v=4FjTZq1WGnA" target="_blank">Do Not Call Registry for Consumer</a><br><br>
 
@@ -277,7 +277,7 @@ Personal Data Protection<br>
 * [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
-* [确保安全上网](/files/DREK040220/DREK-T3-Staying Safe Online (Chinese)_040220.pdf){:target="_blank"}<br>
+* [安全上网 入门教学](/files/DREK010720/Staying%20Safe%20Online_Chi.pdf){:target="_blank"}<br>
 
 <h3>Cybersecurity Tips (Panduan Keselamatan Siber)</h3>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>

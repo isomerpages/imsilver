@@ -28,6 +28,7 @@ Click below to view online guides that will familiarise you with the basic skill
 * [Facebook - Staying Safe](https://www.facebook.com/safety/tools/safety){:target="_blank"}<br>
 * [Google Tools - Safety tips to stay protected online](https://www.google.com/safetycenter/tools/){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!)](https://www.youtube.com/watch?v=gq5S77jZeIc){:target="_blank"}<br>
+* [Starter Kit on Staying Safe Online](/files/DREK010720/Staying%20Safe%20Online_Eng.pdf){:target="_blank"}<br>
 <h3>3. Personal Data Protection</h3>
 * [Protecting Your Personal Data](https://www.pdpc.gov.sg/individuals/protecting-your-personal-data){:target="_blank"}<br>
 * [Do Not Call Registry for Consumer](http://www.youtube.com/watch?v=4FjTZq1WGnA){:target="_blank"}<br>
