@@ -66,6 +66,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [通过Gov.sg获取最新消息](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf){:target="_blank"}<br>
 * [SingPass Mobile](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
 * [为何要使用 “合力追踪" 应用程序？](/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf){:target="_blank"}<br>
+* [Come 'n Learn Digital Classroom series /《疫起来上课》之乐学数码系列 (zaobao.sg)](https://www.zaobao.com/keywords/yi-qi-lai-shang-ke){:target="_blank"}<br>
 
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
