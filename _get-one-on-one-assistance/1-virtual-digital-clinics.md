@@ -56,11 +56,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
     <th>Availability</th>
   </tr>
   <tr>
-  <td>3 July 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Tamil</td>
-  <td><b>Registration has been closed.</b><br></td>
-  </tr>
-  <tr>
     <td>10 July 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Tamil</td>
     <td><b>Session is cancelled.</b><br></td>
@@ -68,7 +63,7 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   <tr>
    <td>17 July 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Malay</td>
-  <td>Sessions are available for registration on a first-come, first-served basis. <b>English sessions are fully booked.</b><br></td>
+  <td>Sessions are available for registration on a first-come, first-served basis. <b>English and Mandarin sessions are fully booked.</b><br></td>
   </tr>
     <tr>
    <td>24 July 2020<br>2:00pm - 5:00pm </td>
