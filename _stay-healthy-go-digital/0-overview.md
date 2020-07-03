@@ -112,6 +112,10 @@ Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are 
   <td><a href="https://go.gov.sg/tamil-library-services" target="_blank">National Library Board: Digital Storytelling (தமிழ்)</a></td>
   <td>National Library Board</td>
 </tr>
+   <tr>
+  <td><a href="https://www.zaobao.com.sg/keywords/yi-qi-lai-shang-ke" target="_blank">Come 'n Learn Digital Classroom series / 《疫起来上课》之乐学数码系列 (zaobao.sg)</a></td>
+  <td>Singapore Press Holdings</td>
+</tr>
 </table>
 
 #### For your reading pleasure / 阅读空间 / Untuk bacaan anda / நீங்கள் படித்து மகிழ 
