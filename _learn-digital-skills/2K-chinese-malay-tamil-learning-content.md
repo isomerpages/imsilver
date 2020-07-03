@@ -71,6 +71,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 **单元九 : 其他**<br>
 * [文字输入法与语音信息](/files/DREK010720/Chinese%20Language%20Input_Chi.pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
+* [Come 'n Learn Digital Classroom series /《疫起来上课》之乐学数码系列 (zaobao.sg)](https://www.zaobao.com/keywords/yi-qi-lai-shang-ke){:target="_blank"}<br>
 
 # **Bahasa Melayu**<br>
 * [meListen Podcast - Timba Ilmu Bersama (Staying Connected) ](https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA--STAYING-CONNECTED--12777982){:target="_blank"}<br>
