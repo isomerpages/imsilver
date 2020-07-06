@@ -47,20 +47,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
     <th width="60%">Topic</th>
     <th width="25%">Registration and other details</th>
   </tr>
-<tr>
-  
-  <td>11 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Creating with Salesforce Trailhead 101 (Part 1)</b><br>Learn how easy it is to create an app using Salesforce TrailHead. Understand the fundamentals of apps creation and build your foundation in this first lesson!</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Salesforce<br><br><a href="https://form.gov.sg/5eae39e72137fe0011d06977" target="_blank">Click to register</a></td>
-  </tr>
-<tr>
-  <td>18 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Creating with Salesforce Trailhead 101 (Part 2)</b><br>Strengthen your foundation to create the necessary fields to build a customised app that you can call your own. </td>
-</tr>
-<tr>
-  <td>25 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Creating with Salesforce Trailhead 101 (Part 3)</b><br>Build up a reporting template to organise your data and findings that you will get from your own app. Visualise the data with charts and a simple dashboard. </td>
-</tr>
   <tr>
   <td>2 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Building a simple mobile app</b><br>Create a simple app to track visits to your local park</td>
