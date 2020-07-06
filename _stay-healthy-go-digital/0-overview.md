@@ -12,7 +12,7 @@ collection_name: stay-healthy-go-digital
 
 Seniors Go Digital is a specially designed programme to assist you on your digital journey.
 <br><br>
-It may seem challenging at first to make the digital leap, but fret not! We're here to help you learn the skills needed to enjoy the convenience of living in a digital world. There are 3 tiers of digital skills to guide you through your digital journey. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/3-tiers-of-digital-skills" target="blank">here</a> to start learning today!<br> 
+It may seem challenging at first to make the digital leap, but fret not! We're here to help you learn the skills needed to enjoy the convenience of living in a digital world. There are 3 tiers of digital skills to guide you through your digital journey. You can learn through one-on-one help, small group classes, and more at our <a href="https://www.imda.gov.sg/for-community/Seniors%20Go%20Digital" target="blank">SG Digital Offices</a>, or click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/3-tiers-of-digital-skills" target="blank">here</a> to start learning online today!<br> 
 <br>
 Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
 
