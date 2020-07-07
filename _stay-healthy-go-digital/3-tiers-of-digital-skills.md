@@ -125,17 +125,20 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   <tr>
     <td class="tg-0pky">WhatsApp</td>
     <td class="tg-0pky">
-      
+    
   English<br>
     <a href="https://imsilver.imda.gov.sg/files/DREK010720/Tipsheet-WhatsApp_010720.pdf" target="_blank">Starter Kit on WhatsApp</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/20910703" target="_blank">Add Contacts via iPhone</a><br>
    <a href="https://faq.whatsapp.com/en/android/21082107" target="_blank">Add Contacts via Android</a><br>
    <a href="https://faq.whatsapp.com/en/iphone/23702247" target="_blank">Voice Messaging via iPhone</a><br>
-   <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br><br>
-  
+   <a href="https://faq.whatsapp.com/en/android/23684991" target="_blank">Voice Messaging via Android</a><br>
+   <a href="https://xiohoo.com/courses/free-whatsapp-tutorial-for-apple-iphone-users.html" target="_blank">WhatsApp Tutorial (iOS users) by XIOHOO</a><br>
+   <a href="https://xiohoo.com/courses/free-whatsapp-tutorial-for-android-phone-users.html" target="_blank">WhatsApp Tutorial (Android users) by XIOHOO</a><br><br>
+
   中文<br>
    <a href="https://imsilver.imda.gov.sg/files/DREK010720/WhatsApp_Chi.pdf" target="_blank">WhatsApp 入门教学</a><br>
-
+   <a href="https://xiohoo.com/courses/free-whatsapp-tutorial-for-apple-iphone-users.html" target="_blank">WhatsApp 科技小贴士 (iOS users) by XIOHOO</a><br>
+   <a href="https://xiohoo.com/courses/free-whatsapp-tutorial-for-android-phone-users.html" target="_blank">WhatsApp 科技小贴士 (Android users) by XIOHOO</a><br><br>
   </td>
   </tr>
   
