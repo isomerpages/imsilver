@@ -94,7 +94,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
 </td></tr>
 </table>
 
-*Digital Pods are conducted in English unless stated otherwise.
+*Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
 
 To join Digital Pod sessions, you will require the following: <br>要参加数码乐学舱课程，您须备有: <br>Untuk menyertai Pod Digital, anda perlukan: <br>மின்னிலக்கக் கூட்டரங்கில் சேர, உங்களுக்குத் தேவையானவை:
 
@@ -125,4 +125,4 @@ To join Digital Pod sessions, you will require the following: <br>要参加数�
   <td>தேவையான ஒரு கைப்பேசி செயலியை நீங்கள் பதிவிறக்கம் செய்ய வேண்டியிருக்கலாம். எ.கா. Zoom. அங்கத்தை உறுதிப்படுத்தும் மின்னஞ்சலில் இதுபற்றி உங்களுக்கு விவரமளிக்கப்படும் </td>
 </tr>
   
-For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
+
