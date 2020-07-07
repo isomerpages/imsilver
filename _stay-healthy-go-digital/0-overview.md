@@ -16,6 +16,7 @@ It may seem challenging at first to make the digital leap, but fret not! We're h
 <br>
 Make connections that matter when you Go Digital! Here are some online resources to help you get connected.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WufTZsCPaag" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
 #### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
 
