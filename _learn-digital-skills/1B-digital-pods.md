@@ -8,7 +8,8 @@ second_nav_title: Attend Classes
 ---
 
 ![graphic](/images/learn-digital-skills/digital-pods.jpg)
-
+<h3>Free Online Classes | 免费线上课程 | Kelas-kelas Percuma
+Dalam Talian | இலவச இணையம்வழி வகுப்புகள்</h3>
 Digital Pods are a series of free online interactive classes specially curated for seniors to pick up digital skills. The duration of each Digital Pod is 30 minutes, and you can learn a different topic each week!
 
 Register now for these upcoming Digital Pods. Look out for new classes which will be published monthly!
