@@ -322,7 +322,6 @@ Personal Data Protection<br>
 <h3>Cybersecurity Tips (Panduan Keselamatan Siber)</h3>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Malay)](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
-* [Staying Safe Online](/files/DREK200320/DREK-T3-Staying Safe Online (Malay)_200320.pdf){:target="_blank"}<br>
 * [Timba Ilm Bersama - Kekal Selamat DIruang Siber (Staying Safe Online)](https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-KEKAL-SELAMAT-DIRUANG-SIBER-STAYING-SAFE-ONLINE--12769076){:target="_blank"}<br>
 * [Kit Permulaan untuk Tetap Selamat dalam Talian](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf){:target="_blank"}<br>
 
