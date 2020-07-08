@@ -45,7 +45,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
   <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
   <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
-   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_English.pdf" target="_blank">Starter Kit on Email</a><br><br>
+   <title id="Starter Kit on Email"><a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_English.pdf" target="_blank">Starter Kit on Email</a></title><br><br>
       
    中文<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf" target="_blank">电邮 入门教学</a><br><br>
