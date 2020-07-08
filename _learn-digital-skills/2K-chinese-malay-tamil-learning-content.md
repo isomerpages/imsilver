@@ -104,7 +104,14 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
 * [PayNow](/files/DREK101219/DREK-T1-PAYNow_Tamil_101219.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf){:target="_blank"}<br>
-* [Staying Safe Online](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf){:target="_blank"}<br>
+* [Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf){:target="_blank"}<br>
+* [Staying Safe Online](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
 * [TraceTogether ஏன் பயன்படுத்த வேண்டும்?](/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Email Account](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Gov.sg](/files/SGD%20Tipsheets/Gov.sg_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Microsoft Teams](/files/SGD%20Tipsheets/Microsoft%20Teams_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on SGQR](/files/SGD%20Tipsheets/SGQR_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on WhatsApp](/files/SGD%20Tipsheets/WhatsApp_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Zoom](/files/SGD%20Tipsheets/Zoom_Tamil.pdf){:target="_blank"}<br>
