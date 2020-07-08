@@ -29,14 +29,14 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 **单元三 : 电邮**<br>
 * [开始使用 Microsoft Outlook](https://support.office.com/zh-cn/article/Video-View-email-9aa2285c-acee-41eb-89fc-b0630af0a886?omkt=zh-CN){:target="_blank"}<br>
 * [ 开始使用 Gmail](https://gsuite.google.com.tw/learning-center/products/gmail/get-started/){:target="_blank"}<br>
-* [ 电邮 入门教学](https://imsilver.imda.gov.sg/files/DREK010720/Email_Chi.pdf){:target="_blank"}<br>
+* [ 电邮 入门教学](https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf){:target="_blank"}<br>
 
 <h3>4. 社交媒体</h3>
 **单元四 : 社交媒体**<br>
 * [开始使用 Skype](https://support.skype.com/zh-Hant/skype/windows-desktop/start/){:target="_blank"}<br>
 * [微软通讯和协作软件 (Microsoft Teams) 入门教学](/files/DREK010720/Microsoft%20Teams_Chi.pdf){:target="_blank"}<br>
 * [WhatsApp 入门教学](/files/DREK010720/WhatsApp_Chi.pdf){:target="_blank"}<br>
-* [视频通讯平台 Zoom 入门教学](/files/DREK010720/Zoom_Chi.pdf){:target="_blank"}<br>
+* [视频通讯平台 Zoom 入门教学](/files/SGD%20Tipsheets/Zoom_Chi.pdf){:target="_blank"}<br>
 
 <h3>5. 网络安全</h3>
 **单元五 : 网络安全**<br>
@@ -49,27 +49,28 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Media Literacy Council Zhun Bo – Episode 3 (Mandarin)](https://www.youtube.com/watch?v=zmKAKBN4Cqk){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 4 (Mandarin)](https://www.youtube.com/watch?v=ijvAb6-5DPE){:target="_blank"}<br>
 * [Media Literacy Council Zhun Bo – Episode 5 (Mandarin)](https://www.youtube.com/watch?v=lvqcdmURYEE){:target="_blank"}<br>
-* [安全上网 入门教学](/files/DREK010720/Staying%20Safe%20Online_Chi.pdf){:target="_blank"}<br>
+* [安全上网 入门教学](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Chi.pdf){:target="_blank"}<br>
 <h3>6. 电子付款</h3>
 **单元六 : 电子付款**<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>
 * [如何更改您的 OCBC 网上银行访问代码](https://www.youtube.com/watch?v=ih_03r-AwIw){:target="_blank"}<br>
 * [PayNow](/files/DREK101219/DREK-T1-PAYNow_Chinese_101219.pdf){:target="_blank"}<br>
+* [SGQR](/files/SGD%20Tipsheets/SGQR_Chi.pdf){:target="_blank"}<br>
 * [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
 <h3>8. 娱乐与艺术政府电子服务</h3>
 **单元八 : 政府电子服务**<br>
-* [连接 Wireless@SGx 无线网络](/files/DREK100919/DREK-T2_Wireless@SG (Chinese).pdf){:target="_blank"}<br>
+* [连接 Wireless@SGx 无线网络](/files/SGD%20Tipsheets/WirelessSGx_Chi.pdf){:target="_blank"}<br>
 * [人生旅程助手应用程序](/files/DREK100919/DREK-T4-MOL (Chinese).pdf){:target="_blank"}<br>
-* [通过Gov.sg获取最新消息](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf){:target="_blank"}<br>
+* [通过Gov.sg获取最新消息](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf){:target="_blank"}<br>
 * [SingPass Mobile](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
 * [为何要使用 “合力追踪" 应用程序？](/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf){:target="_blank"}<br>
 
 <h3>9. 其他</h3>
 **单元九 : 其他**<br>
-* [文字输入法与语音信息](/files/DREK010720/Chinese%20Language%20Input_Chi.pdf){:target="_blank"}<br>
+* [文字输入法与语音信息](/files/SGD%20Tipsheets/Chinese%20Input%20Methods_Chi.pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Chinese Subtitles)](https://youtu.be/_G0UcqxgRVI){:target="_blank"}<br>
 * [Come 'n Learn Digital Classroom series /《疫起来上课》之乐学数码系列 (zaobao.sg)](https://www.zaobao.com/keywords/yi-qi-lai-shang-ke){:target="_blank"}<br>
 
@@ -80,9 +81,16 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [meListen Podcast - Belajar Dalam Talian (Learn Online)](https://www.melisten.sg/podcast/playlist/Timba-Ilmu-Bersama-Podcast-12766640/TIMBA-ILMU-BERSAMA-BELAJAR-DALAM-TALIAN-LEARN-ONLINE--12766642){:target="_blank"}<br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Malay)](https://www.youtube.com/watch?v=pY7pIcBSziI&feature=youtu.be){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Malay)](https://www.youtube.com/watch?v=hNnDanMSB8E){:target="_blank"}<br>
+* [Kit Permulaan Utuk Email Account](/files/SGD%20Tipsheets/Email%20Account-Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan Utuk Gov.sg](/files/SGD%20Tipsheets/Gov.sg_Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan Utuk Microsoft Teams](/files/SGD%20Tipsheets/Microsoft%20Teams_Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan Utuk SGQR](/files/SGD%20Tipsheets/SGQR_Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan Utuk WhatsApp](/files/SGD%20Tipsheets/WhatsApp_Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan Untuk Zoom](/files/SGD%20Tipsheets/Zoom_Malay.pdf){:target="_blank"}<br>
 * [PayNow](/files/DREK101219/DREK-T1-PAYNow_Malay_101219.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf){:target="_blank"}<br>
-* [Staying Safe Online](/files/DREK200320/DREK-T3-Staying Safe Online (Malay)_200320.pdf){:target="_blank"}<br>
+* [Kit Permulaan Untuk Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan untuk Tetap Selamat dalam Talian](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk){:target="_blank"}<br>
 * [Mengapa gunakan TraceTogether?](/files/Why%20use%20TraceTogether%20poster%20-%20Malay.pdf){:target="_blank"}<br>
@@ -97,7 +105,14 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
 * [PayNow](/files/DREK101219/DREK-T1-PAYNow_Tamil_101219.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf){:target="_blank"}<br>
-* [Staying Safe Online](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf){:target="_blank"}<br>
+* [Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf){:target="_blank"}<br>
+* [Staying Safe Online](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
 * [TraceTogether ஏன் பயன்படுத்த வேண்டும்?](/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Email Account](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Gov.sg](/files/SGD%20Tipsheets/Gov.sg_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Microsoft Teams](/files/SGD%20Tipsheets/Microsoft%20Teams_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on SGQR](/files/SGD%20Tipsheets/SGQR_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on WhatsApp](/files/SGD%20Tipsheets/WhatsApp_Tamil.pdf){:target="_blank"}<br>
+* [Starter Kit on Zoom](/files/SGD%20Tipsheets/Zoom_Tamil.pdf){:target="_blank"}<br>
