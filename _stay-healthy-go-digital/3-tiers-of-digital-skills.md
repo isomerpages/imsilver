@@ -52,6 +52,10 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
 
    Melayu<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account-Malay.pdf" target="_blank">Kit Permulaan Untuk Emel</a><br><br>
+   
+    தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf" target="_blank">Starter Kit on Email</a><br><br>
+   
  </td>                                                         
   </tr>
      <tr>
@@ -64,6 +68,8 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Microsoft%20Teams_Chi.pdf" target="_blank">微软通讯和协作软件 (Microsoft Teams) 入门教学</a><br><br>
    Melayu<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Microsoft%20Teams_Malay.pd" target="_blank">Kit Permulaan Untuk Microsoft Teams</a><br><br>
+ தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Microsoft%20Teams_Tamil.pdf" target="_blank">Starter Kit on Microsoft Teams</a><br><br>
   </td>                                                         
   </tr>
   
@@ -81,7 +87,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf" target="_blank">Kit Permulaan Untuk Wireless@SGx</a><br><br>
   
   தமிழ்<br>
-  <a href="https://imsilver.imda.gov.sg/files/DREK101219/DREK-T2-Wireless@SG%20(Tamil)_101219.pdf" target="_blank">Wireless@SGx
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf" target="_blank">Wireless@SGx
   உடன் இைணதல</a><br>
     </td>                                                         
   </tr>
@@ -91,14 +97,16 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
     <td class="tg-1boi">
       
   English <br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Gov.sg_English.pdf" target="_blank">Starter kit on Gov.sg</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Gov.sg_English.pdf" target="_blank">Starter Kit on Gov.sg</a><br><br>
    
   中文<br> 
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Gov.sg_Chi.pdf" target="_blank">Gov.sg 入门教学</a><br><br>
   
   Melayu<br> 
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Gov.sg_Malay.pdf" target="_blank">Kit Permulaan Untuk Gov.sg</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Gov.sg_Malay.pdf" target="_blank">Kit Permulaan Untuk Gov.sg</a><br><br>
   
+   தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Gov.sg_Tamil.pdf" target="_blank">Starter Kit on Gov.sg</a><br><br>
     </td>  
   </tr>
   
@@ -150,10 +158,12 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   
   Melayu<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/WhatsApp_Malay.pdf" target="_blank">Kit Permulaan Untuk WhatsApp</a><br><br>
+  
+  தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/WhatsApp_Tamil.pdf" target="_blank">Starter Kit on WhatsApp</a><br><br>
   </td>
   </tr>
-  
-  <tr>
+ <tr>
     <td class="tg-0pky">Zoom</td>
     <td class="tg-0pky">
       
@@ -168,6 +178,9 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
    Melayu<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Malay.pdf" target="_blank">Kit Permulaan Untuk Zoom</a><br><br>
 
+தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Tamil.pdf" target="_blank">Starter Kit on Zoom</a><br><br>
+ 
 </td>
   </tr>
   
@@ -230,7 +243,9 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   Melayu<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Malay.pdf" target="_blank">Kit Permulaan Untuk SGQR</a><br><br>
 
-
+  தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Tamil.pdf" target="_blank">Starter Kit on SGQR</a><br><br>
+ 
   DBS/POSB<br>
   <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
   <a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank">POSB Internet Banking</a><br>
@@ -314,7 +329,7 @@ Personal Data Protection<br>
 <h3>Cybersecurity Tips (இணையப் பாதுகாப்பு குறிப்புகள்)</h3>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
-* [Staying Safe Online](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf){:target="_blank"}<br>
+* [Staying Safe Online](files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
 * [How do seniors stay safe on internet?](https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/%E0%AE%AE%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AF%8D-%E0%AE%87%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%95-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81-%E0%AE%8E%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF--12766864){:target="_blank"}<br><br>
 
 <h4>For other resources, click <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">here</a>!<br></h4>
