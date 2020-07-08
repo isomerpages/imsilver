@@ -55,6 +55,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>
 * [如何更改您的 OCBC 网上银行访问代码](https://www.youtube.com/watch?v=ih_03r-AwIw){:target="_blank"}<br>
 * [PayNow](/files/DREK101219/DREK-T1-PAYNow_Chinese_101219.pdf){:target="_blank"}<br>
+* [SGQR](/files/SGD%20Tipsheets/SGQR_Chi.pdf){:target="_blank"}<br>
 * [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
