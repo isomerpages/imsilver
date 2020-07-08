@@ -9,6 +9,8 @@ second_nav_title: Learn Online
 ![1](/images/learn-online/e-payment.jpg)
 
 Click below to view online guides that will teach you how to perform digital transactions.<br>
+<h5>SGQR</h5>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_English.pdf" target="_blank">Starter Kit on SGQR</a><br>
 
 <h5>DBS/POSB</h5>
 * <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
