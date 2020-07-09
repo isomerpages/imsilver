@@ -20,23 +20,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
     <th width="25%">Registration and other details</th>
   </tr>
   <tr>
-  <td>16 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Protect your online accounts</b><br><b>如何使用强密码保护您的在线帐户</b><br>Worried about the security of your social media accounts? Join us to learn how to make full use of the functions Facebook provides to better strengthen and protect your data!<br> 担心您的社交媒体帐户是否安全吗？学习如何充分利用Facebook提供的功能，以更好地增强和保护您的帐户！</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Facebook and TOUCH Cyber Wellness<br><br><a href="https://form.gov.sg/5eae3ace2137fe0011d06cfa" target="_blank">Click to register</a></td>
-  </tr>
-<tr>
-  <td>23 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Having a positive online experience</b><br><b>拥有积极的社交媒体的体验</b><br>Learn and explore the different Facebook Groups that matches your passion and interest while understanding how to maintain a positive presence online!<br> 学习如何在Facebook上找到您有兴趣的群组，也同时了解如何在网上拥有充实的体验! </td>
-</tr>
-<tr>
-  <td>30 June 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Think Critically</b><br><b>培养批判性思维能力</b><br>Navigating the digital world can be daunting. Learn more about how you can identify false news, online scams, and clickbait with us!<br> 探索互联网可能会令人生畏。与我们一起识别虚假新闻，在线欺诈和点击诱饵的信息！</td>
-</tr>
-  <tr>
-  <td>7 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Keeping in TOUCH through Facebook</b><br><b>通过Facebook保持联系</b><br>Discover the wonders of video calls and how they can help you stay in contact with your family and friends better!<br> 发觉视频通话的奇妙之处，以及它如何能帮助您更好地与家人和朋友保持联系！</td>
-</tr>
-  <tr>
   <td>9 July 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Learn how to install and use Teams to participate in Virtual Digital Clinics</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
   <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Microsoft<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
