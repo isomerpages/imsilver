@@ -20,6 +20,6 @@ Here you will find guides on how to use other useful digital services and apps
 
 <h3>2. Transport</h3>
 * [Land Transport Authority (LTA) - MyTransport Mobile Application](https://www.mytransport.sg/mobile/mytransport_mobile.html){:target="_blank"}<br>
-* [Test](/files/Test.zip){:target="_blank"}<br>
+
 
 
