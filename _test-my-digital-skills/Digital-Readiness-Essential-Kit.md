@@ -17,6 +17,7 @@ Check out our Digital Readiness Essential Kits to learn useful tips on digital s
 | Online Shopping & Food Delivery | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (English)_200320.pdf) | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf) | N.A. | N.A. |
 | Gov.sg | [](/files/SGD%20Tipsheets/Gov.sg_English.pdf) | [](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf) | N.A. | N.A. |
 | SingPass Mobile | [](/files/SingPass Mobile.pdf) | [](/files/SingPass Mobile_Chinese.pdf) | N.A. | N.A. |
+| SGQR | [](/files/SGD%20Tipsheets/SGQR_English.pdf) | [](/files/SGD%20Tipsheets/SGQR_Chi.pdf) | [](/files/SGD%20Tipsheets/SGQR_Malay.pdf)| [](/files/SGD%20Tipsheets/SGQR_Tamil.pdf) |
 
 <br>N.A.: Not applicable/ Not available
 
