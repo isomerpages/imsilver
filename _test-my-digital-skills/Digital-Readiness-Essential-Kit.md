@@ -9,7 +9,7 @@ Check out our Digital Readiness Essential Kits to learn useful tips on digital s
 
 | Topic | English | 中文 | Melayu | தமிழ் |
 | -- | -- | -- | -- | -- |
-| Email | [ ](/files/SGD%20Tipsheets/Email%20Account_English.pdf) | [ ](/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Email%20Account-Malay.pdf) | [ ](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf)|
+| Email | [ ](/files/SGD Tipsheets/Email Account_English.pdf) | [ ](/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Email%20Account-Malay.pdf) | [ ](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf)|
 | PayNow | [ ](/files/PayNow/11154_DREK-T1-PAYNow_English.pdf) | [ ](/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf)|
 | Wireless@SG | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_English.pdf) | [ ](/files/SGD%20Tipsheets/WirelessSGx_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf) | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf) |
 | Staying Safe Online | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf) |
