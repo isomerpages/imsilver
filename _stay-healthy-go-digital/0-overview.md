@@ -18,11 +18,11 @@ Make connections that matter when you Go Digital! Here are some online resources
 
 #### Virtual Digital Clinics / 线上数码诊所 / Klinik Digital Maya / மெய்நிகர் மின்னிலக்கப் பயிற்சி அங்கங்கள் 
 
-Our Digital Clinics have gone online! Have a mobile phone related query? Get one-on-one assistance through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/vdc" target="_blank">here</a>!<br>
+Our Digital Clinics have gone online! Have a mobile phone related query? Get <b>one-on-one assistance</b> through our Virtual Digital Clinic sessions. Find out more and register <a href="http://imsilver.sg/vdc" target="_blank">here</a>!<br>
 
-#### Digital Pods / 数码乐学舱 / Pod Digital / மின்னிலக்கக் கூட்டரங்குகள் 
+#### Virtual Digital Pods / 数码乐学舱 / Pod Digital / மின்னிலக்கக் கூட்டரங்குகள் 
 
-Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of bite-sized, themed webinars on various digital topics like digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!<br>
+Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are a series of <b>free online classes</b> that are bite-sized and focused on themes such as digital connectivity, mobile accessibility features and cyber security. Find out more and register <a href="http://imsilver.sg/dp" target="_blank">here</a>!<br>
 
 #### For your viewing pleasure / 视频观赏 / Untuk tontonan anda / நீங்கள் பார்த்து மகிழ 
 
