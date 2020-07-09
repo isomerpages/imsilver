@@ -18,6 +18,7 @@ Check out our Digital Readiness Essential Kits to learn useful tips on digital s
 | Gov.sg | [](/files/SGD%20Tipsheets/Gov.sg_English.pdf) | [](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf) | N.A. | N.A. |
 | SingPass Mobile | [](/files/SingPass Mobile.pdf) | [](/files/SingPass Mobile_Chinese.pdf) | N.A. | N.A. |
 | SGQR | [](/files/SGD%20Tipsheets/SGQR_English.pdf) | [](/files/SGD%20Tipsheets/SGQR_Chi.pdf) | [](/files/SGD%20Tipsheets/SGQR_Malay.pdf)| [](/files/SGD%20Tipsheets/SGQR_Tamil.pdf) |
+| Email |[](/files/SGD Tipsheets/Email Account_English.pdf) | [](/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf) | [](/files/SGD%20Tipsheets/Email%20Account-Malay.pdf) |[](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf)|
 
 <br>N.A.: Not applicable/ Not available
 
