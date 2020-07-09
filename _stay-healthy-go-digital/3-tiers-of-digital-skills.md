@@ -19,13 +19,17 @@ Our learning programme will be tiered according to your personal needs and you w
 .tg th{font-family:Lato;font-size:18px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+ 
 .content table td, .content table th{
   border:1px solid;
 }
 .content table tbody tr:last-child td, .content table tbody tr:last-child th{
   border-bottom-width:thin;
 }
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
 </style>
+
+<div class="tg-wrap">
 <table class="tg">
   <tr>
     <th class="tg-lboi"><span style="font-weight:700">Tier</span></th>
@@ -281,7 +285,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
     </td>
   </tr>
-</table><br>
+</table></div><br>
 <h3>Cybersecurity Tips </h3>
 
 Cybercrime Prevention<br>
