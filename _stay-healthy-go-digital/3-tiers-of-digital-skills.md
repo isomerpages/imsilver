@@ -45,7 +45,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
   <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
   <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
-   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_English.pdf" target="_blank">Starter Kit on Email</a><br><br>
+   <title id="Starter Kit on Email"><a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_English.pdf" target="_blank">Starter Kit on Email</a></title><br><br>
       
    中文<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf" target="_blank">电邮 入门教学</a><br><br>
@@ -53,7 +53,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
    Melayu<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account-Malay.pdf" target="_blank">Kit Permulaan Untuk Emel</a><br><br>
    
-    தமிழ்<br>
+  தமிழ்<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf" target="_blank">Starter Kit on Email</a><br><br>
    
  </td>                                                         
@@ -328,7 +328,7 @@ Personal Data Protection<br>
 <h3>Cybersecurity Tips (இணையப் பாதுகாப்பு குறிப்புகள்)</h3>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
-* [Staying Safe Online](files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
+* [Staying Safe Online](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
 * [How do seniors stay safe on internet?](https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/%E0%AE%AE%E0%AF%82%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%8B%E0%AE%B0%E0%AF%8D-%E0%AE%87%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%81%E0%AE%95%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%95-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%A4%E0%AF%81-%E0%AE%8E%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9F%E0%AE%BF--12766864){:target="_blank"}<br><br>
 
 <h4>For other resources, click <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/overview/" target="_blank">here</a>!<br></h4>
