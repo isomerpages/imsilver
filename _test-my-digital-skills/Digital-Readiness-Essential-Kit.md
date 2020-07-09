@@ -12,7 +12,7 @@ Check out our Digital Readiness Essential Kits to learn useful tips on digital s
 | PayNow | [ ](/files/PayNow/11154_DREK-T1-PAYNow_English.pdf) | [ ](/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf)|
 | Wireless@SG | [ ](/files/DREK010720/Tipsheet-Wireless%40SGx_010720.pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Chinese).pdf) | [ ](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf) | [ ](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf) |
 | Staying Safe Online | [ ](/files/DREK040220/DREK-T3-Staying Safe Online (English)_040220.pdf) | [ ](/files/DREK040220/DREK-T3-Staying Safe Online (Chinese)_040220.pdf) | [ ](/files/DREK200320/DREK-T3-Staying Safe Online (Malay)_200320.pdf) | [ ](/files/DREK240320/DREK-T3-Staying Safe Online (Tamil)_240320.pdf) |
-| Input Methods (Chinese) | N.A. |  [ ](/files/DREK100919/DREK-T4-Chinese Language Input.pdf) |  N.A. |  N.A. |
+| Input Methods (Chinese) | N.A. |  [ ](/files/SGD%20Tipsheets/Chinese%20Input%20Methods_Chi.pdf) |  N.A. |  N.A. |
 | Moments of Life | [](/files/DREK100919/DREK-T4-MOL (English).pdf) | [](/files/DREK100919/DREK-T4-MOL (Chinese).pdf) | [](/files/DREK100919/DREK-T4-MOL (Malay).pdf) | [](/files/DREK100919/DREK-T4-MOL (Tamil).pdf) |
 | Online Shopping & Food Delivery | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (English)_200320.pdf) | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf) | N.A. | N.A. |
 | Gov.sg | [](/files/DREK010720/Tipsheet-Gov.sg_010720.pdf) | [](/files/DREK240320/DREK-T7-Gov.sg (Chinese)_24032020.pdf) | N.A. | N.A. |
