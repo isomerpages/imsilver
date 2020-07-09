@@ -26,8 +26,9 @@ Our learning programme will be tiered according to your personal needs and you w
 .content table tbody tr:last-child td, .content table tbody tr:last-child th{
   border-bottom-width:thin;
 }
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}
 </style>
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+
 <div class="tg-wrap">
 <table class="tg">
   <tr>
