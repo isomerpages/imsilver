@@ -2,7 +2,7 @@
 layout: simple-page
 title: Seniors Go Digital Starter Kit
 permalink: /seniors-go-digital-starter-kit
-breadcrumb: Digital Readiness Essential Kit
+breadcrumb: Seniors Go Digital Starter Kit
 ---
 
 Check out our Seniors Go Digital Starter Kit to learn useful tips on digital skills with step-by-step guide, and how it can bring convenience to your daily activities.
