@@ -5,7 +5,7 @@ permalink: /digital-readiness-essential-kit
 breadcrumb: Digital Readiness Essential Kit
 ---
 
-Check out our Digital Readiness Essential Kits to learn useful tips on digital skills with step-by-step guide, and how it can bring convenience to your daily activities.
+Check out our Seniors Go Digital Starter Kit to learn useful tips on digital skills with step-by-step guide, and how it can bring convenience to your daily activities.
 
 | Topic | English | 中文 | Melayu | தமிழ் |
 | -- | -- | -- | -- | -- |
