@@ -1,7 +1,7 @@
 ---
 layout: simple-page
 title: Seniors Go Digital Starter Kit
-permalink: /digital-readiness-essential-kit
+permalink: /seniiors-go-digital-starter-kit
 breadcrumb: Digital Readiness Essential Kit
 ---
 
