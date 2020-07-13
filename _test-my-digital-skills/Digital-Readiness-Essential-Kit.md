@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Digital Readiness Essential Kit
+title: Seniors Go Digital Starter Kit
 permalink: /digital-readiness-essential-kit
 breadcrumb: Digital Readiness Essential Kit
 ---
