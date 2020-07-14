@@ -3,6 +3,7 @@ layout: leftnav-page-content
 title: Promotions
 permalink: /seniors-go-digital/promotions
 breadcrumb: promotions
+collection_name: promotions
 
 
 ---
