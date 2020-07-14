@@ -334,6 +334,18 @@ Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are 
   <td><a href="https://csa.gov.sg/gosafeonline/resources/cyber-safety-interactive-handbook" target="_blank">Cyber Safety Interactive Handbook</a></td>
   <td>Cyber Security Agency of Singapore</td>
 </tr>
+  <tr>
+  <td><a href="https://www.smartnation.gov.sg/whats-new/smart-nation-together/seniors" target="_blank">Smart Nation Together Calendar</a></td>
+  <td>Smart Nation Singapore</td>
+</tr>
+  <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLmGkYf0auQJw8F3byjNlmtXm7GHD5S1ss" target="_blank">My Smart Ahma Top Picks (available in English, 中文, Melayu and தமிழ்)</a></td>
+  <td>Smart Nation Singapore</td>
+</tr>
+   <tr>
+  <td><a href="https://www.youtube.com/playlist?list=PLmGkYf0auQJzvMGXtnEj0gnibqOF-H4yR" target="_blank">My Smart Ahma</a></td>
+  <td>Smart Nation Singapore</td>
+</tr>
 </table>
 
 Visit our <a href="https://www.imda.gov.sg/for-community/digital-readiness/Digital-Access" target="_blank">Digital Access Programme</a> to find out more about how you can support the digital needs of low-income households and individuals, including seniors.<br><br>

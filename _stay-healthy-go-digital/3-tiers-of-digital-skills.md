@@ -174,17 +174,20 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
    English<br>
     <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_English.pdf" target="_blank">Starter Kit on Zoom</a><br>
     <a href="https://www.youtube.com/watch?v=UlRIz8m4a5I&feature=youtu.be" target="_blank">RSVP Singapore Zoom Video Tutorial</a><br>
-    <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br><br>
-    
+    <a href="https://www.youtube.com/watch?v=joYyXVBoiB8" target="_blank">RSVP Singapore Zoom Video Tutorial (iOS)</a><br>
+    <a href="https://www.youtube.com/watch?v=lqcIdeXtA3A" target="_blank">LIVE SMART: Using Zoom for online gatherings and classes</a><br><br>
    中文<br>
-   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Chi.pdf" target="_blank">视频通讯平台 Zoom 入门教学</a><br><br>
-   
+   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Chi.pdf" target="_blank">视频通讯平台 Zoom 入门教学</a><br>
+   <a href="https://www.youtube.com/watch?v=7JRjSTrjMow" target="_blank">LIVE SMART: Using Zoom for online gatherings and classes</a><br><br>
+
    Melayu<br>
-   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Malay.pdf" target="_blank">Kit Permulaan Untuk Zoom</a><br><br>
+   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Malay.pdf" target="_blank">Kit Permulaan Untuk Zoom</a><br>
+   <a href="https://www.youtube.com/watch?v=k-CUvC99vUc" target="_blank">LIVE SMART: Using Zoom for online gatherings and classes</a><br><br>
 
 தமிழ்<br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Tamil.pdf" target="_blank">Starter Kit on Zoom</a><br><br>
- 
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Zoom_Tamil.pdf" target="_blank">Starter Kit on Zoom</a><br>
+  <a href="https://www.youtube.com/watch?v=8Nbmx44Ux6c" target="_blank">LIVE SMART: Using Zoom for online gatherings and classes</a><br><br>
+
 </td>
   </tr>
   
