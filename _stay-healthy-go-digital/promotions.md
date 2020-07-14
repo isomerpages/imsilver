@@ -14,5 +14,5 @@ collection_name: promotions
 
 Here's a list of promotions from our partners to kickstart your learning journey. TO learn more about the different apps, refer to the resource page <a href="https://imsilver.imda.gov.sg/seniors-go-digital/3-tiers-of-digital-skills" target="blank">here</a>.
 
-<h4><b>Online Merchants</b></h4><br>
+<h4><b>Online Merchants</b></h4>
 Grocery Shopping
