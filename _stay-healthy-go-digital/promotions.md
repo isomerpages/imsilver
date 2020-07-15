@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Promotions
-permalink: /seniors-go-digital/promotions
+permalink: /seniors-go-digitals/promotions
 breadcrumb: promotions
 collection_name: promotions
 
