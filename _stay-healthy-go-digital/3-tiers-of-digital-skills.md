@@ -49,7 +49,7 @@ Kemahiran Komunikasi<br><br>பிரிவு 1<br>
   <a href="https://support.office.com/en-us/article/video-view-email-9aa2285c-acee-41eb-89fc-b0630af0a886?ui=en-US&rs=en-US&ad=US" target="_blank">Getting Started with Microsoft Outlook</a><br>
   <a href="https://support.google.com/a/users/answer/9297685" target="_blank">Getting Started with Gmail</a><br>
   <a href="https://support.google.com/a/users/answer/9297879" target="_blank">Switching to Gmail from Outlook</a><br>
-   <title id="Starter Kit on Email"><a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_English.pdf" target="_blank">Starter Kit on Email</a></title><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Account_English.pdf" target="_blank">Starter Kit on Email</a><br><br>
       
    中文<br>
    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf" target="_blank">电邮 入门教学</a><br><br>
@@ -240,19 +240,22 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
     <td class="tg-0pky">
       
   English<br>
-  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_English.pdf" target="_blank">Guide to PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Eng.pdf" target="_blank">Starter Kit on PayNow</a><br>
   <a href="https://www.mas.gov.sg/development/e-payments/sgqr" target="_blank">Guide to Singapore Quick Response Code (SGQR)</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_English.pdf" target="_blank">Starter Kit on SGQR</a><br><br>
   
   中文<br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Chi.pdf" target="_blank">SGQR码 入门教学</a><br><br>
-  
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Chi.pdf" target="_blank">SGQR码 入门教学</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Chi.pdf" target="_blank">PayNow 入门教学</a><br><br>
+
   Melayu<br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Malay.pdf" target="_blank">Kit Permulaan Untuk SGQR</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Malay.pdf" target="_blank">Kit Permulaan Untuk SGQR</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Malay.pdf" target="_blank">Kit Permulaan di PayNow</a><br><br>
 
   தமிழ்<br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Tamil.pdf" target="_blank">Starter Kit on SGQR</a><br><br>
- 
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Tamil.pdf" target="_blank">Starter Kit on SGQR</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Tamil.pdf" target="_blank">Starter Kit on PayNow</a><br><br>
+
   DBS/POSB<br>
   <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
   <a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank">POSB Internet Banking</a><br>
