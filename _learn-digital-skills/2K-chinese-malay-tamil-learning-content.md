@@ -54,7 +54,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 **单元六 : 电子付款**<br>
 * [学习怎么使用华侨银行流动银行和 Pay Anyone™ 应用程序](https://www.youtube.com/watch?v=Px_0Sd282KQ&list=PLQa6qD1sYFzZjcpkvKgUjVt6Wd79USXBC){:target="_blank"}<br>
 * [如何更改您的 OCBC 网上银行访问代码](https://www.youtube.com/watch?v=ih_03r-AwIw){:target="_blank"}<br>
-* [PayNow](/files/DREK101219/DREK-T1-PAYNow_Chinese_101219.pdf){:target="_blank"}<br>
+* [PayNow](/files/SGD%20Tipsheets/PayNow_Chi.pdf){:target="_blank"}<br>
 * [SGQR](/files/SGD%20Tipsheets/SGQR_Chi.pdf){:target="_blank"}<br>
 * [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
@@ -87,7 +87,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Kit Permulaan Utuk SGQR](/files/SGD%20Tipsheets/SGQR_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Utuk WhatsApp](/files/SGD%20Tipsheets/WhatsApp_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Untuk Zoom](/files/SGD%20Tipsheets/Zoom_Malay.pdf){:target="_blank"}<br>
-* [PayNow](/files/DREK101219/DREK-T1-PAYNow_Malay_101219.pdf){:target="_blank"}<br>
+* [PayNow](/files/SGD%20Tipsheets/PayNow_Malay.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf){:target="_blank"}<br>
 * [Kit Permulaan Untuk Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan untuk Tetap Selamat dalam Talian](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf){:target="_blank"}<br>
@@ -103,7 +103,7 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * <a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/Tele-consultation---%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF--%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AF%8A%E0%AE%B3%E0%AE%BF-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AE%BE%E0%AE%95--%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AE%9F%E0%AE%BF-%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%9A%E0%AE%A4%E0%AE%BF!-12780742" target="_blank">meLISTEN Podcast -  Teleconsultation (தொலைத்தொடர்பு ஆலோசனை)</a><br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
-* [PayNow](/files/DREK101219/DREK-T1-PAYNow_Tamil_101219.pdf){:target="_blank"}<br>
+* [PayNow](/files/SGD%20Tipsheets/PayNow_Tamil.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf){:target="_blank"}<br>
 * [Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf){:target="_blank"}<br>
 * [Staying Safe Online](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
