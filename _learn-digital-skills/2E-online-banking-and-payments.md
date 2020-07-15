@@ -9,6 +9,9 @@ second_nav_title: Learn Online
 ![1](/images/learn-online/e-payment.jpg)
 
 Click below to view online guides that will teach you how to perform digital transactions.<br>
+<h5>SPayNow</h5>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Eng.pdf" target="_blank">Starter Kit on PayNow</a><br>
+
 <h5>SGQR</h5>
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_English.pdf" target="_blank">Starter Kit on SGQR</a><br>
 
