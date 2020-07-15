@@ -9,7 +9,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
 
 | Topic | English | 中文 | Melayu | தமிழ் |
 | -- | -- | -- | -- | -- |
-| PayNow | [ ](/files/PayNow/11154_DREK-T1-PAYNow_English.pdf) | [ ](/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf) | [ ](/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf)|
+| PayNow | [ ](/files/SGD%20Tipsheets/PayNow_Eng.pdf) | [ ](/files/SGD%20Tipsheets/PayNow_Chi.pdf) | [ ](/files/SGD%20Tipsheets/PayNow_Malay.pdf) | [ ](/files/SGD%20Tipsheets/PayNow_Tamil.pdf)|
 | Wireless@SG | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_English.pdf) | [ ](/files/SGD%20Tipsheets/WirelessSGx_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf) | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf) |
 | Staying Safe Online | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf) |
 | Input Methods (Chinese) | N.A. |  [ ](/files/SGD Tipsheets/Chinese Input Methods_Chi.pdf) |  N.A. |  N.A. |
