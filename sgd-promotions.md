@@ -8,7 +8,7 @@ collection_name: promotions
 
 ---
 
-![image](/images/seniors-go-digital/IMSilver_mast_head_banner.jpg)
+![image](/images/seniors-go-digital/iStock-962065852.jpg)
 
 #### Exclusive Deals for your Learning Experience
 
