@@ -121,7 +121,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td><b>Understanding myCPF mobile app</b><br>
  Over 500,000 members use the myCPF mobile app to gain quick access to their personal CPF information on-the-go. Join us to learn how you can use the myCPF mobile app!  
   </td>
-<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CPF<br><br><a href="https://form.gov.sg/5f0be8db4de73d00110f3dd1" target="_blank">Click to register</a><br>Please note that you will need a valid SingPass to access your CPF e-services.
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CPF<br><br><a href="https://form.gov.sg/5f0be8db4de73d00110f3dd1" target="_blank">Click to register</a><br>(Please note that you will need a valid SingPass to access your CPF e-services.)
 <tr>
   <td>10 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Understanding the CPF website</b><br>
