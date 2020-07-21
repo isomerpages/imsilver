@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-title: Seniors Go Digital Starter Kit
+title: Seniors Go Digital Starter Kit/ 数码乐龄计划入门教学/ Kit Permulaan Seniors Go Digital/ மூத்தோருக்கான மின்னிலக்கமயமாதல் இயக்கத்தின் பயன்பாட்டு வழிமுறைகள்
 permalink: /seniors-go-digital-starter-kit
 breadcrumb: Seniors Go Digital Starter Kit
 ---
