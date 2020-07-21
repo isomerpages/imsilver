@@ -82,7 +82,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td><b>Be smart and safe with SingPass Mobile and TraceTogether / SingPass Mobile 和TraceTogether</b><br><b>疫情追踪我最行</b><br>
    Master the basics of SingPass Mobile,  discover SafeEntry Check-in tricks for you and your family via SingPass Mobile and TraceTogether, and subscribe to COVID-19 updates    on messaging platforms.<br>
   掌握电子政府密码(SingPass)应用功能，了解如何使用电子政府密码和合力追踪(TraceTogether)应用为您和同行的家人登录SafeEntry访客登记系统，学习订阅疫情推送讯息</td>
- <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Accenture<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
+ <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Accenture<br><br><a href="https://form.gov.sg/5f11544bfefd4e00119fb6a1" target="_blank">Click to register</a></td>
   </tr>
 <tr>
   <td>18 August 2020<br><br>3:00 - 3:30pm</td>
@@ -114,6 +114,54 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td><b>Learn how to use Zoom effectively (Part 2)</b><br>
   Level up by learning about the various controls and advanced features in Zoom!</td>
 </tr>
+
+
+<tr>
+  <td>3 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Understanding myCPF mobile app</b><br>
+ Over 500,000 members use the myCPF mobile app to gain quick access to their personal CPF information on-the-go. Join us to learn how you can use the myCPF mobile app!  
+  </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CPF<br><br><a href="https://form.gov.sg/5f0be8db4de73d00110f3dd1" target="_blank">Click to register</a><br>Please note that you will need a valid SingPass to access your CPF e-services.
+<tr>
+  <td>10 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Understanding the CPF website</b><br>
+ Skip the queues and reduce your waiting time. Learn and explore features such as submitting applications online, booking CPF appointments or updating your personal particulars all at your fingertips through the CPF website!</td>
+</tr>
+<tr>
+  <td>17 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Introduction to CPF LIFE Scheme</b><br>
+Heard about the CPF scheme that continues paying you monthly payouts even after you have depleted your own retirement savings? Join us to understand how CPF LIFE does that and more so you have greater peace of mind in retirement!</td>
+</tr>
+<tr>
+  <td>24 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Understanding how CPF savings are distributed upon demise and how to make a CPF nomination online</b><br>
+Find out what happens to your CPF savings when you pass on, and how you can make a CPF nomination online to determine how your CPF savings will be distributed.</td>
+</tr>
+
+
+<tr>
+  <td>22 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Getting started on Carousell</b><br>
+ Learn how to buy and sell your pre-loved or brand new goods on Carousell! Explore the features and various categories in the app (including a category with free items!),    learn how to compare prices and be equipped with safety tips.    
+  </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Carousell<br><br><a href="https://form.gov.sg/5f0bfcc1a154270011e931eb" target="_blank">Click to register</a></td>
+  </tr>
+<tr>
+  <td>29 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Buying on Carousell</b><br>
+ Find out how you can search for products, use the chat function, make an offer, make payment, collect your products, and leave a review.</td>
+</tr>
+<tr>
+  <td>6 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Best practices and transacting safely on Carousell</b><br>
+Discover the best practices of using Carousell, and learn to transact safely as a buyer and seller on Carousell.</td>
+</tr>
+<tr>
+  <td>13 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Selling on Carousell</b><br>
+Get tips on how to create a good listing and explore other functions to promote your listing.</td>
+</tr>
+
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
