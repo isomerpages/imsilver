@@ -115,7 +115,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   Level up by learning about the various controls and advanced features in Zoom!</td>
 </tr>
 
-
 <tr>
   <td>3 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Understanding myCPF mobile app</b><br>
@@ -161,7 +160,6 @@ Discover the best practices of using Carousell, and learn to transact safely as 
   <td><b>Selling on Carousell</b><br>
 Get tips on how to create a good listing and explore other functions to promote your listing.</td>
 </tr>
-
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
