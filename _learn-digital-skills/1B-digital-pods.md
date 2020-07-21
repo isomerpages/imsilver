@@ -121,6 +121,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
  Over 500,000 members use the myCPF mobile app to gain quick access to their personal CPF information on-the-go. Join us to learn how you can use the myCPF mobile app!  
   </td>
 <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CPF<br><br><a href="https://form.gov.sg/5f0be8db4de73d00110f3dd1" target="_blank">Click to register</a><br>(Please note that you will need a valid SingPass to access your CPF e-services.)
+  </tr>
 <tr>
   <td>10 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Understanding the CPF website</b><br>
@@ -136,8 +137,7 @@ Heard about the CPF scheme that continues paying you monthly payouts even after 
   <td><b>Understanding how CPF savings are distributed upon demise and how to make a CPF nomination online</b><br>
 Find out what happens to your CPF savings when you pass on, and how you can make a CPF nomination online to determine how your CPF savings will be distributed.</td>
 </tr>
-
-
+  
 <tr>
   <td>22 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Getting started on Carousell</b><br>
@@ -160,6 +160,7 @@ Discover the best practices of using Carousell, and learn to transact safely as 
   <td><b>Selling on Carousell</b><br>
 Get tips on how to create a good listing and explore other functions to promote your listing.</td>
 </tr>
+
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
