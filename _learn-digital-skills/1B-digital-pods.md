@@ -76,6 +76,44 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>27 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。
 </td></tr>
+
+<tr>
+  <td>11 August 2020<br><br>3:00 - 4:00pm</td>
+  <td><b>Be smart and safe with SingPass Mobile and TraceTogether / SingPass Mobile 和TraceTogether</b><br><b>疫情追踪我最行</b><br>
+   Master the basics of SingPass Mobile,  discover SafeEntry Check-in tricks for you and your family via SingPass Mobile and TraceTogether, and subscribe to COVID-19 updates    on messaging platforms.<br>
+  掌握电子政府密码(SingPass)应用功能，了解如何使用电子政府密码和合力追踪(TraceTogether)应用为您和同行的家人登录SafeEntry访客登记系统，学习订阅疫情推送讯息</td>
+ <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Accenture<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
+  </tr>
+<tr>
+  <td>18 August 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Get ActiveSG / ActiveSG</b><br><b>迈向活跃狮城</b><br>Find out how to make online bookings for public sports facilities, register for fitness programmes, and participate in fitness campaigns with ActiveSG.<br>
+了解如何通过ActiveSG查询和预定邻近/全岛的公共体育设施，报名运动课程，和参加健身活动。</td>
+</tr>
+<tr>
+  <td>25 August 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Live well with HealthHubSG / HealthHubSG</b><br><b>保持健康乐活</b><br>
+    Learn to navigate HealthHubSG, the one-stop access to you and your family's health records.<br>
+    学习如何透过保健资讯网(HealthHub SG)应用程序一站式查看您及家人的医疗记录及相关保健讯息。</td>
+</tr>
+  <tr>
+  <td>1 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Getting around with MyTransport.SG / MyTransport.SG</b><br><b>全岛走透透</b><br>
+  Effectively plan your bus and MRT trips and stay updated on traffic news with MyTransport.SG.<br>
+  根据MyTransport.SG的巴士、地铁及实时路况有效地规划您的行程。</td>
+</tr>
+
+<tr>
+  <td>8 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn how to use Zoom effectively (Part 1)</b><br>
+  Get started with Zoom to schedule your meetings and start catching up with friends and family!
+  </td>
+<td rowspan="2" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Zoom<br><br><a href="https://form.gov.sg/5f15a03ac26b3700117420e6" target="_blank">Click to register</a></td>
+  </tr>
+<tr>
+  <td>15 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn how to use Zoom effectively (Part 2)</b><br>
+  Level up by learning about the various controls and advanced features in Zoom!</td>
+</tr>
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
