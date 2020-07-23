@@ -66,7 +66,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <tr>
   <td>6 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Make Reading Easier on iPhone and iPad</b><br><b>轻轻松松阅读⼿机</b><br>Discover in-built accessibility features that help make reading on your iPhone and iPad much easier, such as having the content read out to you.<br>使⽤iOS的辅助功能帮助您更轻松地在iPhone和iPad上阅读，甚⾄让它朗读给您听呢。</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: TinkerTanker Pte Ltd, certified Apple Professional Learning Provider<br><br><a href="https://form.gov.sg/5ee0882273f04700113223d3" target="_blank">Click to register</a></td>
+  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Tinkertanker Pte Ltd, certified Apple Professional Learning Provider<br><br><a href="https://form.gov.sg/5ee0882273f04700113223d3" target="_blank">Click to register</a></td>
   </tr>
   
   <tr>
