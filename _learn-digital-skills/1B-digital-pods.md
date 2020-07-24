@@ -110,7 +110,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td><b>Getting around with MyTransport.SG / MyTransport.SG，全岛走透透</b><br>
   Effectively plan your bus and MRT trips and stay updated on traffic news with MyTransport.SG.<br>
   根据MyTransport.SG的巴士、地铁及实时路况有效地规划您的行程。</td>
-  </tr
+  </tr>
   
   <tr>
   <td>13 August 2020<br><br>3:00 - 4:00pm</td>
