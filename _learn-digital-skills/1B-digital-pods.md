@@ -118,7 +118,31 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   Navigating the online space has become a necessity and a daily affair, but it is critical to stay safe online. Learn about the different types of cyber threats and cybersecurity practices to protect yourself!<br></td>
  <td rowspan="1" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CSA<br><br><a href="https://form.gov.sg/5f182a1c487f590011b87fb2" target="_blank">Click to register</a></td>
   </tr>
+  <tr>
+  <td>3 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Understanding myCPF mobile app</b><br>
+ Over 500,000 members use the myCPF mobile app to gain quick access to their personal CPF information on-the-go. Join us to learn how you can use the myCPF mobile app! </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CPF<br><br><a href="https://form.gov.sg/5f0be8db4de73d00110f3dd1" target="_blank">Click to register</a><br>(Please note that you will need a valid SingPass to access your CPF e-services.)</td>
+  </tr>
 
+  <tr>
+  <td>10 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Understanding the CPF website</b><br>
+ Skip the queues and reduce your waiting time. Learn and explore features such as submitting applications online, booking CPF appointments or updating your personal 8particulars all at your fingertips through the CPF website!</td>
+  </tr>
+
+  <tr>
+  <td>17 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Introduction to CPF LIFE Scheme</b><br>
+Heard about the CPF scheme that continues paying you monthly payouts even after you have depleted your own retirement savings? Join us to understand how CPF LIFE does that and more so you have greater peace of mind in retirement!</td>
+  </tr>
+
+  <tr>
+  <td>24 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Understanding how CPF savings are distributed upon demise and how to make a CPF nomination online</b><br>
+Find out what happens to your CPF savings when you pass on, and how you can make a CPF nomination online to determine how your CPF savings will be distributed.</td>
+  </tr>
+  
   <tr>
   <td>8 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Learn how to use Zoom effectively (Part 1)</b><br>
@@ -156,31 +180,6 @@ Discover the best practices of using Carousell, and learn to transact safely as 
   <td>13 October 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Selling on Carousell</b><br>
 Get tips on how to create a good listing and explore other functions to promote your listing.</td>
-  </tr>
-
-  <tr>
-  <td>3 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Understanding myCPF mobile app</b><br>
- Over 500,000 members use the myCPF mobile app to gain quick access to their personal CPF information on-the-go. Join us to learn how you can use the myCPF mobile app! </td>
-<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CPF<br><br><a href="https://form.gov.sg/5f0be8db4de73d00110f3dd1" target="_blank">Click to register</a><br>(Please note that you will need a valid SingPass to access your CPF e-services.)</td>
-  </tr>
-
-  <tr>
-  <td>10 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Understanding the CPF website</b><br>
- Skip the queues and reduce your waiting time. Learn and explore features such as submitting applications online, booking CPF appointments or updating your personal 8particulars all at your fingertips through the CPF website!</td>
-  </tr>
-
-  <tr>
-  <td>17 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Introduction to CPF LIFE Scheme</b><br>
-Heard about the CPF scheme that continues paying you monthly payouts even after you have depleted your own retirement savings? Join us to understand how CPF LIFE does that and more so you have greater peace of mind in retirement!</td>
-  </tr>
-
-  <tr>
-  <td>24 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Understanding how CPF savings are distributed upon demise and how to make a CPF nomination online</b><br>
-Find out what happens to your CPF savings when you pass on, and how you can make a CPF nomination online to determine how your CPF savings will be distributed.</td>
   </tr>
   
 </table>
