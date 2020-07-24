@@ -12,7 +12,7 @@ collection_name: promotions
 
 #### Exclusive Deals for your Learning Experience
 
-Here's a list of promotions from our partners to kickstart your learning journey. TO learn more about the different apps, refer to the resource page <a href="https://imsilver.imda.gov.sg/seniors-go-digital/3-tiers-of-digital-skills" target="blank">here</a>.
+Here's a list of promotions from our partners to kickstart your learning journey. To learn more about the different apps, refer to the resource page <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="blank">here</a>.
 
 <h5><b>Online Merchants</b></h5>
 Grocery Shopping
@@ -38,7 +38,7 @@ Grocery Shopping
     <td class="tg-0lax">$5 off for Click & Collect service (min. $50 spent) Giant & Cold Storage only for new users.</td>
   </tr>
     <tr>
-    <td class="tg-0lax">Grab</td>
+      <td class="tg-0lax"><a href="https://www.grab.com/sg/seniorsgodigital/" target="blank">Grab</a></td>
     <td class="tg-0lax">NEWGM55</td>
     <td class="tg-0lax">$5.50 off first GrabMart order (min. $25 spent)</td>
   </tr>
@@ -68,7 +68,7 @@ Food Delivery
     <td class="tg-1wig">How it works?</td>
   </tr>
   <tr>
-    <td class="tg-0lax">GrabFood</td>
+    <td class="tg-0lax"><a href="https://www.grab.com/sg/seniorsgodigital/" target="blank">GrabFood</a></td>
     <td class="tg-0lax">NEWGF55</td>
     <td class="tg-0lax">$5.50 off first GrabFood order (min. $25 spent)</td>
   </tr>
