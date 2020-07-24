@@ -38,7 +38,7 @@ Grocery Shopping
     <td class="tg-0lax">$5 off for Click & Collect service (min. $50 spent) Giant & Cold Storage only for new users.</td>
   </tr>
     <tr>
-    <td class="tg-0lax">Grab</td>
+      <td class="tg-0lax"><a href="https://www.grab.com/sg/seniorsgodigital/" target="blank">Grab</a></td>
     <td class="tg-0lax">NEWGM55</td>
     <td class="tg-0lax">$5.50 off first GrabMart order (min. $25 spent)</td>
   </tr>
@@ -68,7 +68,7 @@ Food Delivery
     <td class="tg-1wig">How it works?</td>
   </tr>
   <tr>
-    <td class="tg-0lax">GrabFood</td>
+    <td class="tg-0lax"><a href="https://www.grab.com/sg/seniorsgodigital/" target="blank">GrabFood</a></td>
     <td class="tg-0lax">NEWGF55</td>
     <td class="tg-0lax">$5.50 off first GrabFood order (min. $25 spent)</td>
   </tr>
