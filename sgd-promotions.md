@@ -12,7 +12,7 @@ collection_name: promotions
 
 #### Exclusive Deals for your Learning Experience
 
-Here's a list of promotions from our partners to kickstart your learning journey. TO learn more about the different apps, refer to the resource page <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="blank">here</a>.
+Here's a list of promotions from our partners to kickstart your learning journey. To learn more about the different apps, refer to the resource page <a href="https://imsilver.imda.gov.sg/learn-digital-skills/learn-online/online-shopping/" target="blank">here</a>.
 
 <h5><b>Online Merchants</b></h5>
 Grocery Shopping
