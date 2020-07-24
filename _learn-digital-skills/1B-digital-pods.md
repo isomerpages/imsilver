@@ -111,6 +111,13 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   Effectively plan your bus and MRT trips and stay updated on traffic news with MyTransport.SG.<br>
   根据MyTransport.SG的巴士、地铁及实时路况有效地规划您的行程。</td>
   </tr>
+  
+  <tr>
+  <td>13 August 2020<br><br>3:00 - 4:00pm</td>
+  <td><b>Stay Safe Online</b><br>
+  Navigating the online space has become a necessity and a daily affair, but it is critical to stay safe online. Learn about the different types of cyber threats and cybersecurity practices to protect yourself!<br></td>
+ <td rowspan="1" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CSA<br><br><a href="https://form.gov.sg/5f182a1c487f590011b87fb2" target="_blank">Click to register</a></td>
+  </tr>
 
   <tr>
   <td>8 September 2020<br><br>3:00 - 3:30pm</td>
@@ -123,6 +130,32 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   <td>15 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Learn how to use Zoom effectively (Part 2)</b><br>
   Level up by learning about the various controls and advanced features in Zoom!</td>
+  </tr>
+
+<tr>
+  <td>22 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Getting started on Carousell</b><br>
+ Learn how to buy and sell your pre-loved or brand new goods on Carousell! Explore the features and various categories in the app (including a category with free items!),    learn how to compare prices and be equipped with safety tips.    
+  </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Carousell<br><br><a href="https://form.gov.sg/5f0bfcc1a154270011e931eb" target="_blank">Click to register</a></td>
+  </tr>
+
+  <tr>
+  <td>29 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Buying on Carousell</b><br>
+ Find out how you can search for products, use the chat function, make an offer, make payment, collect your products, and leave a review.</td>
+  </tr>
+
+  <tr>
+  <td>6 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Best practices and transacting safely on Carousell</b><br>
+Discover the best practices of using Carousell, and learn to transact safely as a buyer and seller on Carousell.</td>
+  </tr>
+
+  <tr>
+  <td>13 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Selling on Carousell</b><br>
+Get tips on how to create a good listing and explore other functions to promote your listing.</td>
   </tr>
 
   <tr>
@@ -150,32 +183,6 @@ Heard about the CPF scheme that continues paying you monthly payouts even after 
 Find out what happens to your CPF savings when you pass on, and how you can make a CPF nomination online to determine how your CPF savings will be distributed.</td>
   </tr>
   
-  <tr>
-  <td>22 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Getting started on Carousell</b><br>
- Learn how to buy and sell your pre-loved or brand new goods on Carousell! Explore the features and various categories in the app (including a category with free items!),    learn how to compare prices and be equipped with safety tips.    
-  </td>
-<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Carousell<br><br><a href="https://form.gov.sg/5f0bfcc1a154270011e931eb" target="_blank">Click to register</a></td>
-  </tr>
-
-  <tr>
-  <td>29 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Buying on Carousell</b><br>
- Find out how you can search for products, use the chat function, make an offer, make payment, collect your products, and leave a review.</td>
-  </tr>
-
-  <tr>
-  <td>6 October 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Best practices and transacting safely on Carousell</b><br>
-Discover the best practices of using Carousell, and learn to transact safely as a buyer and seller on Carousell.</td>
-  </tr>
-
-  <tr>
-  <td>13 October 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Selling on Carousell</b><br>
-Get tips on how to create a good listing and explore other functions to promote your listing.</td>
-  </tr>
-
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
