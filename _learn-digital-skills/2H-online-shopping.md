@@ -23,7 +23,7 @@ Often hear of good deals online from your friends? Check out the following guide
   </tr>
   <tr>
     <td><a href="https://support.carousell.com/hc/en-us/articles/360046091073/" target="_blank">Carousell</a></td> 
-    <td><a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabFood</a></td>
+    <td><a href="https://www.grab.com/sg/seniorsgodigital/" target="_blank">GrabFood</a></td>
     <td><a href="https://apollomarine.com.sg" target="_blank">Apollo Marine</a></td>
   </tr>
   <tr>
