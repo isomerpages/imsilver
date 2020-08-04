@@ -319,7 +319,7 @@ Yearning to upgrade yourself with a new digital skill? Virtual Digital Pods are 
   <td>IMDA</td>
   </tr>
   <tr>
-  <td><a href="https://imsilver.imda.gov.sg/digital-readiness-essential-kit" target="_blank">Digital Readiness Essential Kit <br>(available in English, 中文, Melayu and தமிழ்)</a></td>
+  <td><a href="https://imsilver.imda.gov.sg/seniors-go-digital-starter-kit" target="_blank">Digital Readiness Essential Kit <br>(available in English, 中文, Melayu and தமிழ்)</a></td>
   <td>IMDA</td>
 </tr>
 <tr>
