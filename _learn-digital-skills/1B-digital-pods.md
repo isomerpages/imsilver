@@ -19,50 +19,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
     <th width="60%">Topic</th>
     <th width="25%">Registration and other details</th>
   </tr>
-  
-  <tr>
-  <td>9 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Learn how to install and use Teams to participate in Virtual Digital Clinics</b><br>Be introduced to Microsoft Teams, learn how to set up Teams and discover its various functions such as sharing of screen and using the chat group.</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Microsoft<br><br><a href="https://form.gov.sg/5ed764331a963a0011c33a2a" target="_blank">Click to register</a></td>
-  </tr>
-
-  <tr>
-  <td>16 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Use your mobile devices with ease with Microsoft Accessibility Features</b><br>Are you aware of accessibility features that allow you to use your devices with ease? Learn about increasing font size, reading aloud the content on your screen, magnifying text size, and translating from English to Chinese amongst other functions. These are also especially helpful to persons with disabilities or seniors who may have limited vision.</td>
-  </tr>
-
-  <tr>
-  <td>23 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Increase your productivity with Microsoft Accessibility Features</b><br>Discover how to scan files using camera and convert them into text for access across PC and mobile. Leverage Assistive Technologies like voice controls and screen readers to easy consume the information captured.</td>
-  </tr>
-
-  <tr>
-  <td>30 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Use your devices with ease with Microsoft Accessibility Features</b><br>We will cover topics like how to use Narrator to change font size and contrast for ease of use, how to customize the commands in the new simplified Ribbon, how to Dictate and Read Aloud in email and Edge browser, and more of the latest accessibility features in Outlook for Windows.</td>
-  </tr>
-
-  <tr>
-  <td>14 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Easy payment and transport with GrabPay & GrabRides</b><br>Discover a simple and safe method to making e-payments through GrabPay, and booking your next ride through GrabRides!</td>
-  <td rowspan="2" valign="middle">Conducted in: <b>English (Support for Questions and Answers in Malay)</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
-  </tr>
  
-  <tr>
-  <td>21 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Satisfy your hunger with GrabFood/GrabMart</b><br>Learn how to use GrabFood and GrabMart to fulfil your food and shopping needs!</td>
-  </tr>
- 
-  <tr>
-  <td>28 July 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>使用GrabPay和GrabRides轻松付款和运输</b><br>学会怎么用GrabPay做简单的电子支付, 并通过GrabRides 预订您的下一趟旅程</td>
-  <td rowspan="2" valign="middle">Conducted in: <b>Mandarin</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5edf53e7f7a6ab0011cd2591" target="_blank">Click to register</a></td>
-  </tr>
-  
-  <tr>
-  <td>4 August 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>通过GrabFood和GrabMart满足您的饥饿感</b><br>学会怎么使用GrabFood以及GrabMart做网络购物</td>
-  </tr>
-
   <tr>
   <td>6 August 2020<br><br>10:00 - 10:30am</td>
   <td><b>Make Reading Easier on iPhone and iPad</b><br><b>轻轻松松阅读⼿机</b><br>Discover in-built accessibility features that help make reading on your iPhone and iPad much easier, such as having the content read out to you.<br>使⽤iOS的辅助功能帮助您更轻松地在iPhone和iPad上阅读，甚⾄让它朗读给您听呢。</td>
