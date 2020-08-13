@@ -26,7 +26,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
 | DBS PayLah! | [](/files/SGD Tipsheets/DBS PayLah!_Eng.pdf) | N.A. | N.A. | N.A. |
 | DBS Digibank | [](/files/SGD Tipsheets/DBS digibank_Eng.pdf) | N.A. | N.A. | N.A. |
 | Grab | [](/files/SGD Tipsheets/Grab_Eng.pdf) | N.A. | N.A. | N.A. |
-| LifeSG | [](/files/SGD Tipsheets/LifeSG_Eng.pdf) | N.A. | N.A. | N.A. |
+| LifeSG | [](/files/SGD Tipsheets/LifeSG_Eng.pdf) | [](/files/SGD Tipsheets/LifeSG_Chi.pdf) | [](/files/SGD Tipsheets/LifeSG_Malay.pdf) | [](/files/SGD Tipsheets/LifeSG_Tamil.pdf) |
 | OCBC Mobile Banking | [](/files/SGD Tipsheets/OCBC Mobile Banking_Eng.pdf) | N.A. | N.A. | N.A. |
 | OCBC Pay Anyone | [](/files/SGD Tipsheets/OCBC PayAnyone_Eng.pdf) | N.A. | N.A. | N.A. |
 | Singtel Dash | [](/files/SGD Tipsheets/Singtel Dash App_Eng.pdf) | N.A. | N.A. | N.A. |
