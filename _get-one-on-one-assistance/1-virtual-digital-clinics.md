@@ -56,11 +56,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
     <th>Availability</th>
   </tr>
      <tr>
-   <td>14 Aug 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Tamil</td>
-  <td>Registration have closed.</td>
-  </tr>
-     <tr>
    <td>21 Aug 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Malay</td>
   <td>Sessions are available for registration on a first-come, first-served basis.</td>
