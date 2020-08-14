@@ -77,7 +77,7 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   </tr>
       <tr>
    <td>11 Sep 2020<br>2:00pm - 5:00pm </td>
-  <td>English and Mandarin</td>
+  <td>English, Mandarin and Tamil</td>
   <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
      <tr>
