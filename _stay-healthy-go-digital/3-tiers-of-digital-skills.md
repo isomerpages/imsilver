@@ -200,7 +200,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
     <td class="tg-0pky">
       
   English<br>
-  <a href="https://imsilver.imda.gov.sg/files/SingPass%20Mobile.pdf" target="_blank">Guide to SingPass Mobile</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SingPass%20Mobile_Eng.pdff" target="_blank">Starter Kit on SingPass Mobile</a><br>
   <a href="https://www.singpass.gov.sg/singpass/common/supportmain" target="_blank">How to register for SingPass and set up 2FA</a><br>
   <a href="https://singpassmobile.sg/?utm_source=IMDA&utm_medium=web_link&utm_campaign=SPMLaunch2018" target="_blank">How to set up and use the SingPass Mobile app</a><br>
   <a href="https://www.ifaq.gov.sg/SINGPASS/apps/fcd_faqmain.aspx#TOPIC_210129" target="_blank">FAQs on SingPass 2FA (SingPass Mobile)</a><br>
@@ -208,8 +208,14 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <a href="https://www.youtube.com/watch?v=f4di4HPgaRY" target="_blank">Using the SingPass Mobile app to log in within seconds!</a><br><br>
 
   中文<br>
-  <a href="https://imsilver.imda.gov.sg/files/SingPass%20Mobile_Chinese.pdf" target="_blank">SingPass Mobile 应用程序</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SingPass%20Mobile_Chi.pdf" target="_blank">SingPass Mobile 应用程序</a><br><br>
 
+ Melayu<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SingPass%20Mobile_Malay.pdf" target="_blank">SingPass Mobile 应用程序</a><br><br>
+  
+  தமிழ்<br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SingPass%20Mobile_Tamil.pdf" target="_blank">SingPass Mobile 应用程序</a><br>
+  
    </td>
   </tr>
 
@@ -242,19 +248,33 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   English<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Eng.pdf" target="_blank">Starter Kit on PayNow</a><br>
   <a href="https://www.mas.gov.sg/development/e-payments/sgqr" target="_blank">Guide to Singapore Quick Response Code (SGQR)</a><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_English.pdf" target="_blank">Starter Kit on SGQR</a><br><br>
-  
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_English.pdf" target="_blank">Starter Kit on SGQR</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah!_Eng.pdf" target="_blank">Starter Kit on DBS PayLah!</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20digibank_Eng.pdf" target="_blank">Starter Kit on DBS Digibank SG app</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Eng.pdf" target="_blank">Starter Kit on Fairprice Scan & Go</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Grab_Eng.pdf" target="_blank">Starter Kit on GrabPay</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/OCBC%20Mobile%20Banking_Eng.pdf" target="_blank">Starter Kit on OCBC Mobile Banking</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/OCBC%20PayAnyone_Eng.pdf" target="_blank">Starter Kit on OCBC Pay Anyone</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Singtel%20Dash%20App_Eng.pdf" target="_blank">Starter Kit on Singtel Dash</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Eng.pdf" target="_blank">Starter Kit on UOB Mighty</a><br><br>
+
   中文<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Chi.pdf" target="_blank">SGQR码 入门教学</a><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Chi.pdf" target="_blank">PayNow 入门教学</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Chi.pdf" target="_blank">PayNow 入门教学</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Chi.pdf" target="_blank">Fairprice Scan & Go 入门教学</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Chi.pdf" target="_blank">UOB Mighty 入门教学</a><br><br>
 
   Melayu<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Malay.pdf" target="_blank">Kit Permulaan Untuk SGQR</a><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Malay.pdf" target="_blank">Kit Permulaan di PayNow</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Malay.pdf" target="_blank">Kit Permulaan di PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Malay.pdf" target="_blank">Kit Permulaan Fairprice Scan & Go</a><br>
+    <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Malay.pdf" target="_blank">Kit Permulaan UOB Mighty</a><br><br>
 
   தமிழ்<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Tamil.pdf" target="_blank">Starter Kit on SGQR</a><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Tamil.pdf" target="_blank">Starter Kit on PayNow</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Tamil.pdf" target="_blank">Starter Kit on PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Tamil.pdf" target="_blank">Starter Kit on Fairprice Scan & Go</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Tamil.pdf" target="_blank">Starter Kit on UOB Mighty</a><br><br>
 
   DBS/POSB<br>
   <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
@@ -262,7 +282,7 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <a href="https://www.posb.com.sg/personal/deposits/pay-with-ease/paynow" target="_blank">POSB PayNow</a><br>
   <a href="https://www.dbs.com.sg/personal/support/guide-ibanking.html" target="_blank">DBS Internet Banking</a><br>
   <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br><br>
-
+  
   OCBC<br>
   <a href="https://www.ocbc.com/personal-banking/digital-banking" target="_blank">Digital Banking with OCBC Bank</a><br>
   <a href="https://www.ocbc.com/personal-banking/digital-banking/payanyone.page" target="_blank">OCBC Pay Anyone</a><br>
