@@ -9,11 +9,17 @@ second_nav_title: Learn Online
 ![1](/images/learn-online/e-payment.jpg)
 
 Click below to view online guides that will teach you how to perform digital transactions.<br>
-<h5>SPayNow</h5>
+<h5>Fairprice Scan & Go</h5>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Eng.pdf" target="_blank">Starter Kit on FairPrice Scan & Go</a><br>
+
+<h5>PayNow</h5>
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Eng.pdf" target="_blank">Starter Kit on PayNow</a><br>
 
 <h5>SGQR</h5>
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_English.pdf" target="_blank">Starter Kit on SGQR</a><br>
+
+<h5>Singtel Dash</h5>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Singtel%20Dash%20App_Eng.pdf" target="_blank">Starter Kit on Singtel Dash</a><br>
 
 <h5>DBS/POSB</h5>
 * <a href="https://www.posb.com.sg/personal/deposits/bank-with-ease/posb-mbanking" target="_blank">POSB Digibank Demo</a><br>
@@ -21,6 +27,8 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.posb.com.sg/personal/deposits/pay-with-ease/paynow" target="_blank">POSB PayNow</a><br>
 * <a href="https://www.dbs.com.sg/personal/support/guide-ibanking.html" target="_blank">DBS Internet Banking</a><br>
 * <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah!_Eng.pdf" target="_blank">Starter Kit on DBS PayLah!</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20digibank_Eng.pdf" target="_blank">Starter Kit on DBS digibank SG App</a><br>
 
  <h5>OCBC</h5>
 * <a href="https://www.ocbc.com/personal-banking/digital-banking" target="_blank">Digital Banking with OCBC Bank</a><br>
@@ -31,10 +39,14 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.youtube.com/watch?v=yzOsMRqc6qc" target="_blank">How to change Access Code</a><br>
 * <a href="https://www.youtube.com/watch?v=1eg61QugLsg" target="_blank">How to view your account information</a><br>
 * <a href="https://www.youtube.com/watch?v=jw9t8hNW1co" target="_blank">How to make bill payment</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/OCBC%20Mobile%20Banking_Eng.pdf" target="_blank">Starter Kit on OCBC Mobile Banking</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/OCBC%20PayAnyone_Eng.pdf" target="_blank">Starter Kit on OCBC Pay Anyone</a><br>
 
 <h5>UOB</h5>
 * <a href="https://www.uob.com.sg/pib" target="_blank">UOB Personal Internet Banking</a><br>
 * <a href="https://www.uob.com.sg/mighty" target="_blank">UOB Mighty</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Eng.pdf" target="_blank">Starter Kit on UOB Mighty</a><br>
 
 <h5>Grab</h5>
 * <a href="https://www.grab.com/sg/stayhealthygodigital" target="_blank">Grabpay</a><br>
+* <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Grab_Eng.pdf" target="_blank">Starter Kit on GrabPay</a><br>
