@@ -56,6 +56,8 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [如何更改您的 OCBC 网上银行访问代码](https://www.youtube.com/watch?v=ih_03r-AwIw){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Chi.pdf){:target="_blank"}<br>
 * [SGQR](/files/SGD%20Tipsheets/SGQR_Chi.pdf){:target="_blank"}<br>
+* [FairPrice Scan & Go](/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Chi.pdf){:target="_blank"}<br>
+* [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Chi.pdf){:target="_blank"}<br>
 * [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
@@ -65,7 +67,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [连接 Wireless@SGx 无线网络](/files/SGD%20Tipsheets/WirelessSGx_Chi.pdf){:target="_blank"}<br>
 * [人生旅程助手应用程序](/files/DREK100919/DREK-T4-MOL (Chinese).pdf){:target="_blank"}<br>
 * [通过Gov.sg获取最新消息](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf){:target="_blank"}<br>
-* [SingPass Mobile](/files/SingPass Mobile_Chinese.pdf){:target="_blank"}<br>
+* [SingPass Mobile](/files/SGD%20Tipsheets/SingPass%20Mobile_Chi.pdf){:target="_blank"}<br>
 * [为何要使用 “合力追踪" 应用程序？](/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf){:target="_blank"}<br>
 
 <h3>9. 其他</h3>
@@ -85,10 +87,12 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Kit Permulaan Utuk Gov.sg](/files/SGD%20Tipsheets/Gov.sg_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Utuk Microsoft Teams](/files/SGD%20Tipsheets/Microsoft%20Teams_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Utuk SGQR](/files/SGD%20Tipsheets/SGQR_Malay.pdf){:target="_blank"}<br>
+* [Kit Permulaan Utuk SingPass Mobile](/files/SGD%20Tipsheets/SingPass%20Mobile_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Utuk WhatsApp](/files/SGD%20Tipsheets/WhatsApp_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Untuk Zoom](/files/SGD%20Tipsheets/Zoom_Malay.pdf){:target="_blank"}<br>
+* [FairPrice Scan & Go](/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Malay.pdf){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Malay.pdf){:target="_blank"}<br>
-* [Wireless@SG](/files/DREK100919/DREK-T2_Wireless@SG (Malay).pdf){:target="_blank"}<br>
+* [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Untuk Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan untuk Tetap Selamat dalam Talian](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf){:target="_blank"}<br>
 * [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
@@ -103,7 +107,10 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * <a href="https://www.melisten.sg/podcast/playlist/%E0%AE%8E%E0%AE%A9%E0%AF%8D%E0%AE%A9%E0%AF%8B%E0%AE%9F%E0%AF%81-%E0%AE%9A%E0%AF%87%E0%AE%B0%E0%AF%8D%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AF%81-%E0%AE%95%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8A%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%81%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D---Learn-with-me-Podcast-12766672/Tele-consultation---%E0%AE%A4%E0%AF%8A%E0%AE%B2%E0%AF%88%E0%AE%AA%E0%AF%87%E0%AE%9A%E0%AE%BF--%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AF%8A%E0%AE%B3%E0%AE%BF-%E0%AE%AE%E0%AF%82%E0%AE%B2%E0%AE%AE%E0%AE%BE%E0%AE%95--%E0%AE%A8%E0%AF%80%E0%AE%99%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D-%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%BF%E0%AE%B2%E0%AF%8D-%E0%AE%87%E0%AE%B0%E0%AF%81%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%AA%E0%AE%9F%E0%AE%BF-%E0%AE%AE%E0%AE%B0%E0%AF%81%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81%E0%AE%B5%E0%AE%B0%E0%AF%88%E0%AE%AA%E0%AF%8D-%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%B5%E0%AE%9A%E0%AE%A4%E0%AE%BF!-12780742" target="_blank">meLISTEN Podcast -  Teleconsultation (தொலைத்தொடர்பு ஆலோசனை)</a><br>
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
+* [FairPrice Scan & Go](/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Tamil.pdf){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Tamil.pdf){:target="_blank"}<br>
+* [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Tamil.pdf){:target="_blank"}<br>
+* [SingPass Mobile](/files/SGD%20Tipsheets/SingPass%20Mobile_Tamil.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf){:target="_blank"}<br>
 * [Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf){:target="_blank"}<br>
 * [Staying Safe Online](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
