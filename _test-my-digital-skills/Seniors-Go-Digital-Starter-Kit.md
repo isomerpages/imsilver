@@ -13,7 +13,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
 | Wireless@SG | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_English.pdf) | [ ](/files/SGD%20Tipsheets/WirelessSGx_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf) | [ ](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf) |
 | Staying Safe Online | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Chi.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf) | [ ](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf) |
 | Input Methods (Chinese) | N.A. |  [ ](/files/SGD Tipsheets/Chinese Input Methods_Chi.pdf) |  N.A. |  N.A. |
-| Moments of Life | [](/files/DREK100919/DREK-T4-MOL (English).pdf) | [](/files/DREK100919/DREK-T4-MOL (Chinese).pdf) | [](/files/DREK100919/DREK-T4-MOL (Malay).pdf) | [](/files/DREK100919/DREK-T4-MOL (Tamil).pdf) |
+| LifeSG | [](/files/SGD%20Tipsheets/LifeSG_Eng.pdf) | [](/files/SGD%20Tipsheets/LifeSG_Chi.pdf) | [](/files/SGD%20Tipsheets/LifeSG_Malay.pdf) | [](/files/SGD%20Tipsheets/LifeSG_Tamil.pdf) |
 | Online Shopping & Food Delivery | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (English)_200320.pdf) | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf) | N.A. | N.A. |
 | Gov.sg | [](/files/SGD%20Tipsheets/Gov.sg_English.pdf) | [](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf) | N.A. | N.A. |
 | SingPass Mobile | [](/files/SingPass Mobile.pdf) | [](/files/SingPass Mobile_Chinese.pdf) | N.A. | N.A. |
@@ -23,8 +23,8 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
 | Zoom | [](/files/SGD%20Tipsheets/Zoom_English.pdf) | [](/files/SGD%20Tipsheets/Zoom_Chi.pdf) | [](/files/SGD%20Tipsheets/Zoom_Malay.pdf) | [](/files/SGD%20Tipsheets/Zoom_Tamil.pdf) |
 | WhatsApp | [](/files/SGD%20Tipsheets/WhatsApp_English.pdf) | [](/files/SGD%20Tipsheets/WhatsApp_Chi.pdf) | [](/files/SGD%20Tipsheets/WhatsApp_Malay.pdf) | [](/files/SGD%20Tipsheets/WhatsApp_Tamil.pdf) |
 | Fairprice Scan & Go | [](/files/SGD Tipsheets/Fairprice Scan & Go_Eng.pdf) | [](/files/SGD Tipsheets/FairPrice Scan & Go_Chi.pdf) | [](/files/SGD Tipsheets/Fairprice Scan & Go_Malay.pdf) | [](/files/SGD Tipsheets/FairPrice Scan & Go_Tamil.pdf) |
-| DBS PayLah! | [](/files/SGD Tipsheets/DBS PayLah!_Eng.pdf) | N.A. | N.A. | N.A. |
-| DBS Digibank | [](/files/SGD Tipsheets/DBS digibank_Eng.pdf) | N.A. | N.A. | N.A. |
+| DBS PayLah! | [](/files/SGD Tipsheets/DBS PayLah!_Eng.pdf) | [](/files/SGD%20Tipsheets/DBS%20PayLah_Chi.pdf) | [](/files/SGD%20Tipsheets/DBS%20PayLah!_Malay.pdf) | [](/files/SGD%20Tipsheets/DBS%20PayLah_Tamil.pdf) |
+| DBS Digibank | [](/files/SGD Tipsheets/DBS digibank_Eng.pdf) | [](/files/SGD%20Tipsheets/DBS%20digibank_Chi.pdf) | [](/files/SGD%20Tipsheets/DBS%20digibank_Malay.pdf) | [](/files/SGD%20Tipsheets/DBS%20digibank_Tamil.pdf) |
 | Grab | [](/files/SGD Tipsheets/Grab_Eng.pdf) | N.A. | N.A. | N.A. |
 | OCBC Mobile Banking | [](/files/SGD Tipsheets/OCBC Mobile Banking_Eng.pdf) | N.A. | N.A. | N.A. |
 | OCBC Pay Anyone | [](/files/SGD Tipsheets/OCBC PayAnyone_Eng.pdf) | N.A. | N.A. | N.A. |
