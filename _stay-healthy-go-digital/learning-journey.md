@@ -50,15 +50,15 @@ Learn how to use the Scan & Go function in the FairPrice app so that you can ski
 
 Guided by our Digital Ambassadors, the Learning Journey comprises an interactive session with hand-on experience so that you may try out your first Scan & Go transaction!<br>
 
-We’re excited to have you with us on a Supermarket Learning Journey at one of the following sessions –<br>
+We’re excited to have you with us on a Supermarket Learning Journey at one of the following sessions:<br>
 
-1)      1 Sept Tues, VivoCity FairPrice Xtra
-2)      8 Sept Tues, FairPrice Xtra – Hyper JEM
-3)      15 Sept Tues, Jurong Point FairPrice
-4)      16 Sept Wed, Hougang Lifestyle Mall
-5)      22 Sept Tues, FairPrice Yew Tee Point
-6)      23 Sept Wed, FairPrice Clementi A
-7)      29 Sept Tues, FairPrice Finest Bedok Mall
-8)      30 Sept Wed, Toa Payoh HDB Hub FairPrice
+1)      1 Sept Tues, VivoCity FairPrice Xtra<br>
+2)      8 Sept Tues, FairPrice Xtra – Hyper JEM<br>
+3)      15 Sept Tues, Jurong Point FairPrice<br>
+4)      16 Sept Wed, Hougang Lifestyle Mall<br>
+5)      22 Sept Tues, FairPrice Yew Tee Point<br>
+6)      23 Sept Wed, FairPrice Clementi A<br>
+7)      29 Sept Tues, FairPrice Finest Bedok Mall<br>
+8)      30 Sept Wed, Toa Payoh HDB Hub FairPrice<br>
 
 To indicate interest, please fill up the form at go.gov.sg/lj-interest and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.
