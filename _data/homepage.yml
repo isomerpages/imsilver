@@ -8,8 +8,8 @@
 favicon: /images/SGD-logo.png
 
 # Agency logo
-- agency-logo: /images/seniors-go-digital/SG_Digital_logo.jpg
-url: https://www.go.gov.sg/seniorsgodigital
+agency-logo: /images/seniors-go-digital/SG_Digital_logo.jpg
+agency-url: https://www.go.gov.sg/seniorsgodigital
 
 google-analytics: UA-145910784-1
 
