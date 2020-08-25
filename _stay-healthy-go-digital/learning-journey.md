@@ -13,3 +13,34 @@ Guided by our Digital Ambassadors, our Learning Journeys comprise classroom-base
 
 Here are some Learning Journeys to look out for in the coming months:<br>
 ![pasa](/images/seniors-go-digital/Learning%20Journey.png)
+Learn how to make e-Payments on your mobile phone! With e-Payments made available, simply bring along your phone to pay for items and embark on a cashless journey.<br>
+
+Guided by our Digital Ambassadors, the Learning Journey comprises classroom-based training as well as an interactive hands-on activity where you can immediately try out your first cashless/contactless transaction!<br>
+
+We would like to invite you to sign up for our upcoming sessions*:<br>
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
+@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+<div class="tg-wrap"><table class="tg">
+<tbody>
+  <tr>
+    <td class="tg-l2bf">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
+    <td class="tg-l2bf">West Coast Community Centre</td>
+  </tr>
+  <tr>
+    <td class="tg-tsok">04 September 2020 (Friday)<br>10am – 6pm<br>(Various time slots are available for registration)<br> <br><span style="font-style:italic">For registration, please head to </span><span style="font-weight:bold;font-style:italic">SDO Connect @ Kampong Chai Chee CC</span><span style="font-style:italic"> by 01 September 2020.</span></td>
+    <td class="tg-tsok">05 September 2020 (Saturday)<br>10am – 6pm<br>(Various time slots are available for registration)<br> <br><span style="font-style:italic">For registration, please head to </span><span style="font-weight:bold;font-style:italic">SDO Connect @ West Coast CC </span><span style="font-style:italic">by 02 September 2020.</span></td>
+  </tr>
+</tbody>
+</table></div>
+
+*Limited seats available on a first-come, first-served basis.
+
+To indicate interest for future sessions at other locations, please fill up the form at go.gov.sg/eljinterest and the team will be in touch with you when there are upcoming sessions.
