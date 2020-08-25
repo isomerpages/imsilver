@@ -58,6 +58,8 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [SGQR](/files/SGD%20Tipsheets/SGQR_Chi.pdf){:target="_blank"}<br>
 * [FairPrice Scan & Go](/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Chi.pdf){:target="_blank"}<br>
 * [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Chi.pdf){:target="_blank"}<br>
+* [DBS PayLah!](/files/SGD%20Tipsheets/DBS%20PayLah_Chi.pdf){:target="_blank"}<br>
+* [DBS Digibank](/files/SGD%20Tipsheets/DBS%20digibank_Chi.pdf){:target="_blank"}<br>
 * [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
@@ -65,7 +67,7 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 <h3>8. 娱乐与艺术政府电子服务</h3>
 **单元八 : 政府电子服务**<br>
 * [连接 Wireless@SGx 无线网络](/files/SGD%20Tipsheets/WirelessSGx_Chi.pdf){:target="_blank"}<br>
-* [人生旅程助手应用程序](/files/DREK100919/DREK-T4-MOL (Chinese).pdf){:target="_blank"}<br>
+* [LifeSG](/files/SGD%20Tipsheets/LifeSG_Chi.pdf){:target="_blank"}<br>
 * [通过Gov.sg获取最新消息](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf){:target="_blank"}<br>
 * [SingPass Mobile](/files/SGD%20Tipsheets/SingPass%20Mobile_Chi.pdf){:target="_blank"}<br>
 * [为何要使用 “合力追踪" 应用程序？](/files/Why%20use%20TraceTogether%20poster%20-%20Chinese.pdf){:target="_blank"}<br>
@@ -92,10 +94,12 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Kit Permulaan Untuk Zoom](/files/SGD%20Tipsheets/Zoom_Malay.pdf){:target="_blank"}<br>
 * [FairPrice Scan & Go](/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Malay.pdf){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Malay.pdf){:target="_blank"}<br>
+* [DBS PayLah!](/files/SGD%20Tipsheets/DBS%20PayLah!_Malay.pdf){:target="_blank"}<br>
+* [DBS Digibank](/files/SGD%20Tipsheets/DBS%20digibank_Malay.pdf){:target="_blank"}<br>
 * [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Untuk Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan untuk Tetap Selamat dalam Talian](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf){:target="_blank"}<br>
-* [Moments of Life](/files/DREK100919/DREK-T4-MOL (Malay).pdf){:target="_blank"}<br>
+* [LifeSG](/files/SGD%20Tipsheets/LifeSG_Malay.pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Malay Subtitles)](https://youtu.be/ac7C_x1yZuk){:target="_blank"}<br>
 * [Mengapa gunakan TraceTogether?](/files/Why%20use%20TraceTogether%20poster%20-%20Malay.pdf){:target="_blank"}<br>
 
@@ -109,12 +113,14 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
 * [FairPrice Scan & Go](/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Tamil.pdf){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Tamil.pdf){:target="_blank"}<br>
+* [DBS PayLah!](/files/SGD%20Tipsheets/DBS%20PayLah_Tamil.pdf){:target="_blank"}<br
+* [DBS Digibank](/files/SGD%20Tipsheets/DBS%20digibank_Tamil.pdf){:target="_blank"}<br>
 * [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Tamil.pdf){:target="_blank"}<br>
 * [SingPass Mobile](/files/SGD%20Tipsheets/SingPass%20Mobile_Tamil.pdf){:target="_blank"}<br>
 * [Wireless@SG](/files/DREK101219/DREK-T2-Wireless@SG (Tamil)_101219.pdf){:target="_blank"}<br>
 * [Wireless@SGx](/files/SGD%20Tipsheets/Wireless%40SGx_Tamil.pdf){:target="_blank"}<br>
 * [Staying Safe Online](/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf){:target="_blank"}<br>
-* [Moments of Life](/files/DREK100919/DREK-T4-MOL (Tamil).pdf){:target="_blank"}<br>
+* [LifeSG](/files/SGD%20Tipsheets/LifeSG_Tamil.pdf){:target="_blank"}<br>
 * [The Benefits of Teleconsultation (Tamil Subtitles)](https://www.youtube.com/watch?v=bZR7D_MlPDY){:target="_blank"}<br>
 * [TraceTogether ஏன் பயன்படுத்த வேண்டும்?](/files/Why%20use%20TraceTogether%20poster%20-%20Tamil.pdf){:target="_blank"}<br>
 * [Starter Kit on Email Account](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf){:target="_blank"}<br>
