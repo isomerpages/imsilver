@@ -43,7 +43,7 @@ We would like to invite you to sign up for our upcoming sessions*:<br>
 
 _*Limited seats available on a first-come, first-served basis._
 
-To indicate interest for future sessions at other locations, please fill up the form <a href="www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.
+To indicate interest for future sessions at other locations, please fill up the form at www.go.gov.sg/eljinterest and the team will be in touch with you when there are upcoming sessions.
 
 ![pasa](/images/seniors-go-digital/Learning%20Journey%202.jpg)
 Learn how to use the Scan & Go function in the FairPrice app so that you can skip the queue and make contactless payment! Users can simply scan the barcode of the items on-the-go, make payment via the app, and verify the purchases at the kiosk.<br>
@@ -61,4 +61,4 @@ We’re excited to have you with us on a Supermarket Learning Journey at one of 
 7)      29 Sept Tues, FairPrice Finest Bedok Mall<br>
 8)      30 Sept Wed, Toa Payoh HDB Hub FairPrice<br>
 
-To indicate interest, please fill up the form <a href="www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.
+To indicate interest, please fill up the form at www.go.gov.sg/lj-interest and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.
