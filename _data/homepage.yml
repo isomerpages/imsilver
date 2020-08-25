@@ -38,6 +38,7 @@ info-sections:
     section-subtitle: Seniors Go Digital
     section-description: Helping you make connections that matter and giving you more reasons to smile.
     section-more-button: Learn more
+    external: true
     section-more-button-url: www.go.gov.sg/seniorsgodigital
     section-image-path: images/seniors-go-digital/SG_Digital_logo.jpg
 
