@@ -12,4 +12,4 @@ collection_name: learning-journey
 Guided by our Digital Ambassadors, our Learning Journeys comprise classroom-based training as well as an interactive hands-on activity where you can immediately try out your newfound digital skills.<br>
 
 Here are some Learning Journeys to look out for in the coming months:<br>
-![pasa](/images/seniors-go-digital/3_Tiers_of_Digital_Skills.jpg)
+![pasa](/images/seniors-go-digital/Learning%20Journey.png)
