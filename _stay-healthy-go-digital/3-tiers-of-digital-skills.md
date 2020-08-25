@@ -270,16 +270,16 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Malay.pdf" target="_blank">Kit Permulaan Untuk SGQR</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Malay.pdf" target="_blank">Kit Permulaan di PayNow</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Malay.pdf" target="_blank">Kit Permulaan Fairprice Scan & Go</a><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Malay.pdf" target="_blank">Kit Permulaan UOB Mighty</a><br><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah!_Malay.pdf" target="_blank">Kit Permulaan untuk DBS PayLah!</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Malay.pdf" target="_blank">Kit Permulaan UOB Mighty</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah!_Malay.pdf" target="_blank">Kit Permulaan untuk DBS PayLah!</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20digibank_Malay.pdf" target="_blank">Kit Permulaan untuk Aplikasi DBS Digibank</a><br><br>
 
   தமிழ்<br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/SGQR_Tamil.pdf" target="_blank">Starter Kit on SGQR</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/PayNow_Tamil.pdf" target="_blank">Starter Kit on PayNow</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Tamil.pdf" target="_blank">Starter Kit on Fairprice Scan & Go</a><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Tamil.pdf" target="_blank">Starter Kit on UOB Mighty</a><br><br>
-  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah_Tamil.pdf" target="_blank">Starter Kit on DBS PayLah!</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Tamil.pdf" target="_blank">Starter Kit on UOB Mighty</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah_Tamil.pdf" target="_blank">Starter Kit on DBS PayLah!</a><br>
   <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20digibank_Tamil.pdf" target="_blank">Starter Kit on DBS Digibank</a><br><br>
 
   DBS/POSB<br>
