@@ -33,6 +33,9 @@ From 1 April 2021, SingPass users will no longer be able to use the OneKey Token
 * [Guide on How to Retrieve your CPF Contribution History Statement](https://www.sc.com/sg/online-form/cpf-statement/){:target="_blank"}<br>
 * [Guide on How to View Statements and Messages Via iPhone](https://www.cpf.gov.sg/Assets/members/Documents/OnlineDemo/iPhone_Statements.mp4){:target="_blank"}
 
+**LifeSG**
+* [Starter Kit on LifeSG](/files/SGD%20Tipsheets/LifeSG_Eng.pdf){:target="_blank"}<br>
+
 **NLB Mobile App**
 * [Guide on How to Download and Use the NLB Mobile App](https://mobileapp.nlb.gov.sg/){:target="_blank"}<br>
 
