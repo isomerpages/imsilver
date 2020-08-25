@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Digital Clinics
 permalink: /get-one-on-one-assistance/digital-clinics/
 breadcrumb: Digital Clinics
-collection_name: 
+collection_name: get-one-on-one-assistance
 ---
 
 [![DCvideo](https://img.youtube.com/vi/2p2-mMrdo6s/maxresdefault.jpg)](https://www.youtube.com/watch?v=2p2-mMrdo6s?autoplay=1)
