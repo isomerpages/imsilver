@@ -44,3 +44,5 @@ We would like to invite you to sign up for our upcoming sessions*:<br>
 *Limited seats available on a first-come, first-served basis.
 
 To indicate interest for future sessions at other locations, please fill up the form at go.gov.sg/eljinterest and the team will be in touch with you when there are upcoming sessions.
+
+![pasa](/images/seniors-go-digital/Learning%20Journey%202.jpg)
