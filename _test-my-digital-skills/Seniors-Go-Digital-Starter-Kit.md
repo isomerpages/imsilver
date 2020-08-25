@@ -16,7 +16,6 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
 | LifeSG | [](/files/SGD%20Tipsheets/LifeSG_Eng.pdf) | [](/files/SGD%20Tipsheets/LifeSG_Chi.pdf) | [](/files/SGD%20Tipsheets/LifeSG_Malay.pdf) | [](/files/SGD%20Tipsheets/LifeSG_Tamil.pdf) |
 | Online Shopping & Food Delivery | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (English)_200320.pdf) | [](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf) | N.A. | N.A. |
 | Gov.sg | [](/files/SGD%20Tipsheets/Gov.sg_English.pdf) | [](/files/SGD%20Tipsheets/Gov.sg_Chi.pdf) | N.A. | N.A. |
-| SingPass Mobile | [](/files/SingPass Mobile.pdf) | [](/files/SingPass Mobile_Chinese.pdf) | N.A. | N.A. |
 | SGQR | [](/files/SGD%20Tipsheets/SGQR_English.pdf) | [](/files/SGD%20Tipsheets/SGQR_Chi.pdf) | [](/files/SGD%20Tipsheets/SGQR_Malay.pdf)| [](/files/SGD%20Tipsheets/SGQR_Tamil.pdf) |
 | Email |[](/files/SGD Tipsheets/Email Account_English.pdf) | [](/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf) | [](/files/SGD%20Tipsheets/Email%20Account-Malay.pdf) |[](/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf)|
 | Microsoft Teams | [](/files/SGD%20Tipsheets/Microsoft%20Teams_English.pdf) | [](/files/SGD%20Tipsheets/Microsoft%20Teams_Chi.pdf) | [](/files/SGD%20Tipsheets/Microsoft%20Teams_Malay.pdf) | [](/files/SGD%20Tipsheets/Microsoft%20Teams_Tamil.pdf) |
