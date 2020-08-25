@@ -61,4 +61,6 @@ We’re excited to have you with us on a Supermarket Learning Journey at one of 
 7)      29 Sept Tues, FairPrice Finest Bedok Mall<br>
 8)      30 Sept Wed, Toa Payoh HDB Hub FairPrice<br>
 
-To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.
+To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
+
+Click <a href="https://www.go.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
