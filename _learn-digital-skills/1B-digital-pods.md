@@ -166,7 +166,7 @@ From kopitiam uncles to taxi drivers and more, unlock the world of convenience a
   <td><b>Learn how to get your everyday banking transactions done quickly and securely online.</b><br>
 This workshop provides a step-by-step guide to digibank. Bypass queues and find out how banking can be done at your fingertips. Plus, learnt to protect yourself online with our #BSHARP security tips! Register now to bank with ease of mind!
   </td>
-<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: DBS<br><br><a href="https://form.gov.sg/5f3dec3a73437300119e2257" target="_blank">Click to register</a></td>
+<td rowspan="2" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: DBS<br><br><a href="https://form.gov.sg/5f3dec3a73437300119e2257" target="_blank">Click to register</a></td>
   </tr>
 
   <tr>
