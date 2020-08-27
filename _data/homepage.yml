@@ -43,14 +43,6 @@ info-sections:
     external: true
     section-more-button-url: https://www.go.gov.sg/seniorsgodigital
     section-image-path: images/seniors-go-digital/SG_Digital_logo.jpg
-
-  - section-title: 
-    section-subtitle: Embark on Learning Journeys now!
-    section-description: Go on a Learning Journey to discover how you can use various digital apps to make payments using your mobile phones and enrich your everyday life. Guided by our Digital Ambassadors, these Learning Journeys are interactive and provide hands-on practice to put your newly-acquired digital skills to use. Register your interest now!
-    section-more-button: Learn more
-    external: true
-    section-more-button-url: https://imsilver.imda.gov.sg/learn-digital-skills/learning-journey
-    section-image-path: images/seniors-go-digital/Learning%20Journey.png
     
   - section-title: 
     section-subtitle: IMReady - The Need for Speed
@@ -59,6 +51,14 @@ info-sections:
     external: true
     section-more-button-url: https://youtu.be/fb_khHU3oDg
     section-image-path: images/home-page/The Need for Speed.png
+    
+  - section-title: 
+    section-subtitle: Embark on Learning Journeys now!
+    section-description: Go on a Learning Journey to discover how you can use various digital apps to make payments using your mobile phones and enrich your everyday life. Guided by our Digital Ambassadors, these Learning Journeys are interactive and provide hands-on practice to put your newly-acquired digital skills to use. Register your interest now!
+    section-more-button: Learn more
+    external: true
+    section-more-button-url: https://imsilver.imda.gov.sg/learn-digital-skills/learning-journey
+    section-image-path: images/seniors-go-digital/Learning%20Journey.png
     
   - section-title: 
     section-subtitle: What are Basic Digital Skills?
