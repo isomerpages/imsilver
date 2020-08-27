@@ -144,14 +144,9 @@ Get tips on how to create a good listing and explore other functions to promote 
   <td><b>Stay safe and connected with OCBC Digital Banking at your fingertips</b><br>
  Discover how you can gain access to banking services 24/7 at the ease of your convenience with the ability to check your account balance, view card spend and manage fund transfers. 
   </td>
-<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: OCBC<br><br><a href="https://form.gov.sg/5f3f7d01fab3590011411048" target="_blank">Click to register</a></td>
+<td rowspan="2" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: OCBC<br><br><a href="https://form.gov.sg/5f3f7d01fab3590011411048" target="_blank">Click to register</a></td>
   </tr>
 
-  <tr>
-  <td>29 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Buying on Carousell</b><br>
- Find out how you can search for products, use the chat function, make an offer, make payment, collect your products, and leave a review.</td>
-  </tr>
 
   <tr>
   <td>5 November 2020<br><br>3:00 - 3:30pm</td>
