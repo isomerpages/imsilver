@@ -27,7 +27,7 @@ Berikut adalah beberapa Perjalanan Pembelajaran yang akan diperhatikan dalam beb
 mendatang:<br>
 எதிர்வரும் மாதங்களில் நீங்கள் எதிர்பார்க்கக்கூடிய சில கற்றல் பயணங்கள் இவை:<br>
 
-<h4>E-Payment Learning Journey<h4>
+<h4>E-Payment Learning Journey</h4>
 ![pasa](/images/seniors-go-digital/Learning%20Journey.png)
 Learn how to make e-Payments on your mobile phone! With e-Payments made available, simply bring along your phone to pay for items and embark on a cashless journey.<br>
 学习使用手机进行电子付款！有了电子付款，您只须随身携带手机，就能付款购物，踏上无现
