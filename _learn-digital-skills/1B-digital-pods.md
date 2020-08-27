@@ -139,6 +139,44 @@ Discover the best practices of using Carousell, and learn to transact safely as 
 Get tips on how to create a good listing and explore other functions to promote your listing.</td>
   </tr>
   
+  <tr>
+  <td>8 October2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Stay safe and connected with OCBC Digital Banking at your fingertips</b><br>
+ Discover how you can gain access to banking services 24/7 at the ease of your convenience with the ability to check your account balance, view card spend and manage fund transfers. 
+  </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: OCBC<br><br><a href="https://form.gov.sg/5f3f7d01fab3590011411048" target="_blank">Click to register</a></td>
+  </tr>
+
+  <tr>
+  <td>29 September 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Buying on Carousell</b><br>
+ Find out how you can search for products, use the chat function, make an offer, make payment, collect your products, and leave a review.</td>
+  </tr>
+
+  <tr>
+  <td>5 November 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>OCBC Pay Anyone™ lets you pay everyone any day and any time</b><br>
+From kopitiam uncles to taxi drivers and more, unlock the world of convenience as all it takes is a QR code, mobile number or email address for payment to be made seamlessly and instantaneously.
+
+ </td>
+  </tr>
+
+ <tr>
+  <td>1 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn how to get your everyday banking transactions done quickly and securely online.</b><br>
+This workshop provides a step-by-step guide to digibank. Bypass queues and find out how banking can be done at your fingertips. Plus, learnt to protect yourself online with our #BSHARP security tips! Register now to bank with ease of mind!
+  </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: DBS<br><br><a href="https://form.gov.sg/5f3dec3a73437300119e2257" target="_blank">Click to register</a></td>
+  </tr>
+
+  <tr>
+  <td>29 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn the Safe and Convenient Way to Make Payments with DBS PayLah!</b><br>
+ Whether you’re paying your friends, your groceries, or your bills, DBS PayLah! offers many reasons to go cashless! No more forgetting to bring cash. Sign up and get to learn more benefits of DBS PayLah!
+</td>
+  </tr>
+
+
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
