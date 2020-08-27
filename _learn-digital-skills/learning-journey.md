@@ -14,7 +14,9 @@ Guided by our Digital Ambassadors, our Learning Journeys comprise classroom-base
 Here are some Learning Journeys to look out for in the coming months:<br>
 ![pasa](/images/seniors-go-digital/Learning%20Journey.png)
 Learn how to make e-Payments on your mobile phone! With e-Payments made available, simply bring along your phone to pay for items and embark on a cashless journey.<br>
-
+踏上学习之旅，了解您能如何使用各种数码应用，让您的日常生活更充实。<br>
+Ikuti Perjalanan Pembelajaran untuk mengetahui bagaimana anda boleh menggunakan pelbagai aplikasi digital untuk memperkayakan kehidupan seharian anda.<br>
+பற்பல மின்னிலக்கச் செயலிகளைப் பயன்படுத்தி உங்களது அன்றாட வாழ்க்கையை எப்படி வளப்படுத்துவது என்பதைக் கண்டறிய கற்றல் பயணங்களைத் தொடங்குங்கள்.<br>
 Guided by our Digital Ambassadors, the Learning Journey comprises classroom-based training as well as an interactive hands-on activity where you can immediately try out your first cashless/contactless transaction!<br>
 
 We would like to invite you to sign up for our upcoming sessions*:<br>
