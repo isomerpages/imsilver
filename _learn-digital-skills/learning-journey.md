@@ -77,14 +77,32 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 
 _*Limited seats available on a first-come, first-served basis._
 
-To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.
+To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
+若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
+Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
+எதிர்காலத்தில் மற்ற இடங்களில் நடத்தப்படவிருக்கும் அங்கங்களில் கலந்துகொள்ள உங்களுக்கு ஆர்வமிருந்தால்,
+go.gov.sg/eljinterest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். அங்கங்கள் எதிர்வரும்போது
+எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br>
+
+<h4>Supermarket Learning Journey</h4>
 
 ![pasa](/images/seniors-go-digital/Learning%20Journey%202.jpg)
 Learn how to use the Scan & Go function in the FairPrice app so that you can skip the queue and make contactless payment! Users can simply scan the barcode of the items on-the-go, make payment via the app, and verify the purchases at the kiosk.<br>
+学习使用职总平价超市（FairPrice）应用的Scan &amp; Go功能，以便进行免接触式付款，无须排队结账！用户只须通过应用扫描商品条码和付款，然后在特设摊位确认购买的商品，即可完成购物。<br>
+Ketahui cara menggunakan fungsi Scan &amp; Go di aplikasi FairPrice supaya anda tidak perlu beratur dan membuat pembayaran tanpa sentuhan! Pengguna boleh mengimbas kod bar item semasa dalam perjalanan, membuat pembayaran melalui aplikasi, dan mengesahkan pembelian di kiosk.<br>
+ஃபேர்பிரைஸ் செயலியில் உள்ள Scan &amp; Go இயக்கத்தைப் பயன்படுத்த கற்றுக் கொள்ளுங்கள். இதன்வழி, நீங்கள் வரிசையைத் தவிர்த்துவிட்டு, தொடர்பற்ற முறையில் கட்டணத்தைச் செலுத்தலாம்! இந்த இயக்கத்தைப் பயன்படுத்துவோர், ஒவ்வொரு பொருளாக எடுக்கும்போது அதன் பட்டைக் குறியீட்டை ஒளிவருடல் செய்தால் போதும். பிறகு, செயலியின் மூலமாகவே பணம் செலுத்தி, சாதனக்கூடத்தில் கொள்முதலை உறுதிப்படுத்திடலாம்.<br>
 
 Guided by our Digital Ambassadors, the Learning Journey comprises an interactive session with hand-on experience so that you may try out your first Scan & Go transaction!<br>
+我们的数码大使将负责引导您踏上学习之旅，通过互动式活动，让您学习进行第一笔Scan & Go交易！<br>
+Dibimbing oleh Duta Digital kami, Perjalanan Pembelajaran merangkumi sesi interaktif dengan pengalaman langsung supaya anda boleh mencuba transaksi Scan &amp; Go pertama anda!<br>
+எங்களது மின்னிலக்கத் தூதர்களின் வழிகாட்டுதலுடன், இந்தக் கற்றல் பயணத்தில் நீங்கள் முதல்முறையாக Scan & Go பரிவர்த்தனையை நேரடியாகச் செய்து பார்க்கக்கூடிய இருவழித்தொடர்பு அங்கம் இடம்பெறும்!<br>
 
 We’re excited to have you with us on a Supermarket Learning Journey at one of the following sessions:<br>
+我们希望能在以下日期与您一起踏上超市学习之旅:<br>
+Kami sangat gembira dapat bersama anda dalam Perjalanan Pembelajaran Pasaraya di salah satu
+sesi berikut:<br>
+பின்வரும் அங்கங்களில் ஒன்றில் பேரங்காடி கற்றல் பயணத்தில் உங்களை அழைத்துச்செல்ல ஆவலாக
+இருக்கிறோம்:<br>
 
 1)      1 Sept Tues, VivoCity FairPrice Xtra<br>
 2)      8 Sept Tues, FairPrice Xtra – Hyper JEM<br>
@@ -96,5 +114,8 @@ We’re excited to have you with us on a Supermarket Learning Journey at one of 
 8)      30 Sept Wed, Toa Payoh HDB Hub FairPrice<br>
 
 To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
+若您有兴趣参加超市学习之旅，请上网go.gov.sg/lj-interest填写表格，我们会尽快与您联系。由于每趟学习之旅的名额有限，我们将采取先到先得的方式进行报名。<br>
+Untuk menunjukkan minat, isi borang di go.gov.sg/lj-interest dan kami akan menghubungi anda sebentar lagi untuk meneruskan pendaftaran. Oleh kerana slot yang disediakan terhad untuk setiap sesi, perhatikan bahawa pendaftaran akan dibuat berdasarkan urutan pertama, dilayan dahulu.<br>
+உங்கள் ஆர்வத்தைத் தெரியப்படுத்த, தயவுசெய்து go.gov.sg/lj-interest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். நாங்கள் விரைவில் உங்களுடன் தொடர்புகொண்டு பதிவு செய்வோம். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முதல் முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள்.<br>
 
 Click <a href="https://www.go.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
