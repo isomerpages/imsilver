@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: Learning Journey
+title: Learning Journey/ 学习之旅/ Perjalanan Pembelajaraan/ கற்றல் பயணங்கள்
 permalink: /learn-digital-skills/learning-journey
 breadcrumb: learning-journey
 collection_name: learning-journey
