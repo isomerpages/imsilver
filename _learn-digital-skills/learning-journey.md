@@ -42,7 +42,7 @@ Guided by our Digital Ambassadors, the Learning Journey comprises classroom-base
 我们的数码大使将负责引导您踏上学习之旅，通过课堂培训和互动式活动，让您立即学习进行
 第一笔无现金或免接触式交易！<br>
 Dipandu oleh Duta Digital kami, Perjalanan Pembelajaran merangkumi latihan berasaskan kelas dan
-juga aktiviti interaktif di mana anda boleh mencuba transaksi tanpa tunai / tanpa kontak pertama
+juga aktiviti interaktif di mana anda boleh mencuba transaksi tanpa tunai / tanpa sentuhan pertama
 anda dengan segera!<br>
 எங்களது மின்னிலக்கத் தூதர்களின் வழிகாட்டுதலுடன், இந்தக் கற்றல் பயணத்தில் வகுப்பறை பயிற்சியும்,
 உங்களது முதல் ரொக்கமில்லாத / தொடர்பற்ற பரிவர்த்தனையை உடனடியாகச் செய்து பார்க்கக்கூடிய
