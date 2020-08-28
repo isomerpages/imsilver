@@ -68,13 +68,7 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
   Effectively plan your bus and MRT trips and stay updated on traffic news with MyTransport.SG.<br>
   根据MyTransport.SG的巴士、地铁及实时路况有效地规划您的行程。</td>
   </tr>
-  
-  <tr>
-  <td>13 August 2020<br><br>3:00 - 4:00pm</td>
-  <td><b>Stay Safe Online</b><br>
-  Navigating the online space has become a necessity and a daily affair, but it is critical to stay safe online. Learn about the different types of cyber threats and cybersecurity practices to protect yourself!<br></td>
- <td rowspan="1" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: CSA<br><br><a href="https://form.gov.sg/5f182a1c487f590011b87fb2" target="_blank">Click to register</a></td>
-  </tr>
+
   <tr>
   <td>3 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Understanding myCPF mobile app</b><br>
