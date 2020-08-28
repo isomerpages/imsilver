@@ -7,8 +7,9 @@
 - title: Seniors Go Digital
   url: /seniors-go-digital/
   sub-links:
-      - title: 3 Tiers of Digital Skills
-        url: /seniors-go-digital/3-tiers-of-digital-skills
+      #- title: 3 Tiers of Digital Skills
+        #url: /seniors-go-digital/3-tiers-of-digital-skills
+     
         
 - title: About
   url: /about/
@@ -20,7 +21,9 @@
         url: /learn-digital-skills/attend-classes/overview/
       - title: Learn Online
         url: /learn-digital-skills/learn-online/overview/
-
+      - title: Learning Journey
+        url: /learn-digital-skills/learning-journey
+        
 - title: Virtual Digital Clinics
   url: /get-one-on-one-assistance/virtual-digital-clinics/
   sub-links:

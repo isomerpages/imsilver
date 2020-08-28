@@ -9,6 +9,8 @@ favicon: /images/SGD-logo.png
 
 # Agency logo
 agency-logo: /images/sii-logo_new.png
+external: true
+agency-logo-url: https://www.go.gov.sg/seniorsgodigital
 
 google-analytics: UA-145910784-1
 
@@ -38,9 +40,10 @@ info-sections:
     section-subtitle: Seniors Go Digital
     section-description: Helping you make connections that matter and giving you more reasons to smile.
     section-more-button: Learn more
-    section-more-button-url: /seniors-go-digital/
+    external: true
+    section-more-button-url: https://www.go.gov.sg/seniorsgodigital
     section-image-path: images/seniors-go-digital/SG_Digital_logo.jpg
-
+    
   - section-title: 
     section-subtitle: IMReady - The Need for Speed
     section-description:  Ready to embrace new technologies and learn new skills? Follow the adventures of Ricky and Tony – one who prefers to shop ‘til he drops the traditional way, the other gets his groceries delivered at the touch of a screen – in the third instalment of our 4-part video series. Dinner guests are arriving, and a key ingredient is missing from the main dish! Tony decides to leave to get the laksa, ah, leaves from the shops, while Ricky coolly orders through an online app – and gets it sent to the doorstep. Find out who will be left on the shelf in this race against time, and remember to share this video speedily!
@@ -48,6 +51,14 @@ info-sections:
     external: true
     section-more-button-url: https://youtu.be/fb_khHU3oDg
     section-image-path: images/home-page/The Need for Speed.png
+    
+  - section-title: 
+    section-subtitle: Embark on Learning Journeys now!
+    section-description: Go on a Learning Journey to discover how you can use various digital apps to make payments using your mobile phones and enrich your everyday life. Guided by our Digital Ambassadors, these Learning Journeys are interactive and provide hands-on practice to put your newly-acquired digital skills to use. Register your interest now!
+    section-more-button: Learn more
+    external: true
+    section-more-button-url: https://imsilver.imda.gov.sg/learn-digital-skills/learning-journey
+    section-image-path: images/seniors-go-digital/Learning%20Journey.png
     
   - section-title: 
     section-subtitle: What are Basic Digital Skills?

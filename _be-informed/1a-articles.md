@@ -21,8 +21,5 @@ Check out our educational reads and tips on digital skills and find out how they
 | 26 December 2019 | [Digitalise Your Vacation Memories](/digitalise-your-vacation-memories/) |
 | 12 December 2019 | [Packing the Apps for Your Trip](/packing-the-apps-for-your-trip/) |
 | 27 November 2019 | [Booking Your Dream Holiday Online](/booking-your-dream-holiday-online/) |
-| 07 October 2019 | [Helping Seniors Use Their Smartphones](/helping-seniors-use-their-smartphones/) |
 | 23 September 2019 | [Digital Learning Myths](/digital-learning-myths/) |
 | 15 May 2019 | [SingPass Goes Digital](/singpass-goes-digital/) |
-| 15 March 2019 | [Are You Digitally-Ready?](/are-you-digitally-ready/) |
-| 25 February 2019 | [Digital Banking in Singapore](/digital-banking-in-singapore/) |
