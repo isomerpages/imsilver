@@ -57,10 +57,14 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Chi.pdf){:target="_blank"}<br>
 * [SGQR](/files/SGD%20Tipsheets/SGQR_Chi.pdf){:target="_blank"}<br>
 * [FairPrice Scan & Go](/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Chi.pdf){:target="_blank"}<br>
+* [GrabPay](/files/SGD%20Tipsheets/GrabPay_Chi.pdf){:target="_blank"}<br>
 * [UOB Mighty](/files/SGD%20Tipsheets/UOB%20Mighty_Chi.pdf){:target="_blank"}<br>
 * [DBS PayLah!](/files/SGD%20Tipsheets/DBS%20PayLah_Chi.pdf){:target="_blank"}<br>
 * [DBS Digibank](/files/SGD%20Tipsheets/DBS%20digibank_Chi.pdf){:target="_blank"}<br>
 * [网上购物和外卖送餐服务](/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf){:target="_blank"}<br>
+* [OCBC Pay Anyone](/files/SGD%20Tipsheets/OCBC%20PayAnyone_Chi.pdf){:target="_blank"}<br>
+* [OCBC Mobile Banking](/files/SGD%20Tipsheets/OCBC%20Mobile%20Banking_Chi.pdf){:target="_blank"}<br>
+
 <h3>7. 娱乐与艺术</h3>
 **单元七 : 娱乐与艺术**<br>
 * [YouTube手册](https://support.google.com/youtube/?hl=zh-Hans#topic=7505892){:target="_blank"}<br>
@@ -92,7 +96,8 @@ Here are some learning resources in Chinese, Malay and Tamil.<br>
 * [Kit Permulaan Utuk SingPass Mobile](/files/SGD%20Tipsheets/SingPass%20Mobile_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Utuk WhatsApp](/files/SGD%20Tipsheets/WhatsApp_Malay.pdf){:target="_blank"}<br>
 * [Kit Permulaan Untuk Zoom](/files/SGD%20Tipsheets/Zoom_Malay.pdf){:target="_blank"}<br>
-* [FairPrice Scan & Go](/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Malay.pdf){:target="_blank"}<br>
+* [FairPrice Scan & Go](/files/SGD%20Tipsheets/Fairprice%20Scan%20%26%20Go_Malay.pdf){:target="_blank"}<br
+* [GrabPay](/files/SGD%20Tipsheets/GrabPay_Malay.pdf){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Malay.pdf){:target="_blank"}<br>
 * [DBS PayLah!](/files/SGD%20Tipsheets/DBS%20PayLah!_Malay.pdf){:target="_blank"}<br>
 * [DBS Digibank](/files/SGD%20Tipsheets/DBS%20digibank_Malay.pdf){:target="_blank"}<br>
@@ -112,6 +117,7 @@ meLISTEN Podcast - Even if you are old, technology can help!(நீங்கள�
 * [Media Literacy Council #1ClickAway (Be Safe, Be Smart, Be Kind!) (Tamil)](https://www.youtube.com/watch?v=C1L9ulBzogI){:target="_blank"}<br>
 * [Media Literacy Council Do What’s Right: Be Safe (Tamil)](https://www.youtube.com/watch?v=J9YmmlsTPUY){:target="_blank"}<br>
 * [FairPrice Scan & Go](/files/SGD%20Tipsheets/FairPrice%20Scan%20%26%20Go_Tamil.pdf){:target="_blank"}<br>
+* [GrabPay](/files/SGD%20Tipsheets/GrabPay_Tamil.pdf){:target="_blank"}<br>
 * [PayNow](/files/SGD%20Tipsheets/PayNow_Tamil.pdf){:target="_blank"}<br>
 * [DBS PayLah!](/files/SGD%20Tipsheets/DBS%20PayLah_Tamil.pdf){:target="_blank"}<br
 * [DBS Digibank](/files/SGD%20Tipsheets/DBS%20digibank_Tamil.pdf){:target="_blank"}<br>
