@@ -304,17 +304,23 @@ Perkhidmatan Digital Pemerintah<br><br>பிரிவு 2<br>
   <a href="https://www.uob.com.sg/personal/eservices/mobile/overview.page" target="_blank">UOB Mighty</a><br><br>
 
   GRAB<br>
-  <a href="https://www.grab.com/sg/stayhealthygodigital/" target="_blank">GrabPay</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Grab_Eng.pdf" target="_blank">GrabPay</a><br><br>
 
   中文<br>
   <a href="https://imsilver.imda.gov.sg/files/PayNow/11154A_DREK-T1-PAYNow_Chinese.pdf" target="_blank">PayNow 应用程序</a><br>
-  <a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep7/956129" target="_blank">乐学每疫刻 S3E7 (网上银行服务)</a><br><br>
+  <a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep7/956129" target="_blank">乐学每疫刻 S3E7 (网上银行服务)</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/GrabPay_Chi.pdf" target="_blank">GrabPay 入门教学</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/OCBC%20Mobile%20Banking_Chi.pdf" target="_blank">OCBC Mobile Banking 入门教学</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/OCBC%20PayAnyone_Chi.pdf" target="_blank">OCBC Pay Anyone入门教学</a><br><br>
 
   Melayu<br>
-  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br><br>
+  <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_Malay.pdf" target="_blank">Guide to PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/GrabPay_Malay.pdf" target="_blank">Kit Permualaan untuk GrabPay</a><br><br>
 
   தமிழ்<br>
   <a href="https://imsilver.imda.gov.sg/files/PayNow/11154_DREK-T1-PAYNow_Tamil.pdf" target="_blank">Guide to PayNow</a><br>
+  <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/GrabPay_Tamil.pdf" target="_blank">Starter Kit on GrabPay</a><br>
+
     </td>
   </tr>
 </table></div><br>
