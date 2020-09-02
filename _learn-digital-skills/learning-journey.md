@@ -118,4 +118,4 @@ To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-
 Untuk menunjukkan minat, isi borang di go.gov.sg/lj-interest dan kami akan menghubungi anda sebentar lagi untuk meneruskan pendaftaran. Oleh kerana slot yang disediakan terhad untuk setiap sesi, perhatikan bahawa pendaftaran akan dibuat berdasarkan urutan pertama, dilayan dahulu.<br>
 உங்கள் ஆர்வத்தைத் தெரியப்படுத்த, தயவுசெய்து go.gov.sg/lj-interest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். நாங்கள் விரைவில் உங்களுடன் தொடர்புகொண்டு பதிவு செய்வோம். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முதல் முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள்.<br>
 
-Click <a href="https://www.go.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
+Click <a href="https://www.imda.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
