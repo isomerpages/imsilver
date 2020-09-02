@@ -82,6 +82,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   </tr>
 </table>
 
-Click <a href="https://www.go.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
+Click <a href="https://www.imda.gov.sg/" target="_blank">here</a> to return to the Seniors Go Digital page.
 
 *Selected Virtual Digital Clinic sessions will be held on Saturday instead of Friday.
