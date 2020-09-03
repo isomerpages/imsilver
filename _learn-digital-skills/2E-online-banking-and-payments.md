@@ -48,5 +48,5 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/UOB%20Mighty_Eng.pdf" target="_blank">Starter Kit on UOB Mighty</a><br>
 
 <h5>Grab</h5>
-* <a href="https://www.grab.com/sg/stayhealthygodigital" target="_blank">Grabpay</a><br>
+* <a href="https://www.grab.com/sg/seniorsgodigital/" target="_blank">Grabpay</a><br>
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/Grab_Eng.pdf" target="_blank">Starter Kit on GrabPay</a><br>
