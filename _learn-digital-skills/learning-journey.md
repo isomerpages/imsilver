@@ -104,14 +104,15 @@ sesi berikut:<br>
 பின்வரும் அங்கங்களில் ஒன்றில் பேரங்காடி கற்றல் பயணத்தில் உங்களை அழைத்துச்செல்ல ஆவலாக
 இருக்கிறோம்:<br>
 
-1)      1 Sept Tues, VivoCity FairPrice Xtra<br>
-2)      8 Sept Tues, FairPrice Xtra – Hyper JEM<br>
-3)      15 Sept Tues, Jurong Point FairPrice<br>
-4)      16 Sept Wed, Hougang Lifestyle Mall<br>
-5)      22 Sept Tues, FairPrice Yew Tee Point<br>
-6)      23 Sept Wed, FairPrice Clementi A<br>
-7)      29 Sept Tues, FairPrice Finest Bedok Mall<br>
-8)      30 Sept Wed, Toa Payoh HDB Hub FairPrice<br>
+1)      23 Sept Wed, FairPrice Clementi A<br>
+2)      6 Oct Tues, FairPrice Finest Punggol Waterway Point<br>
+3)      7 Oct Wed, VivoCity FairPrice Xtra<br>
+4)      13 Oct Tues, FairPrice Xtra – Hyper JEM<br>
+5)      14 Oct Wed,  Jurong Point FairPrice<br>
+6)      20 Oct Tues, FairPrice Hougang Lifestyle Mall<br>
+7)      21 Oct Wed, FairPrice Yew Tee Point<br>
+8)      27 Oct Tues, FairPrice Clementi A<br>
+9)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
 
 To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 若您有兴趣参加超市学习之旅，请上网go.gov.sg/lj-interest填写表格，我们会尽快与您联系。由于每趟学习之旅的名额有限，我们将采取先到先得的方式进行报名。<br>
