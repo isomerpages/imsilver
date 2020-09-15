@@ -56,21 +56,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
     <th>Availability</th>
   </tr>
      <tr>
-   <td>28 Aug 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Malay</td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
-  </tr>
-    <tr>
-   <td>4 Sep 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Tamil</td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
-  </tr>
-      <tr>
-   <td>11 Sep 2020<br>2:00pm - 5:00pm </td>
-  <td>English, Mandarin and Tamil</td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
-  </tr>
-     <tr>
    <td>18 Sep 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Malay</td>
   <td>Sessions are available for registration on a first-come, first-served basis.</td>
@@ -78,6 +63,31 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
        <tr>
    <td>25 Sep 2020<br>2:00pm - 5:00pm </td>
   <td>English, Mandarin and Malay</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+   <td>2 Oct 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin and Tamil</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+   <td>9 Oct 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin and Tamil</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+   <td>16 Oct 2020<br>2:00pm - 5:00pm </td>
+  <td>English, Mandarin and Malay</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+   <td>23 Oct 2020<br>2:00pm - 5:00pm </td>
+  <td>English and Mandarin</td>
+  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+   <tr>
+   <td>30 Oct 2020<br>2:00pm - 5:00pm </td>
+  <td>English and Mandarin</td>
   <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
 </table>
