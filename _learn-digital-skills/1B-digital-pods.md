@@ -19,56 +19,6 @@ Register now for these upcoming Digital Pods. Look out for new classes which wil
     <th width="60%">Topic</th>
     <th width="25%">Registration and other details</th>
   </tr>
- 
-  <tr>
-  <td>6 August 2020<br><br>10:00 - 10:30am</td>
-  <td><b>Make Reading Easier on iPhone and iPad</b><br><b>轻轻松松阅读⼿机</b><br>Discover in-built accessibility features that help make reading on your iPhone and iPad much easier, such as having the content read out to you.<br>使⽤iOS的辅助功能帮助您更轻松地在iPhone和iPad上阅读，甚⾄让它朗读给您听呢。</td>
-  <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Tinkertanker Pte Ltd, certified Apple Professional Learning Provider<br><br><a href="https://form.gov.sg/5ee0882273f04700113223d3" target="_blank">Click to register</a></td>
-  </tr>
-  
-  <tr>
-  <td>13 August 2020<br><br>10:00 - 10:30am</td>
-  <td><b>Input Without Typing on iPhone and iPad</b><br><b>轻轻松松的输⼊法</b><br>Find out how you can make use of in-built features to speak instead of type out text on your iPhone and iPad.<br>学习怎么⽤iOS的语⾳功能帮您轻轻松松地在iPhone和iPad上输⼊⽂字。</td>
-  </tr>
-
-  <tr>
-  <td>20 August 2020<br><br>10:00 - 10:30am</td>
-  <td><b>Creating With Photos  on iPhone and iPad - make colouring sheets & go back in time</b><br><b>创意照⽚</b><br>Use filters and editing tools in the Photos app on iOS to create colouring sheets or give your photos a vintage look.<br>学习如何使⽤滤镜和编辑，把照⽚创造成填⾊和古早版。</td>
-  </tr>
-
-  <tr>
-  <td>27 August 2020<br><br>10:00 - 10:30am</td>
-  <td><b>Creating With Videos on iPhone and iPad - time-lapse & slo-mo</b><br><b>创意视频</b><br>Use the Camera app on iOS to create your own videos, and have fun experimenting with changing their speed.<br>学习如何使⽤延时和慢动作摄影加快或放慢动作的速度，制出⼀些有趣的创意视频。</td>
-  </tr>
-
-  <tr>
-  <td>11 August 2020<br><br>3:00 - 4:00pm</td>
-  <td><b>Be smart and safe with SingPass Mobile and TraceTogether / SingPass Mobile 和TraceTogether， 疫情追踪我最行</b><br>
-   Master the basics of SingPass Mobile,  discover SafeEntry Check-in tricks for you and your family via SingPass Mobile and TraceTogether, and subscribe to COVID-19 updates    on messaging platforms.<br>
-  掌握电子政府密码(SingPass)应用功能，了解如何使用电子政府密码和合力追踪(TraceTogether)应用为您和同行的家人登录SafeEntry访客登记系统，学习订阅疫情推送讯息</td>
- <td rowspan="4" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: Accenture<br><br><a href="https://form.gov.sg/5f11544bfefd4e00119fb6a1" target="_blank">Click to register</a></td>
-  </tr>
-
-  <tr>
-  <td>18 August 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Get ActiveSG / ActiveSG，迈向活跃狮城</b><br>Find out how to make online bookings for public sports facilities, register for fitness programmes, and participate in fitness campaigns with ActiveSG.<br>
-了解如何通过ActiveSG查询和预定邻近/全岛的公共体育设施，报名运动课程，和参加健身活动。</td>
-  </tr>
-
-  <tr>
-  <td>25 August 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Live well with HealthHubSG / HealthHubSG，保持健康乐活</b><br>
-    Learn to navigate HealthHubSG, the one-stop access to you and your family's health records.<br>
-    学习如何透过保健资讯网(HealthHub SG)应用程序一站式查看您及家人的医疗记录及相关保健讯息。</td>
-  </tr>
-  
-  <tr>
-  <td>1 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Getting around with MyTransport.SG / MyTransport.SG，全岛走透透</b><br>
-  Effectively plan your bus and MRT trips and stay updated on traffic news with MyTransport.SG.<br>
-  根据MyTransport.SG的巴士、地铁及实时路况有效地规划您的行程。</td>
-  </tr>
-
   <tr>
   <td>3 September 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Understanding myCPF mobile app</b><br>
@@ -165,6 +115,22 @@ This workshop provides a step-by-step guide to digibank. Bypass queues and find 
 </td>
   </tr>
 
+<tr>
+  <td>15 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Learn the basics of Digital banking & Cyber security with UOB Mighty, 大华银行 UOB Mighty App: 数字银行与网络安全基础认知</b><br>
+Learn how to access your everyday banking through UOB Mighty and de-mystify fears on cyber security. In this session, we will teach you the basics like setting up your digital banking and secure token for the first time. We will also teach you how you can keep yourself safe and protected cyber-crimes.<br>
+  了解如何通过大华银行 UOB Mighty App，安全与便捷履行您的日常银行交易需求。课程包括指导新用户如何设立UOB Mighty App 户口和安全密码，以及认识基本网络安全方法。
+  </td>
+<td rowspan="2" valign="middle">Conducted in: <b>English and Mandarin</b><br><br>Brought to you by: UOB<br><br><a href="https://form.gov.sg/5f5b452ef693b50011242f50" target="_blank">Click to register</a></td>
+  </tr>
+
+  <tr>
+  <td>12 November 2020<br><br>3:00 - 3:30pm</td>
+  <td><b> Learn how to do e-payments, transfer funds and other basic banking through UOB Mighty, 大华银行 UOB Mighty App: 知悉数码支付，汇款和基本数字银行功能</b><br>
+    Learn the convenience of everyday banking through your UOB Mighty. From checking account balances to making bill payments or transfer funds without going to the branch! We will also teach you how you can do contactless e-payments such as QR Pay and PayNow to help you stay safe and go cashless to minimize physical contact. Register now for a Mighty surprise ahead.<br>
+了解如何通过大华银行 UOB Mighty App，安全与便捷履行您的日常银行交易需求。课程包括如何在 UOB Mighty App 随时获取账户资料，进行账单支付，资金转帐等服务。同步于疫情阻断措施，课程也包括如何采用非接触式支付方式 （例如QR Pay 和 PayNow）进行安全支付。
+</td>
+  </tr>
 
 </table>
 
