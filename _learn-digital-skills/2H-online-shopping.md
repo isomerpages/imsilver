@@ -34,7 +34,7 @@ Often hear of good deals online from your friends? Check out the following guide
   <tr>
    <td><a href="https://pages.lazada.sg/wow/camp/lazada/dailycampaign/sg/campaign/start-shopping-on-lazada?hybrid=1/" target="_blank">Lazada</a></td> 
     <td> </td>
-    <td><a href="https://www.coldstorage.com.sg/stay-healthy-go-digital" target="_blank">Cold Storage</a></td>
+    <td><a href="https://coldstorage.com.sg/seniors-go-digital" target="_blank">Cold Storage</a></td>
   </tr>
   <tr>
   <td><a href="https://www.shopback.sg/stayhealthygodigital" target="_blank">ShopBack</a></td> 
@@ -42,19 +42,19 @@ Often hear of good deals online from your friends? Check out the following guide
     <td><a href="https://csfoods.sg/shop/index.php?route=information/faq" target="_blank">CS Foods</a></td>
   </tr>
   <tr>
-  <td><a href="https://shopee.sg/m/stay-healthy-go-digital" target="_blank">Shopee</a></td>
+  <td><a href="https://shopee.sg/m/seniors-go-digital" target="_blank">Shopee</a></td>
     <td> </td>
     <td><a href="https://www.natures-glory.com/" target="_blank">Nature’s Glory</a></td>
   </tr>
   <tr>
   <td><a href="https://www.youtube.com/watch?v=jIK08z_G0Yw" target="_blank">Shopee (video guide)</a></td> 
     <td> </td>
-    <td><a href="https://www.giant.sg/stay-healthy-go-digital" target="_blank">Giant</a></td>
+    <td><a href="https://giant.sg/seniors-go-digital" target="_blank">Giant</a></td>
   </tr>
   <tr>
   <td><a href="https://special.qoo10.sg/DynamicAD/8512/" target="_blank">Qoo10</a> </td> 
     <td> </td>
-    <td><a href="https://www.guardian.com.sg/stay-healthy-go-digital?utm_source=imda&utm_medium=referral&utm_campaign=stayhealthygodigital" target="_blank">Guardian</a></td>
+    <td><a href="https://www.guardian.com.sg/seniors-go-digital" target="_blank">Guardian</a></td>
   </tr>
    <tr>
   <td> </td> 
@@ -64,7 +64,7 @@ Often hear of good deals online from your friends? Check out the following guide
      <tr>
   <td> </td> 
     <td> </td>
-    <td><a href="https://www.fairprice.com.sg/promo/stay-healthy-go-digital/" target="_blank">NTUC FairPrice</a></td>
+    <td><a href="https://www.fairprice.com.sg/promo/seniors-go-digital/" target="_blank">NTUC FairPrice</a></td>
   </tr>
   <tr>
   <td> </td> 
