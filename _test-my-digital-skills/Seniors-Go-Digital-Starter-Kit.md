@@ -77,11 +77,11 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="3">Tier 2: Digital Government Services<br>第二级别: 数码政府服务<br>Peringkat 2: Perkhidmatan Digital Pemerintah<br>பிரிவு 2: மின்னிலக்க அரசாங்கச் சேவைகள்</td>
-    <td class="tg-0pky">SingPass Mobile</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Eng.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Tamil.pdf</td>
+    <td class="tg-0pky">LifeSG</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Eng.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Tamil.pdf</td>
   </tr>
   <tr>
     <td class="tg-0pky">TraceTogether</td>
@@ -91,28 +91,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky">LifeSG</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Eng.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Tamil.pdf</td>
-  </tr>
-  <tr>
     <td class="tg-0pky" rowspan="10">Tier 3: e-Payments and Digital Banking<br>第三级别: 电子付款与银行服务<br>Peringkat 3: e-Bayaran dan Perbankan<br>பிரிவு 3: மின்-கட்டணமுறைகள் மற்றும்வங்கிச்சேவ</td>
-    <td class="tg-0pky">PayNow</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Eng.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Tamil.pdf</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">SGQR</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_English.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_Tamil.pdf</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">DBS Digibank SG</td>
     <td class="tg-0pky">/files/SGD Tipsheets/DBS digibank_Eng.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/DBS%20digibank_Chi.pdf</td>
@@ -127,6 +106,20 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky">/files/SGD%20Tipsheets/DBS%20PayLah_Tamil.pdf</td>
   </tr>
   <tr>
+    <td class="tg-0pky">FairPrice Scan &amp; Go</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/Fairprice Scan &amp; Go_Eng.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/FairPrice Scan &amp; Go_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/Fairprice Scan &amp; Go_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/FairPrice Scan &amp; Go_Tamil.pdf</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">GrabPay</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/Grab_Eng.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/GrabPay_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/GrabPay_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/GrabPay_Tamil.pdf</td>
+  </tr>
+    <tr>
     <td class="tg-0pky">OCBC Mobile Banking</td>
     <td class="tg-0pky">/files/SGD Tipsheets/OCBC Mobile Banking_Eng.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/OCBC%20Mobile%20Banking_Chi.pdf</td>
@@ -141,13 +134,20 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky">/files/SGD%20Tipsheets/OCBC%20PayAnyone_Tamil.pdf</td>
   </tr>
   <tr>
-    <td class="tg-0pky">UOB Mighty</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Eng.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Tamil.pdf</td>
+    <td class="tg-0pky">PayNow</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Eng.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/PayNow_Tamil.pdf</td>
   </tr>
   <tr>
+    <td class="tg-0pky">SGQR</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_English.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/SGQR_Tamil.pdf</td>
+  </tr>
+    <tr>
     <td class="tg-0pky">Singtel Dash</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Singtel%20Dash_Eng.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Singtel%20Dash_Chi.pdf</td>
@@ -155,33 +155,26 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky">/files/SGD%20Tipsheets/Singtel%20Dash_Tamil.pdf</td>
   </tr>
   <tr>
-    <td class="tg-0pky">GrabPay</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/Grab_Eng.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/GrabPay_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/GrabPay_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/GrabPay_Tamil.pdf</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">FairPrice Scan &amp; Go</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/Fairprice Scan &amp; Go_Eng.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/FairPrice Scan &amp; Go_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/Fairprice Scan &amp; Go_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/FairPrice Scan &amp; Go_Tamil.pdf</td>
+    <td class="tg-0pky">UOB Mighty</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Eng.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/UOB Mighty_Tamil.pdf</td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="2">Cybersecurity Tips<br>网络安全贴士<br>Panduan Keselamatan Siber<br>இணையப் பாதுகாப்பு குறிப்புகள்<br></td>
-    <td class="tg-0pky">Staying Safe Online</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf</td>
-  </tr>
-  <tr>
     <td class="tg-0pky">How to Spot a Scam?</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Staying Safe Online</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf</td>
   </tr>
   <tr>
     <td class="tg-0pky">Others</td>
