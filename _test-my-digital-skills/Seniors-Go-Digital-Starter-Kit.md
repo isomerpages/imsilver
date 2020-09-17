@@ -84,6 +84,13 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky">/files/SGD%20Tipsheets/LifeSG_Tamil.pdf</td>
   </tr>
   <tr>
+    <td class="tg-0pky">SingPass Mobile</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Eng.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/SingPass Mobile_Tamil.pdf</td>
+  </tr>
+  <tr>
     <td class="tg-0pky">TraceTogether</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
