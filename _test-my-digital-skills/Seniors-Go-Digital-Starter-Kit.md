@@ -27,18 +27,39 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="7">Tier 1: Communication Skills<br>第一级别: 通讯技能Peringkat 1: Kemahiran Komunikasi<br>பிரிவு 1: ததொடர்புத் திறன்கள்<br></td>
-    <td class="tg-0pky">WhatsApp</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_English.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_Tamil.pdf</td>
+    <td class="tg-0pky">Chinese Inputs Method</td>
+    <td class="tg-0pky">N.A.</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/Chinese Input Methods_Chi.pdf</td>
+    <td class="tg-0pky">N.A.</td>
+    <td class="tg-0pky">N.A.</td>
   </tr>
-  <tr>
+    <tr>
+    <td class="tg-0pky">Email</td>
+    <td class="tg-0pky">/files/SGD Tipsheets/Email Account_English.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Account-Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf</td>
+  </tr>
+   <tr>
     <td class="tg-0pky">Gov.sg</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Gov.sg_English.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Gov.sg_Chi.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Gov.sg_Malay%20(1).pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Gov.sg_Tamil%20(1).pdf</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Microsoft Teams</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_English.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_Tamil.pdf</td>
+  </tr>
+ <tr>
+    <td class="tg-0pky">WhatsApp</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_English.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_Chi.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_Malay.pdf</td>
+    <td class="tg-0pky">/files/SGD%20Tipsheets/WhatsApp_Tamil.pdf</td>
   </tr>
   <tr>
     <td class="tg-0pky">Wireless@SGx</td>
@@ -53,27 +74,6 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky">/files/SGD%20Tipsheets/Zoom_Chi.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Zoom_Malay.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Zoom_Tamil.pdf</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Microsoft Teams</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_English.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Microsoft%20Teams_Tamil.pdf</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Email</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/Email Account_English.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Account-Malay.pdf</td>
-    <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf</td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Chinese Inputs Method</td>
-    <td class="tg-0pky">N.A.</td>
-    <td class="tg-0pky">/files/SGD Tipsheets/Chinese Input Methods_Chi.pdf</td>
-    <td class="tg-0pky">N.A.</td>
-    <td class="tg-0pky">N.A.</td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="3">Tier 2: Digital Government Services<br>第二级别: 数码政府服务<br>Peringkat 2: Perkhidmatan Digital Pemerintah<br>பிரிவு 2: மின்னிலக்க அரசாங்கச் சேவைகள்</td>
@@ -195,4 +195,3 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
 </table></div>
 
 <br>N.A.: Not applicable/ Not available
-
