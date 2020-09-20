@@ -35,7 +35,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
   </tr>
     <tr>
     <td class="tg-0pky">Email</td>
-      <td class="tg-0pky"><a href="/files/SGD Tipsheets/Email Account_English.pdf"> </a></td>
+      <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Email%20Account_English.pdf"> </a></td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Accounts_Chi.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Account-Malay.pdf</td>
     <td class="tg-0pky">/files/SGD%20Tipsheets/Email%20Account_Tamil.pdf</td>
