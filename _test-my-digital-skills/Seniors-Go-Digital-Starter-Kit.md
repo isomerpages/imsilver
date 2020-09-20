@@ -76,7 +76,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Zoom_Tamil.pdf"> </a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="3">Tier 2: Digital Government Services<br>第二级别: 数码政府服务<br>Peringkat 2: Perkhidmatan Digital Pemerintah<br>பிரிவு 2: மின்னிலக்க அரசாங்கச் சேவைகள்</td>
+    <td class="tg-0pky" rowspan="3"><b>Tier 2: Digital Government Services<br>第二级别: 数码政府服务<br>Peringkat 2: Perkhidmatan Digital Pemerintah<br>பிரிவு 2: மின்னிலக்க அரசாங்கச் சேவைகள்</b></td>
     <td class="tg-0pky">LifeSG</td>
     <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/LifeSG_Eng.pdf"> </a></td>
     <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/LifeSG_Chi.pdf"> </a></td>
@@ -98,7 +98,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky"></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="10">Tier 3: e-Payments and Digital Banking<br>第三级别: 电子付款与银行服务<br>Peringkat 3: e-Bayaran dan Perbankan<br>பிரிவு 3: மின்-கட்டணமுறைகள் மற்றும்வங்கிச்சேவ</td>
+    <td class="tg-0pky" rowspan="10"><b>Tier 3: e-Payments and Digital Banking<br>第三级别: 电子付款与银行服务<br>Peringkat 3: e-Bayaran dan Perbankan<br>பிரிவு 3: மின்-கட்டணமுறைகள் மற்றும்வங்கிச்சேவ</b></td>
     <td class="tg-0pky">DBS Digibank SG</td>
     <td class="tg-0pky"><a href="/files/SGD Tipsheets/DBS digibank_Eng.pdf"> </a></td>
     <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/DBS%20digibank_Chi.pdf"> </a></td>
@@ -169,7 +169,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky"><a href="/files/SGD Tipsheets/UOB Mighty_Tamil.pdf"> </a></td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="2">Cybersecurity Tips<br>网络安全贴士<br>Panduan Keselamatan Siber<br>இணையப் பாதுகாப்பு குறிப்புகள்<br></td>
+    <td class="tg-0pky" rowspan="2"><b>Cybersecurity Tips<br>网络安全贴士<br>Panduan Keselamatan Siber<br>இணையப் பாதுகாப்பு குறிப்புகள்</b><br></td>
     <td class="tg-0pky">How to Spot a Scam?</td>
     <td class="tg-0pky"></td>
     <td class="tg-0pky"></td>
@@ -184,7 +184,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Staying%20Safe%20Online_Tamil.pdf"> </a></td>
   </tr>
   <tr>
-    <td class="tg-0pky">Others</td>
+    <td class="tg-0pky"><b>Others</b></td>
     <td class="tg-0pky">Online Shopping and Food Delivery</td>
     <td class="tg-0pky"><a href="/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (English)_200320.pdf"> </a></td>
     <td class="tg-0pky"><a href="/files/DREK200320/DREK-T6-Online Shopping_Food Delivery (Chinese)_20032020.pdf"> </a></td>
