@@ -26,7 +26,7 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
     <td class="tg-0pky">தமிழ்</td>
   </tr>
   <tr>
-    <td class="tg-0pky" rowspan="7">Tier 1: Communication Skills<br>第一级别: 通讯技能Peringkat 1: Kemahiran Komunikasi<br>பிரிவு 1: ததொடர்புத் திறன்கள்<br></td>
+    <td class="tg-0pky" rowspan="7"><b>Tier 1: Communication Skills<br>第一级别: 通讯技能Peringkat 1: Kemahiran Komunikasi<br>பிரிவு 1: ததொடர்புத் திறன்கள்</b><br></td>
     <td class="tg-0pky">Chinese Inputs Method</td>
     <td class="tg-0pky">N.A.</td>
     <td class="tg-0pky"><a href="/files/SGD Tipsheets/Chinese Input Methods_Chi.pdf"> </a></td>
