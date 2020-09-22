@@ -92,10 +92,10 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
   </tr>
   <tr>
     <td class="tg-0pky">TraceTogether</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/TraceTogether_Eng.pdf"> </a></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/TraceTogether_Chi.pdf"> </a></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/TraceTogether_Malay.pdf"> </a></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/TraceTogether_Tamil.pdf"> </a></td>
   </tr>
   <tr>
     <td class="tg-0pky" rowspan="10"><b>Tier 3: e-Payments and Digital Banking<br>第三级别: 电子付款与银行服务<br>Peringkat 3: e-Bayaran dan Perbankan<br>பிரிவு 3: மின்-கட்டணமுறைகள் மற்றும்வங்கிச்சேவ</b></td>
@@ -171,10 +171,10 @@ Check out our Seniors Go Digital Starter Kit to learn useful tips on digital ski
   <tr>
     <td class="tg-0pky" rowspan="2"><b>Cybersecurity Tips<br>网络安全贴士<br>Panduan Keselamatan Siber<br>இணையப் பாதுகாப்பு குறிப்புகள்</b><br></td>
     <td class="tg-0pky">How to Spot a Scam?</td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
-    <td class="tg-0pky"></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Scam%20Infographic%20-%20English.pdf"> </a></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Scam%20Infographic%20-%20Chinese.pdf"> </a></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Scam%20Infographic%20-%20Malay.pdf"> </a></td>
+    <td class="tg-0pky"><a href="/files/SGD%20Tipsheets/Scam%20Infographic%20-%20Tamil.pdf"> </a></td>
   </tr>
   <tr>
     <td class="tg-0pky">Staying Safe Online</td>
