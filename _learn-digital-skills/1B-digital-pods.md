@@ -43,19 +43,6 @@ Heard about the CPF scheme that continues paying you monthly payouts even after 
   <td><b>Understanding how CPF savings are distributed upon demise and how to make a CPF nomination online</b><br>
 Find out what happens to your CPF savings when you pass on, and how you can make a CPF nomination online to determine how your CPF savings will be distributed.</td>
   </tr>
-  
-  <tr>
-  <td>8 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Learn how to use Zoom effectively (Part 1)</b><br>
-  Get started with Zoom to schedule your meetings and start catching up with friends and family! </td>
-<td rowspan="2" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Zoom<br><br><a href="https://form.gov.sg/5f15a03ac26b3700117420e6" target="_blank">Click to register</a></td>
-  </tr>
-
-  <tr>
-  <td>15 September 2020<br><br>3:00 - 3:30pm</td>
-  <td><b>Learn how to use Zoom effectively (Part 2)</b><br>
-  Level up by learning about the various controls and advanced features in Zoom!</td>
-  </tr>
 
 <tr>
   <td>22 September 2020<br><br>3:00 - 3:30pm</td>
@@ -132,6 +119,31 @@ Learn how to access your everyday banking through UOB Mighty and de-mystify fear
 </td>
   </tr>
 
+<tr>
+  <td>20 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Get more with Grab Rewards and other features</b><br>
+Find out how to secure your GrabPay account and discover additional features of the Grap app, such as Grab rewards, saved places, help centres and more!<br>
+  </td>
+<td rowspan="4" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: Grab<br><br><a href="https://form.gov.sg/5f62ed91bdbe5200113fbc71" target="_blank">Click to register</a></td>
+  </tr>
+  
+  <tr>
+  <td>27 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Dive Deeper to Travel Easy with Grab</b><br>
+Explore the different transport and payment options, and understand information on surge pricing. The session will also cover Grab Delivery - the service to send parcels to your friends, loved ones or business partners.</td>
+  </tr>
+  
+  <tr>
+  <td>3 November 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Dive Deeper to Order Easy with Grab</b><br>
+Get the best out of Grab Food and Grab Mart. In this session, learn to filter and search better in the Grab app so that you can get your food and groceries delivered without stepping out of your house!</td>
+  </tr>
+  
+  <tr>
+  <td>10 November 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Dive Deeper into Grab Pay</b><br>
+Manage your e-wallet by setting limits and learn features of Grab Pay such as transferring funds to your friend’s Grab account or bank account.</td>
+  </tr>
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
