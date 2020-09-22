@@ -144,6 +144,20 @@ Get the best out of Grab Food and Grab Mart. In this session, learn to filter an
   <td><b>Dive Deeper into Grab Pay</b><br>
 Manage your e-wallet by setting limits and learn features of Grab Pay such as transferring funds to your friend’s Grab account or bank account.</td>
   </tr>
+  
+  <tr>
+  <td>22 October 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Staying Safe With Digital Payments (Part 1)</b><br>
+Understanding how fraudsters operate and what they can do with your information will help consumers to be extra sensitive toward suspicious requests and transactions, thereby remaining vigilant and staying protected from scams.<br>
+  </td>
+<td rowspan="2" valign="middle">Conducted in: <b>English</b><br><br>Brought to you by: The Association of Banks in Singapore<br><br><a href="https://form.gov.sg/5f68752aa5e0f6001180493a" target="_blank">Click to register</a></td>
+  </tr>
+  
+  <tr>
+  <td>19 November 2020<br><br>3:00 - 3:30pm</td>
+  <td><b>Staying Safe With Digital Payments (Part 2)</b><br>
+With the advent and growth in choices for digital payments, while being savvy to leverage on the convenience that digital payments offer is important, especially during the COVID-19 pandemic, it is equally paramount that we practice safe online banking habits to be protected from scams.</td>
+  </tr>
 </table>
 
 *Digital Pods are conducted in English unless stated otherwise. For more information, please contact 6377 3800. Click <a href="https://imsilver.imda.gov.sg/seniors-go-digital/" target="_blank">here</a> to return to the Seniors Go Digital page.
