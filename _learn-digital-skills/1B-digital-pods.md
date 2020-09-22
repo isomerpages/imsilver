@@ -71,7 +71,7 @@ Get tips on how to create a good listing and explore other functions to promote 
   </tr>
   
   <tr>
-  <td>8 October2020<br><br>3:00 - 3:30pm</td>
+  <td>8 October 2020<br><br>3:00 - 3:30pm</td>
   <td><b>Stay safe and connected with OCBC Digital Banking at your fingertips</b><br>
  Discover how you can gain access to banking services 24/7 at the ease of your convenience with the ability to check your account balance, view card spend and manage fund transfers. 
   </td>
