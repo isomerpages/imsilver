@@ -26,6 +26,8 @@ Click below to view online guides that will teach you how to perform digital tra
 * <a href="https://www.posb.com.sg/personal/support/guide-ibanking.html" target="_blank">POSB Internet Banking</a><br>
 * <a href="https://www.posb.com.sg/personal/deposits/pay-with-ease/paynow" target="_blank">POSB PayNow</a><br>
 * <a href="https://www.dbs.com.sg/personal/support/guide-ibanking.html" target="_blank">DBS Internet Banking</a><br>
+* <a href="https://www.dbs.com.sg/personal/deposits/bank-with-ease/digibanking" target="_blank">DBS Digibanking</a><br>
+* <a href="https://www.dbs.com.sg/ibanking/video/transactions/index.html" target="_blank">DBS Digibanking Tutorial Videos</a><br>
 * <a href="https://www.dbs.com.sg/personal/support/guide-paylah.html" target="_blank">DBS PayLah!</a><br>
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20PayLah!_Eng.pdf" target="_blank">Starter Kit on DBS PayLah!</a><br>
 * <a href="https://imsilver.imda.gov.sg/files/SGD%20Tipsheets/DBS%20digibank_Eng.pdf" target="_blank">Starter Kit on DBS digibank SG App</a><br>
