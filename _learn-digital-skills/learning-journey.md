@@ -62,20 +62,43 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-<div class="tg-wrap"><table class="tg">
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Location</th>
+    <th class="tg-0pky">Date &amp; Timing</th>
+  </tr>
+</thead>
 <tbody>
   <tr>
-    <td class="tg-l2bf">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-l2bf">West Coast Community Centre</td>
+    <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
+    <td class="tg-0pky">16 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-tsok">04 September 2020 (Friday)<br>10am – 6pm<br>(Various time slots are available for registration)<br> <br><span style="font-style:italic">For registration, please head to </span><span style="font-weight:bold;font-style:italic">SDO Connect @ Kampong Chai Chee CC</span><span style="font-style:italic"> by 01 September 2020.</span></td>
-    <td class="tg-tsok">05 September 2020 (Saturday)<br>10am – 6pm<br>(Various time slots are available for registration)<br> <br><span style="font-style:italic">For registration, please head to </span><span style="font-weight:bold;font-style:italic">SDO Connect @ West Coast CC </span><span style="font-style:italic">by 02 September 2020.</span></td>
+    <td class="tg-0pky">Yuhua Community Club</td>
+    <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
+    <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
+    <td class="tg-0pky">18 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
 </tbody>
-</table></div>
+</table>
 
 _*Limited slots available on a first-come, first-served basis._
+Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register.
 
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
