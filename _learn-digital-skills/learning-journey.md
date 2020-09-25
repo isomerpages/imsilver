@@ -97,7 +97,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 </tbody>
 </table>
 
-_*Limited slots available on a first-come, first-served basis._
+_*Limited slots available on a first-come, first-served basis._<br>
 Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register.
 
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
