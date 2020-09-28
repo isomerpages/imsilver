@@ -83,6 +83,10 @@ Make connections that matter when you Go Digital! Here are some online resources
      <td><a href="https://www.mewatch.sg/en/series/learn-together-with-me-s3-3/ep1/954326" target="_blank">Learn Together With Me S3 / 乐学每疫刻 3</a></td>
   <td>Mediacorp</td>
 </tr>
+   <tr>
+     <td><a href="https://www.zaobao.com.sg/keywords/attendtion-series" target="_blank">Attend-tion! On Smartphone/有课到手机</a></td>
+  <td>Mediacorp</td>
+</tr>
   <tr>
   <td><a href="https://www.youtube.com/channel/UClXGrvxGnzV1pprhEpE10NA" target="_blank">A Librarian's World</a></td>
   <td>National Library Board</td>
