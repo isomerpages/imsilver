@@ -86,6 +86,10 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
     <td class="tg-0pky">Yuhua Community Club</td>
     <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
+   <tr>
+    <td class="tg-0pky">Toa Payoh West Community Club</td>
+    <td class="tg-0pky">30 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
     <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
@@ -98,7 +102,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 </table>
 
 _*Limited slots available on a first-come, first-served basis._<br>
-Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register.
+_Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register._
 
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
@@ -127,14 +131,10 @@ sesi berikut:<br>
 பின்வரும் அங்கங்களில் ஒன்றில் பேரங்காடி கற்றல் பயணத்தில் உங்களை அழைத்துச்செல்ல ஆவலாக
 இருக்கிறோம்:<br>
 
-1)      6 Oct Tues, FairPrice Finest Punggol Waterway Point<br>
-2)      7 Oct Wed, VivoCity FairPrice Xtra<br>
-3)      13 Oct Tues, FairPrice Xtra – Hyper JEM<br>
-4)      14 Oct Wed,  Jurong Point FairPrice<br>
-5)      20 Oct Tues, FairPrice Hougang Lifestyle Mall<br>
-6)      21 Oct Wed, FairPrice Yew Tee Point<br>
-7)      27 Oct Tues, FairPrice Clementi A<br>
-8)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
+1)      13 Oct Tues, FairPrice Xtra – Hyper JEM<br>
+2)      20 Oct Tues, FairPrice Hougang Lifestyle Mall<br>
+3)      27 Oct Tues, FairPrice Clementi A<br>
+4)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
 
 To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 若您有兴趣参加超市学习之旅，请上网go.gov.sg/lj-interest填写表格，我们会尽快与您联系。由于每趟学习之旅的名额有限，我们将采取先到先得的方式进行报名。<br>
