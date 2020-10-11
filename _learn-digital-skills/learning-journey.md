@@ -88,7 +88,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
   </tr>
    <tr>
     <td class="tg-0pky">Toa Payoh West Community Club</td>
-    <td class="tg-0pky">30 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
