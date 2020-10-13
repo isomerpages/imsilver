@@ -90,6 +90,10 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
     <td class="tg-0pky">Toa Payoh West Community Club</td>
     <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
+    <tr>
+    <td class="tg-0pky">Bukit Batok Community Club</td>
+    <td class="tg-0pky">06 November 2020 (Friday)<br>10am – 4pm<br>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</td>
+  </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
     <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
@@ -102,7 +106,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 </table>
 
 _*Limited slots available on a first-come, first-served basis._<br>
-_Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register._
+_Pre-registration is required. Please visit the nearest SDO Community Hub near you to pre-register._
 
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
