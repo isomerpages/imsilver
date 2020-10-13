@@ -62,6 +62,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 .tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
 .tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
 @media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
+
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
@@ -70,6 +71,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
 </style>
+
 <table class="tg">
 <thead>
   <tr>
@@ -80,29 +82,65 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 <tbody>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">16 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">16 October 2020 (Friday)<br>9am – 3pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Yuhua Community Club</td>
-    <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
    <tr>
     <td class="tg-0pky">Toa Payoh West Community Club</td>
-    <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Bukit Batok Community Club</td>
+    <td class="tg-0pky">06 November 2020 (Friday)<br>10am – 4pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Zhenghua Community Club</td>
+    <td class="tg-0pky">07 November 2020 (Saturday)<br>9am – 3pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">Changi Simei Community Club</td>
+    <td class="tg-0pky">10 November 2020 (Tuesday)<br>10am – 4pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">Punggol 21 Community Club</td>
+    <td class="tg-0pky">13 November 2020 (Friday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Punggol 21 Community Club</td>
+    <td class="tg-0pky">11 December 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">18 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">18 December 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Punggol 21 Community Club</td>
+    <td class="tg-0pky">08 January 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky"><i>*Limited slots available on a first-come, first-served basis.<br>
+    Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register.</i></td>
   </tr>
 </tbody>
 </table>
-
-_*Limited slots available on a first-come, first-served basis._<br>
-_Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register._
 
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
@@ -136,9 +174,9 @@ sesi berikut:<br>
 3)      27 Oct Tues, FairPrice Clementi A<br>
 4)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
 
-To indicate interest, please fill up the form <a href="https://www.go.gov.sg/lj-interest" target="_blank">here</a> and we’d reach out to you shortly to proceed with registration. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
-若您有兴趣参加超市学习之旅，请上网go.gov.sg/lj-interest填写表格，我们会尽快与您联系。由于每趟学习之旅的名额有限，我们将采取先到先得的方式进行报名。<br>
-Untuk menunjukkan minat, isi borang di go.gov.sg/lj-interest dan kami akan menghubungi anda sebentar lagi untuk meneruskan pendaftaran. Oleh kerana slot yang disediakan terhad untuk setiap sesi, perhatikan bahawa pendaftaran akan dibuat berdasarkan urutan pertama, dilayan dahulu.<br>
-உங்கள் ஆர்வத்தைத் தெரியப்படுத்த, தயவுசெய்து go.gov.sg/lj-interest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். நாங்கள் விரைவில் உங்களுடன் தொடர்புகொண்டு பதிவு செய்வோம். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முதல் முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள்.<br>
+Click <a href="https://www.go.gov.sg/sljregistration" target="_blank">here</a> to register. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
+请点击<a href="https://www.go.gov.sg/sljregistration" target="_blank">这里</a>报名。由于每趟学习之旅的名额有限，我们将采取先到先得的报名方式，额满即止。<br>
+Klik di <a href="https://www.go.gov.sg/sljregistration" target="_blank">sini</a> untuk mendaftar. Oleh kerana slot tersedia untuk setiap sesi terhad, harap dapat perhatian bahawa pendaftaran akan dibuat berdasarkan siapa yang dahulu didahulukan.<br>
+பதிவு செய்ய <a href="https://www.go.gov.sg/sljregistration" target="_blank">இங்கே</a> க்ளிக் செய்யுங்கள். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள். <br>
 
 Click <a href="https://www.imda.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
