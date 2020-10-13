@@ -99,8 +99,8 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
       <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
   </tr>
     <tr>
-    <td class="tg-0pky">Bukit Batok Community Club</td>
-    <td class="tg-0pky">06 November 2020 (Friday)<br>9am – 3pm<br>
+    <td class="tg-0pky">Zhenghua Community Club</td>
+    <td class="tg-0pky">07 November 2020 (Saturday)<br>9am – 3pm<br>
       <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
    <tr>
