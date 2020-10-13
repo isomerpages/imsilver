@@ -80,43 +80,53 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 <tbody>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">16 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">16 October 2020 (Friday)<br>9am – 3pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Yuhua Community Club</td>
-    <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
    <tr>
     <td class="tg-0pky">Toa Payoh West Community Club</td>
-    <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
     <tr>
     <td class="tg-0pky">Bukit Batok Community Club</td>
-    <td class="tg-0pky">06 November 2020 (Friday)<br>10am – 4pm<br>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</td>
+    <td class="tg-0pky">06 November 2020 (Friday)<br>10am – 4pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
   </tr>
    <tr>
     <td class="tg-0pky">Changi Simei Community Club</td>
-    <td class="tg-0pky">10 November 2020 (Tuesday)<br>10am – 4pm<br>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</td>
+    <td class="tg-0pky">10 November 2020 (Tuesday)<br>10am – 4pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
   </tr>
    <tr>
     <td class="tg-0pky">Punggol21 Community Club</td>
-    <td class="tg-0pky">13 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">13 November 2020 (Friday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Punggol21 Community Club</td>
-    <td class="tg-0pky">11 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">11 December 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">18 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">18 December 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky">Punggol21 Community Club</td>
-    <td class="tg-0pky">08 January 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+    <td class="tg-0pky">08 January 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
     <td class="tg-0pky"<i>*Limited slots available on a first-come, first-served basis.<br>
