@@ -225,6 +225,7 @@ sesi berikut:<br>
 16)   FairPrice Finest Bedok Mall, 16 March 2021 (Tuesday)<br>
 17)   FairPrice E!Hub @ Downtown East, 31 March 2021 (Wednesday)<br>
 
+<br><br>
 <i>*Pre-registration is required. Limited slots available on a first-come, first-served basis.<br>
   (Seniors may choose your preferred<br>timeslot available between 2pm-5pm).</i>
     </i><br><br>
