@@ -171,7 +171,7 @@ To indicate interest for future sessions at other locations, please fill up the 
 Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
 எதிர்காலத்தில் மற்ற இடங்களில் நடத்தப்படவிருக்கும் அங்கங்களில் கலந்துகொள்ள உங்களுக்கு ஆர்வமிருந்தால்,
 go.gov.sg/eljinterest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். அங்கங்கள் எதிர்வரும்போது
-எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br>
+எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br><br>
 
 <h4>Supermarket Learning Journey</h4>
 
