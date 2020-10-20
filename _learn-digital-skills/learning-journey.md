@@ -51,7 +51,7 @@ anda dengan segera!<br>
 We would like to invite you to sign up for our upcoming sessions*:<br>
 我们诚邀您报名参加即将到来的学习之旅*:<br>
 Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
-எதிர்வரும் அங்கங்களுக்குப் பதிவு செய்ய உங்களை அழைக்கிறோம்*:<br>
+எதிர்வரும் அங்கங்களுக்குப் பதிவு செய்ய உங்களை அழைக்கிறோம்*:<br><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -191,7 +191,7 @@ We’re excited to have you with us on a Supermarket Learning Journey at one of 
 Kami sangat gembira dapat bersama anda dalam Perjalanan Pembelajaran Pasaraya di salah satu
 sesi berikut:<br>
 பின்வரும் அங்கங்களில் ஒன்றில் பேரங்காடி கற்றல் பயணத்தில் உங்களை அழைத்துச்செல்ல ஆவலாக
-இருக்கிறோம்
+இருக்கிறோம்:<br>
 
 <br>
 <b><u>October 2020</u></b><br>
