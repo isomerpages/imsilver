@@ -203,7 +203,7 @@ sesi berikut:<br>
 <tbody>
     <tr>
     <td class="tg-0pky">FairPrice Clementi A</td>
-      <td class="tg-0pky">27 October 2020 (Tuesday)</td>
+      <td class="tg-0pky">27 October 2020 (Tuesday)</td> 
   </tr>
   <tr>
     <td class="tg-0pky">FairPrice Finest Bedok Mall</td>
