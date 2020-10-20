@@ -245,7 +245,35 @@ sesi berikut:<br>
     <td class="tg-0pky">FairPrice Clementi A</td>
     <td class="tg-0pky">24 February 2021 (Wednesday)</td>
   </tr>
-  
+  <tr>
+    <td class="tg-0pky">FairPrice Hougang Mall</td>
+    <td class="tg-0pky">02 March 2021 (Tuesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice Xtra - Hyper JEM</td>
+    <td class="tg-0pky">03 March 2021 (Wednesday)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FairPrice Toa Payoh HDB Hub</td>
+    <td class="tg-0pky">09 March 2021 (Tuesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice Clementi A</td>
+    <td class="tg-0pky">10 March 2021 (Wednesday)</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">FairPrice Finest Bedok Mall</td>
+    <td class="tg-0pky">16 March 2021 (Tuesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice E!Hub @ Downtown East</td>
+    <td class="tg-0pky">31 March 2021 (Wednesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky"><i>*Pre-registration is required. Limited slots available on a first-come, first-served basis.<br>
+      <i>(Seniors may choose your preferred<br>timeslot available between 2pm-5pm).</i>
+    </i></td>
+  </tr>
 </tbody>
 </table>
 
