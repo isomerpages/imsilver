@@ -193,12 +193,61 @@ sesi berikut:<br>
 பின்வரும் அங்கங்களில் ஒன்றில் பேரங்காடி கற்றல் பயணத்தில் உங்களை அழைத்துச்செல்ல ஆவலாக
 இருக்கிறோம்:<br>
 
-1)      27 Oct Tues, FairPrice Clementi A<br>
-2)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
-3)      27 Oct Tues, FairPrice Clementi A<br>
-4)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
-5)      27 Oct Tues, FairPrice Clementi A<br>
-6)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-0pky">Location</th>
+    <th class="tg-0pky">Date</th>
+  </tr>
+</thead>
+<tbody>
+    <tr>
+    <td class="tg-0pky">FairPrice Clementi A</td>
+      <td class="tg-0pky">27 October 2020 (Tuesday)</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">FairPrice Finest Bedok Mall</td>
+    <td class="tg-0pky">28 October 2020 (Wednesday)</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">FairPrice Finest Bedok Mall</td>
+    <td class="tg-0pky">03 November 2020 (Tuesday)</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">FairPrice Hougang Mall</td>
+    <td class="tg-0pky">10 November 2020 (Tuesday)</td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">FairPrice Toa Payoh HDB Hub</td>
+    <td class="tg-0pky">24 November 2020 (Tuesday)</td>
+  </tr>
+      <tr>
+    <td class="tg-0pky">FairPrice Clementi A</td>
+    <td class="tg-0pky">25 November 2020 (Wednesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice Hougang Mall</td>
+    <td class="tg-0pky">05 January 2021 (Tuesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice Xtra - Hyper JEM</td>
+    <td class="tg-0pky">06 January 2021 (Wednesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice Clementi A</td>
+    <td class="tg-0pky">19 January 2021 (Tuesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice E!Hub @ Downtown East</td>
+    <td class="tg-0pky">23 February 2021 (Tuesday)</td>
+  </tr>
+   <tr>
+    <td class="tg-0pky">FairPrice Clementi A</td>
+    <td class="tg-0pky">24 February 2021 (Wednesday)</td>
+  </tr>
+  
+</tbody>
+</table>
 
 Click <a href="https://www.go.gov.sg/sljregistration" target="_blank">here</a> to register. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 请点击<a href="https://www.go.gov.sg/sljregistration" target="_blank">这里</a>报名。由于每趟学习之旅的名额有限，我们将采取先到先得的报名方式，额满即止。<br>
