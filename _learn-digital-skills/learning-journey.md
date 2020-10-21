@@ -226,10 +226,9 @@ sesi berikut:<br>
 16)   FairPrice Finest Bedok Mall, 16 March 2021 (Tuesday)<br>
 17)   FairPrice E!Hub @ Downtown East, 31 March 2021 (Wednesday)<br>
 
-<br><br>
+<br>
 <i>*Pre-registration is required. Limited slots available on a first-come, first-served basis.<br>
-  (Seniors may choose your preferred<br>timeslot available between 2pm-5pm).</i>
-    </i><br><br>
+  (Seniors may choose your preferred<br>timeslot available between 2pm-5pm).</i><br>
 
 Click <a href="https://www.go.gov.sg/sljregistration" target="_blank">here</a> to register. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 请点击<a href="https://www.go.gov.sg/sljregistration" target="_blank">这里</a>报名。由于每趟学习之旅的名额有限，我们将采取先到先得的报名方式，额满即止。<br>
