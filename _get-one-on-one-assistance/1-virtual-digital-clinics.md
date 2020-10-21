@@ -53,31 +53,38 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
 <table>
   <tr>
     <th>Date and Time</th>
+    <th>Languages Offered</th>
     <th>Availability</th>
   </tr>
    <tr>
-   <td>23 Oct 2020<br>2:00pm - 5:00pm </td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
-  </tr>
-   <tr>
-   <td>30 Oct 2020<br>2:00pm - 5:00pm </td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+     <td>23 Oct 2020<br>2:00pm - 5:00pm </td>
+     <td>English, Chinese, Malay</td>
+     <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
   <tr>
-   <td>06 Nov 2020<br>2:00pm - 5:00pm </td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+     <td>30 Oct 2020<br>2:00pm - 5:00pm </td>
+     <td>English, Chinese, Malay</td>
+     <td>Sessions are available for registration on a first-come, first-served basis.</td>
+  </tr>
+    <tr>
+     <td>06 Nov 2020<br>2:00pm - 5:00pm </td>
+     <td>English, Chinese</td>
+     <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
   <tr>
-   <td>13 Nov 2020<br>2:00pm - 5:00pm </td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+     <td>13 Nov 2020<br>2:00pm - 5:00pm </td>
+     <td>English, Chinese</td>
+     <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
   <tr>
-   <td>20 Nov 2020<br>2:00pm - 5:00pm </td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+     <td>20 Nov 2020<br>2:00pm - 5:00pm </td>
+     <td>English, Chinese</td>
+     <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
   <tr>
-   <td>27 Nov 2020<br>2:00pm - 5:00pm </td>
-  <td>Sessions are available for registration on a first-come, first-served basis.</td>
+     <td>27 Nov 2020<br>2:00pm - 5:00pm </td>
+     <td>English, Chinese</td>
+     <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
 </table>
 
