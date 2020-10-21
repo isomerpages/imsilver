@@ -166,6 +166,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 </tbody>
 </table>
 
+<br>
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
 Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
@@ -194,30 +195,30 @@ sesi berikut:<br>
 இருக்கிறோம்:<br>
 
 <br>
-<b><u>October 2020</u></b><br>
+<b>October 2020</b><br>
 1)    FairPrice Clementi A, 27 October 2020 (Tuesday)<br>
 2)    FairPrice Finest Bedok Mall, 28 October 2020 (Wednesday)<br>
 
 <br>
-<b><u>November 2020</u></b><br>
+<b>November 2020</b><br>
 3)    FairPrice Finest Bedok Mall, 03 November 2020 (Tuesday)<br>
 4)    FairPrice Hougang Mall, 10 November 2020 (Tuesday)<br>
 5)    FairPrice Toa Payoh HDB Hub, 24 November 2020 (Tuesday)<br>
 6)    FairPrice Clementi A, 25 November 2020 (Wednesday)<br>
 
 <br>
-<b><u>January 2021</u></b><br>
+<b>January 2021</b><br>
 7)    FairPrice Hougang Mall, 05 January 2021 (Tuesday)<br>
 8)    FairPrice Xtra - Hyper JEM, 06 January 2021 (Wednesday)<br>
 9)    FairPrice Clementi A, 19 January 2021 (Tuesday)<br>
 
 <br>
-<b><u>February 2021</u></b><br>
+<b>February 2021</b><br>
 10)   FairPrice E!Hub @ Downtown East, 23 February 2021 (Tuesday)<br>
 11)   FairPrice Clementi A, 24 February 2021 (Wednesday)<br>
 
 <br>
-<b><u>March 2021</u></b><br>
+<b>March 2021</b><br>
 12)   FairPrice Hougang Mall, 02 March 2021 (Tuesday)<br>
 13)   FairPrice Xtra - Hyper JEM, 03 March 2021 (Wednesday)<br>
 14)   FairPrice Toa Payoh HDB Hub, 09 March 2021 (Tuesday)<br>
@@ -225,14 +226,13 @@ sesi berikut:<br>
 16)   FairPrice Finest Bedok Mall, 16 March 2021 (Tuesday)<br>
 17)   FairPrice E!Hub @ Downtown East, 31 March 2021 (Wednesday)<br>
 
-<br><br>
+<br>
 <i>*Pre-registration is required. Limited slots available on a first-come, first-served basis.<br>
-  (Seniors may choose your preferred<br>timeslot available between 2pm-5pm).</i>
-    </i><br><br>
+  (Seniors may choose your preferred timeslot available between 2pm-5pm).</i><br><br>
 
 Click <a href="https://www.go.gov.sg/sljregistration" target="_blank">here</a> to register. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 请点击<a href="https://www.go.gov.sg/sljregistration" target="_blank">这里</a>报名。由于每趟学习之旅的名额有限，我们将采取先到先得的报名方式，额满即止。<br>
 Klik di <a href="https://www.go.gov.sg/sljregistration" target="_blank">sini</a> untuk mendaftar. Oleh kerana slot tersedia untuk setiap sesi terhad, harap dapat perhatian bahawa pendaftaran akan dibuat berdasarkan siapa yang dahulu didahulukan.<br>
-பதிவு செய்ய <a href="https://www.go.gov.sg/sljregistration" target="_blank">இங்கே</a> க்ளிக் செய்யுங்கள். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள். <br>
+பதிவு செய்ய <a href="https://www.go.gov.sg/sljregistration" target="_blank">இங்கே</a> க்ளிக் செய்யுங்கள். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள். <br><br>
 
 Click <a href="https://www.imda.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
