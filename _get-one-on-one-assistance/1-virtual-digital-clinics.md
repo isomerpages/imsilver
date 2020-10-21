@@ -80,7 +80,6 @@ Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@i
   <td>Sessions are available for registration on a first-come, first-served basis.</td>
   </tr>
 </table>
-<br>
 
 Click <a href="https://www.imda.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
 
