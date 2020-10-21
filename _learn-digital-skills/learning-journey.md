@@ -51,128 +51,104 @@ anda dengan segera!<br>
 We would like to invite you to sign up for our upcoming sessions*:<br>
 我们诚邀您报名参加即将到来的学习之旅*:<br>
 Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
-எதிர்வரும் அங்கங்களுக்குப் பதிவு செய்ய உங்களை அழைக்கிறோம்*:<br><br>
-
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-l2bf{background-color:#FFF;color:#222;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-tsok{background-color:#FFF;color:#222;text-align:left;vertical-align:top}
-@media screen and (max-width: 767px) {.tg {width: auto !important;}.tg col {width: auto !important;}.tg-wrap {overflow-x: auto;-webkit-overflow-scrolling: touch;}}</style>
-
+எதிர்வரும் அங்கங்களுக்குப் பதிவு செய்ய உங்களை அழைக்கிறோம்*:
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
   font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+.tg .tg-4e34{background-color:#FFF;border-color:inherit;color:#24292E;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-hcrr{background-color:#FFF;color:#24292E;font-style:italic;text-align:left;vertical-align:top}
+.tg .tg-q7lb{background-color:#FFF;border-color:inherit;color:#24292E;text-align:left;vertical-align:middle}
+.tg .tg-ql4m{background-color:#FFF;color:#24292E;text-align:left;vertical-align:middle}
+.tg .tg-0lax{text-align:left;vertical-align:top}
 </style>
-
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-0pky">Location</th>
-    <th class="tg-0pky">Date &amp; Timing</th>
+    <th class="tg-4e34"><span style="font-weight:600">Location</span></th>
+    <th class="tg-4e34"><span style="font-weight:600">Date &amp; Timing</span></th>
   </tr>
 </thead>
 <tbody>
-    <tr>
-    <td class="tg-0pky">Bukit Batok Community Club</td>
-    <td class="tg-0pky">06 November 2020 (Friday)<br>10am – 4pm<br>
-      <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
-  </tr>
-    <tr>
-    <td class="tg-0pky">Zhenghua Community Club</td>
-    <td class="tg-0pky">07 November 2020 (Saturday)<br>9am – 3pm<br>
-      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   <tr>
-    <td class="tg-0pky">Anchorvale Community Club</td>
-    <td class="tg-0pky">08 November 2020 (Sunday)<br>9am – 3pm<br>
-      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
-  </tr>
-   <tr>
-    <td class="tg-0pky">Changi Simei Community Club</td>
-    <td class="tg-0pky">10 November 2020 (Tuesday)<br>10am – 4pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
+    <td class="tg-q7lb">Bukit Batok Community Club</td>
+    <td class="tg-q7lb">06 November 2020 (Friday)<br>10am – 4pm<br>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ci Yuan Community Club</td>
-    <td class="tg-0pky">11 November 2020 (Wednesday)<br>9am – 3pm<br>
-      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-q7lb">Zhenghua Community Club</td>
+    <td class="tg-q7lb">07 November 2020 (Saturday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Ci Yuan Community Club</td>
-    <td class="tg-0pky">12 November 2020 (Thursday)<br>9am – 3pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
-  </tr>
-   <tr>
-    <td class="tg-0pky">Punggol 21 Community Club</td>
-    <td class="tg-0pky">13 November 2020 (Friday)<br>9am – 3pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
-  </tr>
-     <tr>
-    <td class="tg-0pky">Pasir Ris East Community Club</td>
-    <td class="tg-0pky">18 November 2020 (Wednesday)<br>9am – 3pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-q7lb">Anchorvale Community Club</td>
+    <td class="tg-q7lb">08 November 2020 (Sunday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">20 November 2020 (Friday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-q7lb">Changi Simei Community Club</td>
+    <td class="tg-q7lb">10 November 2020 (Tuesday)<br>10am – 4pm<br>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Keat Hong Community Club</td>
-    <td class="tg-0pky">28 November 2020 (Saturday)<br>10am – 4pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
-  </tr>
-    <tr>
-    <td class="tg-0pky">Toa Payoh West Community Club</td>
-    <td class="tg-0pky">28 November 2020 (Saturday)<br>9am – 3pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-ql4m">Ci Yuan Community Club</td>
+    <td class="tg-ql4m">11 November 2020 (Wednesday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Punggol 21 Community Club</td>
-    <td class="tg-0pky">11 December 2020 (Friday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-ql4m">Ci Yuan Community Club</td>
+    <td class="tg-ql4m">12 November 2020 (Thursday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pasir Ris East Community Club</td>
-    <td class="tg-0pky">16 December 2020 (Wednesday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-ql4m">Punggol 21 Community Club</td>
+    <td class="tg-ql4m">13 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">18 December 2020 (Friday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-ql4m">Pasir Ris East Community Club</td>
+    <td class="tg-ql4m">18 November 2020 (Wednesday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Punggol 21 Community Club</td>
-    <td class="tg-0pky">08 January 2021 (Friday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-ql4m">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
+    <td class="tg-ql4m">20 November 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Pasir Ris Community Club</td>
-    <td class="tg-0pky">20 January 2021 (Wednesday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+    <td class="tg-ql4m">Keat Hong Community Club</td>
+    <td class="tg-ql4m">28 November 2020 (Saturday)<br>10am – 4pm<br>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</td>
   </tr>
   <tr>
-    <td class="tg-0pky"><i>*Limited slots available on a first-come, first-served basis.<br>
-    Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register.</i></td>
+    <td class="tg-ql4m">Toa Payoh West Community Club</td>
+    <td class="tg-ql4m">28 November 2020 (Saturday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-ql4m">Punggol 21 Community Club</td>
+    <td class="tg-ql4m">11 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-ql4m">Pasir Ris East Community Club</td>
+    <td class="tg-ql4m">16 December 2020 (Wednesday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-ql4m">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
+    <td class="tg-ql4m">18 December 2020 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-ql4m">Punggol 21 Community Club</td>
+    <td class="tg-ql4m">08 January 2021 (Friday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-ql4m">Pasir Ris Community Club</td>
+    <td class="tg-ql4m">20 January 2021 (Wednesday)<br>9am – 3pm<br>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</td>
+  </tr>
+  <tr>
+    <td class="tg-hcrr">*Limited slots available on a first-come, first-served basis.<br>Pre-registration is required. Please visit the nearest SDO Community Hub to pre-register.</td>
+    <td class="tg-0lax"></td>
   </tr>
 </tbody>
 </table>
 
-<br>
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
 Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
 எதிர்காலத்தில் மற்ற இடங்களில் நடத்தப்படவிருக்கும் அங்கங்களில் கலந்துகொள்ள உங்களுக்கு ஆர்வமிருந்தால்,
 go.gov.sg/eljinterest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். அங்கங்கள் எதிர்வரும்போது
-எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br><br>
+எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br>
 
 <h4>Supermarket Learning Journey</h4>
 
