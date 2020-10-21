@@ -51,7 +51,7 @@ anda dengan segera!<br>
 We would like to invite you to sign up for our upcoming sessions*:<br>
 我们诚邀您报名参加即将到来的学习之旅*:<br>
 Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
-எதிர்வரும் அங்கங்களுக்குப் பதிவு செய்ய உங்களை அழைக்கிறோம்*:<br>
+எதிர்வரும் அங்கங்களுக்குப் பதிவு செய்ய உங்களை அழைக்கிறோம்*:<br><br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -80,21 +80,6 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td class="tg-0pky">Kampong Chai Chee Community Centre (Heartbeat@Bedok)</td>
-    <td class="tg-0pky">16 October 2020 (Friday)<br>9am – 3pm<br>
-      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
-  </tr>
-  <tr>
-    <td class="tg-0pky">Yuhua Community Club</td>
-    <td class="tg-0pky">17 October 2020 (Saturday)<br>9am – 3pm<br>
-    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
-  </tr>
-   <tr>
-    <td class="tg-0pky">Toa Payoh West Community Club</td>
-    <td class="tg-0pky">30 October 2020 (Friday)<br>9am – 3pm<br>
-     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
-  </tr>
     <tr>
     <td class="tg-0pky">Bukit Batok Community Club</td>
     <td class="tg-0pky">06 November 2020 (Friday)<br>10am – 4pm<br>
@@ -104,15 +89,34 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
     <td class="tg-0pky">Zhenghua Community Club</td>
     <td class="tg-0pky">07 November 2020 (Saturday)<br>9am – 3pm<br>
       <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  <tr>
+    <td class="tg-0pky">Anchorvale Community Club</td>
+    <td class="tg-0pky">08 November 2020 (Sunday)<br>9am – 3pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
    <tr>
     <td class="tg-0pky">Changi Simei Community Club</td>
     <td class="tg-0pky">10 November 2020 (Tuesday)<br>10am – 4pm<br>
      <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
   </tr>
+  <tr>
+    <td class="tg-0pky">Ci Yuan Community Club</td>
+    <td class="tg-0pky">11 November 2020 (Wednesday)<br>9am – 3pm<br>
+      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Ci Yuan Community Club</td>
+    <td class="tg-0pky">12 November 2020 (Thursday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
    <tr>
     <td class="tg-0pky">Punggol 21 Community Club</td>
     <td class="tg-0pky">13 November 2020 (Friday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+     <tr>
+    <td class="tg-0pky">Pasir Ris East Community Club</td>
+    <td class="tg-0pky">18 November 2020 (Wednesday)<br>9am – 3pm<br>
      <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
@@ -121,8 +125,23 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
+    <td class="tg-0pky">Keat Hong Community Club</td>
+    <td class="tg-0pky">28 November 2020 (Saturday)<br>10am – 4pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 10am-4pm).</i></td>
+  </tr>
+    <tr>
+    <td class="tg-0pky">Toa Payoh West Community Club</td>
+    <td class="tg-0pky">28 November 2020 (Saturday)<br>9am – 3pm<br>
+     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
     <td class="tg-0pky">Punggol 21 Community Club</td>
     <td class="tg-0pky">11 December 2020 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pasir Ris East Community Club</td>
+    <td class="tg-0pky">16 December 2020 (Wednesday)<br>9am – 3pm<br>
     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
@@ -132,7 +151,12 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
   </tr>
   <tr>
     <td class="tg-0pky">Punggol 21 Community Club</td>
-    <td class="tg-0pky">08 January 2020 (Friday)<br>9am – 3pm<br>
+    <td class="tg-0pky">08 January 2021 (Friday)<br>9am – 3pm<br>
+    <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Pasir Ris Community Club</td>
+    <td class="tg-0pky">20 January 2021 (Wednesday)<br>9am – 3pm<br>
     <i>(Senior may choose your preferred<br>timeslot available between 9am-3pm).</i></td>
   </tr>
   <tr>
@@ -147,7 +171,7 @@ To indicate interest for future sessions at other locations, please fill up the 
 Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
 எதிர்காலத்தில் மற்ற இடங்களில் நடத்தப்படவிருக்கும் அங்கங்களில் கலந்துகொள்ள உங்களுக்கு ஆர்வமிருந்தால்,
 go.gov.sg/eljinterest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். அங்கங்கள் எதிர்வரும்போது
-எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br>
+எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br><br>
 
 <h4>Supermarket Learning Journey</h4>
 
@@ -169,10 +193,42 @@ sesi berikut:<br>
 பின்வரும் அங்கங்களில் ஒன்றில் பேரங்காடி கற்றல் பயணத்தில் உங்களை அழைத்துச்செல்ல ஆவலாக
 இருக்கிறோம்:<br>
 
-1)      13 Oct Tues, FairPrice Xtra – Hyper JEM<br>
-2)      20 Oct Tues, FairPrice Hougang Lifestyle Mall<br>
-3)      27 Oct Tues, FairPrice Clementi A<br>
-4)      28 Oct Wed, FairPrice Finest Bedok Mall<br>
+<br>
+<b><u>October 2020</u></b><br>
+1)    FairPrice Clementi A, 27 October 2020 (Tuesday)<br>
+2)    FairPrice Finest Bedok Mall, 28 October 2020 (Wednesday)<br>
+
+<br>
+<b><u>November 2020</u></b><br>
+3)    FairPrice Finest Bedok Mall, 03 November 2020 (Tuesday)<br>
+4)    FairPrice Hougang Mall, 10 November 2020 (Tuesday)<br>
+5)    FairPrice Toa Payoh HDB Hub, 24 November 2020 (Tuesday)<br>
+6)    FairPrice Clementi A, 25 November 2020 (Wednesday)<br>
+
+<br>
+<b><u>January 2021</u></b><br>
+7)    FairPrice Hougang Mall, 05 January 2021 (Tuesday)<br>
+8)    FairPrice Xtra - Hyper JEM, 06 January 2021 (Wednesday)<br>
+9)    FairPrice Clementi A, 19 January 2021 (Tuesday)<br>
+
+<br>
+<b><u>February 2021</u></b><br>
+10)   FairPrice E!Hub @ Downtown East, 23 February 2021 (Tuesday)<br>
+11)   FairPrice Clementi A, 24 February 2021 (Wednesday)<br>
+
+<br>
+<b><u>March 2021</u></b><br>
+12)   FairPrice Hougang Mall, 02 March 2021 (Tuesday)<br>
+13)   FairPrice Xtra - Hyper JEM, 03 March 2021 (Wednesday)<br>
+14)   FairPrice Toa Payoh HDB Hub, 09 March 2021 (Tuesday)<br>
+15)   FairPrice Clementi A, 10 March 2021 (Wednesday)<br>
+16)   FairPrice Finest Bedok Mall, 16 March 2021 (Tuesday)<br>
+17)   FairPrice E!Hub @ Downtown East, 31 March 2021 (Wednesday)<br>
+
+<br><br>
+<i>*Pre-registration is required. Limited slots available on a first-come, first-served basis.<br>
+  (Seniors may choose your preferred<br>timeslot available between 2pm-5pm).</i>
+    </i><br><br>
 
 Click <a href="https://www.go.gov.sg/sljregistration" target="_blank">here</a> to register. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 请点击<a href="https://www.go.gov.sg/sljregistration" target="_blank">这里</a>报名。由于每趟学习之旅的名额有限，我们将采取先到先得的报名方式，额满即止。<br>
