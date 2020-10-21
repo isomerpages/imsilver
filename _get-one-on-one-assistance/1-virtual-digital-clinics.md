@@ -45,10 +45,10 @@ Virtual Digital Clinic sessions are held <b>every Friday*, between 2 - 5pm</b>.<
 
 IMDA is partnering RSVP Singapore to provide assistance to seniors who need step-by-step guidance to set up Zoom and to join the Virtual Digital Clinic.<br>
 
-Seniors who need assistance with setting up Zoom can call the RSVP Singapore's hotline 6485 6111 every Friday (except Public Holidays) between 12pm and 5pm.<br><br>
+Seniors who need assistance with setting up Zoom can call the RSVP Singapore's hotline 6485 6111 every Friday (except Public Holidays) between 12pm and 5pm.<br>
 
 
-Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here</a> to book your session now! For more information, please contact 6377 3800.<br><br>
+Click <a href="https://outlook.office365.com/owa/calendar/VirtualDigitalClinic@imsilver.imda.gov.sg/bookings/" target="_blank">here</a> to book your session now! For more information, please contact 6377 3800.<br>
 
 <table>
   <tr>
