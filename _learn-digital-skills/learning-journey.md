@@ -166,13 +166,12 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 </tbody>
 </table>
 
-<br>
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
 Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
 எதிர்காலத்தில் மற்ற இடங்களில் நடத்தப்படவிருக்கும் அங்கங்களில் கலந்துகொள்ள உங்களுக்கு ஆர்வமிருந்தால்,
 go.gov.sg/eljinterest இணையத்தளத்திலுள்ள படிவத்தைப் பூர்த்தி செய்யுங்கள். அங்கங்கள் எதிர்வரும்போது
-எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br><br>
+எங்கள் குழுவினர் உங்களுடன் தொடர்பு கொள்வார்கள்.<br>
 
 <h4>Supermarket Learning Journey</h4>
 
