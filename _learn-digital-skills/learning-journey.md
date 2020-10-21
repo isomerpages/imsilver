@@ -195,30 +195,30 @@ sesi berikut:<br>
 இருக்கிறோம்:<br>
 
 <br>
-<b><u>October 2020</u></b><br>
+<b>October 2020</b><br>
 1)    FairPrice Clementi A, 27 October 2020 (Tuesday)<br>
 2)    FairPrice Finest Bedok Mall, 28 October 2020 (Wednesday)<br>
 
 <br>
-<b><u>November 2020</u></b><br>
+<b>November 2020</b><br>
 3)    FairPrice Finest Bedok Mall, 03 November 2020 (Tuesday)<br>
 4)    FairPrice Hougang Mall, 10 November 2020 (Tuesday)<br>
 5)    FairPrice Toa Payoh HDB Hub, 24 November 2020 (Tuesday)<br>
 6)    FairPrice Clementi A, 25 November 2020 (Wednesday)<br>
 
 <br>
-<b><u>January 2021</u></b><br>
+<b>January 2021</b><br>
 7)    FairPrice Hougang Mall, 05 January 2021 (Tuesday)<br>
 8)    FairPrice Xtra - Hyper JEM, 06 January 2021 (Wednesday)<br>
 9)    FairPrice Clementi A, 19 January 2021 (Tuesday)<br>
 
 <br>
-<b><u>February 2021</u></b><br>
+<b>February 2021</b><br>
 10)   FairPrice E!Hub @ Downtown East, 23 February 2021 (Tuesday)<br>
 11)   FairPrice Clementi A, 24 February 2021 (Wednesday)<br>
 
 <br>
-<b><u>March 2021</u></b><br>
+<b>March 2021</b><br>
 12)   FairPrice Hougang Mall, 02 March 2021 (Tuesday)<br>
 13)   FairPrice Xtra - Hyper JEM, 03 March 2021 (Wednesday)<br>
 14)   FairPrice Toa Payoh HDB Hub, 09 March 2021 (Tuesday)<br>
