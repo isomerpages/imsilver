@@ -39,7 +39,7 @@ To join a Virtual Digital Clinic session, you will need: <br> 要参加线上数
   <td>அங்கத்திற்கு நீங்கள் பதிவு செய்யும்போது அங்கத்தின் விவரங்களைப் பெறுவதற்கான மின்னஞ்சல் முகவரி </td>
 </tr>
 </table>
-How to join a Virtual Digital Clinic session using Zoom (Mobile & PC): [ ](files/VDC/Joining VDC using Zoom.pdf)<br>
+How to join a Virtual Digital Clinic session using Zoom (Mobile & PC): [ ](/files/VDC/Joining VDC using Zoom.pdf)<br>
 
 Virtual Digital Clinic sessions are held <b>every Friday*, between 2 - 5pm</b>.<br>
 
