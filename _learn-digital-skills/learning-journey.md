@@ -166,6 +166,7 @@ Kami ingin menjemput anda untuk mendaftar ke sesi kami yang akan datang*:<br>
 </tbody>
 </table>
 
+<br>
 To indicate interest for future sessions at other locations, please fill up the form <a href="https://www.go.gov.sg/eljinterest" target="_blank">here</a> and the team will be in touch with you when there are upcoming sessions.<br>
 若您对我们日后在其他地点举办的学习之旅感兴趣，请上网go.gov.sg/eljinterest填写表格。当我们即将举办学习之旅时，就会与您联系。<br>
 Untuk menunjukkan minat untuk sesi yang akan datang di lokasi lain, sila isi borang di go.gov.sg/eljinterest dan pasukan kami akan menghubungi anda apabila terdapat sesi yang akan datang.<br>
