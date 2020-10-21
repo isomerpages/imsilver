@@ -228,11 +228,11 @@ sesi berikut:<br>
 
 <br>
 <i>*Pre-registration is required. Limited slots available on a first-come, first-served basis.<br>
-  (Seniors may choose your preferred timeslot available between 2pm-5pm).</i><br>
+  (Seniors may choose your preferred timeslot available between 2pm-5pm).</i><br><br>
 
 Click <a href="https://www.go.gov.sg/sljregistration" target="_blank">here</a> to register. Due to limited slots available for each session, do note that registration will be on a first-come, first-served basis.<br>
 请点击<a href="https://www.go.gov.sg/sljregistration" target="_blank">这里</a>报名。由于每趟学习之旅的名额有限，我们将采取先到先得的报名方式，额满即止。<br>
 Klik di <a href="https://www.go.gov.sg/sljregistration" target="_blank">sini</a> untuk mendaftar. Oleh kerana slot tersedia untuk setiap sesi terhad, harap dapat perhatian bahawa pendaftaran akan dibuat berdasarkan siapa yang dahulu didahulukan.<br>
-பதிவு செய்ய <a href="https://www.go.gov.sg/sljregistration" target="_blank">இங்கே</a> க்ளிக் செய்யுங்கள். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள். <br>
+பதிவு செய்ய <a href="https://www.go.gov.sg/sljregistration" target="_blank">இங்கே</a> க்ளிக் செய்யுங்கள். ஒவ்வோர் அங்கத்திலும் குறுகிய இடங்களே இருப்பதால், முதலில் வருவோருக்கு முன்னுரிமை என்ற அடிப்படையில் பதிவு செய்யப்படும் என்பதைக் கவனத்தில் கொள்ளுங்கள். <br><br>
 
 Click <a href="https://www.imda.gov.sg/seniorsgodigital/" target="_blank">here</a> to return to the Seniors Go Digital page.
