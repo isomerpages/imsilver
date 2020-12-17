@@ -9,6 +9,8 @@ second_nav_title: Learn Online
 
 ![overview](/images/learn-online/overview/learn-online-overview.jpg)
 
+We have moved to a different page. Click <a href="https://www.imda.gov.sg/seniorsgodigital" target="_blank">here</a> to visit our new website now!
+
 If you prefer to learn on your own, here are some online learning guides for you to explore.<br>
 
 #### [Introduction to Desktop](/learn-digital-skills/learn-online/introduction-to-desktop/)<br>
