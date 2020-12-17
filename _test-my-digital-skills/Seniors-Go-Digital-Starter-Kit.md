@@ -5,6 +5,7 @@ permalink: /seniors-go-digital-starter-kit
 breadcrumb: Seniors Go Digital Starter Kit
 ---
 
+We have moved to a different page. Click <a href="https://www.imda.gov.sg/seniorsgodigital/Learn/Self-Learning/Starter-Kits" target="_blank">here</a> to visit our new website now!
 Check out our Seniors Go Digital Starter Kit to learn useful tips on digital skills with step-by-step guide, and how it can bring convenience to your daily activities.
 
 <style type="text/css">
