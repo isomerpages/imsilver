@@ -8,7 +8,7 @@ collection_name: get-one-on-one-assistance
 
 ![graphic](/images/get-one-on-one-assistance/virtual-dc.jpg)
 
-We have moved! Click <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/1-On-1-Help?page=1" target="_blank">here</a> to book your session now!
+Virtual Digital Clinics has moved to a different page. Click <a href="https://www.imda.gov.sg/en/seniorsgodigital/Learn/Guided-Learning/1-On-1-Help?page=1" target="_blank">here</a> to visit our new website and book your session now!
 
 Do you have questions about your smartphone, such as how to connect to Wi-Fi hotspots, personalise your phone settings or social media? Join a Virtual Digital Clinic from the comfort of your home for a 20-minute session and speak to our friendly volunteers to get your queries answered!  
 
