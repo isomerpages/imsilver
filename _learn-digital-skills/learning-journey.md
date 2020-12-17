@@ -8,7 +8,7 @@ collection_name: learning-journey
 
 ---
 <h3>We have moved to a new website. Click <a href="https://www.imda.gov.sg/seniorsgodigital" target="_blank">here</a> to visit our new website now!<br>
-<h3>Embark on Learning Journeys to discover how you can use various digital apps to enrich your everyday life.<br>
+Embark on Learning Journeys to discover how you can use various digital apps to enrich your everyday life.<br>
 踏上学习之旅，了解您能如何使用各种数码应用，让您的日常生活更充实。<br>
 Ikuti Perjalanan Pembelajaran untuk mengetahui bagaimana anda boleh menggunakan pelbagai aplikasi digital untuk memperkayakan kehidupan seharian anda.<br>
 பற்பல மின்னிலக்கச் செயலிகளைப் பயன்படுத்தி உங்களது அன்றாட வாழ்க்கையை எப்படி வளப்படுத்துவது என்பதைக் கண்டறிய கற்றல் பயணங்களைத் தொடங்குங்கள்.</h3>
