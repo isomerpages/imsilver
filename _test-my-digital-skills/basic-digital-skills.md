@@ -6,6 +6,8 @@ breadcrumb: Basic Digital Skills
 ---
 ![graphic](/images/bds/bds-right-v2.jpg)
 
+We have moved to a different page. Click <a href="https://www.imda.gov.sg/seniorsgodigital" target="_blank">here</a> to visit our new website now!
+
 #### **What are Basic Digital Skills?**<br>
 
 It is important for everyone to be digitally ready and to have the basic digital skills to enjoy greater convenience and participate meaningfully in a digital society.<br>
