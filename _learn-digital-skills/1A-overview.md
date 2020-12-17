@@ -10,7 +10,7 @@ second_nav_title: Attend Classes
 ![picture](/images/learn-digital-skills/attend-classes.jpg)
 
 #### Attend Classes
-
+We have moved to a different page. Click <a href="https://www.imda.gov.sg/seniorsgodigital" target="_blank">here</a> to visit our new website now!
 Take your first step, or take your learning journey to the next level by attending these classes.
 
 Learn useful digital skills from our exciting and informative classes available island-wide! <br>
